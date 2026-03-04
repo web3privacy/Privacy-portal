@@ -33,7 +33,7 @@
     "framer-motion": "^12.23.6",
     "lodash": "^4.17.21",
     "lucide-react": "^0.503.0",
-    "next": "15.3.8",
+    "next": "15.5.10",
     "nuqs": "^2.4.3",
     "octokit": "^4.1.2",
     "radix-ui": "^1.4.2",

@@ -1,0 +1,22 @@
+id: nighthawk-wallet
+name: Nighthawk Wallet
+categories:
+  - applications
+description: Private Money in your pocket.
+ecosystem:
+  - other
+links:
+  web: 'https://nighthawkwallet.com/'
+  github: 'https://github.com/nighthawk-apps'
+  twitter: 'https://twitter.com/NighthawkWallet'
+team:
+  anonymous: true
+project_status:
+  live_status: true
+  version: v2.2.14
+  testnet: false
+  mainnet: false
+usecases:
+  - wallets
+have_token: false
+third_party_dependency: none

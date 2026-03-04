@@ -1,0 +1,13 @@
+id: yellow-submarine
+name: Yellow Submarine
+categories:
+  - defi
+usecases:
+  - defi
+have_token: false
+third_party_dependency: none
+ecosystem:
+  - multichain
+description: The first practical Universal Private Settlement (UPS) layer built,
+  with love, for all EVM-compatible chains.
+sunset: true

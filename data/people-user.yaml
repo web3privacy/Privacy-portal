@@ -1,0 +1,6017 @@
+people:
+  - id: ameen-soleimani
+    name: Ameen Soleimani
+    links:
+      - type: web
+        url: https://xcancel.com/ameensol
+    projects:
+      - projectId: 0xbow
+    createdAt: '2026-02-23T18:45:40.548Z'
+    updatedAt: '2026-02-23T18:45:40.548Z'
+    displayName: Ameen Soleimani
+    tags: []
+    organizations: []
+  - id: nikita-ermakov
+    name: Nikita Ermakov
+    links: []
+    projects:
+      - projectId: Alien
+    createdAt: '2026-02-23T18:36:23.426Z'
+    updatedAt: '2026-02-23T18:36:23.426Z'
+  - id: john-burnham
+    name: John Burnham
+    links:
+      - type: twitter
+        url: https://x.com/zkjcb
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: francois-garillot
+    name: Francois Garillot
+    links:
+      - type: twitter
+        url: https://x.com/huitseeker
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: chhi-m-d-k-nzang
+    name: Chhi’mèd Künzang
+    links: []
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: nicolas-ramsrud
+    name: Nicolas Ramsrud
+    links:
+      - type: twitter
+        url: https://x.com/NicolasRamsrud
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: sam-burnham
+    name: Sam Burnham
+    links:
+      - type: github
+        url: https://github.com/samuelburnham
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: gabriel-barreto
+    name: Gabriel Barreto
+    links:
+      - type: github
+        url: https://github.com/gabriel-barrett
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: gustavo-caparica
+    name: Gustavo Caparica
+    links: []
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: arthur-paulino
+    name: Arthur Paulino
+    links:
+      - type: github
+        url: https://github.com/arthurpaulino
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: artem-storozhuk
+    name: Artem Storozhuk
+    links:
+      - type: github
+        url: https://github.com/storojs72
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: winston-zhang
+    name: Winston Zhang
+    links:
+      - type: github
+        url: https://github.com/winston-h-zhang
+    projects:
+      - projectId: Argument
+    createdAt: '2026-02-23T18:36:23.427Z'
+    updatedAt: '2026-02-23T18:36:23.427Z'
+  - id: peter-gabriel-m
+    name: Peter Gabriel M.
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/peterinprojects/
+    projects:
+      - projectId: Fambam
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: jenny-yang
+    name: Jenny Yang
+    links:
+      - type: linkedin
+        url: https://hk.linkedin.com/in/jenny-yang-56640890?trk=org-employees
+    projects:
+      - projectId: Fambam
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: karim-tarakji
+    name: Karim Tarakji
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/karimtrj/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: roma-nebo
+    name: Roma Nebo
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/romanebo/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: simran-kaur
+    name: Simran Kaur
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/simran-kaur-2a99601a0/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: vadym-vitenko
+    name: Vadym Vitenko
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/vadym-vitenko-600824164/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: max-b
+    name: Max B.
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/maxb/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: oleksandr-balbus
+    name: Oleksandr Balbus
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/alexbalbus/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: paul-conrad
+    name: Paul Conrad
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/melorix/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: alena-belos
+    name: Alena Belos
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/alena-belos-%F0%9F%87%BA%F0%9F%87%A6-a52783233/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: hashim-shah
+    name: Hashim Shah
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/hashim-shah-b92796146/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: eugene-vivdich
+    name: Eugene Vivdich
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/eugenevivdich/
+    projects:
+      - projectId: GhostDrive
+    createdAt: '2026-02-23T18:36:23.429Z'
+    updatedAt: '2026-02-23T18:36:23.429Z'
+  - id: ante-matijaca
+    name: Ante Matijaca
+    links:
+      - type: linkedin
+        url: https://ca.linkedin.com/in/antematijaca?trk=org-employees
+    projects:
+      - projectId: Litewallet
+    createdAt: '2026-02-23T18:36:23.430Z'
+    updatedAt: '2026-02-23T18:36:23.430Z'
+  - id: kerry-washington
+    name: Kerry Washington
+    links:
+      - type: linkedin
+        url: https://uk.linkedin.com/in/kerry-washington-382987257?trk=org-employees
+    projects:
+      - projectId: Litewallet
+    createdAt: '2026-02-23T18:36:23.430Z'
+    updatedAt: '2026-02-23T18:36:23.430Z'
+  - id: marks
+    name: Marks
+    links:
+      - type: twitter
+        url: https://x.com/markskram
+    projects:
+      - projectId: Mutiny
+    createdAt: '2026-02-23T18:36:23.431Z'
+    updatedAt: '2026-02-23T18:36:23.431Z'
+  - id: tony-giorgio
+    name: Tony Giorgio
+    links:
+      - type: twitter
+        url: https://twitter.com/tonygiorgio_
+    projects:
+      - projectId: Mutiny
+    createdAt: '2026-02-23T18:36:23.431Z'
+    updatedAt: '2026-02-23T18:36:23.431Z'
+  - id: paul-miller
+    name: Paul Miller
+    links:
+      - type: twitter
+        url: https://twitter.com/futurepaul
+    projects:
+      - projectId: Mutiny
+    createdAt: '2026-02-23T18:36:23.431Z'
+    updatedAt: '2026-02-23T18:36:23.431Z'
+  - id: carl-dong
+    name: Carl Dong
+    links:
+      - type: twitter
+        url: https://x.com/carl_dong
+    projects:
+      - projectId: Obscura
+    createdAt: '2026-02-23T18:36:23.431Z'
+    updatedAt: '2026-02-23T18:36:23.431Z'
+  - id: polybase-labs
+    name: Polybase Labs
+    links:
+      - type: web
+        url: https://polybaselabs.com/
+    projects:
+      - projectId: Pavy
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.432Z'
+  - id: calum-moore
+    name: Calum Moore
+    title: Co-Founder & CTO
+    links:
+      - type: twitter
+        url: https://x.com/calummoore
+    projects:
+      - projectId: Pavy
+      - projectId: payy
+      - projectId: polybase
+        role: Co-Founder & CTO
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.540Z'
+  - id: sid-gandhi
+    name: Sid Gandhi
+    title: Co-Founder & CEO
+    links:
+      - type: twitter
+        url: https://x.com/sidgandhi_xyz
+    projects:
+      - projectId: Pavy
+      - projectId: polybase
+        role: Co-Founder & CEO
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.540Z'
+  - id: xiang-xie
+    name: Xiang Xie
+    links:
+      - type: twitter
+        url: https://x.com/xxiang_xie
+    projects:
+      - projectId: Primus-Labs
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.432Z'
+  - id: vicky
+    name: Vicky
+    links:
+      - type: twitter
+        url: https://x.com/bitvkphil
+    projects:
+      - projectId: Primus-Labs
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.432Z'
+  - id: xavier
+    name: Xavier
+    links:
+      - type: twitter
+        url: https://x.com/Xavier_bham
+    projects:
+      - projectId: Primus-Labs
+    createdAt: '2026-02-23T18:36:23.432Z'
+    updatedAt: '2026-02-23T18:36:23.432Z'
+  - id: prf-bearington
+    name: prf bearington
+    links:
+      - type: twitter
+        url: https://x.com/prof_bearington
+    projects:
+      - projectId: PrismFHE
+    createdAt: '2026-02-23T18:36:23.433Z'
+    updatedAt: '2026-02-23T18:36:23.433Z'
+  - id: evin
+    name: Evin
+    links:
+      - type: twitter
+        url: https://x.com/provenauthority
+    projects:
+      - projectId: PrivadoID
+    createdAt: '2026-02-23T18:36:23.433Z'
+    updatedAt: '2026-02-23T18:36:23.433Z'
+  - id: ram
+    name: Ram
+    links:
+      - type: twitter
+        url: https://x.com/iamramxyz
+    projects:
+      - projectId: PrivadoID
+    createdAt: '2026-02-23T18:36:23.433Z'
+    updatedAt: '2026-02-23T18:36:23.433Z'
+  - id: jiricepelka
+    name: Jiricepelka
+    links:
+      - type: twitter
+        url: https://x.com/JiriCepelka
+    projects:
+      - projectId: adamantfi
+    createdAt: '2026-02-23T18:36:23.434Z'
+    updatedAt: '2026-02-23T18:36:23.434Z'
+  - id: miguel-tavares
+    name: Miguel Tavares
+    links: []
+    projects:
+      - projectId: adamantfi
+    createdAt: '2026-02-23T18:36:23.434Z'
+    updatedAt: '2026-02-23T18:36:23.434Z'
+  - id: cem-sel
+    name: Cem Sel
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/cemsel
+    projects:
+      - projectId: adpriva
+    createdAt: '2026-02-23T18:36:23.435Z'
+    updatedAt: '2026-02-23T18:36:23.435Z'
+  - id: jonathan-schemoul
+    name: Jonathan Schemoul
+    links:
+      - type: twitter
+        url: https://x.com/MosheMalawach
+      - type: twitter
+        url: https://x.com/jon1012
+    projects:
+      - projectId: aleph-cloud
+      - projectId: libertai
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.510Z'
+  - id: claudio-pascariello
+    name: Claudio Pascariello
+    links:
+      - type: twitter
+        url: https://x.com/claudioALEPH
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: cl-ment-fermaud
+    name: Clément Fermaud
+    links:
+      - type: twitter
+        url: https://x.com/3615crypto
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: hugo-herter
+    name: Hugo Herter
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/herter/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: ali-el-broudi
+    name: Ali El Broudi
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/ali-59151259/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: andres-molins
+    name: Andres Molins
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/andresmolins/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: angel-alcaraz
+    name: Angel Alcaraz
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/angel-manzano-alcaraz-90b18ba8/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: gerard-molina
+    name: Gerard Molina
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/gerard-molina-casanova/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: olivier-le-thanh
+    name: Olivier Le Thanh
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/olivier-le-thanh?originalSubdomain=be
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: arnaud-soulier
+    name: Arnaud Soulier
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/arnaud-soulier-fr-ro/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: lyam-gom-s
+    name: Lyam Gomès
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/lyam-gom%C3%A8s-59107226a/
+    projects:
+      - projectId: aleph-cloud
+    createdAt: '2026-02-23T18:36:23.437Z'
+    updatedAt: '2026-02-23T18:36:23.437Z'
+  - id: ivo-georgiev
+    name: Ivo Georgiev
+    links:
+      - type: twitter
+        url: https://x.com/Ivshti
+    projects:
+      - projectId: ambire-wallet
+    createdAt: '2026-02-23T18:36:23.438Z'
+    updatedAt: '2026-02-23T18:36:23.438Z'
+  - id: dimo-stoyanov
+    name: Dimo Stoyanov
+    links:
+      - type: twitter
+        url: https://x.com/_DimoStoyanov
+    projects:
+      - projectId: ambire-wallet
+    createdAt: '2026-02-23T18:36:23.438Z'
+    updatedAt: '2026-02-23T18:36:23.438Z'
+  - id: emil-stoynovski
+    name: Emil Stoynovski
+    links:
+      - type: twitter
+        url: https://x.com/0xYakuza
+    projects:
+      - projectId: ambire-wallet
+    createdAt: '2026-02-23T18:36:23.438Z'
+    updatedAt: '2026-02-23T18:36:23.438Z'
+  - id: ivan-manchev
+    name: Ivan Manchev
+    links:
+      - type: twitter
+        url: https://x.com/vanzooeth
+    projects:
+      - projectId: ambire-wallet
+    createdAt: '2026-02-23T18:36:23.438Z'
+    updatedAt: '2026-02-23T18:36:23.438Z'
+  - id: kartik
+    name: Kartik
+    links:
+      - type: twitter
+        url: https://x.com/slokh
+    projects:
+      - projectId: anon.world
+    createdAt: '2026-02-23T18:36:23.440Z'
+    updatedAt: '2026-02-23T18:36:23.440Z'
+  - id: milhaal
+    name: Milhaal
+    links:
+      - type: github
+        url: https://github.com/Milhaal
+    projects:
+      - projectId: anonmesh
+    createdAt: '2026-02-23T18:36:23.440Z'
+    updatedAt: '2026-02-23T18:36:23.440Z'
+  - id: magicred-1
+    name: Magicred-1
+    links:
+      - type: github
+        url: https://github.com/Magicred-1
+    projects:
+      - projectId: anonmesh
+    createdAt: '2026-02-23T18:36:23.440Z'
+    updatedAt: '2026-02-23T18:36:23.440Z'
+  - id: jean
+    name: Jean
+    links:
+      - type: web
+        url: https://t.me/jeananv
+    projects:
+      - projectId: anovex
+    createdAt: '2026-02-23T18:36:23.441Z'
+    updatedAt: '2026-02-23T18:36:23.441Z'
+  - id: anon-morpho
+    name: Anon Morpho
+    links:
+      - type: web
+        url: https://www.anyone.io/about-us
+    projects:
+      - projectId: anyone
+    createdAt: '2026-02-23T18:36:23.442Z'
+    updatedAt: '2026-02-23T18:36:23.442Z'
+  - id: glenn-kennedy
+    name: Glenn Kennedy
+    links:
+      - type: web
+        url: https://www.anyone.io/about-us
+    projects:
+      - projectId: anyone
+    createdAt: '2026-02-23T18:36:23.442Z'
+    updatedAt: '2026-02-23T18:36:23.442Z'
+  - id: neuratic
+    name: Neuratic
+    links:
+      - type: web
+        url: https://www.anyone.io/about-us
+    projects:
+      - projectId: anyone
+    createdAt: '2026-02-23T18:36:23.442Z'
+    updatedAt: '2026-02-23T18:36:23.442Z'
+  - id: sankalp
+    name: Sankalp
+    links:
+      - type: twitter
+        url: https://x.com/sankalp8i
+    projects:
+      - projectId: apocryph
+    createdAt: '2026-02-23T18:36:23.443Z'
+    updatedAt: '2026-02-23T18:36:23.443Z'
+  - id: mayur-relekar
+    name: Mayur Relekar
+    title: Co-Founder
+    links: []
+    projects:
+      - projectId: arcana
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.444Z'
+    updatedAt: '2026-02-23T18:36:23.444Z'
+  - id: aravindh-kumar
+    name: Aravindh Kumar
+    title: Co-Founder
+    links: []
+    projects:
+      - projectId: arcana
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.444Z'
+    updatedAt: '2026-02-23T18:36:23.444Z'
+  - id: ajay-shetty
+    name: Ajay Shetty
+    title: Chief Operating Officer
+    links: []
+    projects:
+      - projectId: arcana
+        role: Chief Operating Officer
+    createdAt: '2026-02-23T18:36:23.444Z'
+    updatedAt: '2026-02-23T18:36:23.444Z'
+  - id: abhishek-chaudhary
+    name: Abhishek Chaudhary
+    title: Chief Technology Officer
+    links: []
+    projects:
+      - projectId: arcana
+        role: Chief Technology Officer
+    createdAt: '2026-02-23T18:36:23.444Z'
+    updatedAt: '2026-02-23T18:36:23.444Z'
+  - id: sharan-grandigae
+    name: Sharan Grandigae
+    title: Sharan Grandigae
+    links: []
+    projects:
+      - projectId: arcana
+        role: Sharan Grandigae
+    createdAt: '2026-02-23T18:36:23.444Z'
+    updatedAt: '2026-02-23T18:36:23.444Z'
+  - id: yannik-schrade
+    name: Yannik Schrade
+    links:
+      - type: twitter
+        url: https://x.com/yrschrade
+    projects:
+      - projectId: arcium
+    createdAt: '2026-02-23T18:36:23.445Z'
+    updatedAt: '2026-02-23T18:36:23.445Z'
+  - id: julian-deschler
+    name: Julian Deschler
+    links:
+      - type: twitter
+        url: https://x.com/julian_arcium
+    projects:
+      - projectId: arcium
+    createdAt: '2026-02-23T18:36:23.445Z'
+    updatedAt: '2026-02-23T18:36:23.445Z'
+  - id: lukas-steiner
+    name: Lukas Steiner
+    links:
+      - type: twitter
+        url: https://x.com/manzgoeggel
+    projects:
+      - projectId: arcium
+    createdAt: '2026-02-23T18:36:23.445Z'
+    updatedAt: '2026-02-23T18:36:23.445Z'
+  - id: nicolas-schapeler
+    name: Nicolas Schapeler
+    links:
+      - type: twitter
+        url: https://x.com/cryptopapi997
+    projects:
+      - projectId: arcium
+    createdAt: '2026-02-23T18:36:23.445Z'
+    updatedAt: '2026-02-23T18:36:23.445Z'
+  - id: artem-avdeev
+    name: Artem Avdeev
+    title: CEO
+    links: []
+    projects:
+      - projectId: asterizm
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.446Z'
+    updatedAt: '2026-02-23T18:36:23.446Z'
+  - id: denis-polulyakhov
+    name: Denis Polulyakhov
+    title: Co-Founder
+    links: []
+    projects:
+      - projectId: asterizm
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.446Z'
+    updatedAt: '2026-02-23T18:36:23.446Z'
+  - id: filip-harald
+    name: Filip Harald
+    links:
+      - type: twitter
+        url: https://x.com/filip_harald
+    projects:
+      - projectId: aztecscan
+    createdAt: '2026-02-23T18:36:23.450Z'
+    updatedAt: '2026-02-23T18:36:23.450Z'
+  - id: mauro-eijsenring
+    name: Mauro Eijsenring
+    links:
+      - type: github
+        url: https://github.com/Mautjee
+    projects:
+      - projectId: aztecscan
+    createdAt: '2026-02-23T18:36:23.450Z'
+    updatedAt: '2026-02-23T18:36:23.450Z'
+  - id: nikolay-kostadinov
+    name: 'Nikolay Kostadinov '
+    links:
+      - type: github
+        url: https://github.com/NikolayKostadinov21
+    projects:
+      - projectId: aztecscan
+    createdAt: '2026-02-23T18:36:23.450Z'
+    updatedAt: '2026-02-23T18:36:23.450Z'
+  - id: afanddy
+    name: Afanddy
+    links:
+      - type: twitter
+        url: https://x.com/AHushni
+    projects:
+      - projectId: bchat
+      - projectId: beldex
+      - projectId: beldex-browser
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: codeman-crypto
+    name: Codeman Crypto
+    links:
+      - type: github
+        url: https://github.com/codeman-crypto
+    projects:
+      - projectId: bchat
+      - projectId: beldex
+      - projectId: beldex-browser
+      - projectId: belnet
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.454Z'
+  - id: sanada-yukimura
+    name: Sanada Yukimura
+    links:
+      - type: github
+        url: https://github.com/sanada08/
+    projects:
+      - projectId: bchat
+      - projectId: beldex
+      - projectId: beldex-browser
+      - projectId: belnet
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.454Z'
+  - id: ios-wingman
+    name: ios-wingman
+    links:
+      - type: github
+        url: https://github.com/ios-wingman
+    projects:
+      - projectId: bchat
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: snowman
+    name: Snowman
+    links:
+      - type: github
+        url: https://github.com/snowman-45
+    projects:
+      - projectId: bchat
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: steve-joseph
+    name: Steve Joseph
+    links:
+      - type: github
+        url: https://github.com/SteveJosephh21
+    projects:
+      - projectId: bchat
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: hales
+    name: Hales
+    links:
+      - type: github
+        url: https://github.com/Hales-Sparrow
+    projects:
+      - projectId: bchat
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: alex
+    name: Alex
+    title: Product Engineer
+    links:
+      - type: github
+        url: https://github.com/Alexsanchez06
+      - type: twitter
+        url: https://x.com/alexfreska
+    projects:
+      - projectId: bchat
+      - projectId: sia
+        role: Product Engineer
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: munaver
+    name: Munaver
+    links:
+      - type: github
+        url: https://github.com/munavver
+    projects:
+      - projectId: bchat
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: alex-romanov
+    name: Alex Romanov
+    links:
+      - type: twitter
+        url: https://x.com/BeamCTO
+    projects:
+      - projectId: beam
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: maxnflaxl
+    name: Maxnflaxl
+    links:
+      - type: twitter
+        url: https://x.com/maxnflaxl
+    projects:
+      - projectId: beam
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: vladislav-gelfer
+    name: Vladislav Gelfer
+    links:
+      - type: twitter
+        url: https://x.com/Vlad38604806
+    projects:
+      - projectId: beam
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: amir-aaronson
+    name: Amir Aaronson
+    links:
+      - type: twitter
+        url: https://x.com/RaFun88
+    projects:
+      - projectId: beam
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: michael-jimoh
+    name: Michael Jimoh
+    title: Co-Founder & CEO
+    links: []
+    projects:
+      - projectId: beepo
+        role: Co-Founder & CEO
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: clement-hochart
+    name: Clement Hochart
+    title: Co-Founder
+    links: []
+    projects:
+      - projectId: beepo
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.452Z'
+    updatedAt: '2026-02-23T18:36:23.452Z'
+  - id: victor
+    name: Victor
+    links:
+      - type: github
+        url: https://github.com/victor-tucci
+      - type: twitter
+        url: https://x.com/tech_mingler
+    projects:
+      - projectId: beldex
+      - projectId: humanode
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.500Z'
+  - id: jeflin
+    name: Jeflin
+    links:
+      - type: github
+        url: https://github.com/jeflinfrank
+    projects:
+      - projectId: beldex
+      - projectId: belnet
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.454Z'
+  - id: deen-kakarot
+    name: Deen Kakarot
+    links:
+      - type: github
+        url: https://github.com/deen-kakarot
+    projects:
+      - projectId: beldex
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: toretto
+    name: Toretto
+    links:
+      - type: github
+        url: https://github.com/Tore-tto
+    projects:
+      - projectId: beldex
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: peter
+    name: Peter
+    links:
+      - type: github
+        url: https://github.com/peter-pratt
+    projects:
+      - projectId: beldex
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: abdevil
+    name: ABdevil
+    links:
+      - type: github
+        url: https://github.com/abdevil05
+    projects:
+      - projectId: beldex
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: techgoku
+    name: TechGoku
+    links:
+      - type: github
+        url: https://github.com/TechGoku
+    projects:
+      - projectId: beldex
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: stepan
+    name: Stepan
+    links:
+      - type: github
+        url: https://github.com/Stepan-andry
+    projects:
+      - projectId: beldex-browser
+      - projectId: belnet
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.454Z'
+  - id: gabsid
+    name: Gabsid
+    links:
+      - type: github
+        url: https://github.com/Gabsid
+    projects:
+      - projectId: beldex-browser
+    createdAt: '2026-02-23T18:36:23.453Z'
+    updatedAt: '2026-02-23T18:36:23.453Z'
+  - id: afandy
+    name: Afandy
+    links:
+      - type: twitter
+        url: https://x.com/AHushni
+    projects:
+      - projectId: belnet
+    createdAt: '2026-02-23T18:36:23.454Z'
+    updatedAt: '2026-02-23T18:36:23.454Z'
+  - id: xiphiar
+    name: Xiphiar
+    title: rdeveloper
+    links:
+      - type: github
+        url: https://github.com/Xiphiar
+    projects:
+      - projectId: blackbox
+        role: rdeveloper
+    createdAt: '2026-02-23T18:36:23.456Z'
+    updatedAt: '2026-02-23T18:36:23.456Z'
+  - id: adam-gagol
+    name: Adam Gagol
+    links:
+      - type: twitter
+        url: https://x.com/GagolAdam
+    projects:
+      - projectId: blanksquare
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: jakub-kocikowski
+    name: Jakub Kocikowski
+    links:
+      - type: twitter
+        url: https://x.com/kocikowski
+    projects:
+      - projectId: blanksquare
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: damian-straszak
+    name: Damian Straszak
+    links:
+      - type: twitter
+        url: https://x.com/damian_straszak
+    projects:
+      - projectId: blanksquare
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: dominika-kusak
+    name: Dominika Kusak
+    links:
+      - type: twitter
+        url: https://x.com/dominika_kusak
+    projects:
+      - projectId: blanksquare
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: tom
+    name: Tom
+    links:
+      - type: twitter
+        url: https://x.com/TomBlockBlend
+    projects:
+      - projectId: blockblend
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: dr-adam-back
+    name: Dr. Adam Back
+    title: CEO
+    links:
+      - type: web
+        url: https://blockstream.com/about/
+    projects:
+      - projectId: blockstream-green
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.457Z'
+    updatedAt: '2026-02-23T18:36:23.457Z'
+  - id: brendan-eich
+    name: Brendan Eich
+    title: CEO
+    links:
+      - type: web
+        url: https://brave.com/about/
+    projects:
+      - projectId: brave-wallet
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.460Z'
+    updatedAt: '2026-02-23T18:36:23.460Z'
+  - id: mikhail
+    name: Mikhail
+    links:
+      - type: web
+        url: https://farcaster.xyz/zkbringer.eth/
+    projects:
+      - projectId: bringid
+    createdAt: '2026-02-23T18:36:23.460Z'
+    updatedAt: '2026-02-23T18:36:23.460Z'
+  - id: haz-41
+    name: Haz Æ 41
+    title: developer
+    links:
+      - type: web
+        url: https://bento.me/hazae41
+      - type: twitter
+        url: https://x.com/hazae41
+    projects:
+      - projectId: brume-wallet
+        role: developer
+      - projectId: lunar
+        role: Founder
+    createdAt: '2026-02-23T18:36:23.461Z'
+    updatedAt: '2026-02-23T18:36:23.512Z'
+  - id: nicolas-dorier
+    name: Nicolas Dorier
+    links:
+      - type: github
+        url: https://github.com/NicolasDorier
+    projects:
+      - projectId: btcpay-server
+    createdAt: '2026-02-23T18:36:23.461Z'
+    updatedAt: '2026-02-23T18:36:23.461Z'
+  - id: bucc
+    name: Bucc
+    links:
+      - type: twitter
+        url: https://x.com/buccaneerv3/
+    projects:
+      - projectId: buccaneer-v3
+    createdAt: '2026-02-23T18:36:23.461Z'
+    updatedAt: '2026-02-23T18:36:23.461Z'
+  - id: frank-ricotta
+    name: Frank Ricotta
+    title: CEO
+    links: []
+    projects:
+      - projectId: burstiq
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.462Z'
+    updatedAt: '2026-02-23T18:36:23.462Z'
+  - id: brian-jackson
+    name: Brian Jackson
+    title: COO
+    links: []
+    projects:
+      - projectId: burstiq
+        role: COO
+    createdAt: '2026-02-23T18:36:23.462Z'
+    updatedAt: '2026-02-23T18:36:23.462Z'
+  - id: tyson-henry
+    name: Tyson Henry
+    title: CTO
+    links: []
+    projects:
+      - projectId: burstiq
+        role: CTO
+    createdAt: '2026-02-23T18:36:23.462Z'
+    updatedAt: '2026-02-23T18:36:23.462Z'
+  - id: seth-for-privacy
+    name: Seth For Privacy
+    links:
+      - type: twitter
+        url: https://x.com/sethforprivacy
+    projects:
+      - projectId: cake-wallet
+      - projectId: cupcake
+    createdAt: '2026-02-23T18:36:23.463Z'
+    updatedAt: '2026-02-23T18:36:23.473Z'
+  - id: vik-sharma
+    name: Vik Sharma
+    links:
+      - type: twitter
+        url: https://x.com/vikrantnyc
+    projects:
+      - projectId: cake-wallet
+      - projectId: cupcake
+    createdAt: '2026-02-23T18:36:23.463Z'
+    updatedAt: '2026-02-23T18:36:23.473Z'
+  - id: tuxsudo
+    name: Tuxsudo
+    links:
+      - type: twitter
+        url: https://x.com/tuxpizza
+    projects:
+      - projectId: cake-wallet
+      - projectId: cupcake
+    createdAt: '2026-02-23T18:36:23.463Z'
+    updatedAt: '2026-02-23T18:36:23.473Z'
+  - id: henry-fisher
+    name: Henry Fisher
+    links:
+      - type: web
+        url: https://henryfisher.tech/
+    projects:
+      - projectId: cake-wallet
+    createdAt: '2026-02-23T18:36:23.463Z'
+    updatedAt: '2026-02-23T18:36:23.463Z'
+  - id: sandi-fati
+    name: Sandi Fatić
+    links:
+      - type: twitter
+        url: https://x.com/chefsale
+    projects:
+      - projectId: calimero-network
+    createdAt: '2026-02-23T18:36:23.463Z'
+    updatedAt: '2026-02-23T18:36:23.463Z'
+  - id: dcentralab
+    name: DcentraLab
+    links:
+      - type: twitter
+        url: https://x.com/DcentraLab
+    projects:
+      - projectId: chainport
+    createdAt: '2026-02-23T18:36:23.465Z'
+    updatedAt: '2026-02-23T18:36:23.465Z'
+  - id: fraser-edwards
+    name: Fraser Edwards
+    links:
+      - type: twitter
+        url: https://twitter.com/fraser_again, https://www.linkedin.com/in/edwardsfraser/
+    projects:
+      - projectId: cheqd
+    createdAt: '2026-02-23T18:36:23.466Z'
+    updatedAt: '2026-02-23T18:36:23.466Z'
+  - id: ankur-banerjee
+    name: Ankur Banerjee
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/banerjeeankur/
+    projects:
+      - projectId: cheqd
+    createdAt: '2026-02-23T18:36:23.466Z'
+    updatedAt: '2026-02-23T18:36:23.466Z'
+  - id: javed-khattak
+    name: Javed Khattak
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/javedkhattak/
+    projects:
+      - projectId: cheqd
+    createdAt: '2026-02-23T18:36:23.466Z'
+    updatedAt: '2026-02-23T18:36:23.466Z'
+  - id: eduardo-hotta
+    name: Eduardo Hotta
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/hotta/
+    projects:
+      - projectId: cheqd
+    createdAt: '2026-02-23T18:36:23.466Z'
+    updatedAt: '2026-02-23T18:36:23.466Z'
+  - id: lars-seier-christensen
+    name: Lars Seier Christensen
+    links: []
+    projects:
+      - projectId: concordium
+    createdAt: '2026-02-23T18:36:23.470Z'
+    updatedAt: '2026-02-23T18:36:23.470Z'
+  - id: nibras-stiebar-bang
+    name: Nibras Stiebar-Bang
+    links: []
+    projects:
+      - projectId: concordium
+    createdAt: '2026-02-23T18:36:23.470Z'
+    updatedAt: '2026-02-23T18:36:23.470Z'
+  - id: jonas-stiebar-bang
+    name: Jonas Stiebar-Bang
+    links: []
+    projects:
+      - projectId: concordium
+    createdAt: '2026-02-23T18:36:23.470Z'
+    updatedAt: '2026-02-23T18:36:23.470Z'
+  - id: j-rgen-hauglund
+    name: Jørgen Hauglund
+    links: []
+    projects:
+      - projectId: concordium
+    createdAt: '2026-02-23T18:36:23.470Z'
+    updatedAt: '2026-02-23T18:36:23.470Z'
+  - id: michael-ou
+    name: Michael Ou
+    title: CEO
+    links:
+      - type: twitter
+        url: https://coolbitx.com/about/
+    projects:
+      - projectId: cool-wallet
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.470Z'
+    updatedAt: '2026-02-23T18:36:23.470Z'
+  - id: joshua-maddox
+    name: Joshua Maddox
+    title: CEPO
+    links:
+      - type: twitter
+        url: https://x.com/JoshuaBMaddox
+    projects:
+      - projectId: coti
+        role: CEPO
+    createdAt: '2026-02-23T18:36:23.471Z'
+    updatedAt: '2026-02-23T18:36:23.471Z'
+  - id: shahaf-bar-geffen
+    name: Shahaf Bar-Geffen
+    links:
+      - type: twitter
+        url: https://x.com/shahafbg?t=iEt_nV3jfZU6ZlmwowcHeA&s=09
+    projects:
+      - projectId: coti
+    createdAt: '2026-02-23T18:36:23.471Z'
+    updatedAt: '2026-02-23T18:36:23.471Z'
+  - id: blockblanc
+    name: blockblanc
+    links:
+      - type: web
+        url: https://xcancel.com/blockblanc
+    projects:
+      - projectId: cryptocanal
+    createdAt: '2026-02-23T18:36:23.471Z'
+    updatedAt: '2026-02-23T18:36:23.471Z'
+  - id: yd
+    name: YD
+    links:
+      - type: twitter
+        url: https://x.com/CryptoYDao
+    projects:
+      - projectId: cryptocanal
+    createdAt: '2026-02-23T18:36:23.471Z'
+    updatedAt: '2026-02-23T18:36:23.471Z'
+  - id: vadim-andryan
+    name: Vadim Andryan
+    title: Managing Director
+    links: []
+    projects:
+      - projectId: crypviser-secure-messenger
+        role: Managing Director
+    createdAt: '2026-02-23T18:36:23.472Z'
+    updatedAt: '2026-02-23T18:36:23.472Z'
+  - id: waldemar-konradi
+    name: Waldemar Konradi
+    title: Managing Director
+    links: []
+    projects:
+      - projectId: crypviser-secure-messenger
+        role: Managing Director
+    createdAt: '2026-02-23T18:36:23.472Z'
+    updatedAt: '2026-02-23T18:36:23.472Z'
+  - id: mr-o-modulus
+    name: Mr O Modulus
+    links:
+      - type: twitter
+        url: https://x.com/MrOmodulus
+    projects:
+      - projectId: modulus
+    createdAt: '2026-02-23T18:36:23.519Z'
+    updatedAt: '2026-02-23T18:36:23.519Z'
+  - id: artorias
+    name: Artorias
+    title: Co-Founder
+    links:
+      - type: twitter
+        url: https://x.com/Artorias_eth
+    projects:
+      - projectId: cultdao
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.472Z'
+    updatedAt: '2026-02-23T18:36:23.472Z'
+  - id: konstiullrich
+    name: konstiullrich
+    links:
+      - type: twitter
+        url: https://x.com/konstiullrich
+    projects:
+      - projectId: cupcake
+    createdAt: '2026-02-23T18:36:23.473Z'
+    updatedAt: '2026-02-23T18:36:23.473Z'
+  - id: omar-hartem
+    name: Omar Hartem
+    links:
+      - type: github
+        url: https://github.com/OmarHatem28
+    projects:
+      - projectId: cupcake
+    createdAt: '2026-02-23T18:36:23.473Z'
+    updatedAt: '2026-02-23T18:36:23.473Z'
+  - id: amir-taaki
+    name: Amir Taaki
+    links:
+      - type: twitter
+        url: https://x.com/Narodism
+    projects:
+      - projectId: darkfi
+    createdAt: '2026-02-23T18:45:40.727Z'
+    updatedAt: '2026-02-23T18:45:40.727Z'
+    displayName: Amir Taaki
+    tags: []
+    organizations: []
+  - id: rachel-rose-o-leary
+    name: Rachel-Rose O'Leary
+    links:
+      - type: twitter
+        url: https://x.com/lunar_mining
+    projects:
+      - projectId: darkfi
+    createdAt: '2026-02-23T18:45:53.932Z'
+    updatedAt: '2026-02-23T18:45:53.932Z'
+    displayName: Rachel-Rose O'Leary
+    tags: []
+    organizations: []
+  - id: james-i-radford
+    name: JAMES I. RADFORD
+    title: CEO
+    links:
+      - type: linkedin
+        url: >-
+          https://www.linkedin.com/in/james-r-aa8989165/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+    projects:
+      - projectId: dechat
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.476Z'
+    updatedAt: '2026-02-23T18:36:23.476Z'
+  - id: andy-demetriou
+    name: ANDY DEMETRIOU
+    title: CMO
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/andy-demetriou-a57778177/
+    projects:
+      - projectId: dechat
+        role: CMO
+    createdAt: '2026-02-23T18:36:23.476Z'
+    updatedAt: '2026-02-23T18:36:23.476Z'
+  - id: daniel-drescher
+    name: DANIEL DRESCHER
+    title: COO
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/danieldrescher/
+    projects:
+      - projectId: dechat
+        role: COO
+    createdAt: '2026-02-23T18:36:23.476Z'
+    updatedAt: '2026-02-23T18:36:23.476Z'
+  - id: deeper
+    name: Deeper
+    title: Marketing Manager
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/deeper.2/
+    projects:
+      - projectId: deeponion
+        role: Marketing Manager
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: monocolor
+    name: Monocolor
+    title: Lead Blockchain Developer
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/monocolor.207/
+    projects:
+      - projectId: deeponion
+        role: Lead Blockchain Developer
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: nezero
+    name: Nezero
+    title: Blockchain Developer
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/nezero.1858/
+    projects:
+      - projectId: deeponion
+        role: Blockchain Developer
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: obszoenling
+    name: Obszoenling
+    title: Blockchain Developer
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/obszoenling.414/
+    projects:
+      - projectId: deeponion
+        role: Blockchain Developer
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: impressive
+    name: Impressive
+    title: Web Developer
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/impressive.2278/
+    projects:
+      - projectId: deeponion
+        role: Web Developer
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: doglover
+    name: DogLover
+    title: Web Developer
+    links:
+      - type: web
+        url: https://deeponion.org/community/members/doglover.2258/
+    projects:
+      - projectId: deeponion
+        role: Web Developer
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: niktim
+    name: Niktim
+    links:
+      - type: twitter
+        url: https://x.com/Crypto_Niktim
+    projects:
+      - projectId: deguard
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: evan-marshall
+    name: Evan Marshall
+    title: CTO
+    links:
+      - type: twitter
+        url: https://x.com/CoralRelief
+    projects:
+      - projectId: demox-labs
+        role: CTO
+    createdAt: '2026-02-23T18:36:23.477Z'
+    updatedAt: '2026-02-23T18:36:23.477Z'
+  - id: denis-shelestov
+    name: Denis Shelestov
+    links:
+      - type: twitter
+        url: https://x.com/djdeniro1
+    projects:
+      - projectId: denet
+    createdAt: '2026-02-23T18:36:23.478Z'
+    updatedAt: '2026-02-23T18:36:23.478Z'
+  - id: daniil-maslov
+    name: Daniil Maslov
+    links:
+      - type: twitter
+        url: https://x.com/tttcrp
+    projects:
+      - projectId: denet
+    createdAt: '2026-02-23T18:36:23.478Z'
+    updatedAt: '2026-02-23T18:36:23.478Z'
+  - id: samuel-harrison
+    name: Samuel Harrison
+    title: CEO
+    links:
+      - type: twitter
+        url: https://x.com/samuelpharrison
+    projects:
+      - projectId: discreet-labs
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.479Z'
+    updatedAt: '2026-02-23T18:36:23.479Z'
+  - id: peter-abilla
+    name: Peter Abilla
+    title: CBO
+    links:
+      - type: twitter
+        url: https://x.com/shmula
+    projects:
+      - projectId: discreet-labs
+        role: CBO
+    createdAt: '2026-02-23T18:36:23.479Z'
+    updatedAt: '2026-02-23T18:36:23.479Z'
+  - id: moe-sayadi
+    name: Moe Sayadi
+    title: CEO/CTO
+    links:
+      - type: web
+        url: https://djuno.io/#our-team
+    projects:
+      - projectId: djib
+        role: CEO/CTO
+    createdAt: '2026-02-23T18:36:23.480Z'
+    updatedAt: '2026-02-23T18:36:23.480Z'
+  - id: daniel-james
+    name: Daniel James
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/daniel-james-dmail/
+    projects:
+      - projectId: dmail-network
+    createdAt: '2026-02-23T18:36:23.480Z'
+    updatedAt: '2026-02-23T18:36:23.480Z'
+  - id: paul-puey
+    name: Paul Puey
+    title: CEO
+    links:
+      - type: web
+        url: https://edge.app/about/
+    projects:
+      - projectId: edge
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.481Z'
+    updatedAt: '2026-02-23T18:36:23.481Z'
+  - id: josh-swihart
+    name: Josh Swihart
+    title: CEO
+    links:
+      - type: twitter
+        url: https://x.com/jswihart
+    projects:
+      - projectId: electric-coin-co
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.482Z'
+    updatedAt: '2026-02-23T18:36:23.482Z'
+  - id: paul-brigner
+    name: Paul Brigner
+    title: VP
+    links:
+      - type: twitter
+        url: https://x.com/paulbrigner
+    projects:
+      - projectId: electric-coin-co
+        role: VP
+    createdAt: '2026-02-23T18:36:23.482Z'
+    updatedAt: '2026-02-23T18:36:23.482Z'
+  - id: thomas-voegtlin
+    name: Thomas Voegtlin
+    links:
+      - type: github
+        url: https://github.com/ecdsa
+    projects:
+      - projectId: electrum
+    createdAt: '2026-02-23T18:36:23.482Z'
+    updatedAt: '2026-02-23T18:36:23.482Z'
+  - id: sombernight
+    name: SomberNight
+    links:
+      - type: github
+        url: https://github.com/SomberNight
+    projects:
+      - projectId: electrum
+    createdAt: '2026-02-23T18:36:23.482Z'
+    updatedAt: '2026-02-23T18:36:23.482Z'
+  - id: gnosis-guild
+    name: Gnosis Guild
+    links:
+      - type: twitter
+        url: https://x.com/GnosisGuild
+    projects:
+      - projectId: enclave
+    createdAt: '2026-02-23T18:36:23.483Z'
+    updatedAt: '2026-02-23T18:36:23.483Z'
+  - id: auryn-macmillan
+    name: Auryn Macmillan
+    links:
+      - type: twitter
+        url: https://x.com/auryn_macmillan
+    projects:
+      - projectId: enclave
+    createdAt: '2026-02-23T18:36:23.483Z'
+    updatedAt: '2026-02-23T18:36:23.483Z'
+  - id: alex-espina
+    name: Alex Espina
+    links:
+      - type: twitter
+        url: https://x.com/espinaxyz
+    projects:
+      - projectId: enclave
+    createdAt: '2026-02-23T18:36:23.483Z'
+    updatedAt: '2026-02-23T18:36:23.483Z'
+  - id: alex-chepurnoy
+    name: Alex Chepurnoy
+    links:
+      - type: twitter
+        url: https://x.com/chepurnoy
+    projects:
+      - projectId: ergo
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: qx
+    name: qx
+    links:
+      - type: twitter
+        url: https://x.com/qx_ergo
+    projects:
+      - projectId: ergo
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: ben-fisch
+    name: Ben Fisch
+    title: CEO
+    links: []
+    projects:
+      - projectId: espresso-systems
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: charles-lu
+    name: Charles Lu
+    title: COO
+    links: []
+    projects:
+      - projectId: espresso-systems
+        role: COO
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: jill-gunter
+    name: Jill Gunter
+    title: CSO
+    links: []
+    projects:
+      - projectId: espresso-systems
+        role: CSO
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: benedikt-b-nz
+    name: Benedikt Bünz
+    title: Chief Scientist
+    links: []
+    projects:
+      - projectId: espresso-systems
+        role: Chief Scientist
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: binyi-chen
+    name: Binyi Chen
+    title: Chief Cryptographer
+    links: []
+    projects:
+      - projectId: espresso-systems
+        role: Chief Cryptographer
+    createdAt: '2026-02-23T18:36:23.484Z'
+    updatedAt: '2026-02-23T18:36:23.484Z'
+  - id: all-of-them
+    name: All of them
+    links:
+      - type: web
+        url: https://ethberlin.org/contributors/
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: stina
+    name: Stina
+    links:
+      - type: twitter
+        url: https://x.com/stinalinneag
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: helena
+    name: Helena
+    links:
+      - type: twitter
+        url: https://x.com/helsfoftroy
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: maria
+    name: Maria
+    links:
+      - type: twitter
+        url: https://x.com/MPtherealmvp
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: jacob
+    name: Jacob
+    links:
+      - type: twitter
+        url: https://x.com/_czepluch
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: lea
+    name: Lea
+    links:
+      - type: twitter
+        url: https://x.com/_schmitted
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: afri
+    name: Afri
+    links:
+      - type: github
+        url: https://github.com/q9f
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: martin
+    name: Martin
+    links:
+      - type: twitter
+        url: https://x.com/MartinBreiten
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: kaan
+    name: Kaan
+    links:
+      - type: twitter
+        url: https://x.com/kaanuzdogan
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: ligi
+    name: Ligi
+    links:
+      - type: twitter
+        url: https://x.com/mr_ligi
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: franzi
+    name: Franzi
+    links:
+      - type: twitter
+        url: https://x.com/_franzihei
+    projects:
+      - projectId: ethberlin
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: piper-merriam
+    name: Piper Merriam
+    title: lead res
+    links:
+      - type: github
+        url: https://github.com/pipermerriam
+    projects:
+      - projectId: ethereum-portal-network
+        role: lead res
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: jason-carver
+    name: Jason Carver
+    title: lead dev
+    links:
+      - type: github
+        url: https://github.com/carver/
+    projects:
+      - projectId: ethereum-portal-network
+        role: lead dev
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: nick-gheorghita
+    name: Nick Gheorghita
+    title: dev
+    links:
+      - type: github
+        url: https://github.com/njgheorghita
+    projects:
+      - projectId: ethereum-portal-network
+        role: dev
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: kolby-ml
+    name: Kolby ML
+    title: dev
+    links:
+      - type: github
+        url: https://github.com/KolbyML
+    projects:
+      - projectId: ethereum-portal-network
+        role: dev
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: keith-koo
+    name: Keith Koo
+    title: Advisor
+    links: []
+    projects:
+      - projectId: ethernity-cloud
+        role: Advisor
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: iosif-peterfi
+    name: Iosif Peterfi
+    title: Founder & CEO
+    links: []
+    projects:
+      - projectId: ethernity-cloud
+        role: Founder & CEO
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: ioan-munteanu
+    name: Ioan Munteanu
+    title: COO
+    links: []
+    projects:
+      - projectId: ethernity-cloud
+        role: COO
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: andreas-stavropoulos
+    name: Andreas Stavropoulos
+    title: CTO
+    links: []
+    projects:
+      - projectId: ethernity-cloud
+        role: CTO
+    createdAt: '2026-02-23T18:36:23.485Z'
+    updatedAt: '2026-02-23T18:36:23.485Z'
+  - id: peyman-momeni
+    name: Peyman Momeni
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/peyman-m-b0681b128/
+    projects:
+      - projectId: fairblock-network
+    createdAt: '2026-02-23T18:36:23.487Z'
+    updatedAt: '2026-02-23T18:36:23.487Z'
+  - id: tobtoht
+    name: tobtoht
+    links:
+      - type: github
+        url: https://github.com/tobtoht
+    projects:
+      - projectId: feather
+    createdAt: '2026-02-23T18:36:23.488Z'
+    updatedAt: '2026-02-23T18:36:23.488Z'
+  - id: moritz-boullenger
+    name: Moritz Boullenger
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/moritzboullenger/
+    projects:
+      - projectId: fluidkey
+    createdAt: '2026-02-23T18:45:50.996Z'
+    updatedAt: '2026-02-23T18:45:50.996Z'
+    displayName: Moritz Boullenger
+    tags: []
+    organizations: []
+  - id: antonio-seveso
+    name: Antonio Seveso
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/antonio-seveso/
+    projects:
+      - projectId: fluidkey
+    createdAt: '2026-02-23T18:36:23.491Z'
+    updatedAt: '2026-02-23T18:36:23.491Z'
+  - id: federico-castelli
+    name: Federico Castelli
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/federico-castelli/
+    projects:
+      - projectId: fluidkey
+    createdAt: '2026-02-23T18:36:23.491Z'
+    updatedAt: '2026-02-23T18:36:23.491Z'
+  - id: jordan-muir
+    name: Jordan Muir
+    links:
+      - type: github
+        url: https://github.com/floating
+    projects:
+      - projectId: frame
+    createdAt: '2026-02-23T18:36:23.492Z'
+    updatedAt: '2026-02-23T18:36:23.492Z'
+  - id: ayyan-rahman
+    name: Ayyan Rahman
+    links:
+      - type: twitter
+        url: https://x.com/AyyanERahman
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: andrew-hemingway
+    name: Andrew Hemingway
+    links:
+      - type: twitter
+        url: https://x.com/andrewhemingway
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: harisson-santos
+    name: Harisson Santos
+    links:
+      - type: linkedin
+        url: https://ca.linkedin.com/in/harissonsantos
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: rafa-gomes
+    name: Rafa Gomes
+    links:
+      - type: linkedin
+        url: https://br.linkedin.com/in/rafagomesdev
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: jo-o-c-junior
+    name: João C Junior
+    links:
+      - type: linkedin
+        url: https://br.linkedin.com/in/joao-conserva
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: sanket-jain
+    name: Sanket Jain
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/sanket-jain-240017158/
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: tullio-cunha
+    name: Tullio Cunha
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/tulliocunha/
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: nuno-carvalho
+    name: Nuno Carvalho
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/nmcarv/
+    projects:
+      - projectId: gateway
+    createdAt: '2026-02-23T18:36:23.493Z'
+    updatedAt: '2026-02-23T18:36:23.493Z'
+  - id: stacy
+    name: Stacy
+    links:
+      - type: web
+        url: t.me/stacy_j1s
+    projects:
+      - projectId: guaridos
+    createdAt: '2026-02-23T18:36:23.495Z'
+    updatedAt: '2026-02-23T18:36:23.495Z'
+  - id: cary
+    name: Cary
+    links:
+      - type: web
+        url: t.me/caryvalmont
+    projects:
+      - projectId: guaridos
+    createdAt: '2026-02-23T18:36:23.495Z'
+    updatedAt: '2026-02-23T18:36:23.495Z'
+  - id: joseph-poon
+    name: Joseph Poon
+    links:
+      - type: twitter
+        url: https://x.com/jcp
+    projects:
+      - projectId: handshake
+    createdAt: '2026-02-23T18:36:23.496Z'
+    updatedAt: '2026-02-23T18:36:23.496Z'
+  - id: christopher-jeffrey
+    name: Christopher Jeffrey
+    links:
+      - type: twitter
+        url: https://x.com/_chjj
+    projects:
+      - projectId: handshake
+    createdAt: '2026-02-23T18:36:23.496Z'
+    updatedAt: '2026-02-23T18:36:23.496Z'
+  - id: andrew-lee
+    name: Andrew Lee
+    links:
+      - type: twitter
+        url: https://x.com/aleedotg
+    projects:
+      - projectId: handshake
+    createdAt: '2026-02-23T18:36:23.496Z'
+    updatedAt: '2026-02-23T18:36:23.496Z'
+  - id: boyma-fahnbulleh
+    name: Boyma Fahnbulleh
+    links:
+      - type: twitter
+        url: https://x.com/boymanjor
+    projects:
+      - projectId: handshake
+    createdAt: '2026-02-23T18:36:23.496Z'
+    updatedAt: '2026-02-23T18:36:23.496Z'
+  - id: king-andrew-lee
+    name: King Andrew Lee
+    links:
+      - type: twitter
+        url: https://x.com/joseon
+    projects:
+      - projectId: handshake
+    createdAt: '2026-02-23T18:36:23.496Z'
+    updatedAt: '2026-02-23T18:36:23.496Z'
+  - id: mikerah
+    name: Mikerah
+    links:
+      - type: twitter
+        url: https://x.com/badcryptobitch
+    projects:
+      - projectId: hashcloak
+    createdAt: '2026-02-23T18:36:23.497Z'
+    updatedAt: '2026-02-23T18:36:23.497Z'
+  - id: hernan-vanegas
+    name: Hernan Vanegas
+    links:
+      - type: twitter
+        url: https://x.com/hdvanegasm
+    projects:
+      - projectId: hashcloak
+    createdAt: '2026-02-23T18:36:23.497Z'
+    updatedAt: '2026-02-23T18:36:23.497Z'
+  - id: georgi-koreli
+    name: Georgi Koreli
+    links:
+      - type: twitter
+        url: https://x.com/gegelz01
+    projects:
+      - projectId: hinkal
+    createdAt: '2026-02-23T18:36:23.498Z'
+    updatedAt: '2026-02-23T18:36:23.498Z'
+  - id: nika-koreli
+    name: Nika Koreli
+    links:
+      - type: twitter
+        url: https://x.com/n_koreli
+    projects:
+      - projectId: hinkal
+    createdAt: '2026-02-23T18:36:23.498Z'
+    updatedAt: '2026-02-23T18:36:23.498Z'
+  - id: yan-ketelers
+    name: Yan Ketelers
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/yan-ketelers/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: caleb-tuttle
+    name: Caleb Tuttle
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/caleb-tuttle-20bbb2126/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: bruno-bouwman
+    name: Bruno Bouwman
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/bruno-bouwman/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: jeremy-dillingham
+    name: Jeremy Dillingham
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/jeremydillingham/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: louis-tajan
+    name: Louis Tajan
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/louis-tajan-477b4a19b/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: shady-el-damaty
+    name: Shady El Damaty
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/shadyeldamaty/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: nanak-nihal-khalsa
+    name: Nanak Nihal Khalsa
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/nanaknihal-khalsa/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: anmol-bansal
+    name: Anmol Bansal
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/anmol-bansal02/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: ton-navarro
+    name: Ton Navarro
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/ton95/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: arun-s
+    name: Arun S
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/arun-s-31340bba/
+    projects:
+      - projectId: holonym
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: dr-sebastian-b-rgel
+    name: Dr. Sebastian Bürgel
+    title: President
+    links: []
+    projects:
+      - projectId: hopr
+        role: President
+    createdAt: '2026-02-23T18:36:23.499Z'
+    updatedAt: '2026-02-23T18:36:23.499Z'
+  - id: rik-krieger
+    name: Rik Krieger
+    links: []
+    projects:
+      - projectId: hopr
+        role: Co-Founder
+    createdAt: '2026-02-23T18:45:54.510Z'
+    updatedAt: '2026-02-23T18:45:54.510Z'
+    displayName: Rik Krieger
+    tags: []
+    organizations: []
+  - id: daniel-lebraat
+    name: Daniel lebraat
+    links:
+      - type: twitter
+        url: https://x.com/lebraat
+    projects:
+      - projectId: human-passport
+    createdAt: '2026-02-23T18:36:23.500Z'
+    updatedAt: '2026-02-23T18:36:23.500Z'
+  - id: dato-kavazi
+    name: Dato Kavazi
+    links:
+      - type: twitter
+        url: https://x.com/DatoKavazi
+    projects:
+      - projectId: humanode
+    createdAt: '2026-02-23T18:36:23.500Z'
+    updatedAt: '2026-02-23T18:36:23.500Z'
+  - id: sasha-shilina
+    name: Sasha Shilina
+    links:
+      - type: twitter
+        url: https://x.com/sshshln
+    projects:
+      - projectId: humanode
+    createdAt: '2026-02-23T18:36:23.500Z'
+    updatedAt: '2026-02-23T18:36:23.500Z'
+  - id: andrei-kraciun
+    name: Andrei Kraciun
+    links:
+      - type: twitter
+        url: https://x.com/andreikraciun
+    projects:
+      - projectId: humanode
+    createdAt: '2026-02-23T18:36:23.500Z'
+    updatedAt: '2026-02-23T18:36:23.500Z'
+  - id: sylve-chevet
+    name: Sylve Chevet
+    links:
+      - type: web
+        url: https://hyli-org.notion.site/media-hub?pvs=74
+    projects:
+      - projectId: hyli
+    createdAt: '2026-02-23T18:36:23.502Z'
+    updatedAt: '2026-02-23T18:36:23.502Z'
+  - id: lancelot-de-ferri-re
+    name: Lancelot de Ferrière
+    links:
+      - type: web
+        url: https://hyli-org.notion.site/media-hub?pvs=74
+    projects:
+      - projectId: hyli
+    createdAt: '2026-02-23T18:36:23.502Z'
+    updatedAt: '2026-02-23T18:36:23.502Z'
+  - id: vikram-anand
+    name: Vikram Anand
+    title: Product&Engineering
+    links:
+      - type: twitter
+        url: https://x.com/bhushan_vikram
+    projects:
+      - projectId: hypermine
+        role: Product&Engineering
+    createdAt: '2026-02-23T18:36:23.502Z'
+    updatedAt: '2026-02-23T18:36:23.502Z'
+  - id: irfan-khan
+    name: Irfan Khan
+    title: Business&Strategy
+    links:
+      - type: twitter
+        url: https://x.com/arcaneprojekt
+    projects:
+      - projectId: hypermine
+        role: Business&Strategy
+    createdAt: '2026-02-23T18:36:23.502Z'
+    updatedAt: '2026-02-23T18:36:23.502Z'
+  - id: vishwas-bhushan
+    name: Vishwas Bhushan
+    title: Research&dev
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/vishwas-anand-bhushan-bab55576/
+    projects:
+      - projectId: hypermine
+        role: Research&dev
+    createdAt: '2026-02-23T18:36:23.502Z'
+    updatedAt: '2026-02-23T18:36:23.502Z'
+  - id: gilles-fedak
+    name: Gilles Fedak
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/gilles-fedak-4a303a5b/
+    projects:
+      - projectId: iexec
+    createdAt: '2026-02-23T18:36:23.503Z'
+    updatedAt: '2026-02-23T18:36:23.503Z'
+  - id: nathan-chiron
+    name: Nathan Chiron
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/nathan-chiron/
+    projects:
+      - projectId: iexec
+    createdAt: '2026-02-23T18:36:23.503Z'
+    updatedAt: '2026-02-23T18:36:23.503Z'
+  - id: francis-otshudi
+    name: Francis Otshudi
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/francisotshudi/
+    projects:
+      - projectId: iexec
+    createdAt: '2026-02-23T18:36:23.503Z'
+    updatedAt: '2026-02-23T18:36:23.503Z'
+  - id: seref-yarar
+    name: Seref Yarar
+    links:
+      - type: twitter
+        url: https://x.com/hyperseref
+    projects:
+      - projectId: index-network
+    createdAt: '2026-02-23T18:36:23.504Z'
+    updatedAt: '2026-02-23T18:36:23.504Z'
+  - id: leona-hioki
+    name: Leona Hioki
+    title: Co-founder
+    links:
+      - type: twitter
+        url: https://x.com/HiokiLeona
+    projects:
+      - projectId: intmax
+        role: Co-founder
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: mai-fujimoto
+    name: ' Mai Fujimoto'
+    links:
+      - type: twitter
+        url: https://x.com/missbitcoin_mai
+    projects:
+      - projectId: intmax
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: nicholas-pestell
+    name: Nicholas Pestell
+    title: CEO
+    links:
+      - type: github
+        url: https://github.com/cipheromega
+    projects:
+      - projectId: ivpn
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: edward-de
+    name: Edward De
+    title: Technical Support Lead
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/edward-de-91793b163/
+    projects:
+      - projectId: ivpn
+        role: Technical Support Lead
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: iain-douglas
+    name: Iain Douglas
+    links:
+      - type: github
+        url: https://github.com/Iain-ivpn
+    projects:
+      - projectId: ivpn
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: gorka-pernas
+    name: Gorka Pernas
+    title: Senior QA Engineer
+    links:
+      - type: github
+        url: https://github.com/gorkapernas
+    projects:
+      - projectId: ivpn
+        role: Senior QA Engineer
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: natanael-rodriguez
+    name: Natanael Rodriguez
+    links:
+      - type: github
+        url: https://github.com/nathanrod
+    projects:
+      - projectId: ivpn
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: juraj-hilje
+    name: Juraj Hilje
+    title: Dev
+    links:
+      - type: github
+        url: https://github.com/jurajhilje
+    projects:
+      - projectId: ivpn
+        role: Dev
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: alexandr-stelnykovych
+    name: Alexandr Stelnykovych
+    title: Dev
+    links:
+      - type: github
+        url: https://github.com/stenya
+    projects:
+      - projectId: ivpn
+        role: Dev
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: jordan-sullivan
+    name: Jordan Sullivan
+    links:
+      - type: github
+        url: https://github.com/jordan-ivpn
+    projects:
+      - projectId: ivpn
+    createdAt: '2026-02-23T18:36:23.505Z'
+    updatedAt: '2026-02-23T18:36:23.505Z'
+  - id: ramon-recuero
+    name: Ramon Recuero
+    title: CEO
+    links:
+      - type: twitter
+        url: https://x.com/ramonrecuero
+    projects:
+      - projectId: kinto
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.507Z'
+    updatedAt: '2026-02-23T18:36:23.507Z'
+  - id: kusama-dao
+    name: Kusama Dao
+    links: []
+    projects:
+      - projectId: kusama-shield
+    createdAt: '2026-02-23T18:36:23.508Z'
+    updatedAt: '2026-02-23T18:36:23.508Z'
+  - id: kusama-shield-curators
+    name: Kusama Shield Curators
+    links:
+      - type: web
+        url: X.com/KusamaShield
+    projects:
+      - projectId: kusama-shield
+    createdAt: '2026-02-23T18:36:23.508Z'
+    updatedAt: '2026-02-23T18:36:23.508Z'
+  - id: pluja
+    name: pluja
+    links:
+      - type: web
+        url: https://codeberg.org/pluja
+    projects:
+      - projectId: kyc-not-me
+    createdAt: '2026-02-23T18:36:23.508Z'
+    updatedAt: '2026-02-23T18:36:23.508Z'
+  - id: ali-farahanchi-ph-d-ali-farahanchi
+    name: ' Ali Farahanchi, Ph.D. Ali Farahanchi'
+    links:
+      - type: web
+        url: https://alifarahanchi1.github.io/
+    projects:
+      - projectId: lavita-ai
+    createdAt: '2026-02-23T18:36:23.509Z'
+    updatedAt: '2026-02-23T18:36:23.509Z'
+  - id: pedram-hosseini
+    name: Pedram Hosseini
+    links:
+      - type: web
+        url: https://phosseini.github.io/
+    projects:
+      - projectId: lavita-ai
+    createdAt: '2026-02-23T18:36:23.509Z'
+    updatedAt: '2026-02-23T18:36:23.509Z'
+  - id: reza-mokhtari
+    name: Reza Mokhtari
+    links:
+      - type: web
+        url: https://rezamokhtari1.github.io/
+    projects:
+      - projectId: lavita-ai
+    createdAt: '2026-02-23T18:36:23.509Z'
+    updatedAt: '2026-02-23T18:36:23.509Z'
+  - id: mike-zhang
+    name: Mike Zhang
+    links:
+      - type: web
+        url: https://haiyangzhang1994.github.io/news/
+    projects:
+      - projectId: lavita-ai
+    createdAt: '2026-02-23T18:36:23.509Z'
+    updatedAt: '2026-02-23T18:36:23.509Z'
+  - id: barron-caster
+    name: Barron Caster
+    title: CEO
+    links:
+      - type: web
+        url: https://www.leo.app/about
+    projects:
+      - projectId: leo-wallet
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.510Z'
+    updatedAt: '2026-02-23T18:36:23.510Z'
+  - id: reza-rahemtola
+    name: Reza Rahemtola
+    links:
+      - type: twitter
+        url: https://x.com/RezaRahemtola
+    projects:
+      - projectId: libertai
+    createdAt: '2026-02-23T18:36:23.510Z'
+    updatedAt: '2026-02-23T18:36:23.510Z'
+  - id: shane-p
+    name: Shane P.
+    links: []
+    projects:
+      - projectId: libertai
+    createdAt: '2026-02-23T18:36:23.510Z'
+    updatedAt: '2026-02-23T18:36:23.510Z'
+  - id: joanna-caraballo-serrano
+    name: Joanna Caraballo Serrano
+    links:
+      - type: twitter
+        url: https://x.com/jojoliciosa
+    projects:
+      - projectId: libertai
+    createdAt: '2026-02-23T18:36:23.510Z'
+    updatedAt: '2026-02-23T18:36:23.510Z'
+  - id: david-sneider
+    name: David Sneider
+    title: Co-Founder
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/davidsneider
+    projects:
+      - projectId: lit
+        role: Co-Founder
+    createdAt: '2026-02-23T18:36:23.511Z'
+    updatedAt: '2026-02-23T18:36:23.511Z'
+  - id: chris-cassano
+    name: Chris Cassano
+    title: Co-Founder & CTO
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/chriscassano
+    projects:
+      - projectId: lit
+        role: Co-Founder & CTO
+    createdAt: '2026-02-23T18:36:23.511Z'
+    updatedAt: '2026-02-23T18:36:23.511Z'
+  - id: chris-cherniakov
+    name: Chris Cherniakov
+    links:
+      - type: web
+        url: https://xl.com/candyflipline
+    projects:
+      - projectId: loyal
+    createdAt: '2026-02-23T18:36:23.512Z'
+    updatedAt: '2026-02-23T18:36:23.512Z'
+  - id: zeugmaster
+    name: zeugmaster
+    links:
+      - type: github
+        url: https://github.com/zeugmaster
+    projects:
+      - projectId: macadamia-wallet
+    createdAt: '2026-02-23T18:36:23.513Z'
+    updatedAt: '2026-02-23T18:36:23.513Z'
+  - id: egge21m
+    name: Egge21M
+    links:
+      - type: github
+        url: https://github.com/Egge21M
+    projects:
+      - projectId: macadamia-wallet
+    createdAt: '2026-02-23T18:36:23.513Z'
+    updatedAt: '2026-02-23T18:36:23.513Z'
+  - id: alexander-chopan
+    name: alexander chopan
+    links:
+      - type: twitter
+        url: https://x.com/alexanderchopan
+    projects:
+      - projectId: machines-cash
+    createdAt: '2026-02-23T18:36:23.513Z'
+    updatedAt: '2026-02-23T18:36:23.513Z'
+  - id: arda-erturk
+    name: arda erturk
+    links:
+      - type: twitter
+        url: https://x.com/ardaerturk
+    projects:
+      - projectId: machines-cash
+    createdAt: '2026-02-23T18:36:23.513Z'
+    updatedAt: '2026-02-23T18:36:23.513Z'
+  - id: hennadii-ahanesian
+    name: hennadii ahanesian
+    links:
+      - type: twitter
+        url: https://x.com/hennadios
+    projects:
+      - projectId: machines-cash
+    createdAt: '2026-02-23T18:36:23.513Z'
+    updatedAt: '2026-02-23T18:36:23.513Z'
+  - id: andrea-fortugno
+    name: Andrea Fortugno
+    links:
+      - type: twitter
+        url: https://x.com/supermarioblock
+    projects:
+      - projectId: magicblock
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: gabriele-picco
+    name: Gabriele Picco
+    links:
+      - type: github
+        url: http://github.com/GabrielePicco
+    projects:
+      - projectId: magicblock
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: tim-boeckmann
+    name: Tim Boeckmann
+    links:
+      - type: twitter
+        url: https://x.com/t_boeckmann
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: rob-de-feo
+    name: Rob De Feo
+    links:
+      - type: twitter
+        url: https://x.com/robdefeo
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: misha-deville
+    name: Misha Deville
+    links:
+      - type: twitter
+        url: https://x.com/MishaDV_
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: elizabeth-stuart-morris
+    name: Elizabeth Stuart-Morris
+    links:
+      - type: twitter
+        url: https://x.com/esm_iam
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: hannah-anderson
+    name: Hannah Anderson
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/hannahsanderson/
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: alexandru-velicu
+    name: Alexandru Velicu
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/velicu-a-73794348/
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: zubeyir-o
+    name: Zubeyir O.
+    links:
+      - type: github
+        url: https://github.com/zubeyiro
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: antonio-ivanovski
+    name: Antonio Ivanovski
+    links:
+      - type: github
+        url: https://github.com/toteto
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: nathan-sorochan
+    name: Nathan Sorochan
+    links:
+      - type: twitter
+        url: https://x.com/nathansorochan
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: tom-sargent
+    name: Tom Sargent
+    links:
+      - type: twitter
+        url: https://x.com/expensive_jpeg
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: becky-prunty
+    name: Becky Prunty
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/becky-prunty-b93406a9/
+    projects:
+      - projectId: mailchain
+    createdAt: '2026-02-23T18:36:23.514Z'
+    updatedAt: '2026-02-23T18:36:23.514Z'
+  - id: kaurihero
+    name: KauriHero
+    links:
+      - type: twitter
+        url: https://x.com/KauriHero
+    projects:
+      - projectId: masq
+    createdAt: '2026-02-23T18:36:23.515Z'
+    updatedAt: '2026-02-23T18:36:23.515Z'
+  - id: daniel-morosan
+    name: Daniel Morosan
+    links:
+      - type: twitter
+        url: https://x.com/danielgmorosan
+    projects:
+      - projectId: massa-network
+    createdAt: '2026-02-23T18:36:23.515Z'
+    updatedAt: '2026-02-23T18:36:23.515Z'
+  - id: dr-mohamed-al-arab
+    name: Dr. Mohamed Al Arab
+    title: Founder - CEO
+    links: []
+    projects:
+      - projectId: mejhool
+        role: Founder - CEO
+    createdAt: '2026-02-23T18:36:23.516Z'
+    updatedAt: '2026-02-23T18:36:23.516Z'
+  - id: yusuf-haji
+    name: Yusuf Haji
+    title: Founder
+    links: []
+    projects:
+      - projectId: mejhool
+        role: Founder
+    createdAt: '2026-02-23T18:36:23.516Z'
+    updatedAt: '2026-02-23T18:36:23.516Z'
+  - id: fahad-faqeeh
+    name: Fahad Faqeeh
+    title: Founder
+    links: []
+    projects:
+      - projectId: mejhool
+        role: Founder
+    createdAt: '2026-02-23T18:36:23.516Z'
+    updatedAt: '2026-02-23T18:36:23.516Z'
+  - id: eric-tung
+    name: Eric Tung
+    title: Founder CEO & CTO
+    links: []
+    projects:
+      - projectId: mel
+        role: Founder CEO & CTO
+    createdAt: '2026-02-23T18:36:23.516Z'
+    updatedAt: '2026-02-23T18:36:23.516Z'
+  - id: brandon-kase
+    name: Brandon Kase
+    links:
+      - type: twitter
+        url: https://x.com/bkase_
+    projects:
+      - projectId: mina
+    createdAt: '2026-02-23T18:36:23.517Z'
+    updatedAt: '2026-02-23T18:36:23.517Z'
+  - id: nima-rasooli
+    name: Nima Rasooli
+    links:
+      - type: twitter
+        url: https://x.com/0xNimaRa
+    projects:
+      - projectId: mirage
+    createdAt: '2026-02-23T18:36:23.518Z'
+    updatedAt: '2026-02-23T18:36:23.518Z'
+  - id: ossian-mapes
+    name: Ossian Mapes
+    links:
+      - type: twitter
+        url: https://x.com/ozwaldorf_
+    projects:
+      - projectId: mirage
+    createdAt: '2026-02-23T18:36:23.518Z'
+    updatedAt: '2026-02-23T18:36:23.518Z'
+  - id: samuel-alake
+    name: Samuel Alake
+    links:
+      - type: twitter
+        url: https://x.com/g4titan_
+    projects:
+      - projectId: mirage
+    createdAt: '2026-02-23T18:36:23.518Z'
+    updatedAt: '2026-02-23T18:36:23.518Z'
+  - id: murdoch-gabbay
+    name: Murdoch Gabbay
+    links:
+      - type: twitter
+        url: https://x.com/jamiegabbay
+    projects:
+      - projectId: modulus
+    createdAt: '2026-02-23T18:36:23.519Z'
+    updatedAt: '2026-02-23T18:36:23.519Z'
+  - id: monero-core-contributors
+    name: Monero-core contributors
+    links:
+      - type: github
+        url: https://github.com/monero-project/monero/graphs/contributors
+    projects:
+      - projectId: monero
+    createdAt: '2026-02-23T18:36:23.519Z'
+    updatedAt: '2026-02-23T18:36:23.519Z'
+  - id: douglas-tuman
+    name: Douglas Tuman
+    links:
+      - type: twitter
+        url: https://x.com/DouglasTuman
+    projects:
+      - projectId: monerotopia
+    createdAt: '2026-02-23T18:36:23.520Z'
+    updatedAt: '2026-02-23T18:36:23.520Z'
+  - id: sunita
+    name: Sunita
+    links:
+      - type: twitter
+        url: https://x.com/Sunchakr
+    projects:
+      - projectId: monerotopia
+    createdAt: '2026-02-23T18:36:23.520Z'
+    updatedAt: '2026-02-23T18:36:23.520Z'
+  - id: acx
+    name: acx
+    links:
+      - type: web
+        url: https://codeberg.org/acx
+    projects:
+      - projectId: monfluo
+    createdAt: '2026-02-23T18:36:23.521Z'
+    updatedAt: '2026-02-23T18:36:23.521Z'
+  - id: riccardo-spagni-fluffypony-founder
+    name: Riccardo Spagni ( fluffypony ) Founder
+    links:
+      - type: twitter
+        url: https://x.com/fluffypony
+    projects:
+      - projectId: mymonero
+    createdAt: '2026-02-23T18:36:23.522Z'
+    updatedAt: '2026-02-23T18:36:23.522Z'
+  - id: robertasvis
+    name: RobertasVis
+    title: Founder
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/robertasvis
+    projects:
+      - projectId: mysterium
+        role: Founder
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: waldz
+    name: Waldz
+    title: Founder & Lead Developer
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/waldz
+    projects:
+      - projectId: mysterium
+        role: Founder & Lead Developer
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: adrian-brink
+    name: Adrian Brink
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/adrianbrink/details/experience/
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:45:38.724Z'
+    updatedAt: '2026-02-23T18:45:38.728Z'
+    displayName: Adrian Brink
+    tags: []
+    organizations: []
+  - id: awa-sun-yin
+    name: Awa Sun Yin
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/awasunyin/
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: christopher-goes
+    name: Christopher Goes
+    links:
+      - type: twitter
+        url: https://x.com/cwgoes
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: heliax
+    name: Heliax
+    links:
+      - type: web
+        url: https://heliax.dev/
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: knowable
+    name: Knowable
+    links:
+      - type: twitter
+        url: https://x.com/vKnowable
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: luminara
+    name: Luminara
+    links:
+      - type: twitter
+        url: https://x.com/_luminara
+    projects:
+      - projectId: namada
+    createdAt: '2026-02-23T18:36:23.523Z'
+    updatedAt: '2026-02-23T18:36:23.523Z'
+  - id: oleh
+    name: oleh
+    links:
+      - type: twitter
+        url: https://x.com/oleh_bc
+    projects:
+      - projectId: nemi
+    createdAt: '2026-02-23T18:36:23.524Z'
+    updatedAt: '2026-02-23T18:36:23.524Z'
+  - id: danyil
+    name: Danyil
+    links:
+      - type: twitter
+        url: https://x.com/husacov
+    projects:
+      - projectId: nemi
+    createdAt: '2026-02-23T18:36:23.524Z'
+    updatedAt: '2026-02-23T18:36:23.524Z'
+  - id: thorkil-v-rge
+    name: Thorkil Værge
+    links:
+      - type: github
+        url: https://github.com/Sword-Smith
+    projects:
+      - projectId: neptune
+    createdAt: '2026-02-23T18:36:23.524Z'
+    updatedAt: '2026-02-23T18:36:23.524Z'
+  - id: alan-szepieniec
+    name: Alan Szepieniec
+    links:
+      - type: github
+        url: https://github.com/aszepieniec
+    projects:
+      - projectId: neptune
+    createdAt: '2026-02-23T18:36:23.524Z'
+    updatedAt: '2026-02-23T18:36:23.524Z'
+  - id: olaf
+    name: Olaf
+    links:
+      - type: twitter
+        url: https://x.com/ovanwijk
+    projects:
+      - projectId: nihilium
+    createdAt: '2026-02-23T18:36:23.526Z'
+    updatedAt: '2026-02-23T18:36:23.526Z'
+  - id: cgi-bin
+    name: cgi-bin
+    links:
+      - type: github
+        url: https://github.com/sven-hash/
+    projects:
+      - projectId: no-trust-verify
+    createdAt: '2026-02-23T18:36:23.527Z'
+    updatedAt: '2026-02-23T18:36:23.527Z'
+  - id: oheka
+    name: Oheka
+    links:
+      - type: github
+        url: https://github.com/Oheka
+    projects:
+      - projectId: no-trust-verify
+    createdAt: '2026-02-23T18:36:23.527Z'
+    updatedAt: '2026-02-23T18:36:23.527Z'
+  - id: amadeous
+    name: Amadeous
+    links:
+      - type: github
+        url: https://github.com/amadeous
+    projects:
+      - projectId: no-trust-verify
+    createdAt: '2026-02-23T18:36:23.527Z'
+    updatedAt: '2026-02-23T18:36:23.527Z'
+  - id: sebastian-luca
+    name: Sebastian Luca
+    links:
+      - type: twitter
+        url: https://x.com/sebastienladuca
+    projects:
+      - projectId: nocturne
+    createdAt: '2026-02-23T18:36:23.527Z'
+    updatedAt: '2026-02-23T18:36:23.527Z'
+  - id: luke-tchang
+    name: Luke Tchang
+    links:
+      - type: twitter
+        url: https://x.com/luketchang
+    projects:
+      - projectId: nocturne
+    createdAt: '2026-02-23T18:36:23.527Z'
+    updatedAt: '2026-02-23T18:36:23.527Z'
+  - id: ran-youseff
+    name: Ran Youseff
+    links:
+      - type: linkedin
+        url: >-
+          https://www.linkedin.com/in/ray-youssef-683b20a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABWzecMB_XLw-zNEcWWbDxRen_XgCihMlgk&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BKjJQkq3XRqGNFSZ10jG4JA%3D%3D
+    projects:
+      - projectId: noones
+    createdAt: '2026-02-23T18:36:23.528Z'
+    updatedAt: '2026-02-23T18:36:23.528Z'
+  - id: harry-halpin
+    name: Harry Halpin
+    title: CEO and Chairman of Scientific Board
+    links:
+      - type: twitter
+        url: https://x.com/harryhalpin
+    projects:
+      - projectId: nym
+        role: CEO and Chairman of Scientific Board
+      - projectId: nym-vpn
+    createdAt: '2026-02-23T18:36:23.529Z'
+    updatedAt: '2026-02-23T18:36:23.529Z'
+  - id: mark-sinclair
+    name: Mark Sinclair
+    title: Chief Technology Officer
+    links: []
+    projects:
+      - projectId: nym
+        role: Chief Technology Officer
+    createdAt: '2026-02-23T18:36:23.529Z'
+    updatedAt: '2026-02-23T18:36:23.529Z'
+  - id: claudia-diaz
+    name: Claudia Diaz
+    title: Chief Scientist
+    links: []
+    projects:
+      - projectId: nym
+        role: Chief Scientist
+    createdAt: '2026-02-23T18:36:23.529Z'
+    updatedAt: '2026-02-23T18:36:23.529Z'
+  - id: alexis-roussel
+    name: Alexis Roussel
+    title: Chief Operating Officer
+    links: []
+    projects:
+      - projectId: nym
+        role: Chief Operating Officer
+    createdAt: '2026-02-23T18:36:23.529Z'
+    updatedAt: '2026-02-23T18:36:23.529Z'
+  - id: jaya-klara-brekke
+    name: Jaya Klara Brekke
+    links: []
+    projects:
+      - projectId: nym
+        role: Chief Strategy Officer
+    createdAt: '2026-02-23T18:45:46.963Z'
+    updatedAt: '2026-02-23T18:45:46.963Z'
+    displayName: Jaya Klara Brekke
+    tags: []
+    organizations: []
+  - id: jernej-kos
+    name: Jernej Kos
+    links:
+      - type: twitter
+        url: https://x.com/JernejKos
+    projects:
+      - projectId: oasis-network
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: cais-manai
+    name: Cais Manai
+    links:
+      - type: twitter
+        url: https://x.com/0xCais
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: gavin-thomas
+    name: Gavin Thomas
+    links:
+      - type: twitter
+        url: https://x.com/gavin_chain
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: tudor-malene
+    name: Tudor Malene
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/tudormalene/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: james-carlyle
+    name: James Carlyle
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/jamescarlyle/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: moray-grieve
+    name: Moray Grieve
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/moraygrieve/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: stefan-iliev
+    name: Stefan Iliev
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/stefan-iliev-3762abb8/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: will-hester
+    name: Will Hester
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/willhester11359/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: matt-curtis
+    name: Matt Curtis
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/matt-curtis-4252973a/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: jobin-ayathil
+    name: Jobin Ayathil
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/0xjba/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: bhavya-bakhda
+    name: Bhavya Bakhda
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/bhavya-bakhda/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: ziga-kokelj
+    name: Ziga Kokelj
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/ziga-kokelj/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: anthony-nixon
+    name: Anthony Nixon
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/anixon604/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: liam-quinn
+    name: Liam Quinn
+    links:
+      - type: linkedin
+        url: https://uk.linkedin.com/in/liamencrypted
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: peter-bienek
+    name: Peter Bienek
+    links:
+      - type: linkedin
+        url: https://uk.linkedin.com/in/peter-bienek
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: krish-poolo
+    name: Krish Poolo
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/krishnath/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: rosie-sargsian
+    name: Rosie Sargsian
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/rosiesargsian/
+    projects:
+      - projectId: obscuro
+    createdAt: '2026-02-23T18:36:23.530Z'
+    updatedAt: '2026-02-23T18:36:23.530Z'
+  - id: cristian-lupascu
+    name: Cristian Lupascu
+    title: CEO & Co-Founder
+    links: []
+    projects:
+      - projectId: omnia
+        role: CEO & Co-Founder
+    createdAt: '2026-02-23T18:36:23.532Z'
+    updatedAt: '2026-02-23T18:36:23.532Z'
+  - id: alexandru-lupascu
+    name: Alexandru Lupascu
+    title: CTO & Co-Founder
+    links: []
+    projects:
+      - projectId: omnia
+        role: CTO & Co-Founder
+    createdAt: '2026-02-23T18:36:23.532Z'
+    updatedAt: '2026-02-23T18:36:23.532Z'
+  - id: v1rtl
+    name: v1rtl
+    links:
+      - type: web
+        url: https://farcaster.xyz/v1rtl.eth
+    projects:
+      - projectId: omnipin
+    createdAt: '2026-02-23T18:36:23.532Z'
+    updatedAt: '2026-02-23T18:36:23.532Z'
+  - id: eulerlagrange
+    name: EulerLagrange
+    title: Founder
+    links:
+      - type: twitter
+        url: https://x.com/Euler__Lagrange
+    projects:
+      - projectId: opacity-network
+        role: Founder
+    createdAt: '2026-02-23T18:36:23.533Z'
+    updatedAt: '2026-02-23T18:36:23.533Z'
+  - id: steve-schellhase
+    name: Steve Schellhase
+    title: dev
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/steve-schellhase-616a72212?trk=org-employees
+    projects:
+      - projectId: opacity-network
+        role: dev
+    createdAt: '2026-02-23T18:36:23.533Z'
+    updatedAt: '2026-02-23T18:36:23.533Z'
+  - id: ron-turetzky
+    name: Ron Turetzky
+    title: dev
+    links:
+      - type: twitter
+        url: https://x.com/RonTuretzky
+    projects:
+      - projectId: opacity-network
+        role: dev
+    createdAt: '2026-02-23T18:36:23.533Z'
+    updatedAt: '2026-02-23T18:36:23.533Z'
+  - id: stratos-arampatzis
+    name: Stratos Arampatzis
+    links:
+      - type: twitter
+        url: https://x.com/0xStratos
+    projects:
+      - projectId: openbands
+    createdAt: '2026-02-23T18:36:23.533Z'
+    updatedAt: '2026-02-23T18:36:23.533Z'
+  - id: masanori-uno
+    name: Masanori Uno
+    links:
+      - type: twitter
+        url: https://x.com/masaun2551
+    projects:
+      - projectId: openbands
+    createdAt: '2026-02-23T18:36:23.533Z'
+    updatedAt: '2026-02-23T18:36:23.533Z'
+  - id: sir-enigma
+    name: Sir Enigma
+    links:
+      - type: twitter
+        url: https://x.com/abdel_hhh
+    projects:
+      - projectId: oxo
+    createdAt: '2026-02-23T18:36:23.536Z'
+    updatedAt: '2026-02-23T18:36:23.536Z'
+  - id: smokey
+    name: Smokey
+    links:
+      - type: twitter
+        url: https://x.com/Smokey_0x0
+    projects:
+      - projectId: oxo
+    createdAt: '2026-02-23T18:36:23.536Z'
+    updatedAt: '2026-02-23T18:36:23.536Z'
+  - id: jay
+    name: Jay
+    links:
+      - type: twitter
+        url: https://x.com/xcyb0rg
+    projects:
+      - projectId: oxo
+    createdAt: '2026-02-23T18:36:23.536Z'
+    updatedAt: '2026-02-23T18:36:23.536Z'
+  - id: andy
+    name: Andy
+    links:
+      - type: web
+        url: https://t.me/Andy_0x0
+      - type: twitter
+        url: https://x.com/AndyGuzmanEth
+    projects:
+      - projectId: oxo
+      - projectId: semaphore
+    createdAt: '2026-02-23T18:36:23.536Z'
+    updatedAt: '2026-02-23T18:36:23.554Z'
+  - id: gerlof-van-ek
+    name: Gerlof van Ek
+    links:
+      - type: twitter
+        url: https://x.com/gerlof
+    projects:
+      - projectId: particl
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: henk-swardt
+    name: Henk Swardt
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/hswardt/
+    projects:
+      - projectId: particl
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: crypt0guard
+    name: Crypt0Guard
+    links:
+      - type: twitter
+        url: https://x.com/crypt0guard
+    projects:
+      - projectId: particl
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: tecnovert
+    name: tecnovert
+    links:
+      - type: github
+        url: https://github.com/tecnovert
+    projects:
+      - projectId: particl
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: kewde
+    name: Kewde
+    links:
+      - type: github
+        url: https://github.com/kewde
+    projects:
+      - projectId: particl
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: kurt-nielsen
+    name: Kurt Nielsen
+    title: Co-Founder & President
+    links: []
+    projects:
+      - projectId: partisia-blockchain
+        role: Co-Founder & President
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: peter-f-frandsen
+    name: Peter F. Frandsen
+    title: Co-Founder & CTO
+    links: []
+    projects:
+      - projectId: partisia-blockchain
+        role: Co-Founder & CTO
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: brian-gallagher
+    name: Brian Gallagher
+    links: []
+    projects:
+      - projectId: partisia-blockchain
+    createdAt: '2026-02-23T18:36:23.537Z'
+    updatedAt: '2026-02-23T18:36:23.537Z'
+  - id: sid-ghandi
+    name: Sid Ghandi
+    links:
+      - type: twitter
+        url: https://x.com/sidgandhi_xyz
+    projects:
+      - projectId: payy
+    createdAt: '2026-02-23T18:36:23.538Z'
+    updatedAt: '2026-02-23T18:36:23.538Z'
+  - id: henry-de-valence
+    name: Henry De Valence
+    links:
+      - type: twitter
+        url: https://x.com/hdevalence
+    projects:
+      - projectId: penumbra
+    createdAt: '2026-02-23T18:36:23.538Z'
+    updatedAt: '2026-02-23T18:36:23.538Z'
+  - id: marvin-tong
+    name: Marvin Tong
+    links:
+      - type: twitter
+        url: https://x.com/marvin_tong
+    projects:
+      - projectId: phala-network
+    createdAt: '2026-02-23T18:36:23.539Z'
+    updatedAt: '2026-02-23T18:36:23.539Z'
+  - id: hang-yin
+    name: Hang Yin
+    links:
+      - type: twitter
+        url: https://x.com/bgmshana
+    projects:
+      - projectId: phala-network
+    createdAt: '2026-02-23T18:36:23.539Z'
+    updatedAt: '2026-02-23T18:36:23.539Z'
+  - id: shelven-zhou
+    name: Shelven Zhou
+    links:
+      - type: twitter
+        url: https://x.com/zhou49
+    projects:
+      - projectId: phala-network
+    createdAt: '2026-02-23T18:36:23.539Z'
+    updatedAt: '2026-02-23T18:36:23.539Z'
+  - id: joshua
+    name: Joshua
+    links:
+      - type: twitter
+        url: https://x.com/hashwarlock
+    projects:
+      - projectId: phala-network
+    createdAt: '2026-02-23T18:36:23.539Z'
+    updatedAt: '2026-02-23T18:36:23.539Z'
+  - id: wenfeng-wang
+    name: Wenfeng Wang
+    links:
+      - type: twitter
+        url: https://x.com/tolak_eth
+    projects:
+      - projectId: phala-network
+    createdAt: '2026-02-23T18:36:23.539Z'
+    updatedAt: '2026-02-23T18:36:23.539Z'
+  - id: edwen
+    name: Edwen
+    links: []
+    projects:
+      - projectId: platus
+    createdAt: '2026-02-23T18:36:23.540Z'
+    updatedAt: '2026-02-23T18:36:23.540Z'
+  - id: tim-enneking
+    name: Tim Enneking
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/timothy-enneking-a725905/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: mark-torelli
+    name: Mark Torelli
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/mark-torelli
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: jeff-hunt
+    name: Jeff Hunt
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/jeff-hunt-b302631b
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: ed-reese
+    name: Ed Reese
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/edreese/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: brenden-tacon
+    name: Brenden Tacon
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/brenden-tacon-81abb211/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: todd-enneking
+    name: Todd Enneking
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/toddenneking/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: colin-pape
+    name: Colin Pape
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/colinpape
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: trey-grainger
+    name: Trey Grainger
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/treygrainger/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: lu-s-dalmolin
+    name: Luís Dalmolin
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/luisdalmolin/
+    projects:
+      - projectId: presearch
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: andy-guzman
+    name: Andy Guzman
+    links:
+      - type: twitter
+        url: https://x.com/AndyGuzmanEth
+    projects:
+      - projectId: privacy-&-scaling-explorations
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: sam-richards
+    name: Sam Richards
+    links:
+      - type: twitter
+        url: https://x.com/samonchain
+    projects:
+      - projectId: privacy-&-scaling-explorations
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: enrico-bottazzi
+    name: Enrico Bottazzi
+    links:
+      - type: twitter
+        url: https://x.com/backaes
+    projects:
+      - projectId: privacy-&-scaling-explorations
+    createdAt: '2026-02-23T18:36:23.541Z'
+    updatedAt: '2026-02-23T18:36:23.541Z'
+  - id: navio
+    name: Navio
+    links:
+      - type: web
+        url: https://nav.io/
+    projects:
+      - projectId: private-finance-syndicate
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: lunardao
+    name: LunarDAO
+    links:
+      - type: web
+        url: https://lunardao.net/
+    projects:
+      - projectId: private-finance-syndicate
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: basicswapdex
+    name: BasicSwapDEX
+    links:
+      - type: web
+        url: https://basicswap.app/
+    projects:
+      - projectId: private-finance-syndicate
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: particl
+    name: Particl
+    links:
+      - type: web
+        url: https://particl.app/
+    projects:
+      - projectId: private-finance-syndicate
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: rodolfo-cova
+    name: Rodolfo Cova
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/rodolfo-cova-607255204/
+    projects:
+      - projectId: privid
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: david-liendo
+    name: 'David Liendo       '
+    links:
+      - type: github
+        url: https://github.com/DavLiendoProgramming
+    projects:
+      - projectId: privid
+    createdAt: '2026-02-23T18:36:23.543Z'
+    updatedAt: '2026-02-23T18:36:23.543Z'
+  - id: 0xlord-forever
+    name: 0xlord_forever
+    links:
+      - type: twitter
+        url: https://twitter.com/0xlord_forever
+    projects:
+      - projectId: privote
+    createdAt: '2026-02-23T18:36:23.544Z'
+    updatedAt: '2026-02-23T18:36:23.544Z'
+  - id: colfax
+    name: Colfax
+    links:
+      - type: twitter
+        url: https://x.com/colfaxselby
+    projects:
+      - projectId: privy
+    createdAt: '2026-02-23T18:36:23.544Z'
+    updatedAt: '2026-02-23T18:36:23.544Z'
+  - id: jainil-sutaria
+    name: Jainil Sutaria
+    links:
+      - type: twitter
+        url: https://x.com/jainilsutaria1
+    projects:
+      - projectId: privy
+    createdAt: '2026-02-23T18:36:23.544Z'
+    updatedAt: '2026-02-23T18:36:23.544Z'
+  - id: https-github-com-cf
+    name: https://github.com/cf
+    links:
+      - type: web
+        url: Carter Feldman
+    projects:
+      - projectId: psy-protocol
+    createdAt: '2026-02-23T18:36:23.544Z'
+    updatedAt: '2026-02-23T18:36:23.544Z'
+  - id: marek-marczykowski-g-recki
+    name: Marek Marczykowski-Górecki
+    title: Project Lead
+    links:
+      - type: github
+        url: https://github.com/marmarek
+    projects:
+      - projectId: qubes-os
+        role: Project Lead
+    createdAt: '2026-02-23T18:36:23.545Z'
+    updatedAt: '2026-02-23T18:36:23.545Z'
+  - id: luke
+    name: Luke
+    title: Founder & Researcher
+    links:
+      - type: twitter
+        url: https://x.com/gotyourvape
+      - type: twitter
+        url: https://x.com/lukechampine
+    projects:
+      - projectId: radr
+      - projectId: sia
+        role: Founder & Researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: alan-scott
+    name: Alan Scott
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:45:39.272Z'
+    updatedAt: '2026-02-23T18:45:39.272Z'
+    displayName: Alan Scott
+    tags: []
+    organizations: []
+  - id: kieran-mesquita
+    name: Kieran Mesquita
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:45:47.664Z'
+    updatedAt: '2026-02-23T18:45:47.664Z'
+    displayName: Kieran Mesquita
+    tags: []
+    organizations: []
+  - id: john-meurer
+    name: John Meurer
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: dylan-oliver
+    name: Dylan Oliver
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: hisham-galan
+    name: Hisham Galan
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: peter-simpson
+    name: Peter Simpson
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: bill-liang
+    name: Bill Liang
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: matias-grote
+    name: Matias Grote
+    title: researcher
+    links: []
+    projects:
+      - projectId: railgun
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: jacob-makarsky
+    name: Jacob Makarsky
+    title: Software engineer
+    links: []
+    projects:
+      - projectId: railgun
+        role: Software engineer
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: edward-p-fricker
+    name: Edward P. Fricker
+    links: []
+    projects:
+      - projectId: railgun
+        role: Legal counsel
+    createdAt: '2026-02-23T18:45:45.243Z'
+    updatedAt: '2026-02-23T18:45:45.243Z'
+    displayName: Edward P. Fricker
+    tags: []
+    organizations: []
+  - id: phil-huang
+    name: Phil Huang
+    title: Advisor
+    links: []
+    projects:
+      - projectId: railgun
+        role: Advisor
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: emmanuel-goldstein
+    name: Emmanuel Goldstein
+    title: Global economist
+    links: []
+    projects:
+      - projectId: railgun
+        role: Global economist
+    createdAt: '2026-02-23T18:36:23.546Z'
+    updatedAt: '2026-02-23T18:36:23.546Z'
+  - id: oleksandr
+    name: Oleksandr
+    links:
+      - type: twitter
+        url: https://x.com/oleksky
+    projects:
+      - projectId: raw-box
+    createdAt: '2026-02-23T18:36:23.547Z'
+    updatedAt: '2026-02-23T18:36:23.547Z'
+  - id: crptcpchk
+    name: crptcpchk
+    links:
+      - type: twitter
+        url: https://x.com/the01100011
+    projects:
+      - projectId: raw-box
+    createdAt: '2026-02-23T18:36:23.547Z'
+    updatedAt: '2026-02-23T18:36:23.547Z'
+  - id: yana-matrosova
+    name: Yana Matrosova
+    links:
+      - type: twitter
+        url: https://x.com/yana_tnfl
+    projects:
+      - projectId: raw-box
+    createdAt: '2026-02-23T18:36:23.547Z'
+    updatedAt: '2026-02-23T18:36:23.547Z'
+  - id: beyond
+    name: Beyond
+    links:
+      - type: twitter
+        url: https://x.com/Beyond_Karto
+    projects:
+      - projectId: raw-box
+    createdAt: '2026-02-23T18:36:23.547Z'
+    updatedAt: '2026-02-23T18:36:23.547Z'
+  - id: niraj-pant
+    name: Niraj Pant
+    links:
+      - type: twitter
+        url: https://x.com/niraj
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: akilesh-potti
+    name: Akilesh Potti
+    links:
+      - type: twitter
+        url: https://x.com/akileshpotti
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: anish-agnihotri
+    name: Anish Agnihotri
+    links:
+      - type: twitter
+        url: https://x.com/_anishagnihotri
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: eva-zhang
+    name: Eva Zhang
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/evazhang612/
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: saneel-sreeni
+    name: Saneel Sreeni
+    links:
+      - type: twitter
+        url: https://x.com/sanlsrni
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: maryam-bahrani
+    name: Maryam Bahrani
+    links:
+      - type: web
+        url: https://www.mbahrani.net/
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: yahya-hassanzadeh
+    name: Yahya Hassanzadeh
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/yhassanzadeh/
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: praveen-palanisamy
+    name: Praveen Palanisamy
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/praveenpalanisamy/
+    projects:
+      - projectId: ritual
+    createdAt: '2026-02-23T18:36:23.549Z'
+    updatedAt: '2026-02-23T18:36:23.549Z'
+  - id: reckless-satoshi
+    name: Reckless Satoshi
+    links:
+      - type: github
+        url: https://github.com/Reckless-Satoshi
+    projects:
+      - projectId: robosats
+    createdAt: '2026-02-23T18:36:23.550Z'
+    updatedAt: '2026-02-23T18:36:23.550Z'
+  - id: adam-spiers
+    name: Adam Spiers
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/adamspiers/
+    projects:
+      - projectId: rolod0x
+    createdAt: '2026-02-23T18:36:23.550Z'
+    updatedAt: '2026-02-23T18:36:23.550Z'
+  - id: lefteris-karapetsas
+    name: Lefteris Karapetsas
+    links:
+      - type: twitter
+        url: https://x.com/LefterisJP
+    projects:
+      - projectId: rotki
+    createdAt: '2026-02-23T18:45:48.513Z'
+    updatedAt: '2026-02-23T18:45:48.513Z'
+    displayName: Lefteris Karapetsas
+    tags: []
+    organizations: []
+  - id: fireice-uk
+    name: FireIce_UK
+    links:
+      - type: twitter
+        url: https://x.com/fireice_uk
+    projects:
+      - projectId: ryo-currency
+    createdAt: '2026-02-23T18:36:23.551Z'
+    updatedAt: '2026-02-23T18:36:23.551Z'
+  - id: hayzam
+    name: Hayzam
+    title: Founder, Lead Developer
+    links: []
+    projects:
+      - projectId: scala
+        role: Founder, Lead Developer
+    createdAt: '2026-02-23T18:36:23.552Z'
+    updatedAt: '2026-02-23T18:36:23.552Z'
+  - id: alex-zaidelson
+    name: Alex Zaidelson
+    links:
+      - type: twitter
+        url: https://twitter.com/azaidelson
+    projects:
+      - projectId: secret-network
+        role: SLabs CEO
+    createdAt: '2026-02-23T18:45:39.827Z'
+    updatedAt: '2026-02-23T18:45:39.827Z'
+    displayName: Alex Zaidelson
+    tags: []
+    organizations: []
+  - id: lisa-loud
+    name: Lisa Loud
+    links:
+      - type: twitter
+        url: https://x.com/lisaisloud
+    projects:
+      - projectId: secret-network
+    createdAt: '2026-02-23T18:36:23.552Z'
+    updatedAt: '2026-02-23T18:36:23.552Z'
+  - id: dan-sutherland
+    name: Dan Sutherland
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/dansuth/
+    projects:
+      - projectId: self
+    createdAt: '2026-02-23T18:36:23.554Z'
+    updatedAt: '2026-02-23T18:36:23.554Z'
+  - id: sena-gbeckor-kove
+    name: Sena Gbeckor-Kove
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/senagbe/
+    projects:
+      - projectId: self
+    createdAt: '2026-02-23T18:36:23.554Z'
+    updatedAt: '2026-02-23T18:36:23.554Z'
+  - id: jason-reid
+    name: Jason Reid
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/jason-reid-1a12833/
+    projects:
+      - projectId: self
+    createdAt: '2026-02-23T18:36:23.554Z'
+    updatedAt: '2026-02-23T18:36:23.554Z'
+  - id: vivian
+    name: Vivian
+    links:
+      - type: twitter
+        url: https://x.com/ViviPlasenciaC
+    projects:
+      - projectId: semaphore
+    createdAt: '2026-02-23T18:36:23.554Z'
+    updatedAt: '2026-02-23T18:36:23.554Z'
+  - id: wanderingking072
+    name: wanderingKing072
+    links:
+      - type: twitter
+        url: https://x.com/wanderinKing072
+    projects:
+      - projectId: sentinel-
+    createdAt: '2026-02-23T18:36:23.555Z'
+    updatedAt: '2026-02-23T18:36:23.555Z'
+  - id: sara-drakeley
+    name: Sara Drakeley
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/sara-drakeley/
+    projects:
+      - projectId: sentz
+    createdAt: '2026-02-23T18:36:23.555Z'
+    updatedAt: '2026-02-23T18:36:23.555Z'
+  - id: henry-holtzman
+    name: Henry Holtzman
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/holtzmanh/?original_referer=https%3A%2F%2Fwww.sentz.com%2F
+    projects:
+      - projectId: sentz
+    createdAt: '2026-02-23T18:36:23.555Z'
+    updatedAt: '2026-02-23T18:36:23.555Z'
+  - id: kayabanerve
+    name: kayabaNerve
+    links:
+      - type: github
+        url: https://github.com/kayabaNerve
+    projects:
+      - projectId: serai
+    createdAt: '2026-02-23T18:36:23.555Z'
+    updatedAt: '2026-02-23T18:36:23.555Z'
+  - id: venket-naga
+    name: VENKET NAGA
+    title: CEO & Co-Founder
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/venket-naga-97998b265/
+    projects:
+      - projectId: serenityshield
+        role: CEO & Co-Founder
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: boris-m
+    name: Boris M.
+    title: CPO & Co-Founder
+    links: []
+    projects:
+      - projectId: serenityshield
+        role: CPO & Co-Founder
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: hughes-svay
+    name: Hughes Svay
+    title: COO
+    links:
+      - type: twitter
+        url: https://x.com/SvayHugues
+    projects:
+      - projectId: serenityshield
+        role: COO
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: nikos-koukos
+    name: Nikos Koukos
+    title: Head of Marketing
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/nikos-koukos-7a3899214/
+    projects:
+      - projectId: serenityshield
+        role: Head of Marketing
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: nataliia-shtangrat
+    name: Nataliia Shtangrat
+    title: Business dev
+    links:
+      - type: twitter
+        url: https://x.com/Natalie_sht
+    projects:
+      - projectId: serenityshield
+        role: Business dev
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: justin-mantell
+    name: Justin Mantell
+    title: Business dev
+    links:
+      - type: twitter
+        url: https://x.com/ahabs_ghost
+    projects:
+      - projectId: serenityshield
+        role: Business dev
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: dan-thompson
+    name: Dan Thompson
+    title: Copywriter
+    links:
+      - type: twitter
+        url: https://x.com/dan_serenity
+    projects:
+      - projectId: serenityshield
+        role: Copywriter
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: juan-m-oviedo
+    name: Juan M.Oviedo
+    title: Head of security
+    links:
+      - type: twitter
+        url: https://x.com/OviedoJuanma
+    projects:
+      - projectId: serenityshield
+        role: Head of security
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: julio-vilalobos
+    name: Julio Vilalobos
+    title: Designer
+    links:
+      - type: twitter
+        url: https://x.com/julioskulls
+    projects:
+      - projectId: serenityshield
+        role: Designer
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: ranjit-edward
+    name: Ranjit Edward
+    title: Infrastructure Architect
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/ranjitedward/
+    projects:
+      - projectId: serenityshield
+        role: Infrastructure Architect
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: carter-l-woetzel
+    name: Carter L. Woetzel
+    title: researcher
+    links:
+      - type: twitter
+        url: https://twitter.com/l_woetzel
+    projects:
+      - projectId: shade
+        role: researcher
+    createdAt: '2026-02-23T18:36:23.556Z'
+    updatedAt: '2026-02-23T18:36:23.556Z'
+  - id: jason-mcgee-stramaglia
+    name: Jason ``McGee`` Stramaglia
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: zooko-wilcox
+    name: Zooko Wilcox
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: nate-wilcox
+    name: Nate Wilcox
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: mark-henderson
+    name: Mark Henderson
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: sam-smith
+    name: Sam Smith
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: andrew-reece
+    name: Andrew Reece
+    links:
+      - type: web
+        url: https://shieldedlabs.net/team/
+    projects:
+      - projectId: shielded-labs
+    createdAt: '2026-02-23T18:36:23.557Z'
+    updatedAt: '2026-02-23T18:36:23.557Z'
+  - id: luis-bezzenberger
+    name: Luis Bezzenberger
+    links:
+      - type: twitter
+        url: https://x.com/bezzenberger
+    projects:
+      - projectId: shutter-network
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: loring-harkness
+    name: Loring Harkness
+    links:
+      - type: twitter
+        url: https://x.com/LoringHarkness
+    projects:
+      - projectId: shutter-network
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: nate
+    name: Nate
+    links:
+      - type: twitter
+        url: https://twitter.com/n8maninger
+    projects:
+      - projectId: sia
+        role: President
+    createdAt: '2026-02-23T18:45:51.528Z'
+    updatedAt: '2026-02-23T18:45:51.528Z'
+    displayName: Nate
+    tags: []
+    organizations: []
+  - id: chris
+    name: Chris
+    title: Director of Engineering
+    links:
+      - type: github
+        url: https://github.com/ChrisSchinnerl
+    projects:
+      - projectId: sia
+        role: Director of Engineering
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: frances
+    name: Frances
+    title: Director Operation
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/frances-lu-066762123/
+    projects:
+      - projectId: sia
+        role: Director Operation
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: steve
+    name: Steve
+    title: Director People & Support
+    links:
+      - type: github
+        url: https://github.com/stevefunk
+    projects:
+      - projectId: sia
+        role: Director People & Support
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: pj
+    name: PJ
+    title: dev
+    links:
+      - type: github
+        url: https://github.com/peterjan
+    projects:
+      - projectId: sia
+        role: dev
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: christopher
+    name: Christopher
+    title: dev
+    links:
+      - type: github
+        url: https://github.com/chris124567
+    projects:
+      - projectId: sia
+        role: dev
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: kino
+    name: Kino
+    title: Community Manager
+    links:
+      - type: github
+        url: https://github.com/kinomora
+    projects:
+      - projectId: sia
+        role: Community Manager
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: m2049r
+    name: m2049r
+    links:
+      - type: github
+        url: https://github.com/m2049r
+    projects:
+      - projectId: sidekick
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: baltsar
+    name: Baltsar
+    links:
+      - type: github
+        url: https://github.com/Baltsar
+    projects:
+      - projectId: sidekick
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: anhhdres
+    name: anhhdres
+    links:
+      - type: github
+        url: https://github.com/anhdres
+    projects:
+      - projectId: sidekick
+    createdAt: '2026-02-23T18:36:23.558Z'
+    updatedAt: '2026-02-23T18:36:23.558Z'
+  - id: jay-prakash
+    name: Jay Prakash
+    links:
+      - type: web
+        url: https://silencelaboratories.com/team
+    projects:
+      - projectId: silence-laboratories
+    createdAt: '2026-02-23T18:36:23.559Z'
+    updatedAt: '2026-02-23T18:36:23.559Z'
+  - id: andrei-bytes
+    name: Andrei Bytes
+    links:
+      - type: web
+        url: https://silencelaboratories.com/team
+    projects:
+      - projectId: silence-laboratories
+    createdAt: '2026-02-23T18:36:23.559Z'
+    updatedAt: '2026-02-23T18:36:23.559Z'
+  - id: tony-quek
+    name: Tony Quek
+    links:
+      - type: web
+        url: https://silencelaboratories.com/team
+    projects:
+      - projectId: silence-laboratories
+    createdAt: '2026-02-23T18:36:23.559Z'
+    updatedAt: '2026-02-23T18:36:23.559Z'
+  - id: suya
+    name: suya
+    links:
+      - type: web
+        url: https://t.me/rugmes
+    projects:
+      - projectId: silensio
+    createdAt: '2026-02-23T18:36:23.560Z'
+    updatedAt: '2026-02-23T18:36:23.560Z'
+  - id: aidan
+    name: aidan
+    links:
+      - type: web
+        url: https://t.me/aidanwalsh
+    projects:
+      - projectId: silensio
+    createdAt: '2026-02-23T18:36:23.560Z'
+    updatedAt: '2026-02-23T18:36:23.560Z'
+  - id: andrew-campbell
+    name: Andrew Campbell
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/andylnd/
+    projects:
+      - projectId: silent-data
+    createdAt: '2026-02-23T18:36:23.560Z'
+    updatedAt: '2026-02-23T18:36:23.560Z'
+  - id: adi-ben-ari
+    name: Adi Ben-Ari
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/adibenari/
+    projects:
+      - projectId: silent-data
+    createdAt: '2026-02-23T18:36:23.560Z'
+    updatedAt: '2026-02-23T18:36:23.560Z'
+  - id: avishay-yanai
+    name: Avishay Yanai
+    links:
+      - type: web
+        url: https://www.sodalabs.xyz/
+    projects:
+      - projectId: soda-labs
+    createdAt: '2026-02-23T18:36:23.562Z'
+    updatedAt: '2026-02-23T18:36:23.562Z'
+  - id: meital-levy
+    name: Meital Levy
+    links:
+      - type: web
+        url: https://www.sodalabs.xyz/
+    projects:
+      - projectId: soda-labs
+    createdAt: '2026-02-23T18:36:23.562Z'
+    updatedAt: '2026-02-23T18:36:23.562Z'
+  - id: jacks
+    name: Jacks
+    links:
+      - type: twitter
+        url: https://x.com/Encrypted_Jacks
+    projects:
+      - projectId: soldm
+    createdAt: '2026-02-23T18:36:23.562Z'
+    updatedAt: '2026-02-23T18:36:23.562Z'
+  - id: hash
+    name: Hash
+    links:
+      - type: twitter
+        url: https://x.com/TheHashMiner
+    projects:
+      - projectId: soldm
+    createdAt: '2026-02-23T18:36:23.562Z'
+    updatedAt: '2026-02-23T18:36:23.562Z'
+  - id: craigraw
+    name: craigraw
+    title: Project Lead
+    links:
+      - type: twitter
+        url: http://twitter.com/craigraw
+    projects:
+      - projectId: sparrow
+        role: Project Lead
+    createdAt: '2026-02-23T18:36:23.563Z'
+    updatedAt: '2026-02-23T18:36:23.563Z'
+  - id: blake-regalia
+    name: blake.regalia
+    links:
+      - type: web
+        url: https://blake-regalia.net/
+    projects:
+      - projectId: starshell
+    createdAt: '2026-02-23T18:36:23.566Z'
+    updatedAt: '2026-02-23T18:36:23.566Z'
+  - id: carl-bennetts
+    name: Carl Bennetts
+    links: []
+    projects:
+      - projectId: status
+    createdAt: '2026-02-23T18:36:23.567Z'
+    updatedAt: '2026-02-23T18:36:23.567Z'
+  - id: jarrad-hope
+    name: Jarrad Hope
+    links:
+      - type: twitter
+        url: https://x.com/jarradhope_
+    projects:
+      - projectId: status
+    createdAt: '2026-02-23T18:45:46.769Z'
+    updatedAt: '2026-02-23T18:45:46.769Z'
+    displayName: Jarrad Hope
+    tags: []
+    organizations: []
+  - id: vadim-taszycki
+    name: Vadim Taszycki
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/vadim-taszycki-647b8723a/
+    projects:
+      - projectId: stealthex
+    createdAt: '2026-02-23T18:36:23.568Z'
+    updatedAt: '2026-02-23T18:36:23.568Z'
+  - id: ravital-solomon
+    name: Ravital Solomon
+    links:
+      - type: twitter
+        url: x.com/ravitals
+    projects:
+      - projectId: sunscreen
+    createdAt: '2026-02-23T18:36:23.569Z'
+    updatedAt: '2026-02-23T18:36:23.569Z'
+  - id: abhi-raheja
+    name: Abhi Raheja
+    links:
+      - type: twitter
+        url: x.com/abhihereandnow
+    projects:
+      - projectId: sunscreen
+    createdAt: '2026-02-23T18:36:23.569Z'
+    updatedAt: '2026-02-23T18:36:23.569Z'
+  - id: viktor-tr-n
+    name: Viktor Trón
+    links:
+      - type: twitter
+        url: https://x.com/zeligf
+    projects:
+      - projectId: swarm
+    createdAt: '2026-02-23T18:36:23.570Z'
+    updatedAt: '2026-02-23T18:36:23.570Z'
+  - id: florian-le-goff
+    name: Florian Le Goff
+    title: CEO
+    links:
+      - type: twitter
+        url: https://x.com/0xAnimaniac
+    projects:
+      - projectId: synaps
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.570Z'
+    updatedAt: '2026-02-23T18:36:23.570Z'
+  - id: roman-walch
+    name: Roman Walch
+    title: Co-founder
+    links:
+      - type: twitter
+        url: https://x.com/rw0x0
+    projects:
+      - projectId: taceo
+        role: Co-founder
+    createdAt: '2026-02-23T18:36:23.571Z'
+    updatedAt: '2026-02-23T18:36:23.571Z'
+  - id: lukas-helminger
+    name: Lukas Helminger
+    title: CEO
+    links:
+      - type: twitter
+        url: https://x.com/luhelminger
+    projects:
+      - projectId: taceo
+        role: CEO
+    createdAt: '2026-02-23T18:36:23.571Z'
+    updatedAt: '2026-02-23T18:36:23.571Z'
+  - id: aisling-connolly
+    name: Aisling Connolly
+    links:
+      - type: twitter
+        url: x.com/aisconnolly
+    projects:
+      - projectId: taceo
+    createdAt: '2026-02-23T18:36:23.571Z'
+    updatedAt: '2026-02-23T18:36:23.571Z'
+  - id: riccardo-spagni
+    name: Riccardo Spagni
+    links:
+      - type: twitter
+        url: https://twitter.com/fluffypony
+    projects:
+      - projectId: tari
+    createdAt: '2026-02-23T18:36:23.571Z'
+    updatedAt: '2026-02-23T18:36:23.571Z'
+  - id: naveen-jain
+    name: Naveen Jain
+    links:
+      - type: twitter
+        url: https://x.com/NaveenSpark
+    projects:
+      - projectId: tari
+    createdAt: '2026-02-23T18:36:23.571Z'
+    updatedAt: '2026-02-23T18:36:23.571Z'
+  - id: mickael-canu
+    name: Mickael Canu
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/mickaelcanu/
+    projects:
+      - projectId: ternoa
+    createdAt: '2026-02-23T18:36:23.572Z'
+    updatedAt: '2026-02-23T18:36:23.572Z'
+  - id: h4sh3d
+    name: h4sh3d
+    links:
+      - type: github
+        url: https://github.com/h4sh3d
+    projects:
+      - projectId: the-farcaster-project
+    createdAt: '2026-02-23T18:36:23.574Z'
+    updatedAt: '2026-02-23T18:36:23.574Z'
+  - id: alexey-pertsev
+    name: Alexey Pertsev
+    links:
+      - type: twitter
+        url: https://x.com/alex_pertsev?lang=cs
+    projects:
+      - projectId: tornadocash
+    createdAt: '2026-02-23T18:36:23.576Z'
+    updatedAt: '2026-02-23T18:36:23.576Z'
+  - id: roman-storm
+    name: Roman Storm
+    links:
+      - type: twitter
+        url: https://x.com/rstormsf
+    projects:
+      - projectId: tornadocash
+    createdAt: '2026-02-23T18:36:23.576Z'
+    updatedAt: '2026-02-23T18:36:23.576Z'
+  - id: roman-semenov
+    name: Roman Semenov
+    links:
+      - type: twitter
+        url: https://x.com/semenov_roman_
+    projects:
+      - projectId: tornadocash
+    createdAt: '2026-02-23T18:36:23.576Z'
+    updatedAt: '2026-02-23T18:36:23.576Z'
+  - id: ben-difrancesco
+    name: Ben DiFrancesco
+    links:
+      - type: twitter
+        url: https://twitter.com/BenDiFrancesco
+    projects:
+      - projectId: umbra
+    createdAt: '2026-02-23T18:36:23.577Z'
+    updatedAt: '2026-02-23T18:36:23.577Z'
+  - id: gary-ghayrat
+    name: Gary Ghayrat
+    links:
+      - type: twitter
+        url: https://twitter.com/garyghayrat
+    projects:
+      - projectId: umbra
+    createdAt: '2026-02-23T18:36:23.577Z'
+    updatedAt: '2026-02-23T18:36:23.577Z'
+  - id: marco-mariscal
+    name: Marco Mariscal
+    links:
+      - type: github
+        url: https://github.com/marcomariscal
+    projects:
+      - projectId: umbra
+    createdAt: '2026-02-23T18:36:23.577Z'
+    updatedAt: '2026-02-23T18:36:23.577Z'
+  - id: krutarth-shah
+    name: Krutarth Shah
+    title: Co-Founder & CEO
+    links:
+      - type: twitter
+        url: https://x.com/kru_tweets
+    projects:
+      - projectId: umbra-wallet
+        role: Co-Founder & CEO
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: calisto-mathias
+    name: Calisto Mathias
+    title: Co-Founder & CTO
+    links:
+      - type: twitter
+        url: https://x.com/typi_cal_
+    projects:
+      - projectId: umbra-wallet
+        role: Co-Founder & CTO
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: pranay-bagde
+    name: Pranay Bagde
+    title: Co-Founder & CPO
+    links:
+      - type: twitter
+        url: https://x.com/pranay_design
+    projects:
+      - projectId: umbra-wallet
+        role: Co-Founder & CPO
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: asim-shaikh
+    name: Asim Shaikh
+    title: Founding Engineer
+    links:
+      - type: twitter
+        url: https://x.com/asimshaik_10
+    projects:
+      - projectId: umbra-wallet
+        role: Founding Engineer
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: piyush-panpaliya
+    name: Piyush Panpaliya
+    title: Founding Engineer
+    links:
+      - type: twitter
+        url: https://x.com/piyush_json
+    projects:
+      - projectId: umbra-wallet
+        role: Founding Engineer
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: pata
+    name: Pata
+    title: Marketing, Community & BD
+    links:
+      - type: twitter
+        url: https://x.com/0xPata
+    projects:
+      - projectId: umbra-wallet
+        role: Marketing, Community & BD
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: binary-baron
+    name: Binary Baron
+    links:
+      - type: github
+        url: https://github.com/binarybaron
+    projects:
+      - projectId: unstoppable-swap
+    createdAt: '2026-02-23T18:36:23.578Z'
+    updatedAt: '2026-02-23T18:36:23.578Z'
+  - id: dan-dadybayo
+    name: Dan Dadybayo
+    links:
+      - type: twitter
+        url: https://x.com/ddadybayo
+    projects:
+      - projectId: unstoppable-wallet
+    createdAt: '2026-02-23T18:36:23.579Z'
+    updatedAt: '2026-02-23T18:36:23.579Z'
+  - id: shawn-chang
+    name: Shawn Chang
+    title: Founder & CEO
+    links: []
+    projects:
+      - projectId: vault1317
+        role: Founder & CEO
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: ming-xu
+    name: Ming Xu
+    title: COO
+    links: []
+    projects:
+      - projectId: vault1317
+        role: COO
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: cybernaut-eth
+    name: cybernaut.eth
+    title: CTO
+    links: []
+    projects:
+      - projectId: vault1317
+        role: CTO
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: jskitty
+    name: JSKitty
+    links:
+      - type: twitter
+        url: https://x.com/JSKitteh
+    projects:
+      - projectId: vector-privacy
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: yuurinbee
+    name: YuurinBee
+    links:
+      - type: twitter
+        url: https://x.com/YuurinB
+    projects:
+      - projectId: vector-privacy
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: hans-koning
+    name: Hans Koning
+    links:
+      - type: twitter
+        url: https://x.com/hanskoning
+    projects:
+      - projectId: vector-privacy
+    createdAt: '2026-02-23T18:36:23.580Z'
+    updatedAt: '2026-02-23T18:36:23.580Z'
+  - id: erik-voorhees
+    name: Erik Voorhees
+    links:
+      - type: twitter
+        url: https://x.com/ErikVoorhees
+    projects:
+      - projectId: venice
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: teana-baker-taylor
+    name: Teana Baker-Taylor
+    links:
+      - type: twitter
+        url: https://x.com/TeanaTaylor
+    projects:
+      - projectId: venice
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: jesse-proudman
+    name: Jesse Proudman
+    links:
+      - type: twitter
+        url: https://x.com/jesseproudman
+    projects:
+      - projectId: venice
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: chris-were
+    name: Chris Were
+    title: Co-Founder & CEO
+    links: []
+    projects:
+      - projectId: verida
+        role: Co-Founder & CEO
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: ryan-kris
+    name: Ryan Kris
+    title: Co-Founder & COO
+    links: []
+    projects:
+      - projectId: verida
+        role: Co-Founder & COO
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: pavol-rusnack
+    name: Pavol Rusnack
+    links:
+      - type: twitter
+        url: https://x.com/PavolRusnak
+    projects:
+      - projectId: vexl
+    createdAt: '2026-02-23T18:36:23.581Z'
+    updatedAt: '2026-02-23T18:36:23.581Z'
+  - id: hubert-rachwalski-von-rejchwald
+    name: Hubert Rachwalski von Rejchwald
+    links:
+      - type: twitter
+        url: https://x.com/HubertRvR_PL
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: marek-kirejczyk
+    name: Marek Kirejczyk
+    links:
+      - type: twitter
+        url: https://x.com/zkMarek
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: namita-shenolikar
+    name: Namita Shenolikar
+    links:
+      - type: twitter
+        url: https://x.com/nam1ta
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: iweta-laskowska
+    name: Iweta Laskowska
+    links:
+      - type: twitter
+        url: https://x.com/iweta_web3
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: natalia-kirejczyk
+    name: Natalia Kirejczyk
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/nkirejczyk/
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: leonid-logvinov
+    name: Leonid Logvinov
+    links:
+      - type: twitter
+        url: https://x.com/logvinov_leon
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: piotr-elazko
+    name: Piotr Żelazko
+    links:
+      - type: twitter
+        url: https://x.com/pzelazko_eth
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: artur-chmaro
+    name: Artur Chmaro
+    links:
+      - type: twitter
+        url: https://x.com/ArtiChmaro
+    projects:
+      - projectId: vlayer
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: jordi-aulet
+    name: Jordi Aulet
+    links:
+      - type: twitter
+        url: https://x.com/jp_aulet
+    projects:
+      - projectId: vocdoni
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: pau-escrich
+    name: Pau Escrich
+    links:
+      - type: twitter
+        url: https://x.com/wildp4u
+    projects:
+      - projectId: vocdoni
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: jordi-pinyana
+    name: Jordi Pinyana
+    links: []
+    projects:
+      - projectId: vocdoni
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: guido-iribarren
+    name: Guido Iribarren
+    links:
+      - type: github
+        url: https://github.com/altergui
+    projects:
+      - projectId: vocdoni
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: lucas-men-ndez
+    name: Lucas Menéndez
+    links:
+      - type: github
+        url: https://github.com/lucasmenendez
+    projects:
+      - projectId: vocdoni
+    createdAt: '2026-02-23T18:36:23.582Z'
+    updatedAt: '2026-02-23T18:36:23.582Z'
+  - id: rasul
+    name: Rasul
+    links:
+      - type: twitter
+        url: https://x.com/curryrasul
+    projects:
+      - projectId: voprf-id
+    createdAt: '2026-02-23T18:36:23.583Z'
+    updatedAt: '2026-02-23T18:36:23.583Z'
+  - id: paradox
+    name: Paradox
+    links: []
+    projects:
+      - projectId: voprf-id
+    createdAt: '2026-02-23T18:36:23.583Z'
+    updatedAt: '2026-02-23T18:36:23.583Z'
+  - id: lucas-ontivero
+    name: Lucas Ontivero
+    links:
+      - type: github
+        url: https://github.com/lontivero
+    projects:
+      - projectId: wasabi-wallet
+    createdAt: '2026-02-23T18:36:23.583Z'
+    updatedAt: '2026-02-23T18:36:23.583Z'
+  - id: turbolay
+    name: Turbolay
+    links:
+      - type: github
+        url: https://github.com/turbolay
+    projects:
+      - projectId: wasabi-wallet
+    createdAt: '2026-02-23T18:36:23.583Z'
+    updatedAt: '2026-02-23T18:36:23.583Z'
+  - id: mf
+    name: MF
+    links:
+      - type: twitter
+        url: https://x.com/0x_m_f
+    projects:
+      - projectId: web3privacynow
+    createdAt: '2026-02-23T18:45:50.148Z'
+    updatedAt: '2026-02-23T18:45:50.148Z'
+    displayName: MF
+    tags: []
+    organizations: []
+  - id: pg
+    name: PG
+    links:
+      - type: twitter
+        url: https://x.com/PG_CDG
+    projects:
+      - projectId: web3privacynow
+    createdAt: '2026-02-23T18:45:53.416Z'
+    updatedAt: '2026-02-23T18:45:53.416Z'
+    displayName: PG
+    tags: []
+    organizations: []
+  - id: mykola
+    name: Mykola
+    links:
+      - type: twitter
+        url: https://x.com/nicksvyaznoy
+    projects:
+      - projectId: web3privacynow
+    createdAt: '2026-02-23T18:36:23.584Z'
+    updatedAt: '2026-02-23T18:36:23.584Z'
+  - id: sophie
+    name: Sophie
+    links:
+      - type: twitter
+        url: https://x.com/k2_sophie
+    projects:
+      - projectId: wiremin
+    createdAt: '2026-02-23T18:36:23.585Z'
+    updatedAt: '2026-02-23T18:36:23.585Z'
+  - id: elusive
+    name: Elusive
+    links:
+      - type: twitter
+        url: https://x.com/elusiveprivacy
+    projects:
+      - projectId: xmr.bar
+    createdAt: '2026-02-23T18:36:23.586Z'
+    updatedAt: '2026-02-23T18:36:23.586Z'
+  - id: bilal-el-alamy
+    name: Bilal El Alamy
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/bilal-el-alamy/
+    projects:
+      - projectId: zaiffer
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: thomas-binetruy
+    name: Thomas Binetruy
+    links:
+      - type: linkedin
+        url: https://www.linkedin.com/in/thomas-binetruy/
+    projects:
+      - projectId: zaiffer
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: rand-hindi
+    name: Rand Hindi
+    links:
+      - type: twitter
+        url: https://x.com/randhindi
+    projects:
+      - projectId: zama
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: quinten-van-welzen
+    name: 'Quinten van Welzen '
+    links:
+      - type: twitter
+        url: https://x.com/Mr_Kwibs
+    projects:
+      - projectId: zano
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: pavel-nikienkov
+    name: Pavel Nikienkov
+    links:
+      - type: twitter
+        url: https://x.com/pavelravaga
+    projects:
+      - projectId: zano
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: andrey-sabelnikov
+    name: 'Andrey Sabelnikov '
+    links:
+      - type: twitter
+        url: https://x.com/_cryptozoidberg
+    projects:
+      - projectId: zano
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: valeriy-pisarkov
+    name: Valeriy Pisarkov
+    links:
+      - type: twitter
+        url: https://x.com/crypto_sowle
+    projects:
+      - projectId: zano
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: electric-coin-company
+    name: 'Electric Coin Company '
+    links:
+      - type: twitter
+        url: https://x.com/electriccoinco
+    projects:
+      - projectId: zashi
+    createdAt: '2026-02-23T18:36:23.588Z'
+    updatedAt: '2026-02-23T18:36:23.588Z'
+  - id: str4d
+    name: Str4d
+    links:
+      - type: twitter
+        url: https://x.com/str4d
+    projects:
+      - projectId: zcash
+    createdAt: '2026-02-23T18:36:23.589Z'
+    updatedAt: '2026-02-23T18:36:23.589Z'
+  - id: kris-nuttycombe
+    name: Kris Nuttycombe
+    links:
+      - type: twitter
+        url: https://x.com/nuttycom
+    projects:
+      - projectId: zcash
+    createdAt: '2026-02-23T18:36:23.589Z'
+    updatedAt: '2026-02-23T18:36:23.589Z'
+  - id: daira-emma-hopwood
+    name: Daira-Emma Hopwood
+    links:
+      - type: twitter
+        url: https://x.com/feministPLT
+    projects:
+      - projectId: zcash
+    createdAt: '2026-02-23T18:36:23.589Z'
+    updatedAt: '2026-02-23T18:36:23.589Z'
+  - id: jordi-baylina
+    name: Jordi Baylina
+    links:
+      - type: twitter
+        url: https://x.com/jbaylina
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: xavier-pinsach
+    name: Xavier Pinsach
+    links:
+      - type: twitter
+        url: https://x.com/xavipinsach
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: zkronos-73
+    name: zkronos 73
+    links:
+      - type: twitter
+        url: https://x.com/zkronos73
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: ricard-borrell-pol
+    name: Ricard Borrell Pol
+    links:
+      - type: twitter
+        url: https://x.com/Ricard_Borrell
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: h-ctor-masip
+    name: Héctor Masip
+    links:
+      - type: twitter
+        url: https://x.com/EllipticHector
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: fractasy-reevolution
+    name: Fractasy Reevolution
+    links:
+      - type: twitter
+        url: https://x.com/FractasyR
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: agnusmor
+    name: agnusmor
+    links:
+      - type: twitter
+        url: https://x.com/agnusmorX
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: roger-taule
+    name: Roger Taule
+    links:
+      - type: twitter
+        url: https://x.com/roger_taule
+    projects:
+      - projectId: zisk
+    createdAt: '2026-02-23T18:36:23.591Z'
+    updatedAt: '2026-02-23T18:36:23.591Z'
+  - id: arthur
+    name: Arthur
+    links: []
+    projects:
+      - projectId: zkencrypt-ai
+    createdAt: '2026-02-23T18:36:23.593Z'
+    updatedAt: '2026-02-23T18:36:23.593Z'
+  - id: gary
+    name: Gary
+    links:
+      - type: web
+        url: t.me/gary_sherd
+    projects:
+      - projectId: zkforge
+    createdAt: '2026-02-23T18:36:23.593Z'
+    updatedAt: '2026-02-23T18:36:23.593Z'
+  - id: zulu0echo
+    name: zulu0echo
+    links:
+      - type: github
+        url: https://github.com/zulu0echo
+    projects:
+      - projectId: zkid
+    createdAt: '2026-02-23T18:36:23.594Z'
+    updatedAt: '2026-02-23T18:36:23.594Z'
+  - id: ntampakas
+    name: ntampakas
+    links:
+      - type: github
+        url: https://github.com/ntampakas
+    projects:
+      - projectId: zkid
+    createdAt: '2026-02-23T18:36:23.594Z'
+    updatedAt: '2026-02-23T18:36:23.594Z'
+  - id: 0xvikasrushi
+    name: 0xVikasRushi
+    links:
+      - type: github
+        url: https://github.com/0xVikasRushi
+    projects:
+      - projectId: zkid
+    createdAt: '2026-02-23T18:36:23.594Z'
+    updatedAt: '2026-02-23T18:36:23.594Z'
+  - id: richard
+    name: Richard
+    links:
+      - type: twitter
+        url: https://x.com/richardz0x
+    projects:
+      - projectId: zkp2p
+    createdAt: '2026-02-23T18:36:23.595Z'
+    updatedAt: '2026-02-23T18:36:23.595Z'
+  - id: sachin
+    name: Sachin
+    links:
+      - type: twitter
+        url: https://x.com/0xSachinK
+    projects:
+      - projectId: zkp2p
+    createdAt: '2026-02-23T18:36:23.595Z'
+    updatedAt: '2026-02-23T18:36:23.595Z'
+  - id: ben
+    name: Ben
+    links:
+      - type: twitter
+        url: https://x.com/unhappyben
+    projects:
+      - projectId: zkp2p
+    createdAt: '2026-02-23T18:36:23.595Z'
+    updatedAt: '2026-02-23T18:36:23.595Z'
+  - id: davy-jones
+    name: Davy Jones
+    links:
+      - type: twitter
+        url: https://x.com/davyjones0x
+    projects:
+      - projectId: zkp2p
+    createdAt: '2026-02-23T18:36:23.595Z'
+    updatedAt: '2026-02-23T18:36:23.595Z'
+  - id: valeryz
+    name: valeryz
+    links:
+      - type: twitter
+        url: https://x.com/valeryz
+    projects:
+      - projectId: zksafe
+    createdAt: '2026-02-23T18:36:23.595Z'
+    updatedAt: '2026-02-23T18:36:23.595Z'
+  - id: afri-schoedon
+    name: Afri Schoedon
+    displayName: Afri Schoedon
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:38.919Z'
+    updatedAt: '2026-02-23T18:45:38.919Z'
+  - id: ahmed-ghappour
+    name: Ahmed Ghappour
+    displayName: Ahmed Ghappour
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:39.085Z'
+    updatedAt: '2026-02-23T18:45:39.085Z'
+  - id: alex-gluchowski
+    name: Alex Gluchowski
+    displayName: Alex Gluchowski
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:39.468Z'
+    updatedAt: '2026-02-23T18:45:39.468Z'
+  - id: alex-kampa
+    name: Alex Kampa
+    displayName: Alex Kampa
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:39.640Z'
+    updatedAt: '2026-02-23T18:45:39.640Z'
+  - id: alina
+    name: Alina
+    displayName: Alina
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:40.004Z'
+    updatedAt: '2026-02-23T18:45:40.004Z'
+  - id: alona-shevchenko
+    name: Alona Shevchenko
+    displayName: Alona Shevchenko
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:40.186Z'
+    updatedAt: '2026-02-23T18:45:40.186Z'
+  - id: althea
+    name: Althea
+    displayName: Althea
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:40.361Z'
+    updatedAt: '2026-02-23T18:45:40.361Z'
+  - id: amit-chaudhary
+    name: Amit Chaudhary
+    displayName: Amit Chaudhary
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:40.891Z'
+    updatedAt: '2026-02-23T18:45:40.891Z'
+  - id: andrea-togni
+    name: Andrea Togni
+    displayName: Andrea Togni
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:41.056Z'
+    updatedAt: '2026-02-23T18:45:41.056Z'
+  - id: andreas-miroyato
+    name: Andreas Miroyato
+    displayName: Andreas Miroyato
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:41.241Z'
+    updatedAt: '2026-02-23T18:45:41.241Z'
+  - id: andreas-tsamados
+    name: Andreas Tsamados
+    displayName: Andreas Tsamados
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:41.423Z'
+    updatedAt: '2026-02-23T18:45:41.423Z'
+  - id: andreea
+    name: Andreea
+    displayName: Andreea
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:41.694Z'
+    updatedAt: '2026-02-23T18:45:41.694Z'
+  - id: ann-brody
+    name: Ann Brody
+    displayName: Ann Brody
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:41.916Z'
+    updatedAt: '2026-02-23T18:45:41.916Z'
+  - id: antoni-zolciak
+    name: Antoni Zolciak
+    displayName: Antoni Zolciak
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:42.114Z'
+    updatedAt: '2026-02-23T18:45:42.114Z'
+  - id: arturo-filasto
+    name: Arturo Filasto
+    displayName: Arturo Filasto
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:42.287Z'
+    updatedAt: '2026-02-23T18:45:42.287Z'
+  - id: auyrn-macmillan
+    name: Auyrn Macmillan
+    displayName: Auyrn Macmillan
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:42.477Z'
+    updatedAt: '2026-02-23T18:45:42.477Z'
+  - id: federico-marchi
+    name: Federico Marchi
+    displayName: Federico Marchi
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:42.654Z'
+    updatedAt: '2026-02-23T18:45:42.654Z'
+  - id: bob-summerwill
+    name: Bob Summerwill
+    displayName: Bob Summerwill
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:42.911Z'
+    updatedAt: '2026-02-23T18:45:42.911Z'
+  - id: carlo-avv-chialastri
+    name: Carlo Avv. Chialastri
+    displayName: Carlo Avv. Chialastri
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:43.102Z'
+    updatedAt: '2026-02-23T18:45:43.102Z'
+  - id: cat
+    name: cat
+    displayName: cat
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:43.289Z'
+    updatedAt: '2026-02-23T18:45:43.289Z'
+  - id: catsnaks
+    name: Catsnaks
+    displayName: Catsnaks
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:43.479Z'
+    updatedAt: '2026-02-23T18:45:43.479Z'
+  - id: chelsea-manning
+    name: Chelsea Manning
+    displayName: Chelsea Manning
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:43.654Z'
+    updatedAt: '2026-02-23T18:45:43.654Z'
+  - id: claire-kart
+    name: Claire Kart
+    displayName: Claire Kart
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:43.832Z'
+    updatedAt: '2026-02-23T18:45:43.832Z'
+  - id: coinmandeer
+    name: Coinmandeer
+    displayName: Coinmandeer
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:44.000Z'
+    updatedAt: '2026-02-23T18:45:44.000Z'
+  - id: costanza-gallo
+    name: Costanza Gallo
+    displayName: Costanza Gallo
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:44.182Z'
+    updatedAt: '2026-02-23T18:45:44.182Z'
+  - id: daniel-luca
+    name: Daniel Luca
+    displayName: Daniel Luca
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:44.379Z'
+    updatedAt: '2026-02-23T18:45:44.379Z'
+  - id: dapplion
+    name: Dapplion
+    displayName: Dapplion
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:44.596Z'
+    updatedAt: '2026-02-23T18:45:44.596Z'
+  - id: david-lee-chaum
+    name: David Lee Chaum
+    displayName: David Lee Chaum
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:44.839Z'
+    updatedAt: '2026-02-23T18:45:44.839Z'
+  - id: dcbuilder-eth
+    name: dcbuilder.eth
+    displayName: dcbuilder.eth
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:45.029Z'
+    updatedAt: '2026-02-23T18:45:45.029Z'
+  - id: el-onore-blanc
+    name: Eléonore Blanc
+    displayName: Eléonore Blanc
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:45.428Z'
+    updatedAt: '2026-02-23T18:45:45.428Z'
+  - id: emanuele-russo
+    name: Emanuele Russo
+    displayName: Emanuele Russo
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:45.602Z'
+    updatedAt: '2026-02-23T18:45:45.602Z'
+  - id: bryce
+    name: Bryce
+    displayName: Bryce
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:45.782Z'
+    updatedAt: '2026-02-23T18:45:45.782Z'
+  - id: gavin-birch
+    name: Gavin Birch
+    displayName: Gavin Birch
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:45.977Z'
+    updatedAt: '2026-02-23T18:45:45.977Z'
+  - id: guy-zyskind
+    name: Guy Zyskind
+    displayName: Guy Zyskind
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:46.173Z'
+    updatedAt: '2026-02-23T18:45:46.173Z'
+  - id: hsinju-chuang
+    name: Hsinju Chuang
+    displayName: Hsinju Chuang
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:46.422Z'
+    updatedAt: '2026-02-23T18:45:46.422Z'
+  - id: denis-roio
+    name: Denis Roio
+    displayName: Denis Roio
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:46.600Z'
+    updatedAt: '2026-02-23T18:45:46.600Z'
+  - id: jensei
+    name: Jensei
+    displayName: Jensei
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:47.145Z'
+    updatedAt: '2026-02-23T18:45:47.145Z'
+  - id: joshua-davila
+    name: Joshua Davila
+    displayName: Joshua Davila
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:47.328Z'
+    updatedAt: '2026-02-23T18:45:47.328Z'
+  - id: juraj-bednar
+    name: Juraj Bednar
+    displayName: Juraj Bednar
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:47.497Z'
+    updatedAt: '2026-02-23T18:45:47.497Z'
+  - id: kris
+    name: Kris
+    displayName: Kris
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:47.838Z'
+    updatedAt: '2026-02-23T18:45:47.838Z'
+  - id: kurt-opsahl
+    name: Kurt Opsahl
+    displayName: Kurt Opsahl
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:48.017Z'
+    updatedAt: '2026-02-23T18:45:48.017Z'
+  - id: lasha-antatze
+    name: Lasha Antatze
+    displayName: Lasha Antatze
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:48.203Z'
+    updatedAt: '2026-02-23T18:45:48.203Z'
+  - id: limone-eth
+    name: limone.eth
+    displayName: limone.eth
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:48.706Z'
+    updatedAt: '2026-02-23T18:45:48.706Z'
+  - id: luca-lezzerini
+    name: Luca Lezzerini
+    displayName: Luca Lezzerini
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:48.872Z'
+    updatedAt: '2026-02-23T18:45:48.872Z'
+  - id: manu-alzuru
+    name: Manu Alzuru
+    displayName: Manu Alzuru
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.051Z'
+    updatedAt: '2026-02-23T18:45:49.051Z'
+  - id: marcel-kolaja
+    name: Marcel Kolaja
+    displayName: Marcel Kolaja
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.232Z'
+    updatedAt: '2026-02-23T18:45:49.232Z'
+  - id: marco-castignoli
+    name: Marco Castignoli
+    displayName: Marco Castignoli
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.407Z'
+    updatedAt: '2026-02-23T18:45:49.407Z'
+  - id: mario-havel
+    name: Mario Havel
+    displayName: Mario Havel
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.590Z'
+    updatedAt: '2026-02-23T18:45:49.590Z'
+  - id: max-hampshire
+    name: Max Hampshire
+    displayName: Max Hampshire
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.759Z'
+    updatedAt: '2026-02-23T18:45:49.759Z'
+  - id: merula
+    name: Merula
+    displayName: Merula
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:49.946Z'
+    updatedAt: '2026-02-23T18:45:49.946Z'
+  - id: michel-bauwens
+    name: Michel Bauwens
+    displayName: Michel Bauwens
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:50.332Z'
+    updatedAt: '2026-02-23T18:45:50.332Z'
+  - id: michael-parenti
+    name: Michael Parenti
+    displayName: Michael Parenti
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:50.515Z'
+    updatedAt: '2026-02-23T18:45:50.515Z'
+  - id: michelle-lai
+    name: Michelle Lai
+    displayName: Michelle Lai
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:50.796Z'
+    updatedAt: '2026-02-23T18:45:50.796Z'
+  - id: mykola-siusko
+    name: Mykola Siusko
+    displayName: Mykola Siusko
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:51.183Z'
+    updatedAt: '2026-02-23T18:45:51.183Z'
+  - id: naomi-brockwell
+    name: Naomi Brockwell
+    displayName: Naomi Brockwell
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:51.356Z'
+    updatedAt: '2026-02-23T18:45:51.356Z'
+  - id: nick-almond
+    name: Nick Almond
+    displayName: Nick Almond
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:51.706Z'
+    updatedAt: '2026-02-23T18:45:51.706Z'
+  - id: odd
+    name: Odd
+    displayName: Odd
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:51.885Z'
+    updatedAt: '2026-02-23T18:45:51.885Z'
+  - id: odysseas
+    name: Odysseas
+    displayName: Odysseas
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:52.090Z'
+    updatedAt: '2026-02-23T18:45:52.090Z'
+  - id: oliver-gale
+    name: Oliver Gale
+    displayName: Oliver Gale
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:52.393Z'
+    updatedAt: '2026-02-23T18:45:52.393Z'
+  - id: oskarth
+    name: Oskarth
+    displayName: Oskarth
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:52.602Z'
+    updatedAt: '2026-02-23T18:45:52.602Z'
+  - id: paul-dylan-ennis
+    name: Paul Dylan Ennis
+    displayName: Paul Dylan Ennis
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:52.801Z'
+    updatedAt: '2026-02-23T18:45:52.801Z'
+  - id: pavol-lupt-k
+    name: Pavol Lupták
+    displayName: Pavol Lupták
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:52.986Z'
+    updatedAt: '2026-02-23T18:45:52.986Z'
+  - id: peter-farbey
+    name: Peter Farbey
+    displayName: Peter Farbey
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:53.232Z'
+    updatedAt: '2026-02-23T18:45:53.232Z'
+  - id: pie-man
+    name: Pie Man
+    displayName: Pie Man
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:53.590Z'
+    updatedAt: '2026-02-23T18:45:53.590Z'
+  - id: roma
+    name: Roma
+    displayName: Roma
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:53.754Z'
+    updatedAt: '2026-02-23T18:45:53.754Z'
+  - id: radek-varz
+    name: Radek Švarz
+    displayName: Radek Švarz
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:54.117Z'
+    updatedAt: '2026-02-23T18:45:54.117Z'
+  - id: remi-gai
+    name: Remi Gai
+    displayName: Remi Gai
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:54.319Z'
+    updatedAt: '2026-02-23T18:45:54.319Z'
+  - id: robert-de-groot
+    name: Robert de Groot
+    displayName: Robert de Groot
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:54.696Z'
+    updatedAt: '2026-02-23T18:45:54.696Z'
+  - id: roger-dingledine
+    name: Roger Dingledine
+    displayName: Roger Dingledine
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:54.891Z'
+    updatedAt: '2026-02-23T18:45:54.891Z'
+  - id: scott-moore
+    name: Scott Moore
+    displayName: Scott Moore
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:55.072Z'
+    updatedAt: '2026-02-23T18:45:55.072Z'
+  - id: sebastian-b-rgel
+    name: Sebastian Bürgel
+    displayName: Sebastian Bürgel
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:55.334Z'
+    updatedAt: '2026-02-23T18:45:55.334Z'
+  - id: serinko
+    name: Serinko
+    displayName: Serinko
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:55.523Z'
+    updatedAt: '2026-02-23T18:45:55.523Z'
+  - id: silke-noa
+    name: Silke Noa
+    displayName: Silke Noa
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:55.718Z'
+    updatedAt: '2026-02-23T18:45:55.718Z'
+  - id: steffen-kux
+    name: Steffen Kux
+    displayName: Steffen Kux
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:55.898Z'
+    updatedAt: '2026-02-23T18:45:55.898Z'
+  - id: sterlin-lujan
+    name: Sterlin Lujan
+    displayName: Sterlin Lujan
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:56.086Z'
+    updatedAt: '2026-02-23T18:45:56.086Z'
+  - id: tibor-cs-ka
+    name: Tibor Csóka
+    displayName: Tibor Csóka
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:56.260Z'
+    updatedAt: '2026-02-23T18:45:56.260Z'
+  - id: tim-bansemer
+    name: Tim Bansemer
+    displayName: Tim Bansemer
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:56.454Z'
+    updatedAt: '2026-02-23T18:45:56.454Z'
+  - id: tor-ekeland
+    name: Tor Ekeland
+    displayName: Tor Ekeland
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:56.679Z'
+    updatedAt: '2026-02-23T18:45:56.679Z'
+  - id: tree
+    name: Tree
+    displayName: Tree
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:56.900Z'
+    updatedAt: '2026-02-23T18:45:56.900Z'
+  - id: v-clav-pavl-n
+    name: Václav Pavlín
+    displayName: Václav Pavlín
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:57.076Z'
+    updatedAt: '2026-02-23T18:45:57.076Z'
+  - id: vincenzo-iovino
+    name: Vincenzo Iovino
+    displayName: Vincenzo Iovino
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:57.255Z'
+    updatedAt: '2026-02-23T18:45:57.255Z'
+  - id: vitalik-buterin
+    name: Vitalik Buterin
+    displayName: Vitalik Buterin
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:57.432Z'
+    updatedAt: '2026-02-23T18:45:57.432Z'
+  - id: wesley
+    name: Wesley
+    displayName: Wesley
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:57.609Z'
+    updatedAt: '2026-02-23T18:45:57.609Z'
+  - id: ying-tong
+    name: Ying Tong
+    displayName: Ying Tong
+    links: []
+    tags: []
+    organizations: []
+    createdAt: '2026-02-23T18:45:57.787Z'
+    updatedAt: '2026-02-23T18:45:57.787Z'

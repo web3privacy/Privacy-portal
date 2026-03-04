@@ -1,0 +1,26 @@
+name: Aragon
+categories:
+  - applications
+  - defi
+usecases:
+  - defi
+ecosystem:
+  - other
+description: "Private Swap, Anti-FrontRun DEX, SafeGuard VPN, Privacy EVM and
+  Reloadable Card Services. "
+sunset: false
+links:
+  web: https://aragon-protocol.com
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: ""
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+id: aragon

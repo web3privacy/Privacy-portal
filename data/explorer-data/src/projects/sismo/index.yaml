@@ -1,0 +1,25 @@
+id: sismo
+name: Sismo
+categories:
+  - applications
+description: a modular protocol issuing ZK Badges for reputation portability and aggregation
+links:
+  web: https://www.sismo.io/
+  github: https://github.com/sismo-core
+  docs: https://docs.sismo.io/sismo-docs
+  blog: https://sismo.mirror.xyz/
+  twitter: https://x.com/sismo_eth
+  discord: https://discord.com/invite/xKTMeRUX6u
+have_token: false
+usecases:
+  - did
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sismo/logo.png
+ecosystem:
+  - ethereum
+  - other
+  - multichain
+sunset: true

@@ -1,0 +1,126 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js build outputs (all apps)
+**/.next/
+**/out/
+**/dist/
+**/build/
+apps/*/.next/
+apps/*/out/
+apps/*/dist/
+apps/*/build/
+
+# Production builds
+*.tsbuildinfo
+next-env.d.ts
+
+# macOS
+__MACOSX/
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.iml
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# Vercel
+.vercel/
+.vercel
+
+# Generated files
+data/explorer-data/index.json
+data/explorer-data/dist/
+*.generated.*
+
+# Crawler temporary files
+data/news/crawler/candidates.json
+data/news/crawler/rejected.json
+data/news/crawler/images/
+
+# Cache directories
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.turbo/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Package manager lock files (optional - uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: Large asset directories (uncomment if using Git LFS or external storage)
+# apps/web/public/project-assets/
+# apps/web/public/images/icons/
+# apps/web/public/org/assets/
+
+# Optional: User submission files (if you want them separate from base data)
+# data/*-user.yaml
+
+# Misc
+*.pem
+*.key
+*.cert
+*.crt

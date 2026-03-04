@@ -1,0 +1,475 @@
+# Events – 1:1 schema from web3privacy/data (https://github.com/web3privacy/data/blob/main/src/events/index.yaml)
+# Lokální rozšíření: optional pole "premium" pro zvýrazněnou kartu s vlastním pozadím.
+
+# 2026 EVENTS
+
+- id: c26mum
+  type: congress
+  date: "2026-11-02"
+  city: Mumbai
+  country: in
+  title: "Ethereum CypherPunk Congress #3"
+  description: "The Cypherpunk Congress is an important intervention in cryptographic culture, and one of the last havens in an increasingly foreclosed world."
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: Devcon
+  lead: Mykola
+  links:
+    rsvp: https://luma.com/spsnos9t
+    web: https://congress.web3privacy.info/
+  speakers:
+    - mykola-siusko
+    - robert
+  premium: true
+
+- id: s26ber
+  type: summit
+  date: "2026-06-14"
+  city: Berlin
+  country: de
+  place: "[Funkhaus](https://summit.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: Berlin Blockchain Week
+  lead: beth
+  links:
+    rsvp: https://luma.com/f47k4xnd
+    web: https://summit.web3privacy.info/
+  speakers:
+    - mykola-siusko
+    - robert
+
+# 2025 EVENTS
+
+- id: c25bue
+  type: congress
+  date: "2025-11-16"
+  city: Buenos Aires
+  country: ar
+  place: "[TBA](https://congress.web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: Devconnect
+  lead: robert
+  links:
+    rsvp: https://lu.ma/u2sw5kpv
+    web: https://congress.web3privacy.info/
+  speakers:
+    - mykola-siusko
+    - robert
+    - mf
+
+- id: m25rom
+  type: meetup
+  date: "2025-10-09"
+  city: Rome
+  country: it
+  place: "[TBA](https://web3privacy.info)"
+  place-address: TBA
+  confirmed: true
+  coincidence: ETHRome
+  lead: pg
+  links:
+    rsvp: https://lu.ma/8jv4odjn
+  speakers:
+    - mykola-siusko
+    - pg
+    - coinmandeer
+    - mf
+
+- id: co25ber
+  type: collab
+  date: "2025-06-16"
+  city: Berlin
+  country: de
+  place: "[Radialsystem](https://maps.app.goo.gl/cMi3ccPzUvKYnpVp7)"
+  place-address: Holzmarktstraße 33, 10243 Berlin
+  confirmed: true
+  coincidence: Dappcon
+  lead: Mykola
+  links:
+    rsvp: https://lu.ma/sq2vtmdg
+    web: https://dappcon.io
+  speakers:
+    - pg
+    - robert
+    - cat
+
+- id: r25ber
+  type: rave
+  date: "2025-06-15"
+  city: Berlin
+  country: de
+  place: TBA
+  place-address: TBA
+  confirmed: true
+  coincidence: W3PN Hackathon
+  lead: mf
+  links:
+    rsvp: https://lu.ma/h3ithkl3
+  speakers:
+    - mf
+    - cat
+
+- id: h25ber
+  type: hackathon
+  date: "2025-06-13"
+  city: Berlin
+  country: de
+  place: "[Engelnest](https://engelnest.de)"
+  place-address: Wilhelm-Kabus-Str. 24, 10829 Berlin
+  confirmed: true
+  coincidence: Berlin Blockchain Week
+  lead: mf
+  links:
+    rsvp: https://hackathon.web3privacy.info
+    web: https://hackathon.web3privacy.info
+  speakers:
+    - mf
+    - robert
+    - cat
+
+- id: co25ftc
+  type: collab
+  date: "2025-06-10"
+  city: Berlin
+  country: de
+  place: "[Engelnest](https://engelnest.de)"
+  place-address: Wilhelm-Kabus-Str. 24, 10829 Berlin
+  confirmed: true
+  coincidence: Funding the Commons
+  lead: pg
+  links:
+    rsvp: https://lu.ma/ftc-berlin-2025
+    web: https://www.fundingthecommons.io/berlin-2025
+  speakers:
+    - pg
+
+- id: m25prg
+  type: meetup
+  date: "2025-05-29"
+  city: Prague
+  country: cz
+  place: Klub Centrála
+  place-address: Hlavní město Praha
+  confirmed: true
+  coincidence: ETHPrague
+  lead: alina
+  links:
+    rsvp: https://lu.ma/jhp1iapn
+  speakers:
+    - cat
+    - coinmandeer
+    - alina
+
+- id: m25dam
+  type: meetup
+  date: "2025-05-08"
+  city: Amsterdam
+  country: nl
+  place: TBA
+  place-address: TBA
+  confirmed: true
+  coincidence: ETHDam
+  lead: pg
+  links:
+    rsvp: https://lu.ma/73go30ij
+  speakers:
+    - robert
+    - pg
+    - mf
+
+- id: m25buc
+  type: meetup
+  date: "2025-04-01"
+  city: Bucharest
+  country: ro
+  place: "[TBA](https://lu.ma/web3privacy)"
+  place-address: Please register to see exact location
+  confirmed: true
+  lead: andreea
+  links:
+    rsvp: https://lu.ma/9ni8jbzx
+  speakers:
+    - andreea
+    - pg
+    - mf
+
+# 2024 EVENTS
+
+- id: c24bkk
+  type: congress
+  date: "2024-11-11"
+  city: Bangkok
+  country: th
+  place: "[Lido Connect](https://lidoconnect.com)"
+  place-address: 256, RAMA I Road, Pathum Wan Bangkok
+  confirmed: true
+  coincidence: DevCon
+  lead: Mykola
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-devcon7
+    web: https://c24bkk.web3privacy.info
+  speakers:
+    - ameen-soleimani
+    - scott-moore
+    - silke-noa
+    - kurt-opsahl
+    - nick-almond
+    - jarrad-hope
+    - adrian-brink
+    - alan-scott
+    - andreas-miroyato
+    - ahmed-ghappour
+    - alex-gluchowski
+    - amit-chaudhary
+    - ann-brody
+    - claire-kart
+    - costanza-gallo
+    - daniel-luca
+    - lefteris-karapetsas
+    - lasha-antatze
+    - dapplion
+    - kris
+    - hsinju-chuang
+    - michelle-lai
+    - ying-tong
+
+- id: m24rom
+  type: meetup
+  date: "2024-10-03"
+  city: Rome
+  country: it
+  coincidence: ETHRome
+  lead: PG
+  design:
+    image: rome02
+  helpers:
+    - Mykola
+    - Alina
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-rome1
+  speakers:
+    - jaromil
+    - arturo-filasto
+    - luca-lezzerini
+    - andrea-togni
+    - emanuele-russo
+    - marco-castignoli
+
+- id: m24bru
+  type: meetup
+  date: "2024-07-12"
+  city: Brussels
+  country: be
+  coincidence: EthCC
+  design:
+    image: brussels01
+  lead: Mykola
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-bru1
+  speakers:
+    - edward-fricker
+    - joshua-davila
+    - mykola-siusko
+
+- id: s24prg
+  type: summit
+  date: "2024-05-30"
+  city: Prague
+  country: cz
+  coincidence: ETHPrague
+  lead: PG
+  helpers:
+    - PG
+    - Mykola
+    - Coinmandeer
+  links:
+    rsvp: https://lu.ma/w3pn-summit-prague2
+    web: https://s24prg.web3privacy.info
+  speakers:
+    - pavol-luptak
+    - jaromil
+    - gabari
+    - vaclav-pavlin
+    - radek-svarz
+    - mykola-siusko
+    - andreas-tsamados
+    - serinko
+    - sebastian-burgel
+    - mykola-siusko
+    - ameen-soleimani
+    - steffen-kux
+    - althea
+    - nick-almond
+    - juraj-bednar
+    - max-hampshire
+    - mario-havel
+    - alex-kampa
+    - sterlin-lujan
+  design:
+    image: prague01
+
+- id: pc24ber
+  type: privacycorner
+  date: "2024-05-24"
+  days: 3
+  city: Berlin
+  country: de
+  coincidence: ETHBerlin
+  lead: Tree
+  helpers:
+    - Mykola
+    - Coinmandeer
+    - Robert
+  links:
+    web: https://c24ber.web3privacy.info
+  design:
+    image: berlin02
+
+- id: m24ber
+  type: meetup
+  date: "2024-05-22"
+  city: Berlin
+  country: de
+  place: "[c-base](https://c-base.org)"
+  place-address: Rungestraße 20, 10179 Berlin
+  coincidence: ETHBerlin
+  lead: Mykola
+  helpers:
+    - ligi
+  speakers:
+    - afri-schoedon
+    - joshua-davila
+    - vaclav-pavlin
+    - jaya-klara-brekke
+    - mykola-siusko
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-berlin1
+  design:
+    image: berlin03
+
+- id: m24ams
+  type: meetup
+  date: "2024-04-11"
+  city: Amsterdam
+  country: nl
+  place: "[Vrij Paleis](https://www.vrijpaleis.nl)"
+  place-address: Paleisstraat 107, 1012 ZL Amsterdam
+  lead: PG
+  helpers:
+    - Mykola
+    - Alina
+  coincidence: "[ETHDam](https://www.ethdam.com)"
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-ams1
+  speakers:
+    - kieran-mesquita
+    - moritz-boullenger
+    - sterlin-lujan
+    - pg
+    - serinko
+  design:
+    image: amsterdam01
+
+- id: m24buc
+  type: meetup
+  date: "2024-03-28"
+  city: Bucharest
+  country: ro
+  coincidence: ETHBucharest
+  optional: true
+  lead: Mykola
+  design:
+    image: bucharest01
+  helpers:
+    - Alina
+  links:
+    rsvp: https://lu.ma/w3pn-meetup-bucharest1
+  speakers:
+    - tim-bansemer
+    - mykola-siusko
+    - gabari
+    - kieran-mesquita
+
+# 2023 EVENTS
+
+- id: m23prg
+  type: meetup
+  date: "2023-11-14"
+  city: Prague
+  country: cz
+  place: "[Dílna](https://kafevdilne.cz)"
+  place-address: Smíchovská náplavka - Kobka č. 10, Hořejší nábřeží, Praha 5
+  confirmed: true
+  coincidence: DCxPrague
+  lead: Tree
+  links:
+    web: https://lu.ma/w3pm-prg1
+  speakers:
+    - vaclav-pavlin
+    - radek-svarz
+    - marcel-kolaja
+
+- id: s23rom
+  type: summit
+  date: "2023-10-05"
+  city: Rome
+  country: it
+  place: "[Villaggio Globale](https://maps.app.goo.gl/S7kUruNvbpjgHuSh9)"
+  place-address: Largo Dino Frisullo, 00153 Roma RM
+  confirmed: true
+  coincidence: ETHRome
+  lead: PG
+  links:
+    web: https://lu.ma/web3privacynow_rome
+  speakers:
+    - eleanore-blanc
+    - rik-krieger
+    - vincenzo-iovino
+    - alan-scott
+    - kieran-mesquita
+    - andrea-togni
+    - jaromil
+    - serinko
+    - vaclav-pavlin
+    - alex-zaidelson
+    - r-prokh
+    - carlo-chialastri
+    - limone-eth
+    - costanza-gallo
+    - catsnaks
+
+- id: s23prg
+  type: summit
+  date: "2023-06-05"
+  city: Prague
+  country: cz
+  place: "[X10](https://www.divadlox10.cz)"
+  place-address: Charvátova 39/10, 11000 Prague 1
+  confirmed: true
+  coincidence: ETHPrague
+  lead: Tree
+  links:
+    web: https://prague22.web3privacy.info/
+  speakers:
+    - ameen-soleimani
+    - guy-zyskind
+    - max-hampshire
+    - antoni-zolciak
+    - rachel-rose-oleary
+    - alex-kampa
+    - oliver-gale
+    - mario-havel
+    - costanza-gallo
+    - manu-alzuru
+    - nick-almond
+    - juraj-bednar
+    - dcbuilder
+    - alona-shevchenko
+    - tibor-csoka
+    - merula
+    - serinko
+    - steffen-kux
+    - althea

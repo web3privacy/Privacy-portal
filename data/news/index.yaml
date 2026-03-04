@@ -1,0 +1,9 @@
+# News feed index – article order, highlights, overrides
+# Full article data in data/news/articles/*.md
+
+featuredProjectIds:
+  - brave
+  - monero
+  - signal
+  - tor
+  - graphene-os

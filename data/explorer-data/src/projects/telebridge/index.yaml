@@ -1,0 +1,37 @@
+name: Telebridge
+categories:
+  - applications
+usecases:
+  - mixing-service
+  - bridge
+ecosystem:
+  - multichain
+description: Hype is the first Telegram-based bot that can be used to mix your
+  ETH, clean your wallets and bridge anonymously.
+sunset: true
+links:
+  web: https://hype-eth.com/
+  blog: ""
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: https://hype-eth.com/whitepaper.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/TelebridgeERC
+  discord: ""
+  telegram: https://t.me/TeleBridgingBot
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: false
+  mainnet: false
+  testnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+id: telebridge

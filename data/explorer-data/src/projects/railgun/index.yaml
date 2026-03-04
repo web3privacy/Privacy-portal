@@ -1,0 +1,121 @@
+id: railgun
+name: RAILGUN
+categories:
+  - defi
+tokens:
+  - name: Railgun
+    symbol: RAIL
+    network: Ethereum
+    contract_address: "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
+  - name: Railgun
+    symbol: RAIL
+    network: Polygon
+    contract_address: "0x92A9C92C215092720C731c96D4Ff508c831a714f"
+description: Private transfers and DeFi infra for Ethereum, Polygon, Binance
+  Smart Chain and Arbitrum.
+project_type: transaction
+technology:
+  type: zk
+  features:
+    - private
+links:
+  web: https://railgun.org/
+  blog: https://medium.com/@Railgun_Project
+  github: https://github.com/Railgun-Privacy
+  forum: ""
+  docs: https://docs.railgun.org/developer-guide
+  whitepaper: https://docs.railgun.org/wiki/learn/overview
+  block_explorer: https://etherscan.io/
+  governance: https://governance.railgun.org/
+  twitter: https://twitter.com/railgun_project
+  discord: https://discord.com/invite/jgUQjkYWzh
+  telegram: https://t.me/railgun_privacy
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: zksnark
+  p2p: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Alan Scott
+      role: researcher
+    - name: Kieran Mesquita
+      role: researcher
+    - name: John Meurer
+      role: researcher
+    - name: Dylan Oliver
+      role: researcher
+    - name: Hisham Galan
+      role: researcher
+    - name: Peter Simpson
+      role: researcher
+    - name: Bill Liang
+      role: researcher
+    - name: Matias Grote
+      role: researcher
+    - name: Jacob Makarsky
+      role: Software engineer
+    - name: Edward P. Fricker
+      role: Legal counsel
+    - name: Phil Huang
+      role: Advisor
+    - name: Emmanuel Goldstein
+      role: Global economist
+storage:
+  decentralized: true
+tracebility:
+  kyc: false
+  tracked_data: Transaction history before shielding
+  sign_in_type_requirments: []
+third_party_dependency: ""
+audits:
+  - name: Railgun audit report
+    link: https://assets.railgun.org/docs/audits/
+    time: 2021-07-01T00:00:00.000Z
+history:
+  - title: Mainet
+    event_type: launch
+    description: Token Launch
+    time: 2021-07-03T00:00:00.000Z
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+client_diversability:
+  - name: Railway
+    link: https://www.railway.xyz/
+  - name: TokenShielder
+    link: https://tokenshielder.com/
+default_privacy: true
+funding:
+  - name: DCG
+    type: Investments
+    link: https://www.coindesk.com/business/2022/01/26/railgun-aims-for-private-defi-with-10m-backing-from-dcg/
+    value: 10.000.000 $
+    time: 2022-01-25T23:00:00.000Z
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+usecases:
+  - defi
+have_token: true
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/railgun/logo.png
+ecosystem:
+  - ethereum
+sunset: false
+assets_used: []
+project_phase: mainnet
+compliance: Proof Of Innocence
+social_trust: ""
+technical_spof: ""

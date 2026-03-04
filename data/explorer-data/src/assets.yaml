@@ -1,0 +1,30 @@
+- id: eth
+  name: Ethereum
+- id: btc
+  name: Bitcoin
+- id: usdc
+  name: Coinbase stable
+- id: usdt
+  name: Tether
+- id: dai
+  name: MakerDAO stable
+- id: atom
+  name: Cosmos
+- id: scrt
+  name: Secret Network
+- id: dot
+  name: Polkadot
+- id: sol
+  name: Solana
+- id: zcash
+  name: Zcash
+- id: xmr
+  name: Monero
+- id: aleph
+  name: Aleph Cloud Token
+- id: nam
+  name: Namada
+- id: other
+  name: Other
+- id: none
+  name: None

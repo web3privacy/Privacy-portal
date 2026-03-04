@@ -1,0 +1,27 @@
+id: logion
+name: Logion
+categories:
+  - infrastructure
+description: Substrate-based public blockchain operated by a decentralized
+  network of legal officers. Logion redefines the connection between digital
+  actions and their legal  implications by ensuring every blockchain-based
+  transaction is backed by robust legal certification
+team:
+  anonymous: false
+links:
+  web: https://logion.network
+  github: https://github.com/logion-network
+  docs: https://logion-network.github.io/logion-api/
+  whitepaper: https://docs.logion.network/logion-white-paper
+  twitter: https://twitter.com/logion_network
+have_token: false
+usecases:
+  - infrastructure
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/logion/logo.png
+ecosystem:
+  - other
+sunset: false

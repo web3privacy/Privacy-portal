@@ -1,0 +1,51 @@
+popular_tools:
+  - key: signal
+    name: Signal
+    url: https://signal.org/
+    image: signal.png
+    count: 38
+  - key: protonmail
+    name: ProtonMail
+    url: https://protonmail.com/
+    image: protonmail.png
+    count: 26
+  - key: brave
+    name: Brave
+    url: https://brave.com/
+    image: brave.jpg
+    count: 25
+  - key: grapheneos
+    name: GrapheneOS
+    url: https://grapheneos.org/
+    image: grapheneos.jpg
+    count: 19
+  - key: mullvad
+    name: Mullvad
+    url: https://mullvad.net/
+    image: mullvad.png
+    count: 18
+  - key: tor
+    name: Tor
+    url: https://www.torproject.org/
+    image: tor.png
+    count: 18
+  - key: duckduckgo
+    name: DuckDuckGo
+    url: https://duckduckgo.com/
+    image: duckduckgo.png
+    count: 13
+  - key: jitsi
+    name: Jitsi
+    url: https://meet.jit.si/
+    image: jitsi.jpg
+    count: 13
+  - key: ddocs
+    name: ddocs
+    url: https://docs.fileverse.io/document/create
+    image: fileverse.jpg
+    count: 10
+  - key: ios
+    name: iOS
+    url: https://www.apple.com/ios/
+    image: ios.png
+    count: 10

@@ -1,0 +1,30 @@
+id: fedimint
+name: Fedimint
+categories:
+  - infrastructure
+description: An open-source protocol to custody and transact bitcoin in a
+  community context, built on a strong foundation of privacy
+team:
+  anonymous: true
+links:
+  web: https://fedimint.org
+  github: https://github.com/fedimint
+  docs: https://fedimint.org/docs/intro
+  blog: https://fedimint.org/blog
+  twitter: https://twitter.com/fedimint
+project_status:
+  live_status: false
+  version: ""
+  testnet: false
+  mainnet: false
+usecases:
+  - infrastructure
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/fedimint/logo.png
+ecosystem:
+  - bitcoin
+sunset: false

@@ -1,0 +1,40 @@
+id: ethernity-cloud
+name: Ethernity cloud
+categories:
+  - infrastructure
+description: The Web3 decentralized confidential computing ecosystem
+ecosystem:
+  - other
+links:
+  web: 'https://ethernity.cloud/'
+  docs: 'https://docs.ethernity.cloud/'
+  whitepaper: 'https://ethernity.cloud/ethernity_whitepaper.pdf'
+  github: 'https://github.com/ethernity-cloud'
+  blog: 'https://blog.marlin.org/'
+  twitter: 'https://x.com/Ethernity_cloud'
+  discord: 'https://discord.gg/W74JcFPGcb'
+  telegram: 'https://t.me/ethernitycloud'
+  facebook: 'https://www.facebook.com/Ethernity.cloud/'
+team:
+  anonymous: false
+  teammembers:
+    - name: Keith Koo
+      role: Advisor
+    - name: Iosif Peterfi
+      role: Founder & CEO
+    - name: Ioan Munteanu
+      role: COO
+    - name: Andreas Stavropoulos
+      role: CTO
+blockchain_features:
+  p2p: false
+  encryption: ECC
+  opensource: true
+tracebility:
+  kyc: false
+storage:
+  decentralized: true
+usecases:
+  - computing
+have_token: false
+third_party_dependency: none

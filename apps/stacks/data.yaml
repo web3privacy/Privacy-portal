@@ -1,0 +1,2728 @@
+tools:
+  Hardware:
+    Framework:
+      name: "Framework"
+      url: "https://www.framework.com"
+      image: "framework.jpg"
+    MacBook:
+      name: "MacBook"
+      url: "https://www.apple.com/macbook/"
+      image: "apple.png"
+    Tuxedo:
+      name: "Tuxedo"
+      url: "https://www.tuxedo.de/"
+      image: "tuxedo.jpg"
+    Lenovo:
+      name: "Lenovo"
+      url: "https://www.lenovo.com/"
+      image: "lenovo.jpg"
+    ThinkpadX230:
+      name: "ThinkpadX230"
+      url: "http://shop.lenovo.com/us/notebooks/thinkpad/x-series"
+      image: "thinkpadx230.jpg"
+    RaspberryPi:
+      name: "Raspberry Pi"
+      url: "https://www.raspberrypi.org/"
+      image: "raspberrypi.jpg"
+    System76:
+      name: "System76"
+      url: "https://system76.com"
+      image: "system76.jpg"
+    ThinkPad L13:
+      name: "ThinkPad L13"
+      url: "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadl/thinkpad-l13/"
+      image: "thinkpadl13.png"
+  WiFi:
+    Atheros AR9462 ath9k:
+      name: "Atheros AR9462 ath9k"
+      url: "https://shop.vikings.net/product/wi-fi-4-802-11n-2-4-5ghz-atheros-qcnfa222-ar9462-bluetooth-4-0-m-2-ngff/?v=41d6ad0761a5"
+      image: "atheros.png"
+  OS_Desktop:
+    QubesOS:
+      name: "QubesOS"
+      url: "https://www.qubes-os.org/"
+      image: "qubesos.jpg"
+    ArchLinux:
+      name: "Arch Linux"
+      url: "https://archlinux.org/"
+      image: "archlinux.jpg"
+    PopOS:
+      name: "PopOS"
+      url: "https://pop.system76.com/"
+      image: "popos.png"
+    NixOS:
+      name: "NixOS"
+      url: "https://nixos.org/"
+      image: "nixos.png"
+    MacOS:
+      name: "MacOS"
+      url: "https://www.apple.com/macos/"
+      image: "macos.png"
+    TailsOS:
+      name: "TailsOS"
+      url: "https://tails.net/"
+      image: "tailsos.png"
+    FedoraLinux:
+      name: "FedoraLinux"
+      url: "https://fedoraproject.org/"
+      image: "fedora.jpg"
+    Ubuntu:
+      name: "Ubuntu"
+      url: "https://ubuntu.com/"
+      image: "ubuntu.png"
+    GnuLinux:
+      name: "Gnu/Linux"
+      url: "https://www.gnu.org/gnu/linux-and-gnu.html"
+      image: "gnulinux.png"
+    DivestOS:
+      name: "DivestOS"
+      url: "https://divestos.org/"
+      image: "divestos.png"
+    ParrotOS:
+      name: "ParrotOS"
+      url: "https://parrot.sh/"
+      image: "parrotos.jpg"
+    Whonix:
+      name: "Whonix"
+      url: "https://www.whonix.org/"
+      image: "whonix.jpg"
+    VoidLinux:
+      name: "VoidLinux"
+      url: "https://voidlinux.org/"
+      image: "voidlinux.png"
+    KaiOS:
+      name: "KaiOS"
+      url: "https://kaios.org/"
+      image: "kaios.jpg"
+    LinuxMint:
+      name: "LinuxMint"
+      url: "http://linuxmint.com"
+      image: "mintlinux.jpeg"
+    Suckless:
+      name: "Suckless"
+      url: "https://suckless.org/"
+      image: "suckless.png"
+    EndeavourOS:
+      name: "EndeavourOS"
+      url: "https://endeavouros.com/"
+      image: "endeavouros.png"
+    Raspbian:
+      name: "Raspbian"
+      url: "https://www.raspberrypi.com/software/"
+      image: "raspberrypi.jpg"
+    Debian:
+      name: "Debian"
+      url: "https://www.debian.org/"
+      image: "debian.jpg"
+    SecureBlue:
+      name: "SecureBlue"
+      url: "https://secureblue.dev/"
+      image: "secureblue.jpg"
+  OS_Mobile:
+    GrapheneOS:
+      name: "GrapheneOS"
+      url: "https://grapheneos.org/"
+      image: "grapheneos.jpg"
+    LineageOS:
+      name: "LineageOS"
+      url: "https://lineageos.org/"
+      image: "LineageOS.png"
+    QubesOS:
+      name: "QubesOS"
+      url: "https://qubes-os.org"
+      image: "QubesOS.jpg"
+    iOS:
+      name: "iOS"
+      url: "https://www.apple.com/ios/"
+      image: "ios.png"
+    postmarketOS:
+      name: "postmarketOS"
+      url: "https://postmarketos.org"
+      image: "postmarketos.jpg"
+    Replicant:
+      name: "replicant"
+      url: "https://www.replicant.us"
+      image: "replicant.jpg"
+    CalyxOS:
+      name: "CalyxOS"
+      url: "http://calyxos.org"
+      image: "calyxos.jpg"
+    NixOS:
+      name: "NixOS"
+      url: "https://nixos.org"
+      image: "nixos.png"
+    NothingOS:
+      name: "NothingOS"
+      url: "https://nothing.tech/pages/nothing-os-3"
+      image: "nothing.jpg"
+  Browser_Desktop:
+    Brave:
+      name: "Brave"
+      url: "https://brave.com/"
+      image: "brave.jpg"
+    Tor:
+      name: "Tor"
+      url: "https://www.torproject.org/"
+      image: "tor.png"
+    Librewolf:
+      name: "Librewolf"
+      url: "https://librewolf.net/"
+      image: "librewolf.jpg"
+    Chromium:
+      name: "Chromium"
+      url: "https://www.chromium.org/"
+      image: "chromium.png"
+    Mullvad:
+      name: "Mullvad"
+      url: "https://mullvad.net/"
+      image: "mullvad.png"
+    Firefox:
+      name: "Firefox"
+      url: "https://www.mozilla.org/en-US/firefox/new/"
+      image: "firefox.jpg"
+    Firefox Focus:
+      name: "Firefox Focus"
+      url: "https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/"
+      image: "firefoxfocus.jpg"
+    Librefox:
+      name: "Librefox"
+      url: "https://librewolf.net"
+      image: "Librefox.jpg"
+    Ladybird:
+      name: "Ladybird"
+      url: "https://ladybird.org"
+      image: "ladybird.jpg"
+    Dillo:
+      name: "Dillo"
+      url: "https://dillo.org"
+      image: "dillo.jpg"
+    Floorp:
+      name: "Floorp"
+      url: "https://www.floorp-app/"
+      image: "floorp.png"
+    Palemoon:
+      name: "Palemoon"
+      url: "https://www.palemoon.org/"
+      image: "palemoon.png"
+    Falkon:
+      name: "Falkon"
+      url: "https://www.falkon.org/"
+      image: "falkon.png"
+    Thorium:
+      name: "Thorium"
+      url: "https://www.thorium.rocks/"
+      image: "thorium.png"
+    Edge:
+      name: "Edge"
+      url: "https://www.microsoft.com/edge "
+      image: "edge.png"
+  Browser_Mobile:
+    Mull:
+      name: "Mull"
+      url: "https://mull.en.uptodown.com/android"
+      image: "mull.png"
+    Mulch:
+      name: "Mulch"
+      url: "https://mulch.app/"
+      image: "mulch.png"
+    Firefox:
+      name: "Firefox"
+      url: "https://www.mozilla.org/en-US/firefox/new/"
+      image: "firefox.jpg"
+    Brave:
+      name: "Brave"
+      url: "https://brave.com/"
+      image: "brave.jpg"
+  Wallet:
+    Railway:
+      name: "Railway"
+      url: "https://railway.xyz/"
+      image: "railway.jpg"
+    Rabby:
+      name: "Rabby"
+      url: "https://rabby.io/"
+      image: "rabby.jpg"
+    Ledger:
+      name: "Ledger"
+      url: "https://www.ledger.com/"
+      image: "ledger.jpg"
+    Trezor:
+      name: "Trezor"
+      url: "https://trezor.io/"
+      image: "trezor.jpg"
+    Frame:
+      name: "Frame"
+      url: "https://frame.sh/"
+      image: "frame.jpg"
+    Status:
+      name: "Status"
+      url: "https://status.app/"
+      image: "status.png"
+    Keycard:
+      name: "Keycard"
+      url: "https://keycard.tech/"
+      image: "keycard.png"
+    PraxWallet:
+      name: "PraxWallet"
+      url: "https://praxwallet.com/"
+      image: "praxwallet.jpg"
+    Namada:
+      name: "Namada"
+      url: "https://namada.net/"
+      image: "namada.jpg"
+    Brave:
+      name: "Brave"
+      url: "https://brave.com/"
+      image: "brave.jpg"
+    Zashi:
+      name: "Zashi"
+      url: "https://electriccoin.co/zashi/"
+      image: "zashi.jpg"
+    MoneroDesktop:
+      name: "Monero Desktop"
+      url: "https://github.com/monero-project/monero-desktop"
+      image: "github.png"
+    GridPlusLattice:
+      name: "GridPlus Lattice"
+      url: "https://lattice.gridplus.io/"
+      image: "gridplus.png"
+    MoneroCli:
+      name: "Monero-Cli"
+      url: "https://docs.getmonero.org/interacting/monero-wallet-cli-reference/"
+      image: "monerodesktop.jpg"
+    CakeWallet: 
+      name: "Cake Wallet"
+      url: "https://cakewallet.com"
+      image: "cakewallet.jpg"
+    Citizen Wallet: 
+      name: "Citizen Wallet"
+      url: "https://citizenwallet.xyz"
+      image: "citizenwallet.jpg"
+    Trust: 
+      name: "Trust"
+      url: "https://trustwallet.com"
+      image: "trust.png"
+    Fluidkey: 
+      name: "Fluidkey"
+      url: "https://fluidkey.com"
+      image: "fluidkey.png"
+    Ambire: 
+      name: "Ambire"
+      url: "https://ambire.com"
+      image: "ambire.png"
+    Rainbow: 
+      name: "Rainbow"
+      url: "https://rainbow.we"
+      image: "rainbow.png"
+    Electrum: 
+      name: "Electrum"
+      url: "https://electrum.org"
+      image: "electrum.png"
+    Keystone: 
+      name: "Keystone"
+      url: "https://keyst.one/"
+      image: "keystone.png"
+    Kohaku:
+      name: "Kohaku"
+      url: "https://github.com/ethereum/kohaku"
+      image: "kohaku_icon.svg"
+  Messenger:
+    Signal:
+      name: "Signal"
+      url: "https://signal.org/"
+      image: "signal.png"
+    Threema:
+      name: "Threema"
+      url: "https://threema.ch/"
+      image: "threema.png"
+    Telegram:
+      name: "Telegram"
+      url: "https://telegram.org/"
+      image: "telegram.jpg"
+    Session:
+      name: "Session"
+      url: "https://getsession.org/"
+      image: "session.jpg"
+    Status:
+      name: "Status"
+      url: "https://status.app/"
+      image: "status.png"
+    SimpleX:
+      name: "SimpleX"
+      url: "https://simplex.chat/"
+      image: "simplex.jpg"
+    Matrix:
+      name: "Matrix"
+      url: "https://matrix.org/"
+      image: "matrix.jpg"
+    Zulip:
+      name: "Zulip"
+      url: "https://zulip.com/"
+      image: "zulip.jpg"
+    DarkIRC:
+      name: "DarkIRC"
+      url: "https://darkirc.org/"
+      image: "darkfi.jpg"
+    HexChat:
+      name: "HexChat"
+      url: "https://hexchat.org/"
+      image: "hexchat.jpeg"
+    Keybase:
+      name: "Keybase"
+      url: "https://keybase.io/"
+      image: "keybase.jpg"
+    Bittlbee:
+      name: "Bittlbee"
+      url: "https://bittlbee.org/"
+      image: "bittlbee.png"
+    N8N:
+      name: "N8N"
+      url: "https://n8n.io/"
+      image: "n8n.png"
+    RevolutionIrc:
+      name: "Revolution IRC"
+      url: "https://f-droid.org/packages/io.mrarm.irc/"
+      image: "revolutionirc.jpg"
+    Weechat:
+      name: "Weechat"
+      url: "https://weechat.org/"
+      image: "weechat.jpg"
+    Xmpp:
+      name: "xmpp"
+      url: "https://xmpp.org"
+      image: "xmpp.jpg"
+    irc-otr:
+      name: "irc-otr"
+      url: "https://otr.cypherpunks.ca"
+      image: "github.png"
+  Docs:
+    Ddocs:
+      name: "ddocs"
+      url: "https://docs.fileverse.io/document/create"
+      image: "fileverse.jpg"
+    LibreOffice:
+      name: "LibreOffice"
+      url: "https://www.libreoffice.org/"
+      image: "libreoffice.jpg"
+    Obsidian:
+      name: "Obsidian Sync"
+      url: "https://obsidian.md/sync"
+      image: "obsidian.jpg"
+    CryptPad:
+      name: "CryptPad"
+      url: "https://cryptpad.fr/"
+      image: "cryptpad.jpg"
+    AnyType:
+      name: "AnyType"
+      url: "https://anytype.io/"
+      image: "anytype.png"
+    Fileverse:
+      name: "Fileverse"
+      url: "http://fileverse.io"
+      image: "fileverse.png"
+    CodiMD:
+      name: "CodiMD"
+      url: "https://codimd.web.cern.ch/"
+      image: "codimd.png"
+    pdfLaTeX:
+      name: "pdfLaTeX"
+      url: "https://miktex.org/"
+      image: "latex.jpg"
+  Notes:
+    AnyType:
+      name: "AnyType"
+      url: "https://anytype.io/"
+      image: "anytype.png"
+    Nvim:
+      name: "Nvim"
+      url: "https://neovim.io"
+      image: "nvim.jpg"
+    Notesnook:
+      name: "Notesnook"
+      url: "https://notesnook.com"
+      image: "Notesnook.jpg"
+    Logseq:
+      name: "Logseq"
+      url: "https://logseq.com"
+      image: "logseq.png"
+    Obsidian:
+      name: "Obsidian"
+      url: "https://obsidian.md"
+      image: "obsidian.png"
+    Simplenote:
+      name: "Simplenote"
+      url: "https://simplenote.com"
+      image: "simplenote.png"
+    XournalPP:
+      name: "XournalPP"
+      url: "https://github.com/xournalpp/xournalpp"
+      image: "xournalpp.png"
+    KWrite:
+      name: "KWrite"
+      url: "https://apps.kde.org/kwrite/"
+      image: "kwrite.png"
+  Drawings:
+    DrawIo:
+      name: "Draw.io"
+      url: "https://draw.io/"
+      image: "drawio.jpg"
+    Inkscape:
+      name: "Inkscape"
+      url: "https://inkscape.org/"
+      image: "inkscape.jpg"
+  Images:
+    ExifCleaner:
+      name: "ExifCleaner"
+      url: "https://github.com/szTheory/exifcleaner"
+      image: "github.png"
+  Graphics:
+    GIMP:
+      name: "GIMP"
+      url: "https://www.gimp.org/"
+      image: "gimp.png"
+    Regards:
+      name: "Regards"
+      url: "https://regardsoss.github.io/docs/setup"
+      image: "github.png"
+    Photoshop:
+      name: "Adobe Photoshop"
+      url: "https://www.adobe.com/products/photoshop.html"
+      image: "photoshop.png"
+    Canva:
+      name: "Canva"
+      url: "https://www.canva.com/"
+      image: "canva.png"
+  Hypervisor:
+    VirtualBox:
+      name: "VirtualBox"
+      url: "https://www.virtualbox.org/"
+      image: "virtualbox.png"
+  AI:
+    JanAI:
+      name: "JanAI"
+      url: "https://jan.ai/"
+      image: "janai.png"
+    VeniceAI:
+      name: "VeniceAI"
+      url: "https://venice.ai"
+      image: "veniceai.jpg"
+    ComfyUI:
+      name: "ComfyUI"
+      url: "https://comfy.org/"
+      image: "comfyui.png"
+    Pinokio:
+      name: "Pinokio"
+      url: "https://pinokio.co/"
+      image: "pinokio.png"
+    StabilityMatrix:
+      name: "Stability Matrix"
+      url: "https://github.com/LykosAI/StabilityMatrix"
+      image: "github.png"
+    LM Studio:
+      name: "LM Studio"
+      url: "https://lmstudio.ai/"
+      image: "lmstudio.png"
+    CodeLlama 34b:
+      name: "CodeLlama 34b"
+      url: "https://github.com/Meta%E2%80%91Llama/codellama/"
+      image: "github.png"
+    Qwen:
+      name: "Qwen"
+      url: "https://qwen.ai/"
+      image: "qwen.png"
+    Claude:
+      name: "Claude"
+      url: "https://claude.ai/"
+      image: "claude.png"
+    PPQ AI:
+      name: "PPQ AI"
+      url: "https://ppq.ai/"
+      image: "ppq.jpg"
+    Perplexity:
+      name: "Perplexity"
+      url: "https://perplexity.ai/"
+      image: "perplexity.png"
+    Ask Brave:
+      name: "Ask Brave"
+      url: "https://search.brave.com/ask"
+      image: "brave.jpg"
+    LeoAI:
+      name: "LeoAI"
+      url: "hhttps://iamleo.ai/en"
+      image: "leoai.jpg"
+  Self_Hosted_LLM:
+    Ollama:
+      name: "Ollama"
+      url: "https://ollama.com/"
+      image: "ollama.jpg"
+    Dolphin-llama3:
+      name: "Dolphin-llama3"
+      url: "https://ollama.com/library/dolphin-llama3"
+      image: "ollama.jpg"
+    JanAI:
+      name: "JanAI"
+      url: "https://jan.ai/"
+      image: "janai.png"
+    Mistral:
+      name: "Mistral"
+      url: "https://mistral.ai/"
+      image: "mistralai.jpg"
+    StableDiffusion:
+      name: "SDXL"
+      url: "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+      image: "stablediffusion.jpg"
+  Audio:
+    Audacity:
+      name: "Audacity"
+      url: "https://audacity.com/"
+      image: "audacity.png"
+    EqualizerAPO:
+      name: "Equalizer APO"
+      url: "https://equalizerapo.com/"
+      image: "equalizerapo.png"
+    Mixxx:
+      name: "Mixxx"
+      url: "https://mixxx.org/"
+      image: "mixxx.png"
+    Pipewire:
+      name: "Pipewire"
+      url: "https://pipewire.org/"
+      image: "pipewire.png"
+  Download_Self_Hosted:
+    HuggingFace:
+      name: "HuggingFace"
+      url: "https://huggingface.co/"
+      image: "huggingface.jpg"
+  Slides:
+    SlideEditor:
+      name: "slide editor"
+      url: "https://github.com/vbuterin/slides_editor"
+      image: "github.png"
+  VPN:
+    GnosisVPN:
+      name: "Gnosis VPN"
+      url: "https://gnosisvpn.com/"
+      image: "gnosisvpn.jpg"
+    Mullvad:
+      name: "Mullvad"
+      url: "https://mullvad.net/"
+      image: "mullvad.png"
+    WireGuard:
+      name: "WireGuard"
+      url: "https://www.wireguard.com/"
+      image: "wireguard.jpg"
+    NymVPN:
+      name: "NymVPN"
+      url: "https://nym.app/"
+      image: "nym.png"
+    IVPN:
+      name: "IVPN"
+      url: "https://www.ivpn.net/"
+      image: "ivpn.jpg"
+    NordVPN:
+      name: "NordVPN"
+      url: "https://nordvpn.com/"
+      image: "nordvpn.png"
+    TorGuard:
+      name: "TorGuard"
+      url: "https://torguard.net/"
+      image: "torguard.jpg"
+    OpenVPN:
+      name: "OpenVPN"
+      url: "https://openvpn.net/"
+      image: "openvpn.jpg"
+    ProtonVPN:
+      name: "ProtonVPN"
+      url: "https://protonvpn.com/"
+      image: "protonvpn.png"
+    BraveVPN:
+      name: "BraveVPN"
+      url: "https://brave.com/firewall-vpn//"
+      image: "brave.jpg"
+    DuckDuckGo:
+      name: "DuckDuckGo"
+      url: "https://duckduckgo.com/"
+      image: "duckduckgo.png"
+    Dappnode:
+      name: "Dappnode"
+      url: "https://dappnode.com/"
+      image: "dappnode.png"
+    Snowstorm:
+      name: "Snowstorm"
+      url: "https://snowstorm.net/"
+      image: "snowstorm.png"
+    Headscale:
+      name: "Headscale"
+      url: "https://github.com/juanfont/headscale"
+      image: "github.png"
+    ssh -f -N -D 1080:
+      name: "ssh -f -N -D 1080"
+      url: "https://gist.github.com/jmnsf/1844e139df401cd8aa9e5e600badcc4e"
+      image: "github.png"
+  Email:
+    ProtonMail:
+      name: "ProtonMail"
+      url: "https://protonmail.com/"
+      image: "protonmail.png"
+    TutaNota:
+      name: "TutaNota"
+      url: "https://mail.tutanota.com/"
+      image: "tutanota.jpg"
+    Jaromail:
+      name: "Jaromail"
+      url: "http://www.postfix.org/"
+      image: "github.png"
+    Postfix:
+      name: "Postfix"
+      url: "https://github.com/dyne/JaroMail/"
+      image: "postfix.png"
+    Mutt:
+      name: "Mutt"
+      url: "http://www.mutt.org/"
+      image: "mutt.png"
+    Thunderbird:
+      name: "Thunderbird"
+      url: "https://www.thunderbird.net/"
+      image: "thunderbird.png"
+  Password:
+    KeePassXC:
+      name: "KeePassXC"
+      url: "https://keepassxc.org/"
+      image: "keepassxc.jpg"
+    Bitwarden:
+      name: "Bitwarden"
+      url: "https://bitwarden.com/"
+      image: "bitwarden.png"
+    ProtonPass:
+      name: "ProtonPass"
+      url: "https://proton.me/pass"
+      image: "protonpass.png"
+  2FA:
+    Aegis:
+      name: "Aegis"
+      url: "https://getaegis.app/"
+      image: "aegis.png"
+  Search:
+    Kagi:
+      name: "Kagi"
+      url: "https://kagi.com/"
+      image: "kagi.png"
+    DuckDuckGo:
+      name: "DuckDuckGo"
+      url: "https://duckduckgo.com/"
+      image: "duckduckgo.png"
+    BraveSearch:
+      name: "Brave Search"
+      url: "https://brave.com/search/"
+      image: "brave.jpg"
+    Searx:
+      name: "SearX"
+      url: "https://searx.space/"
+      image: "searx.png"
+    SearXNG:
+      name: "SearXNG"
+      url: "https://searx.bndkt.io/"
+      image: "searxng.jpg"
+    StartPage:
+      name: "StartPage"
+      url: "https://www.startpage.com"
+      image: "startpage.jpg"
+  Portfolio:
+    Rotki:
+      name: "Rotki"
+      url: "https://rotki.com/"
+      image: "rotki.jpg"
+  IDE:
+    VSCode:
+      name: "VSCode"
+      url: "https://code.visualstudio.com/"
+      image: "vscode.png"
+    VSCodium:
+      name: "VSCodium"
+      url: "https://vscodium.com/"
+      image: "vscodium.png"
+    Emacs:
+      name: "Emacs"
+      url: "https://www.gnu.org/software/emacs/"
+      image: "emacs.png"
+    WebStorm:
+      name: "WebStorm"
+      url: "https://www.jetbrains.com/webstorm/"
+      image: "webstorm.png"
+    PyCharm:
+      name: "PyCharm"
+      url: "https://www.jetbrains.com/pycharm/"
+      image: "pycharm.png"
+  Journaling:
+    GitJournal:
+      name: "GitJournal"
+      url: "https://gitjournal.io/"
+      image: "gitjournal.jpg"
+  Code:
+    Rust:
+      name: "Rust"
+      url: "http://rust-lang.org"
+      image: "rust.png"
+    Nvim:
+      name: "Nvim"
+      url: "https://neovim.io"
+      image: "nvim.jpg"
+    Github:
+      name: "Github"
+      url: "http://github.com"
+      image: "github.jpg"
+  Marketplace:
+    Vexl:
+      name: "vexl"
+      url: "https://vexl.it"
+      image: "vexl.jpg"
+  Phone:
+    iPhone:
+      name: "iPhone"
+      url: "https://www.apple.com/iphone/"
+      image: "ipad.jpg"
+    Pixel:
+      name: "Pixel"
+      url: "https://www.google.com/pixel/"
+      image: "pixel.jpg"
+    PurismLibrem5:
+      name: "Purism Librem5"
+      url: "https://www.purism.com/devices/librem-5/"
+      image: "purismlibrem5.png"
+    OnePlus9Pro:
+      name: "OnePlus 9 Pro"
+      url: "https://www.oneplus.com/9pro"
+      image: "oneplus.jpg"
+    Pinephone:
+      name: "pinephone"
+      url: "https://pine64.org/devices/pinephone/"
+      image: "pinephone.jpg"
+    oneplus-enchilada:
+      name: "oneplus-enchilada"
+      url: "https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada)"
+      image: "oneplus-enchilada.png"
+    Pixel 8:
+      name: "Pixel 8"
+      url: "https://en.wikipedia.org/wiki/Pixel_8"
+      image: "pixel.jpg"
+  Archiving:
+    OpenArchive:
+      name: "Open Archive"
+      url: "https://archive.org/"
+      image: "openarchive.jpg"
+  Knowledge_Base:
+    Obsidian:
+      name: "Obsidian"
+      url: "https://obsidian.md/"
+      image: "obsidian.jpg"
+    HackPad:
+      name: "HackPad"
+      url: "https://hackpad.org/"
+      image: "hackpad.png"
+    AnythingLLM:
+      name: "AnythingLLM"
+      url: "https://anythingllm.com/"
+      image: "anythingllm.jpg"
+    InternetArchive:
+      name: "InternetArchive"
+      url: "https://archive.org"
+      image: "internetarchive.jpg"
+  Pomodoro:
+    TomatoBar:
+      name: "TomatoBar"
+      url: "https://github.com/ivoronin/TomatoBar"
+      image: "github.png"
+  Quizz:
+    Anki:
+      name: "Anki"
+      url: "https://apps.ankiweb.net/"
+      image: "anki.png"
+  Recording:
+    OBS:
+      name: "OBS"
+      url: "https://obsproject.com/"
+      image: "OBS.jpg"
+  Network:
+    I2P:
+      name: "I2P"
+      url: "https://geti2p.net/"
+      image: "i2p.png"
+    Tor:
+      name: "Tor"
+      url: "https://www.torproject.org/"
+      image: "tor.png"
+    Tor Snowflake:
+      name: "Tor Snowflake"
+      url: "https://snowflake.torproject.org/"
+      image: "tor.png"
+    Nym:
+      name: "Nym"
+      url: "https://nym.com/"
+      image: "nym.png"
+  Storage:
+    USB:
+      name: "USB"
+      url: "https://en.wikipedia.org/wiki/USB"
+      image: "usb.png"
+    Codex:
+      name: "Codex"
+      url: "https://codex.storage/"
+      image: "codex.jpg"
+    Tarsnap:
+      name: "Tarsnap"
+      url: "https://www.tarsnap.com/"
+      image: "tarsnap.png"
+    ProtonDrive:
+      name: "ProtonDrive"
+      url: "https://proton.me/drive"
+      image: "protondrive.png"
+    LUKSencryption:
+      name: "LUKS encryption"
+      url: "https://gitlab.com/cryptsetup/cryptsetup/blob/master/README.md"
+      image: "github.png"
+    SIA:
+      name: "SIA"
+      url: "https://sia.tech/"
+      image: "sia.png"
+    Ente:
+      name: "Ente"
+      url: "ente.io"
+      image: "ente.png"
+    PrivateStorage:
+      name: "Private Storage"
+      url: "https://private.storage/"
+      image: "privatestorage.jpg"
+    Fileverse:
+      name: "Fileverse"
+      url: "https://fileverse.io/"
+      image: "fileverse.png"
+    owncloud:
+      name: "owncloud"
+      url: "https://owncloud.com"
+      image: "owncloud.jpg"
+    Self-hosted NAS:
+      name: "Self-hosted NAS"
+      url: "-"
+      image: "server.jpg"
+    NextCloud:
+      name: "NextCloud"
+      url: "https://nextcloud.com/"
+      image: "nextcloud.jpg"
+    Tomb:
+      name: "Tomb"
+      url: "https://github.com/dyne/Tomb"
+      image: "github.png"
+    Swarm:
+      name: "Swarm"
+      url: "https://www.ethswarm.org/"
+      image: "swarm.jpg"
+  Socials:
+    Farcaster:
+      name: "Farcaster"
+      url: "https://www.farcaster.xyz/"
+      image: "farcaster.png"
+  Map:
+    OpenStreetMap:
+      name: "OpenStreetMap"
+      url: "https://www.openstreetmap.org/"
+      image: "openstreetmap.jpg"
+    OsmAnd:
+      name: "OsmAnd"
+      url: "https://osmand.net/"
+      image: "osmand.jpg"
+    Mapy.cz:
+      name: "Mapy.cz"
+      url: "https://mapy.com"
+      image: "mapycz.jpg"
+    OrganicMaps:
+      name: "Organic Maps"
+      url: "https://organicmaps.app"
+      image: "organicmaps.jpg"
+    AppleMap:
+      name: "Apple Maps"
+      url: "maps.apple.com"
+      image: "apple.png"
+    Marble:
+      name: "Marble"
+      url: "https://marble.kde.org"
+      image: "marble.jpg"
+  Youtube:
+    Libretube:
+      name: "Libretube"
+      url: "https://libretube.dev/"
+      image: "libretube.jpg"
+    FreeTube:
+      name: "FreeTube"
+      url: "http://freetube.io/"
+      image: "freetube.png"
+    NewPipe:
+      name: "NewPipe"
+      url: "https://newpipe.net/"
+      image: "newpipe.svg"
+    YtDLP:
+      name: "yt-dlp"
+      url: "https://github.com/yt-dlp/yt-dlp"
+      image: "ytdlp.png"
+  Zip:
+    SevenZip:
+      name: "7-Zip"
+      url: "https://www.7-zip.org/"
+      image: "7zip.png"
+  Reader:
+    Omnivore:
+      name: "Omnivore"
+      url: "https://github.com/omnivore-app/omnivore"
+      image: "github.png"
+    Calibre:
+      name: "Calibre"
+      url: "https://calibre-ebook.com/"
+      image: "calibre.png"
+    Plenary:
+      name: "Plenary"
+      url: "https://play.google.com/store/apps/details?id=com.spians.plenary&hl=en-US"
+      image: "plenary.png"
+    Kiwix:
+      name: "Kiwix"
+      url: "https://kiwix.org/en/"
+      image: "kiwix.jpg"
+    Kobo:
+      name: "Kobo"
+      url: "https://www.kobo.com/us/en/ereaders"
+      image: "kobologo.jpg"
+    Kobo Libra:
+      name: "Kobo Libra"
+      url: "https://us.kobobooks.com/products/kobo-libra-colour"
+      image: "kobologo.jpg"
+  Keyboard:
+    Futo:
+      name: "Futo"
+      url: "https://keyboard.futo.org/"
+      image: "futo.jpg"
+  Filesharing:
+    MagicWormhole:
+      name: "Magic Wormhole"
+      url: "https://github.com/magic-wormhole/magic-wormhole"
+      image: "github.png"
+  Short_Links:
+    MaglitMe:
+      name: "Maglit.me"
+      url: "https://maglit.me/"
+      image: "maglitme.png"
+  Media:
+    mpv:
+      name: "mpv"
+      url: "https://mpv.io"
+      image: "mpv.jpg"      
+  Meeting:
+    Jitsi:
+      name: "Jitsi"
+      url: "https://meet.jit.si/"
+      image: "jitsi.jpg"
+    Brave Talk:
+      name: "Brave Talk"
+      url: "https://brave.com/talk/"
+      image: "brave.jpg"
+    Session:
+      name: "Session"
+      url: "https://getsession.org/"
+      image: "session.jpg"
+    Signal:
+      name: "Signal"
+      url: "https://signal.org/"
+      image: "signal.png"
+  Multisig:
+    ZKSafe:
+      name: "ZKSafe"
+      url: "http://zksafe.1kx.io/"
+      image: "zksafe.png"
+  Archive:
+    AnnaArchive:
+      name: "Anna's Archive"
+      url: "http://annas-archive.se/"
+      image: "annasarchive.png"
+  CensorshipScan:
+    OONI:
+      name: "OONI"
+      url: "https://ooni.org/"
+      image: "ooni.jpg"
+  Anime:
+    HiAnime:
+      name: "Hi Anime"
+      url: "https://hianime.to/"
+      image: "hianime.png"
+  OnChain:
+    Railgun:
+      name: "Railgun"
+      url: "https://railgun.org/"
+      image: "railgun.jpg"
+    Penumbra:
+      name: "Penumbra"
+      url: "https://penumbra.zone/"
+      image: "penumbra.jpg"
+    Anoma:
+      name: "Anoma"
+      url: "https://anoma.net/"
+      image: "anoma.jpg"
+    Ethereum:
+      name: "Ethereum"
+      url: "https://ethereum.org/"
+      image: "ethereum.jpg"
+    Namada:
+      name: "Namada"
+      url: "https://namada.net/"
+      image: "namada.jpg"
+  Dev_Environment:
+    NixOS:
+      name: "NixOS"
+      url: "https://nixos.org/"
+      image: "nixos.png"
+    Codeberg:
+      name: "Codeberg"
+      url: "https://codeberg.org/"
+      image: "codeberg.jpg"
+  Bookmarking:
+    Arena:
+      name: "Arena"
+      url: "http://are.na/"
+      image: "arena.jpg"
+  Microblogging:
+    Bluesky:
+      name: "Bluesky"
+      url: "https://bsky.app/"
+      image: "bluesky.jpg"
+  Dark_Web:
+    Mullvad:
+      name: "Mullvad Browser"
+      url: "https://mullvad.net/en/browser"
+      image: "mullvad.png"
+    MullvadVPN:
+      name: "Mullvad VPN"
+      url: "https://mullvad.net/en/vpn"
+      image: "mullvad.png"
+  Personal_Red_Teaming:
+    FlipperZero:
+      name: "Flipper Zero"
+      url: "https://flipperzero.one/"
+      image: "flipperzero.jpg"
+    HackRF:
+      name: "HackRF One"
+      url: "https://hackrfone.com/"
+      image: "hackrfone.jpg"
+  NetworkScan:
+    Nmap:
+      name: "Nmap"
+      url: "https://nmap.org/"
+      image: "nmap.png"
+  PenTesting:
+    Metasploit:
+      name: "Metasploit"
+      url: "https://metasploit.com/"
+      image: "metasploitframework.png"
+  Crypto:
+    Bitcoin:
+      name: "Bitcoin"
+      url: "https://bitcoin.org/"
+      image: "bitcoin.jpeg"
+    Zcash:  
+      name: "Zcash"
+      url: "https://z.cash/"
+      image: "zcash.jpg"
+    Bread:  
+      name: "Bread"
+      url: "https://breadchain.xyz"
+      image: "bread.jpg"
+  AdBlocker:
+    PiHole:
+      name: "Pi-Hole"
+      url: "https://pi-hole.net/"
+      image: "pihole.jpg"
+  Sex:
+    Buttplug:
+      name: "Buttplug.io"
+      url: "https://buttplug.io/"
+      image: "buttplugio.png"
+  3D:
+    Blender:
+      name: "Blender"
+      url: "https://www.blender.org"
+      image: "blender.jpg"
+    PrusaSlicer:
+      name: "Prusa Slicer"
+      url: "https://www.prusa3d.com/page/prusaslicer_424/"
+      image: "prusaslicer.jpg"
+    OpenSCAD:
+      name: "OpenSCAD"
+      url: "https://www.openscad.org"
+      image: "openscad.png"
+    torch-npg:
+      name: "torch-npg"
+      url: "https://github.com/ashawkey/torch-ngp"
+      image: "github.png"
+    Handbrake:
+      name: "Handbrake"
+      url: "https://handbrake.fr"
+      image: "handbrake.jpg"
+    Gyroflow:
+      name: "Gyroflow"
+      url: "https://github.com/gyroflow/gyroflow"
+      image: "github.png"
+  Pen testing: 
+    Metasploit Framework:
+      name: "Metasploit Framework"
+      url: "https://www.metasploit.com"
+      image: "metasploit.jpg"  
+  Firewall:
+    LittleSnitch:
+      name: "Little Snitch"
+      url: "https://obdev.at/index.html"
+      image: "littlesnitch.jpg"
+    OpenSnitch:
+      name: "OpenSnitch"
+      url: "https://github.com/evilsocket/opensnitch"
+      image: "github.png"
+  Collaboration: 
+    HackMD:
+      name: "HackMD"
+      url: "http://hackmd.io"
+      image: "github.png"
+  ERP:
+    OODO:
+      name: "OODO"
+      url: "https://oodo.com/"
+      image: "oodo.jpg"
+  SecurityCamera:
+    Ubiquiti:
+      name: "Ubiquiti"
+      url: "https://www.ubiquiti.com/"
+      image: "ubiquiti.jpg"
+  Router:
+    PfSense:
+      name: "pfSense"
+      url: "https://www.pfsense.org/download/"
+      image: "pfsense.png"
+    LibreCMC supported routers:
+      name: "LibreCMC supported routers"
+      url: "https://gogs.librecmc.org/libreCMC/libreCMC/wiki/Supported_Hardware"
+      image: "librecmc.jpg"
+  PDF:
+    DangerZone:
+      name: "Danger Zone"
+      url: "https://dangerzone.rocks/"
+      image: "dangerzone.jpg"
+    Sumatra:
+      name: "Sumatra"
+      url: "https://www.sumatrapdfreader.org/free-pdf-reader"
+      image: "sumatra.jpg"
+    Okular:
+      name: "Okular"
+      url: "https://okular.kde.org/"
+      image: "okular.jpg"
+    PDFtk:
+      name: "PDFtk"
+      url: "https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/"
+      image: "pdftk.jpg"
+    Evince:
+      name: "Evince"
+      url: "https://wiki.gnome.org/Apps(2f)Evince(2f)Downloads.html"
+      image: "evince.png"
+  Sandbox:
+    AnyRun:
+      name: "AnyRun"
+      url: "https://any.run/"
+      image: "anyrun.png"
+  OnChain_Security:
+    Delegate:
+      name: "Delegate"
+      url: "https://delegate.xyz/"
+      image: "delegate.jpg"
+    Airgap:
+      name: "Airgap"
+      url: "http://airgap.it/"
+      image: "AirGap.jpg"
+  PrivateKey:
+    EncryptKey:
+      name: "EncryptKey"
+      url: ""
+      image: "encryptkey.png"
+  Physical_Security:
+    AndroidImsi:
+      name: "Android IMSI Catcher"
+      url: "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector"
+      image: "github.png"
+  TrafficMonitoring:
+    Wigle:
+      name: "Wigle"
+      url: "https://wigle.net/"
+      image: "wigle.png"
+  Antivirus:
+    MalwareBytes:
+      name: "MalwareBytes"
+      url: "https://www.malwarebytes.com/"
+      image: "malwarebytes.jpg"
+    Comodo:
+      name: "Comodo"
+      url: "https://antivirus.comodo.com/"
+      image: "comodo.jpg"
+  Organizing: 
+    Loomio:
+      name: "Loomio"
+      url: "https://www.loomio.com"
+      image: "loomio.jpg"
+  Sim_Provider:
+    Efani:
+      name: "Efani"
+      url: "https://efani.com/"
+      image: "efani.jpg"
+  Videos:
+    VLC:
+      name: "VLC"
+      url: "https://www.videolan.org/"
+      image: "vlc.png"
+    KDEnlive:
+      name: "KDEnlive"
+      url: "https://kdenlive.org"
+      image: "kdenlive.jpg"
+    yt-dlp:
+      name: "yt-dlp"
+      url: "https://github.com/yt-dlp/yt-dlp"
+      image: "ytdlp.jpg"
+    Jellyfin:
+      name: "Jellyfin"
+      url: "https://jellyfin.org/"
+      image: "jellyfin.png"
+    Plex:
+      name: "Plex"
+      url: "https://plex.tv/"
+      image: "plex.jpg"
+    mplayer:
+      name: "mplayer"
+      url: "http://www.mplayerhq.hu/"
+      image: "mplayer.png"
+    Stremio:
+      name: "Stremio"
+      url: "https://www.stremio.com/"
+      image: "stremio.png"
+    Odysee:
+      name: "Odysee"
+      url: "https://odysee.com/"
+      image: "odysee.png"
+  XR:
+    OpenImmersive:
+      name: "OpenImmersive"
+      url: "https://github.com/acuteimmersive/openimmersive"
+      image: "github.png"
+  Syncing:
+    Syncthing:
+      name: "Syncthing"
+      url: "https://syncthing.net"
+      image: "syncthing.jpg"
+    LocalSend:
+      name: "LocalSend"
+      url: "https://localsend.org"
+      image: "localsend.jpg"
+  Data_Management:
+    Wholeaked:
+      name: "WholeLeaked"
+      url: "https://github.com/utkusen/wholeaked"
+      image: "github.png"
+    Visidata:
+      name: "Visidata"
+      url: "https://www.visidata.org"
+      image: "visidata.jpg"
+  AppStore:
+    FDroid:
+      name: "FDroid"
+      url: "https://f-droid.org/"
+      image: "fdroid.png"
+  Music:
+    XMPModPlayer:
+      name: "XMP Mod Player"
+      url: "https://xmp.sourceforge.net/"
+      image: "xmpmodplayer.jpg"
+    Musikcube:
+      name: "Musikcube"
+      url: "https://musikcube.com/"
+      image: "musikcube.png"
+    mod music scraper:
+      name: "mod music scraper"
+      url: "-"
+      image: "github.png"      
+    VLC:
+      name: "VLC"
+      url: "https://www.videolan.org/"
+      image: "vlc.png"
+    Plex:
+      name: "Plex"
+      url: "https://plex.tv/"
+      image: "plex.jpg"
+    MusicBee:
+      name: "MusicBee"
+      url: "https://getmusicbee.com/"
+      image: "musicbee.png"
+    Spotify:
+      name: "Spotify"
+      url: "https://open.spotify.com/"
+      image: "spotify.png"
+    VirtualDJ:
+      name: "VirtualDJ"
+      url: "https://www.virtualdj.com/"
+      image: "virtualdj.png"
+    LogicPro:
+      name: "Logic Pro"
+      url: "https://www.apple.com/logic-pro/"
+      image: "logicpro.png"
+  Cloud: 
+    Tresorit:
+      name: "Tresorit"
+      url: "https://tresorit.com"
+      image: "tresorit.jpg"
+  P2P:
+    BitTorrent:
+      name: "BitTorrent"
+      url: "https://www.bittorrent.com/"
+      image: "bittorrent.jpg"
+    Soulseek:
+      name: "Soulseek"
+      url: "https://www.soulseek.net/"
+      image: "soulseek.png"
+    QbitTorrent:
+      name: "QbitTorrent"
+      url: "http://qbittorrent.org"
+      image: "qbittorrent.jpg"
+    Fileverse:
+      name: "Fileverse"
+      url: "http://fileverse.io"
+      image: "fileverse.png"
+    CipherDrop:
+      name: "CipherDrop"
+      url: "https://www.cipherdropp.app/"
+      image: "cipherdrop.jpg"
+    Deluge:
+      name: "Deluge"
+      url: "https://deluge-torrent.org//"
+      image: "deluge.png"
+    IPFS:
+      name: "IPFS"
+      url: "https://docs.ipfs.tech/"
+      image: "ipfs.png"
+    ZKP2P:
+      name: "ZKP2P"
+      url: "https://www.zkp2p.xyz/"
+      image: "zkp2p.png"
+  Calendar:
+    Calcurse:
+      name: "Calcurse"
+      url: "https://calcurse.org/"
+      image: "calcurse.png"
+    ProtonCalendar:
+      name: "ProtonCalendar"
+      url: "https://calendar.proton.me/"
+      image: "protonmail.png"
+  Node:
+    Nethermind:
+      name: "Nethermind"
+      url: "https://www.nethermind.io/"
+      image: "nethermind.png"
+    Prysm:
+      name: "Prysm"
+      url: "https://github.com/OffchainLabs/prysm"
+      image: "github.png"
+    Dappnode:
+      name: "Dappnode"
+      url: "http://dappnode.com"
+      image: "dappnode.jpg"
+  Terminal:
+    Alacritty:
+      name: "Alacritty"
+      url: "https://alacritty.org/"
+      image: "alacritty.jpg"
+  Upscaling:
+    Upscayl:
+      name: "Upscayl"
+      url: "https://upscayl.org/"
+      image: "upscayl.jpg"
+  Science:
+    Sci-Hub:
+      name: "Sci-Hub"
+      url: "https://sci-hub.se"
+      image: "scihub.jpg"
+  BDS: 
+    Boycat App:
+      name: "Boycat App"
+      url: "https://www.boycat.io"
+      image: "boycat.jpg"
+  Task Manager:
+    Tau:
+      name: "Tau"
+      url: "https://darkrenaissance.github.io/darkfi/misc/tau.html"
+      image: "darkfi.jpg"
+    org-mode:
+      name: "org-mode"
+      url: "https://orgmode.org"
+      image: "orgmode.jpg"
+    Microsoft To Do:
+      name: "Microsoft To Do"
+      url: "https://to-do.office.com/tasks/"
+      image: "todo.png"
+  GirlsStuff:
+    Drip:
+      name: "Drip"
+      url: "https://dripapp.org/"
+      image: "drip.jpg"
+  Sports:
+    Pump:
+      name: "Pump"
+      url: "https://github.com/narodnik/pump/"
+      image: "github.png"
+  Forms: 
+    Tally:
+      name: "Tally"
+      url: "https://tally.so"
+      image: "tally.png"
+  Mutual Credit: 
+    Circles:
+      name: "Circles"
+      url: "https://aboutcircles.com"
+      image: "circles.jpg"
+  Books:
+    LibroFM:
+      name: "LibroFM"
+      url: "https://libro.fm"
+      image: "librofm.png"
+    Libgen:
+      name: "Libgen"
+      url: "https://www.libgen.is"
+      image: "libgen.jpg"
+    Zathura:
+      name: "Zathura"
+      url: "https://pwmt.org/projects/zathura/"
+      image: "zathura.jpg"
+    Plato reader:
+      name: "Plato reader"
+      url: "https://github.com/baskerville/plato"
+      image: "platoreader.jpg"
+  Games:
+    NetHack:
+      name: "NetHack"
+      url: "https://www.nethack.org/"
+      image: "nethack.png"
+stacks:
+  AudreyTang:
+    id: "audrey-tang"
+    avatar: "audreytang.jpg"
+    name: "Audrey Tang"
+    org: "Taiwan Cyber Ambassador-at-Large & 1st Digital Minister (2016-2024)"
+    tools:
+      Audio: Audacity
+      Browser_Desktop: Firefox
+      Messenger: Signal
+      Drawings: Inkscape
+      Email: ProtonMail
+      Storage: ProtonDrive
+      Graphics: GIMP
+      Hypervisor: VirtualBox
+      IDE: VSCodium
+      Journaling: GitJournal
+      Knowledge_Base: AnythingLLM
+      Reader: Calibre
+      Meeting: Jitsi
+      Map: OsmAnd
+      Docs: LibreOffice
+      Pomodoro: TomatoBar
+      Quizz: Anki
+      Recording: OBS
+      Calendar: ProtonCalendar
+      Terminal: Alacritty
+      Upscaling: Upscayl
+      Videos: VLC
+      Wallet: Brave
+      XR: OpenImmersive
+      Youtube: YtDLP
+      Zip: SevenZip
+  Vitalik:
+    id: "vitalik"
+    avatar: "VitalikButerin.png"
+    name: "Vitalik Buterin"
+    org: "Ethereum Foundation"
+    tools:
+      OS_Mobile: GrapheneOS
+      Wallet:
+        - Railway
+        - Rabby
+        - Ledger
+      Messenger: Signal
+      Docs: Ddocs
+      Drawings: DrawIo
+      Self_Hosted_LLM: Ollama
+      Download_Self_Hosted: HuggingFace
+      Slides: SlideEditor
+  JarradHope:
+    id: "jarrad-hope"
+    avatar: "JarradHope.png"
+    name: "Jarrad Hope"
+    org: "Status, Nomos, Codex, Waku"
+    tools:
+      Hardware: Tuxedo
+      OS_Desktop: NixOS
+      OS_Mobile: GrapheneOS
+      Browser_Desktop:
+        - Librewolf
+        - Chromium
+      Browser_Mobile:
+        - Mull
+        - Mulch
+      VPN:
+        - Mullvad
+        - NymVPN
+        - IVPN
+      Messenger: Status
+      Storage:
+        - Codex
+        - Tarsnap
+      Network:
+        - Tor
+        - I2P
+      Search: Searx
+      Wallet:
+        - Status
+        - Keycard
+      Docs: LibreOffice
+      Map: OsmAnd
+      Youtube: Libretube
+      IDE: Emacs
+  SebastianBurgel:
+    id: "sebastian-burgel"
+    avatar: "SebastianB.jpg"
+    name: "Sebastian Burgel"
+    org: "GnosisDAO"
+    tools:
+      Hardware: Framework
+      OS_Desktop: QubesOS
+      Browser_Desktop: Brave
+      Wallet: Ledger
+      Messenger: Threema
+      Storage: USB
+      VPN: GnosisVPN
+      Email: ProtonMail
+      Password: KeePassXC
+  LefterisKarapetsas:
+    id: "lefteris-karapetsas"
+    avatar: "LefterisKarapetsas.jpg"
+    name: "Lefteris Karapetsas"
+    org: "Rotki Founder"
+    tools:
+      Hardware: Framework
+      OS_Desktop: ArchLinux
+      Browser_Desktop: Brave
+      Wallet: Frame
+      Messenger:
+        - Signal
+        - Keybase
+      Docs: Ddocs
+      VPN: Mullvad
+      Search: Kagi
+      Portfolio: Rotki
+  Auryn:
+    id: "auryn"
+    avatar: "Auryn.jpg"
+    name: "Auryn"
+    org: "Gnosis Guild / Pathfinder"
+    tools:
+      IDE: VSCode
+      OS_Desktop: PopOS
+      Browser_Desktop: Brave
+      Messenger:
+        - Signal
+        - Session
+      Search: DuckDuckGo
+      AI: JanAI
+      Email: ProtonMail
+      Docs: Ddocs
+      Password: Bitwarden
+  NickAlmond:
+    id: "nick-almond"
+    avatar: "NickAlmond.jpg"
+    name: "Nick Almond"
+    org: "Factory DAO Founder"
+    tools:
+      Hardware: MacBook
+      Phone: iPhone
+      OS_Mobile: iOS
+      Browser_Desktop: Brave
+      Messenger: Signal
+      Search: DuckDuckGo
+      Email: ProtonMail
+      Docs: Fileverse
+      Wallet:
+        - Ledger
+        - Frame
+      VPN: Mullvad
+  AlanScott:
+    id: "alan-scott"
+    avatar: "AlanScott.jpg"
+    name: "Alan Scott"
+    org: "Janitor Railgun"
+    tools:
+      Docs:
+        - Ddocs
+        - CryptPad
+      Wallet:
+        - Railway
+        - Frame
+      Email: ProtonMail
+      Messenger: Signal
+      Meeting: Brave Talk
+      Browser_Desktop: Brave
+      VPN:
+        - Mullvad
+        - ProtonVPN
+      Storage: ProtonDrive
+      Hardware: Framework
+      OS_Desktop: Ubuntu
+      OS_Mobile: GrapheneOS
+  KieranMesquita:
+    id: "kieran-mesquita"
+    avatar: "Kieran.jpg"
+    name: "Kieran Mesquita"
+    org: "Gnosis Railgun DAO Contributor"
+    tools:
+      Wallet:
+        - Railway
+        - Status
+        - StackWallet
+      Email: ProtonMail
+      Messenger:
+        - Signal
+        - Status
+      Browser_Desktop:
+        - Brave
+        - Librewolf
+      Storage: ProtonDrive
+      VPN:
+        - Mullvad
+        - ProtonVPN
+      OS_Mobile: GrapheneOS
+      Phone: Pixel
+  AnnBrody:
+    id: "ann-brody"
+    avatar: "Ann Brody.png"
+    name: "Ann Brody"
+    org: "@MCGILLU @WEB3PRIVACY - PHD Candidate"
+    tools:
+      Hardware: MacBook
+      Phone: iPhone
+      OS_Mobile: iOS
+      Browser_Desktop:
+        - Brave
+        - Tor
+      Messenger:
+        - Signal
+      Search: DuckDuckGo
+      Knowledge_Base: Obsidian
+      Email: ProtonMail
+      Docs: Fileverse
+      Wallet: Trezor
+      VPN: WireGuard
+  VladimirS:
+    id: "vladimir-s"
+    avatar: "Vladimir S.jpg"
+    name: "Vladimir S"
+    org: "Threat Researcher - Remedy"
+    tools:
+      Phone:
+        - iPhone
+        - PurismLibrem5
+      Browser_Desktop:
+        - Tor
+        - Mullvad
+      Messenger:
+        - Telegram
+      Search: DuckDuckGo
+      Knowledge_Base: Obsidian
+      Email:
+        - Tutanota
+        - ProtonMail
+      Docs: Fileverse
+      Wallet:
+        - GridPlusLattice
+        - Lattice
+      VPN: Mullvad
+      Password: KeePassXC
+      OS_Mobile:
+        - LineageOS
+        - DivestOS
+      OS_Desktop:
+        - Whonix
+        - ParrotOS
+      Sandbox: AnyRun
+      PDF: DangerZone
+      OnChain_Security:
+        - Delegate
+        - Airgap
+      PrivateKey: EncryptKey
+      Physical_Security: AndroidImsi
+      Antivirus:
+        - MalwareBytes
+        - Comodo
+      TrafficMonitoring: Wigle
+      Data_Management: Wholeaked
+      Sim_Provider: Efani
+  Park:
+    id: "park"
+    avatar: "Park.jpg"
+    name: "Park"
+    org: "Penumbra"
+    tools:
+      Hardware: MacBook
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: Brave
+      Messenger: Signal
+      Keyboard: Futo
+      Filesharing: MagicWormhole
+      Search: DuckDuckGo
+      Wallet: PraxWallet
+      Docs: AnyType
+      VPN:
+        - Mullvad
+        - NordVPN
+      Reader:
+        - Omnivore
+        - Plenary
+      Knowledge_Base: Obsidian
+  Andreas:
+    id: "andreas"
+    avatar: "Andreas x Fileverse.jpg"
+    name: "Andreas"
+    org: "Cyberflaneur - Fileverse"
+    tools:
+      Browser_Desktop: Brave
+      Docs:
+        - Ddocs
+        - Fileverse
+      Messenger: Signal
+      Map: OpenStreetMap
+      Short_Links: MaglitMe
+      Multisig: ZKSafe
+      Meeting: Jitsi
+      OnChain:
+        - Railgun
+        - Penumbra
+      Images: ExifCleaner
+      Archive: AnnaArchive
+      CensorshipScan: OONI
+      Anime: HiAnime
+      Wallet: Frame
+      AI: VeniceAI
+  SamHart:
+    id: "sam-hart"
+    avatar: "sam hart.jpg"
+    name: "Sam Hart"
+    org: "Skip"
+    tools:
+      Messenger: Signal
+      Microblogging: Bluesky
+      Bookmarking: Arena
+      Wallet:
+        - PraxWallet
+        - Namada
+      OnChain:
+        - Penumbra
+        - Anoma
+      VPN: NymVPN
+      Storage: PrivateStorage
+      Dev_Environment: NixOS
+  FatemehFannizadeh:
+    id: "fatemeh-fannizadeh"
+    avatar: "Fatemeh.png"
+    name: "Fatemeh Fannizadeh"
+    org: "Anoma Foundation"
+    tools:
+      Firewall: OpenSnitch
+      AdBlocker: PiHole
+      Browser_Desktop: Brave
+      Crypto: Bitcoin
+      OnChain:
+        - Namada
+        - Ethereum
+      Messenger:
+        - Signal
+        - Session
+      VPN: Mullvad
+      Dark_Web:
+        - Mullvad
+        - MullvadVPN
+      Personal_Red_Teaming:
+        - FlipperZero
+        - HackRF
+      Sex:
+        - Buttplug
+  AmirTaaki:
+    id: "amir-taaki"
+    avatar: "Amir Taaki.png"
+    name: "Amir Taaki"
+    org: "DarkFi"
+    tools:
+      Hardware: Framework
+      OS_Desktop: VoidLinux
+      OS_Mobile: 
+        - GrapheneOS
+        - postmarketOS
+      Phone: Pinephone
+      Browser_Desktop: Librewolf
+      Messenger:
+        - Signal
+        - SimpleX
+        - Weechat
+        - RevolutionIrc
+        - DarkIRC
+      Media: mpv
+      Task Manager: Tau
+      Music: 
+        - mod music scraper
+        - XMP Mod Player
+      P2P: QbitTorrent
+      Videos:
+        - KDEnlive
+        - yt-dlp
+      Books: 
+        - Libgen
+        - Zathura
+        - Kobo
+        - Plato reader
+      3D: Blender
+      Graphics:
+        - GIMP
+        - inkscape
+      Map: OrganicMaps
+      Code: 
+        - Nvim
+        - Github
+      Meeting: Jitsi
+      Password: KeePassXC
+      Wallet:
+        - Cake Wallet
+        - Monero-Cli
+  JoshDavila:
+    id: "josh-davila"
+    avatar: "Josh Davila.jpg"
+    name: "Josh Davila"
+    org: "The Blockchain Socialist"
+    tools:
+      Crypto: Bread
+      Wallet: Citizen Wallet
+      Messenger: Signal
+      Email: ProtonMail
+      VPN: NymVPN
+      Organizing: Loomio
+      Mutual Credit: Circles
+      Node: Dappnode
+      Knowledge_Base: InternetArchive
+      P2P: Fileverse
+      Docs: LibreOffice
+      OS_Desktop: LinuxMint
+      Books: 
+        - LibroFM
+        - Libgen
+      Science: Sci-Hub
+      BDS: Boycat App
+  WassimAlsindi:
+    id: "wassim-alsindi"
+    avatar: "Wassim Alsindi.jpg"
+    name: "Wassim Alsindi"
+    org: "0xSalon"
+    tools:
+      Hardware: ThinkpadX230
+      Messenger: 
+        - Signal
+        - xmpp
+      OS_Mobile: GrapheneOS
+      Search: 
+        - StartPage
+        - Kagi
+      Email: TutaNota
+      Browser_Desktop: Librefox
+      Map: OrganicMaps 
+      VPN: Mullvad
+      Collaboration: HackMD
+      Docs: LibreOffice
+      Marketplace: Vexl
+      Knowledge_Base: Obsidian 
+      Bookmarking: Arena
+      Meeting: Jitsi
+      Password: KeePassXC
+      PDF: DangerZone
+      Crypto: 
+      - Bitcoin
+      - Monero
+      Unit of account: Rai stones
+  ais.eth:
+    id: "ais-connolly"
+    avatar: "Ais Connolly.jpg"
+    name: "Ais Connolly"
+    org: "Taceo"
+    tools:
+      OS_Desktop: 
+        - MacOS
+        - TailsOS
+      Browser_Desktop: 
+        - Brave
+        - Zen
+      Browser_Mobile: Brave
+      Wallet: 
+        - Status
+        - Brave
+        - Trust
+      Messenger: Signal
+      Docs: Ddocs
+      Knowledge_Base: Obsidian
+      Forms: Tally
+      VPN: 
+        - NymVPN
+        - ProtonVPN
+      Email: ProtonMail
+      Password: Bitwarden
+      Portfolio: Rotki
+      Meeting: Jitsi
+      OnChain_Security: Airgap
+      Map: 
+        - OsmAnd
+        - Mapy.cz
+      Reader: 
+        - Calibre
+        - Kiwix
+        - Kobo
+  KurtOpsahl:
+    id: "kurt-opsahl"
+    avatar: "Kurt Opsahl.jpg"
+    name: "Kurt Opsahl"
+    org: "Filecoin Foundation"
+    tools:
+      Browser_Desktop:
+        - Tor
+        - Brave
+      Messenger: Signal
+      VPN: OpenVPN
+      Archiving: OpenArchive
+      Knowledge_Base: HackPad
+      Code: Rust
+      Pen testing: Metasploit Framework
+      Crypto: Zcash
+  PeterVanValkenburgh:
+    id: "peter-vanvalkenburgh"
+    avatar: "Peter van Valkenburgh.jpg"
+    name: "Peter Van Valkenburgh"
+    org: "Coin Center"
+    tools:
+      Browser_Desktop:
+        - DuckDuckGo
+        - Chromium
+      Wallet:
+        - Ledger
+        - Status
+      Messenger: 
+        - Signal
+        - DarkIRC
+      VPN: DuckDuckGo
+      Search: DuckDuckGo
+      SecurityCamera: Ubiquiti
+      Router: PfSense
+  HarryHalpin:
+    id: "harry-halpin"
+    avatar: "Harry Halpin.jpg"
+    name: "Harry Halpin"
+    org: "Nym"
+    tools:
+      Hardware: Lenovo   
+      OS_Desktop: GnuLinux
+      OS_Mobile: iOS
+      Browser_Desktop:
+        - Brave
+        - Tor
+      Wallet:
+       - Zashi
+       - Monero Desktop
+       - Status
+      Messenger:
+        - Signal
+        - SimpleX
+        - Matrix
+        - Zulip
+      Docs: LibreOffice
+      Email: ProtonMail
+      Search: BraveSearch
+      Storage: LUKSencryption
+      ERP: OODO
+  AhmedGhappour:
+    id: "ahmed-grappour"
+    avatar: "Ahmed.jpg"
+    name: "Ahmed Ghappour"
+    org: "Flashbots"
+    tools:
+      Hardware:
+        - MacBook
+        - RaspberryPi 
+      OS_Desktop:
+        - iOS
+        - TailsOS
+      Browser_Desktop: Tor
+      Messenger: 
+        - Signal
+        - Session
+      Docs: Ddocs
+      VPN: Mullvad
+      Search: DuckDuckGo
+      Meeting: Jitsi
+  MatthiasTarasiewicz:
+    id: "matthias-tarasiewicz"
+    avatar: "Matthias Tarasiewicz.png"
+    name: "Matthias Tarasiewicz"
+    org: "RIAT Institute"
+    tools:
+      Hardware: 
+        - Lenovo
+        - Lenovo X230
+        - Lenovo T430
+        - Lenovo W530 (Libreboot, GNU Boot)
+      WiFi: Atheros AR9462 ath9k
+      Phone: 
+        - Pinephone
+        - oneplus-enchilada
+      Router: LibreCMC supported routers
+      OS_Desktop: QubesOS
+      OS_Mobile: 
+        - replicant
+        - CalyxOS
+        - NixOS
+      Browser_Desktop: 
+        - Mullvad
+        - Ladybird
+        - Dillo
+      Syncing:
+        - Syncthing
+        - LocalSend
+      Data_Management: Visidata
+      Meeting: Jitsi
+      Task Manager: org-mode
+      Messenger: 
+        - irc-otr
+        - SimpleX
+  LuisBezzenberger:
+    id: "luis-bezzenberger"
+    avatar: "Luis x Shutter.jpg"
+    name: "Luis Bezzenberger"
+    org: "Shutter Network"
+    tools:
+      3D: 
+        - Blender
+        - Meshroom
+        - Gyroflow
+        - Handbrake
+        - torch-ngp
+        - PrusaSlicer
+      AI: 
+        - ComfyUI
+        - Pinokio
+        - StabilityMatrix
+        - LM Studio
+      Graphics: GIMP
+      Portfolio: Rotki
+  afri:
+    id: "afri"
+    avatar: "afri.jpg"
+    name: "afri"
+    org: "Department of Decentralization"
+    tools:
+      Hardware: ThinkPad L13
+      OS_Desktop: ArchLinux
+      Phone: Pixel 8 
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: 
+        - Firefox
+        - Firefox Focus
+      Messenger: 
+        - Signal
+        - Element
+      Search: Kagi
+      AI: CodeLlama 34b
+      Docs:
+        - Cryptpad
+        - LibreOffice
+  Wesley:
+    id: "Wesley"
+    avatar: "wesley.jpg"
+    name: "Wesley"
+    org: "Ethereum Foundation"
+    tools:
+      Hardware: System76
+      OS_Desktop: PopOS
+      Phone: Pixel 8
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: Firefox
+      Messenger: Signal
+      Search: StartPage
+      Docs: LibreOffice
+      Cloud: Tresorit
+      Email: ProtonMail
+      VPN: Mullvad
+  Rachel-RoseO'Leary:
+    id: "Rachel-Rose-OLeary"
+    avatar: "Rachel-Rose.png"
+    name: "Rachel-Rose O'Leary"
+    org: "DarkFi"
+    tools:
+      Hardware: Framework
+      OS_Desktop:
+        - VoidLinux
+        - Suckless
+      Phone: 
+        - Pixel
+        - OnePlus 9 Pro
+        - Nokia 8110 4G
+      OS_Mobile: 
+        - GrapheneOS
+        - LineageOS
+        - KaiOS 
+      AppStore: FDroid
+      Music: 
+        - XMP Mod Player
+        - Musikcube
+      P2P: 
+        - QbitTorrent
+        - Soulseek
+        - NewPipe 
+        - Odysee
+      Calendar: 
+        - Calcurse
+      Task Manager: Tau 
+      Docs: LibreOffice 
+      Messenger: DarkIRC
+      Browser_Desktop: 
+        - Librewolf
+        - Tor
+      Dev_Environment: Codeberg
+      Wallet: 
+        - MoneroDesktop
+        - MoneroCli
+      Sports: Pump
+      GirlsStuff: Drip
+  KateS:
+    id: "Kate-S"
+    avatar: "Kate-S.png"
+    name: "Kate S"
+    org: "Inoo"
+    tools:
+      Hardware: 
+        - Lenovo 
+        - ThinkPad 2012 T100
+      OS_Desktop: GnuLinux 
+      OS_Mobile: GrapheneOS
+      P2P: CipherDrop
+      Messenger: Signal
+      Wallet: Trust
+      Notes: Logseq
+      Map: OpenStreetMap
+      Network: Tor
+      Search:
+        - DuckDuckGo
+        - YaCy
+      Storage: owncloud
+      Email: ProtonMail
+  AntonioSeveso:
+    id: "antonio-seveso"
+    avatar: "AntonioSeveso.jpg"
+    name: "Antonio Seveso"
+    org: "Fluidkey"
+    tools:
+      OS_Desktop: Ubuntu
+      Browser_Desktop: Brave
+      Messenger: Signal
+      Email: ProtonMail
+      Wallet: Fluidkey
+      VPN: ProtonVPN
+      Storage: Self-hosted NAS
+      Videos: VLC
+      Password: KeePassXC
+      3D: OpenSCAD
+      Socials: Farcaster
+      Recording: OBS
+      Drawings: DrawIo
+  Lanski:
+    id: "lanski"
+    avatar: "Lanski.png"
+    name: "Lanski"
+    org: "Dappnode"
+    tools:
+      Hardware: MacBook
+      Phone: Pixel
+      OS_Desktop: MacOS
+      OS_Mobile: GrapheneOS
+      Messenger: Signal
+      Email: ProtonMail
+      Wallet: 
+        - Rabby
+        - Fluidkey
+      Network: 
+        - Tor
+        - Brave
+      VPN: Dappnode
+      Storage: Fileverse
+      Notes: Obsidian
+      Map: OsmAnd
+      Self_Hosted_LLM: Ollama      
+  FrancescoAndreoli:
+    id: "francesco-andreoli"
+    avatar: "FranceskoAndreoli.jpg"
+    name: "Francesco Andreoli"
+    org: "Consensys"
+    tools:
+      OS_Mobile: 
+        - GrapheneOS
+        - iOS
+      Browser_Mobile: Brave
+      VPN:
+        - Mullvad
+      Messenger: Signal
+      Storage: ProtonDrive
+      Search: DuckDuckGo
+      Wallet:
+        - Ledger
+        - Metamask
+      Docs: Fileverse
+      Email: ProtonMail
+  Zodomo:
+    id: "zodomo"
+    avatar: "zodomo.png"
+    name: "Zodomo"
+    org: "Omni Network"
+    tools:
+      OS_Desktop: EndeavourOS
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: Brave
+      Search: SearXNG
+      Messenger: SimpleX
+      Email: ProtonMail
+      Wallet: Ambire
+      VPN: Mullvad
+      Network: 
+      - Tor
+      - Mullvad
+      - I2P
+      P2P: QbitTorrent
+      Storage: NextCloud
+      Docs: Obsidian
+      Notes: Obsidian
+      Map: OrganicMaps
+      AI: Qwen
+      Videos: Plex
+      Music: Plex
+      Password: Bitwarden
+      2FA: Aegis
+      Node:
+      - Nethermind
+      - Prysm
+      PDF: Sumatra
+      Graphics: Regards
+  Pentacle:
+    id: "pentacle"
+    avatar: "Pentacle.jpg"
+    name: "Pentacle"
+    org: "Pentacle.xyz"
+    tools:
+      Hardware: MacBook
+      OS_Desktop: MacOS
+      OS_Mobile: iOS
+      Browser_Desktop: Brave
+      Messenger: Signal
+      Search: DuckDuckGo
+      Email: ProtonMail
+      Wallet: Rainbow
+      VPN: Snowstorm
+      Storage: NextCloud
+      Docs: Ddocs
+      Journaling: GitJournal
+      Map: AppleMap
+      AI: Claude
+      Graphics: Photoshop
+      IDE: 
+      - WebStorm
+      - PyCharm
+  ChrisMcCabe:
+    id: "chris-mccabe"
+    avatar: "ChrisMcCabe.png"
+    name: "Chris McCabe"
+    org: "Session"
+    tools:
+      Hardware: Framework
+      OS_Desktop:
+      - Linux
+      - Ubuntu
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: Brave
+      Messenger: Session
+      Search: DuckDuckGo
+      Email: ProtonMail
+      Wallet: Trezor
+      VPN: ProtonVPN
+      Storage: ProtonDrive
+      Docs: Fileverse
+      Graphics: GIMP
+      Videos: VLC
+      Meeting: Session
+      Password: Bitwarden
+  VladCostea:
+    id: "vlad-costea"
+    avatar: "VladCostea.jpg"
+    name: "Vlad Costea"
+    org: "Bitcoin Takeover Podcast"
+    tools:
+      Hardware: RaspberryPi
+      OS_Desktop: Raspbian
+      OS_Mobile: iOS
+      Browser_Desktop: Firefox
+      Network: Nym
+      Messenger: Signal
+      Search: DuckDuckGo
+      Email: ProtonMail
+      Wallet: Electrum
+      P2P: QbitTorrent
+      VPN: NymVPN
+      Storage: ProtonDrive
+      Docs: LibreOffice
+      Notes: Simplenote
+      Map: Marble
+      Calendar: ProtonCalendar
+      AI: PPQ AI
+      Graphics: GIMP
+      Videos: VLC
+      Music: VLC
+      Audio: Audacity
+      Meeting: Jitsi
+      Password: Bitwarden
+  Alisher:
+    id: "alisher"
+    avatar: "Alisher.png"
+    name: "Alisher"
+    org: "Logos"
+    tools:
+      Hardware: Framework
+      Browser_Desktop: Brave
+      Messenger: Status
+      Docs: Fileverse
+      Storage: Codex
+      Wallet: Keycard
+      Email: ProtonMail
+      P2P: QbitTorrent
+      Notes: AnyType
+      Videos: Jellyfin
+      Music: MusicBee
+      Graphics: GIMP
+      Upscaling: Upscayl
+      Reader: Calibre
+      Audio: EqualizerAPO
+  Aki:
+    id: "aki"
+    avatar: "Aki.png"
+    name: "Aki"
+    org: "Mycel"
+    tools:
+      OS_Desktop: NixOS
+      Browser_Desktop: Floorp
+      Messenger: Signal
+      Docs: CodiMD
+      Storage: Codex
+      VPN: Headscale
+      Wallet: Cake Wallet
+      Network: Tor
+      Notes: Nvim
+      Meeting: Jitsi
+      Audio: Mixxx
+      Videos: VLC
+  Jaromil:
+    id: "jaromil"
+    avatar: "Jaromil.png"
+    name: "Jaromil"
+    org: "Dyne.org"
+    tools:
+      Hardware:
+        - Lenovo
+        - Thinkpad      
+      OS_Desktop:
+        - LinuxMint
+        - Dynebolic
+        - Devuan
+        - Windows 
+      OS_Mobile: NothingOS
+      Browser_Desktop:
+        - Palemoon
+        - Falkon
+        - Thorium
+        - Edge
+      Messenger:
+        - Signal
+        - Bittlbee
+        - Weechat
+        - N8N
+      Docs: CryptPad
+      IDE: Emacs
+      Storage:
+        - Tomb
+        - Git
+        - ZFS
+      VPN:
+        - ProtonVPN
+        - Mullvad
+      Search: Searx
+      Wallet:
+        - Bitcoin knots
+        - Electrum
+      Network:
+        - Tor
+        - Shadowsocks
+        - I2P
+      P2P: Deluge
+      Email: Jaromail
+      Meeting: Jitsi
+      Map: OsmAnd
+      AI:
+        - Claude
+        - Perplexity
+      Audio:
+        - MOC
+        - Pipewire
+      Videos:
+        - Frei0r
+        - FreeJ
+        - FFMpeg
+        - KDEnlive
+      Graphics: GIMP
+  RogerDingledine:
+    id: "roger-dingledine"
+    avatar: "RogerDingledine.jpg"
+    name: "Roger Dingledine"
+    org: "The Tor Project"
+    tools:
+      Hardware: ThinkpadX230
+      OS_Desktop: Debian
+      Browser_Desktop: Tor
+      Messenger: Signal
+      Email:
+        - Postfix
+        - Mutt
+      VPN: ssh -f -N -D 1080
+      Docs: pdfLaTeX
+      Meeting:
+        - Jitsi
+        - Signal
+      Notes:
+        - Nvim
+        - XournalPP
+      Network: Tor
+      Videos: mplayer
+      PDF: Evince
+      Games: NetHack
+  KyleDH:
+    id: "kyle-dh"
+    avatar: "KyleDH.jpg"
+    name: "Kyle DH"
+    org: "Brave"
+    tools:
+      Hardware: MacBook
+      OS_Desktop: MacOS
+      Phone:
+         - Pixel
+         - iPhone
+      OS_Mobile: GrapheneOS
+      Browser_Desktop: Brave
+      Search: BraveSearch
+      Network: 
+         - Tor
+         - Tor Snowlake
+      Messenger: Signal
+      Email: ProtonMail
+      VPN:
+         - BraveVPN
+         - ProtonVPN
+      Wallet:
+         - Brave
+         - Ledger
+         - Zashi
+         - Keystone
+      Docs: Obsidian
+      Task Manager: Microsoft To Do
+      Storage: ProtonDrive
+      Meeting: Brave Talk
+      Music: Spotify
+      P2P: 
+         - IPFS
+         - ZKP2P
+      Self_Hosted_LLM: Ollama
+      AI:
+         - Ask Brave
+         - LeoAI
+      Videos: Stremio 
+  redshiftzero:
+    id: "red-shift-zero"
+    avatar: "redshiftzero.png"
+    name: "redshiftzero"
+    org: "Freedom of the Press Foundation"
+    tools:
+      Hardware: Framework
+      OS_Desktop: QubesOS
+      Browser_Desktop: Tor
+      Messenger: Signal
+      VPN: Mullvad
+      Wallet: Ledger
+      Notes: Obsidian
+      Network: Tor
+      Meeting: Signal
+      PDF: DangerZone
+      Password: KeePassXC
+  SandorA.Nagy:
+    id: "sandor-a.-nagy"
+    avatar: "sandor.png"
+    name: "Sandor A. Nagy"
+    org: "Swarm Foundation"
+    tools:
+      OS_Desktop: MacOS
+      OS_Mobile: iOS
+      Browser_Desktop: Brave
+      Messenger: Signal
+      VPN: ProtonVPN
+      Storage:
+         - Swarm
+         - ProtonDrive
+      Wallet: Trezor
+      Email: ProtonMail
+      Meeting: Jitsi
+      Music:
+         - VirtualDJ
+         - LogicPro
+      Graphics: Canva
+  JordiPinyana:
+    id: "jordi-pinyana"
+    avatar: "jordi.png"
+    name: "Jordi Pinyana"
+    org: "Vocdoni"
+    tools:
+      Hardware: Lenovo
+      Phone: Pixel
+      OS_Desktop:
+         - TailsOS
+         - FedoraLinux
+      OS_Mobile: GrapheneOS
+      Browser_Desktop:
+         - Tor
+         - Firefox
+      Messenger: Signal
+      VPN: Mullvad
+      Search: DuckDuckGo
+      Docs: CryptPad
+      Wallet:
+         - Rabby
+         - Trezor
+      Network: 
+         - Tor
+         - Nym
+      Email: 
+         - ProtonMail
+         - Thunderbird
+      Notes: KWrite
+      Map: OsmAnd
+      Self_Hosted_LLM: Dolphin-llama3
+      Meeting: Signal
+      Music:
+         - VLC
+         - Audacity
+      Videos:
+         - VLC
+         - KDEnlive
+      Graphics: GIMP
+      PDF:
+         - Okular
+         - PDFtk
+      Password: KeePassXC
+  kassandra.eth:
+    id: "kassandra-eth"
+    avatar: "kassandrawitch.jpg"
+    name: "kassandra.eth"
+    org: "Ethereum Foundation"
+    tools:
+      Hardware:
+        - ThinkpadX230
+        - MacBook
+      OS_Desktop: 
+        - Ubuntu
+        - MacOS
+      OS_Mobile:
+        - iOS
+        - GrapheneOS
+      Docs:
+        - Ddocs
+        - CryptPad
+      Browser_Desktop:
+        - Tor
+        - Brave
+      VPN: Mullvad
+      Email: ProtonMail
+      Calendar: ProtonCalendar
+      Password: ProtonPass
+      Storage:
+        - ProtonDrive
+        - NextCloud
+      Messenger: Signal
+      Meeting: Jitsi
+      Wallet:
+        - Frame
+        - Railway
+        - Kohaku
+  SoorajSathyanarayanan:
+    id: "sooraj-sathyanarayanan"
+    avatar: "soorajsathyanarayanan.jpg"
+    name: "Sooraj Sathyanarayanan"
+    org: "Brave"
+    tools:
+      Hardware:
+        - MacBook
+        - System76
+      OS_Desktop:
+        - MacOS
+        - SecureBlue
+      OS_Mobile:
+        - iOS
+        - GrapheneOS
+      Browser_Desktop: Brave
+      Search: BraveSearch
+      Messenger: 
+        - Signal
+        - SimpleX 
+      VPN: BraveVPN
+      Email: ProtonMail
+      Wallet:
+        - Brave
+        - Trezor
+        - Keystone
+      Storage:
+        - ProtonDrive
+        - Ente
+      Docs:
+        - CryptPad
+        - LibreOffice
+        - Ddocs
+      Map:
+        - AppleMap
+        - OsmAnd
+        - OrganicMaps
+      P2P:
+        - IPFS
+        - BitTorrent
+      Notes: Notesnook
+      Network: 
+        - Tor
+        - Tor Snowflake
+      AI: 
+        - LeoAI
+        - Ask Brave
+      Meeting: Brave Talk
+      Videos: Odysee
+      Password: Bitwarden
+      

@@ -1,0 +1,32 @@
+# Footer configuration (4 columns + social). Overrides defaultContent.footer when this file is loaded.
+# Logo path (optional)
+logo: /assets/nav-logo.svg
+
+# Four columns of links. Each column is a list of links: { label, href, external?: true }
+linksColumns:
+  - - { label: Manifesto, href: '#manifesto' }
+    - { label: How to get involved, href: '#support' }
+    - { label: Grants / Support Us, href: '#support' }
+  - - { label: Events, href: '/events' }
+    - { label: Articles, href: '/resources' }
+    - { label: Talks, href: '#' }
+  - - { label: Privacy Explorer, href: 'https://explorer.web3privacy.com', external: true }
+    - { label: Privacy use-cases database, href: '#' }
+  - - { label: About, href: '/about' }
+    - { label: Privacy Policy, href: 'https://web3privacy.info/privacy', external: true }
+    - { label: Docs, href: '/docs' }
+
+# Label above social icons
+socialLabel: Join our privacy movement on:
+
+# Social links: { label, icon, href }. Icon name = github, x, youtube, telegram, discord, rss, etc.
+social:
+  - { label: GitHub, icon: github, href: 'https://github.com/web3privacy' }
+  - { label: X, icon: x, href: 'https://x.com/web3privacy' }
+  - { label: YouTube, icon: youtube, href: 'https://www.youtube.com/@web3privacy' }
+  - { label: Telegram, icon: telegram, href: 'https://t.me/web3privacy' }
+  - { label: Discord, icon: discord, href: 'https://discord.gg/web3privacy' }
+  - { label: RSS, icon: rss, href: 'https://news.web3privacy.info/feed.xml' }
+
+# Copyright line
+legal: All rights not reserved, Creative commons 2024 - Web3Privacy

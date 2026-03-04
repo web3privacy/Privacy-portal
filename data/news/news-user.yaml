@@ -1,0 +1,35 @@
+articleOverrides:
+  2026-08:
+    isHighlighted: true
+    published: true
+  2026-07:
+    isHighlighted: false
+  crawler-2026-02-13-i23nzf:
+    isHighlighted: false
+  crawler-2026-02-24-o7uvve:
+    isHighlighted: false
+  crawler-2026-02-20-xo1681:
+    isHighlighted: true
+  crawler-2026-02-17-ixsoxd:
+    isHighlighted: true
+  crawler-2026-02-25-sjh0l7:
+    isHighlighted: false
+  crawler-2026-02-24-e66kui:
+    isHighlighted: true
+donationTiers:
+  - amount: $15
+    label: early stage support
+    url: https://web3privacy.info
+  - amount: $50
+    label: community builder
+    url: https://web3privacy.info
+  - amount: $500
+    label: future work partner
+    url: https://web3privacy.info
+featuredProjectIds:
+  - brave
+  - monero
+  - signal
+  - tor
+  - railgun
+  - nym

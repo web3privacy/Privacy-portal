@@ -1,0 +1,20 @@
+id: basic-attention-token
+name: Basic Attention Token
+categories:
+- defi
+description: Making Crypto and DeFi accessible and usable for everyone (powered by
+  Brave)
+ecosystem:
+- solana
+links:
+  web: https://basicattentiontoken.org
+  whitepaper: https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf
+  blog: https://basicattentiontoken.org/blog/
+  twitter: https://x.com/attentiontoken
+  discord: https://discord.com/invite/BATBrigade
+team:
+  anonymous: false
+usecases:
+- currency
+have_token: false
+third_party_dependency: none

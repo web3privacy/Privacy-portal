@@ -1,0 +1,111 @@
+id: mina
+name: Mina
+categories:
+  - infrastructure
+description: The world’s lightest blockchain, powered by participants. Using
+  zero knowledge technology
+team:
+  anonymous: false
+  teammembers:
+    - name: Brandon Kase
+      link: https://x.com/bkase_
+links:
+  web: https://minaprotocol.com
+  blog: https://minaprotocol.com/blog
+  github: https://github.com/MinaProtocol/mina
+  forum: https://forums.minaprotocol.com/
+  docs: https://docs.minaprotocol.com/
+  whitepaper: https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf
+  block_explorer: https://minascan.io/
+  governance: https://ocv.minaprotocol.com
+  twitter: https://twitter.com/minaprotocol
+  discord: https://discord.com/invite/minaprotocol
+  telegram: ""
+  lens: ""
+  farcaster: ""
+have_token: false
+tokens:
+  - symbol: ""
+    name: ""
+    contract_address: ""
+    token_link: ""
+  - symbol: MINA
+    name: Mina
+    contract_address: ""
+    token_link: https://minascan.io/mainnet/analytics/network
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+usecases:
+  - infrastructure
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/mina/logo.png
+ecosystem:
+  - other
+sunset: false
+assets_used:
+  - other
+product_launch_day: 2021-03-01T00:00:00.000Z
+project_phase: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: Zero-knowledge, Ouroboros, Succint blockchain, L1
+  p2p: true
+storage:
+  decentralized: true
+privacy_policy:
+  defined: true
+  link: https://minaprotocol.com/privacy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - seed
+default_privacy: true
+audits:
+  - name: Least Authority Concludes Security Audit of Pickles
+    url: https://minaprotocol.com/blog/pickles-security-audit
+    time: 2023-12-13T00:00:00.000Z
+  - name: The o1js Audit by Veridise
+    url: https://www.o1labs.org/blog/the-o1js-audit
+    time: 2024-09-26T23:00:00.000Z
+  - name: Mina NFT Standard Audit by Veridise
+    url: https://minaprotocol.com/wp-content/uploads/mina-nft-standard-audit.pdf
+    time: 2025-03-30T23:00:00.000Z
+  - name: Mina Fungible Token Standard Audit by Veridise
+    url: https://veridise.com/wp-content/uploads/2024/08/VAR_Mina_Foundation_240624_Mina_Fungible_Token_Standard-V3.pdf
+    time: 2024-08-04T23:00:00.000Z
+social_trust: ""
+technical_spof: ""
+funding:
+  - name: Paradigm
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: Coinbase Ventures
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: Electric Capital
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: Accomplice
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: General Catalyst
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: PolyChain
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+  - name: MetaStable
+    link: https://minaprotocol.com/blog/new-o1-labs-funding-and-coda-in-2019
+history:
+  - title: "Mina Community Call: Strategic Changes and Ecosystem Updates"
+    description: "CEOs of o1Labs and Mina Foundation, Brandon Kase and Josh
+      Cincinnati, joined an X space to discuss the recent strategic changes and
+      share their vision for the future of the Mina ecosystem. "
+    link: https://minaprotocol.com/blog/mina-community-call-recap
+    time: 2025-04-16T23:00:00.000Z

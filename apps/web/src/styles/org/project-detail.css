@@ -1,0 +1,180 @@
+/* Project Detail page – layout a responzivita (bez změn globálních tokenů) */
+
+/* Hero: desktop 2 sloupce */
+.project-detail-hero-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+}
+
+@media (min-width: 769px) {
+  .project-detail-hero-inner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+    text-align: left;
+    max-width: 100%;
+  }
+  .project-detail-hero-graphic {
+    flex-shrink: 0;
+    width: 280px;
+    height: 280px;
+  }
+  .project-detail-hero-content {
+    flex: 1;
+    max-width: 560px;
+  }
+  .project-detail-metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+}
+.project-detail-hero-graphic {
+  width: 112px;
+  height: 112px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .project-detail-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+  .project-detail-metrics-desktop-only {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .project-detail-metrics-mobile-only {
+    display: none;
+  }
+}
+
+/* Roadmap: vertikální čára a čtvercové bullet pointy na mobilu */
+.project-detail-roadmap-list {
+  position: relative;
+  padding-left: 24px;
+}
+.project-detail-roadmap-list::before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 12px;
+  bottom: 12px;
+  width: 2px;
+  background: var(--color-accent);
+}
+@media (max-width: 768px) {
+  .project-detail-roadmap-bullet {
+    border-radius: 2px !important;
+  }
+}
+
+/* Team: desktop 3 v řadě, mobil 2 sloupce */
+.project-detail-team-grid {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (min-width: 769px) {
+  .project-detail-team-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Partners: desktop řada, mobil 2×2 */
+.project-detail-partners-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (min-width: 769px) {
+  .project-detail-partners-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  }
+}
+
+/* Features: první řádek karty, druhý řádek ikonové položky */
+.project-detail-features-cards {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 600px) {
+  .project-detail-features-cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.project-detail-features-icons {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 600px) {
+  .project-detail-features-icons {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Mission & Links: 2 sloupce desktop */
+.project-detail-mission-links {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 769px) {
+  .project-detail-mission-links {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Articles list: desktop obrázek vlevo, na mobilu obrázek nahoře */
+.project-detail-article-card {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 16px;
+  align-items: start;
+}
+@media (max-width: 480px) {
+  .project-detail-article-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Contribute: desktop text + CTA vlevo, odkazy vpravo */
+.project-detail-contribute-inner {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 769px) {
+  .project-detail-contribute-inner {
+    grid-template-columns: 1fr auto;
+  }
+}
+
+/* Footer: grid pro avatary a layout */
+.project-detail-footer-avatars {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  max-width: 320px;
+  margin: 0 auto;
+}
+.project-detail-footer-columns {
+  display: none;
+}
+@media (min-width: 769px) {
+  .project-detail-footer-columns {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 48px;
+    align-items: start;
+    text-align: left;
+  }
+}

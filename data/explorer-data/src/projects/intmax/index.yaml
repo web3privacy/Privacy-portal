@@ -1,0 +1,85 @@
+id: intmax
+name: Intmax
+categories:
+  - infrastructure
+ecosystem:
+  - ethereum
+project_type: Layer2 zk-rollup
+description: >-
+  INTMAX is an scalable layer for Ethereum transfers that incorporates ethically
+  sound privacy. It is a stateless zkRollup structure, theoretically achieving
+  scalability similar to Plasma and Lightning Network, as envisioned in 2018. By
+  distributing both data and computation costs across users’ devices, INTMAX
+  inherits security from Ethereum while achieving scalability even greater than
+  centralized financial systems using databases.
+
+
+  INTMAX Wallet stands out by eliminating the need for downloading additional
+  extensions and writing down lengthy recovery phrases. It offers a smooth user
+  experience with passkey authentication and top-tier security through
+  Multi-Party Computation (MPC) and Fully Homomorphic Encryption (FHE).
+team:
+  anonymous: false
+  teammembers:
+    - name: Leona Hioki
+      role: Co-founder
+      link: https://x.com/HiokiLeona
+    - name: " Mai Fujimoto"
+      link: https://x.com/missbitcoin_mai
+links:
+  web: https://www.intmax.io/
+  blog: https://medium.com/intmax
+  github: https://github.com/InternetMaximalism
+  forum: ""
+  docs: https://docs.network.intmax.io/
+  whitepaper: https://eprint.iacr.org/2023/1082.pdf
+  block_explorer: https://explorer.intmax.io/
+  governance: ""
+  twitter: https://x.com/intmaxIO
+  discord: https://discord.com/invite/N7kYGUPDEE
+  telegram: https://t.me/QM1EbIzxACsxMDk1
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: false
+  version: testnet2
+have_token: true
+usecases:
+  - eth-layer-2
+  - wallets
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/intmax/logo.png
+sunset: false
+assets_used: []
+tokens:
+  - symbol: ITX
+    name: INTMAX
+    contract_address: "0xe24e207c6156241cAfb41D025B3b5F0677114C81"
+    token_link: https://explorer.intmax.io/
+project_phase: testnet2
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+social_trust: ""
+technical_spof: ""
+product_launch_day: 2021-08-02T03:00:00.000Z

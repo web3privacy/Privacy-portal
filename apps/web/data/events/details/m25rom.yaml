@@ -1,0 +1,17 @@
+# Rome Meetup - extended detail (event has no web link)
+timeRange: "18:00 - 21:00"
+agendaUrl: "#schedule"
+
+topics:
+  enabled: true
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    We bring together privacy advocates, developers, and researchers
+    to explore the latest in Web3 privacy technology.
+
+experience:
+  enabled: true
+  title: "About the event"
+  content: |
+    Join us for a privacy-focused meetup during ETHRome 2025.
+    We'll discuss latest developments in Web3 privacy.

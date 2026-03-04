@@ -1,0 +1,409 @@
+.shell {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  height: 78px;
+  width: 100%;
+  max-width: 1280px;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.brandLink {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  line-height: 1;
+}
+
+/* Logo (SVG) is black; in dark mode make it white for visibility */
+:global(.dark) .brandLink img {
+  filter: brightness(0) invert(1);
+}
+
+.brandWord {
+  font-family: var(--font-serif), Georgia, serif;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #000000;
+  text-transform: lowercase;
+}
+
+.brandBlock {
+  display: inline-block;
+  height: 14px;
+  width: 32px;
+  border-radius: 2px;
+  background: #000000;
+}
+
+.desktopNavWrap {
+  position: relative;
+  margin-left: auto;
+  display: none;
+}
+
+.desktopNav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  font-size: 13px;
+  line-height: 1.25rem;
+  letter-spacing: 0.05em;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+/* Černá čára pod aktivní položkou (s animací, jako na org webu) */
+.navActiveIndicator {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 0;
+  background: #000000;
+  transition: left 0.25s ease, width 0.25s ease;
+  pointer-events: none;
+}
+
+/* Oddělovač před About us – černé malé kolečko (jako na org webu) */
+.navSep {
+  flex-shrink: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #000000;
+  display: inline-block;
+  margin: 0 2px;
+  vertical-align: middle;
+}
+
+.mobileNav .navSep {
+  align-self: center;
+  margin: 4px 0;
+}
+
+.desktopLink {
+  font-family: var(--font-sans), Arial, sans-serif;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.desktopLink:hover {
+  color: #000000;
+}
+
+.activeLink {
+  font-weight: 700;
+  color: #000000;
+}
+
+/* Pouze pro pozici podtržení – u položek s dropdownem (MORE) se nepoužívá, když je aktivní jen sub-polozka */
+.activeLinkIndicator {
+  /* marker pro useActiveIndicator – bez vlastního stylu */
+}
+
+.dropdownWrap {
+  position: relative;
+}
+
+.dropdownTrigger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0;
+  font-family: var(--font-sans), Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  line-height: 1.25rem;
+  color: inherit;
+}
+
+/* Když je vybraná sub-položka (Glossary, Library, …), MORE má být tučné a černé, bez podtržení */
+.dropdownTrigger.activeLink {
+  font-weight: 700;
+  color: #000000;
+}
+
+.dropdownCaret {
+  font-size: 10px;
+  opacity: 0.8;
+}
+
+.dropdownPanel {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 2px;
+  min-width: 160px;
+  padding: 4px 0;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  z-index: 1100;
+}
+
+.dropdownItem {
+  display: block;
+  padding: 10px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: rgba(0, 0, 0, 0.75);
+  transition: background 0.15s;
+}
+
+.dropdownItem:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: #000000;
+}
+
+.mobileSectionLabel {
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 500;
+  padding-top: 8px;
+}
+
+.mobileSubItem {
+  padding-left: 24px;
+}
+
+.desktopActions {
+  margin-left: 16px;
+  display: none;
+  align-items: center;
+  gap: 12px;
+  padding-left: 16px;
+}
+
+.rightSlot {
+  display: none;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+.mobileQuickActions {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.mobileTrigger {
+  display: inline-flex;
+  height: 40px;
+  width: 40px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  color: #000000;
+  transition: all 0.2s ease;
+}
+
+.mobileTrigger:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1200;
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.mobilePanel {
+  margin-left: auto;
+  display: flex;
+  height: 100%;
+  width: 86%;
+  max-width: 360px;
+  flex-direction: column;
+  background: #ffffff;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.18);
+}
+
+.mobileTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 16px;
+}
+
+.mobileTitle {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.mobileClose {
+  display: inline-flex;
+  height: 36px;
+  width: 36px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  transition: background-color 0.15s ease;
+}
+
+.mobileClose:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.mobileToggleWrap {
+  padding: 12px 16px;
+}
+
+.mobileTopControls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.mobileNav {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.mobileLink {
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: rgba(0, 0, 0, 0.75);
+  transition: all 0.15s ease;
+}
+
+.mobileLink:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: #000000;
+}
+
+.mobileActiveLink {
+  color: #000000;
+}
+
+@media (min-width: 768px) {
+  .shell {
+    height: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .brandLink {
+    gap: 8px;
+  }
+
+  .brandWord {
+    font-size: 34px;
+  }
+
+  .brandBlock {
+    height: 16px;
+    width: 40px;
+  }
+
+  .desktopActions {
+    display: flex;
+    margin-left: auto;
+  }
+
+  .rightSlot {
+    display: flex;
+  }
+}
+
+@media (min-width: 1024px) {
+  .shell {
+    max-width: 1280px;
+  }
+
+  .desktopNavWrap {
+    display: flex;
+  }
+
+  .desktopActions {
+    margin-left: 16px;
+  }
+
+  .mobileQuickActions {
+    display: none;
+  }
+
+  .mobileTrigger {
+    display: none;
+  }
+}
+
+:global(.dark) .brandWord,
+:global(.dark) .desktopLink:hover,
+:global(.dark) .activeLink,
+:global(.dark) .dropdownTrigger.activeLink,
+:global(.dark) .mobileTrigger,
+:global(.dark) .mobileActiveLink {
+  color: #f2f4f6;
+}
+
+:global(.dark) .brandBlock {
+  background: #f2f4f6;
+}
+
+:global(.dark) .desktopNav,
+:global(.dark) .mobileTitle,
+:global(.dark) .mobileLink {
+  color: #c3c8d1;
+}
+
+:global(.dark) .mobilePanel {
+  background: #151a21;
+}
+
+:global(.dark) .mobileTop {
+  border-bottom-color: #2c3139;
+}
+
+:global(.dark) .mobileClose:hover,
+:global(.dark) .mobileTrigger:hover,
+:global(.dark) .mobileLink:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+:global(.dark) .dropdownPanel {
+  background: #151a21;
+  border-color: #2c3139;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+:global(.dark) .dropdownItem {
+  color: #c3c8d1;
+}
+
+:global(.dark) .dropdownItem:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #f2f4f6;
+}
+
+:global(.dark) .mobileSectionLabel {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+:global(.dark) .navSep {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+:global(.dark) .navActiveIndicator {
+  background: #f2f4f6;
+}

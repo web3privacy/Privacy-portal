@@ -1,0 +1,78 @@
+id: unstoppable-wallet
+name: Unstoppable Wallet
+categories:
+  - applications
+usecases:
+  - wallets
+ecosystem:
+  - multichain
+description: Unstoppable is the first multi-coin wallet that supports Bitcoin,
+  Ethereum, and fully shielded Zcash
+product_launch_day: 2019-07-04T18:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+  - btc
+  - sol
+  - zcash
+  - usdt
+have_token: false
+tokens: []
+links:
+  web: https://unstoppable.money/
+  blog: ""
+  github: https://github.com/horizontalsystems
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/unstoppablebyhs
+  discord: ""
+  telegram: https://t.me/unstoppable_announcements
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://unstoppable.money/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: Absolutely nothing
+  sign_in_type_requirments:
+    - seed
+default_privacy: false
+audits:
+  - name: Certik
+    url: https://skynet.certik.com/wallets/unstoppable.money
+    time: 2021-01-27T18:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Dan Dadybayo
+      link: https://x.com/ddadybayo
+funding:
+  - name: Self-funded, no external investors, VC funding, etc.
+    link: ""
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/unstoppable-wallet/logo.png

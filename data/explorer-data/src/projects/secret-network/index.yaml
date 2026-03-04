@@ -1,0 +1,106 @@
+id: secret-network
+name: Secret Network
+categories:
+  - infrastructure
+tokens:
+  - symbol: SCRT
+    name: Secret
+    contract_address: ""
+    token_link: https://www.mintscan.io/secret
+description: the first blockchain with customizable privacy. You get to choose
+  what you share, with whom, and how. This protects users, and empowers
+  developers to build a better Web3
+project_type: Infrastructure
+technology:
+  type: TEE
+  name: Trusted execution environment
+  features:
+    - privacy
+    - DeFi
+    - applicationss
+    - PaaS
+links:
+  web: https://scrt.network
+  blog: https://scrt.network/blog
+  github: https://github.com/scrtlabs/SecretNetwork
+  forum: https://forum.scrt.network/
+  docs: https://docs.scrt.network/secret-network-documentation/
+  whitepaper: https://scrt.network/graypaper/
+  block_explorer: https://www.mintscan.io/secret
+  governance: https://wallet.keplr.app/chains/secret-network?tab=governance
+  twitter: https://twitter.com/SecretNetwork
+  discord: https://discord.com/invite/secret-network-360051864110235648
+  telegram: https://t.me/scrtCommunity
+  lens: ""
+  farcaster: ""
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: TEE
+  p2p: false
+licences: MIT License
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Alex Zaidelson
+      role: SLabs CEO
+      link: https://twitter.com/azaidelson
+    - name: Lisa Loud
+      link: https://x.com/lisaisloud
+storage:
+  decentralized: true
+tracebility:
+  kyc: false
+  tracked_data: user SCRT adress
+  sign_in_type_requirments:
+    - wallet
+third_party_dependency: none
+compliance: No
+social_trust: Slabs ( MRSINGER )
+technical_spof: Can decrypt
+history:
+  - title: Mainnet
+    event_type: launch
+    description: Mainnet
+    time: 2020-02-12T23:00:00.000Z
+    link: https://shadeprotocol.io/blog/shade-protocol-claim-tutorial
+client_diversability:
+  - name: Keplr
+    link: https://www.keplr.app/
+  - name: Starshell
+    link: https://starshell.net/
+default_privacy: false
+funding:
+  - name: Private investors
+    type: ICO
+    link: https://icodrops.com/secret-network/
+    value: 236.500.000 $
+    time: 2020-07-22T22:00:00.000Z
+project_status:
+  live_status: true
+  version: Mainnet v1.12.1
+  testnet: true
+  mainnet: true
+have_token: false
+usecases:
+  - infrastructure
+  - tee
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.jpeg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/secret-network/logo.png
+ecosystem:
+  - cosmos
+sunset: false
+assets_used: []
+project_phase: mainnet
+audits: []

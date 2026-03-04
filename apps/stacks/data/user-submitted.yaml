@@ -1,0 +1,16 @@
+tools: {}
+stacks:
+  custom-test-6hx95:
+    id: custom-test-6hx95
+    name: test
+    org: test
+    avatar: test
+    tools:
+      2FA: Aegis
+  custom-testrrrr-6k350:
+    id: custom-testrrrr-6k350
+    name: testrrrr
+    org: testrrr
+    avatar: test
+    tools:
+      Messenger: Signal

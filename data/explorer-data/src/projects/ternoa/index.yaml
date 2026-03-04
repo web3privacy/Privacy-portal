@@ -1,0 +1,96 @@
+id: ternoa
+name: Ternoa
+categories:
+  - infrastructure
+usecases:
+  - tee
+  - eth-layer-2
+  - defi
+  - data-management
+ecosystem:
+  - other
+  - ethereum
+description: Decentralized TEE Network powered by SGX
+sunset: false
+links:
+  web: https://www.ternoa.network
+  blog: ""
+  github: https://github.com/capsule-corp-ternoa
+  forum: ""
+  docs: https://docs.ternoa.network/
+  whitepaper: ""
+  block_explorer: https://explorer-mainnet.zkevm.ternoa.network/
+  governance: ""
+  twitter: https://x.com/Ternoa_
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ternoa/logo.png
+assets_used: []
+have_token: true
+tokens:
+  - symbol: $CAPS
+    name: CAPS
+    contract_address: "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2"
+    token_link: https://explorer-mainnet.zkevm.ternoa.network/
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge, Shamir secret Algorithm, Tee
+storage: {}
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits:
+  - name: Certik
+    url: https://skynet.certik.com/projects/ternoa
+    time: 2022-01-02T20:00:00.000Z
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Mickael Canu
+      link: https://www.linkedin.com/in/mickaelcanu/
+funding:
+  - name: jsquare
+    link: https://www.jsquare.co/about
+  - name: DFG
+    link: https://www.dfg.group
+  - name: Mr. Beast
+    link: https://www.ternoa.network/
+  - name: ArkStream Capital
+    link: https://www.ternoa.network/
+  - name: SevenX
+    link: https://www.ternoa.network/
+  - name: Waterdrip Capital
+    link: https://www.ternoa.network/
+  - name: Avail
+    link: https://www.ternoa.network/
+  - name: Crust
+    link: https://www.ternoa.network/
+history:
+  - title: ""
+    description: ""
+    link: ""
+    time: ""

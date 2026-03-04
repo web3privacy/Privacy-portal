@@ -1,0 +1,29 @@
+id: vup
+name: VUP
+categories:
+  - applications
+description: Private and decentralized cloud storage powered by the S5 Network
+  (https://sfive.net).
+team:
+  anonymous: true
+links:
+  web: https://vup.app
+  github: https://github.com/vup-app
+  docs: https://docs.vup.app/
+  twitter: https://x.com/VupCloudStorage
+project_status:
+  live_status: true
+  version: v0.15.0 BETA
+  testnet: false
+  mainnet: true
+usecases:
+  - storage
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/vup/logo.png
+ecosystem:
+  - other
+sunset: false

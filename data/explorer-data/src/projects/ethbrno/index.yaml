@@ -1,0 +1,15 @@
+id: ethbrno
+name: ETHBrno
+description: An annual independent & open community hackathon for supporters of decentralised
+  finance, smart contracts and Web3 happening in Brno, Czech Republic. 13 projects
+categories:
+- social-and-communications
+ecosystem:
+- ethereum
+links:
+  web: https://ethbrno.cz/
+  twitter: https://twitter.com/ETHBrno
+usecases:
+- events
+have_token: false
+third_party_dependency: none

@@ -1,0 +1,16 @@
+id: zkmoney
+name: zkmoney
+categories:
+  - defi
+usecases:
+  - defi
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkmoney/logo.png
+ecosystem:
+  - ethereum
+description: Privacy built by Aztec
+sunset: true

@@ -1,0 +1,70 @@
+# Activities section (hero projects grid). Overrides defaultContent.activities when loaded.
+# Admin-editable: categories with title, section image, and cards (logo, text, link).
+
+ctaText: VIEW ALL PROJECTS
+ctaLink: '#projects'
+
+categories:
+  - title: RESEARCH
+    titleImage: /assets/research-section.png
+    cards:
+      - title: EXPLORER
+        text: 800+ Projects organized for comprehension of the privacy space.
+        logo: /assets/projects/explorer-logo.png
+        image: /assets/projects/card-bg-a.svg
+        linkText: Browse projects
+        linkHref: '#projects'
+      - title: PRIVACY AWARDS
+        text: Community and leaders voting about the solutions and active practices.
+        logo: /assets/projects/privacy-awards-logo.png
+        image: /assets/projects/card-bg-b.svg
+        linkText: See 2025 Winners
+        linkHref: '#projects'
+
+  - title: EDUCATE
+    titleImage: /assets/educate-section.png
+    cards:
+      - title: ACADEMY
+        text: 30+ in Online Academy Lectures at Universities and high schools
+        logo: /assets/projects/academy-logo.png
+        image: /assets/projects/card-bg-a.svg
+        linkText: Choose course
+        linkHref: '#projects'
+      - title: PERSONAL STACKS
+        text: 100+ experts app choices for a better web
+        logo: /assets/projects/personal-stacks-logo.png
+        image: /assets/projects/card-bg-b.svg
+        linkText: Browse Stacks
+        linkHref: '#projects'
+
+  - title: ACTIVATE
+    titleImage: /assets/activate-section.png
+    cards:
+      - title: EVENTS
+        text: 30+ in Online Academy Lectures at Universities and high schools
+        logo: /assets/projects/events-logo.png
+        image: /assets/projects/card-bg-a.svg
+        linkText: See event list
+        linkHref: /events
+      - title: HACKATHON PACK
+        text: List of best practices to build privacy app, Used on largest events.
+        logo: /assets/projects/hackathon-pack-logo.png
+        image: /assets/projects/card-bg-b.svg
+        linkText: See hackathon pack
+        linkHref: '#projects'
+
+  - title: BUILD
+    titleImage: /assets/build-section.png
+    cards:
+      - title: PORTAL
+        text: 30+ in Online Academy Lectures at Universities and high schools
+        logo: /assets/projects/portal-logo.png
+        image: /assets/projects/card-bg-a.svg
+        linkText: See event list
+        linkHref: '#projects'
+      - title: ACCELERATOR
+        text: List of best practices to build privacy app, Used on largest events.
+        logo: /assets/projects/accelerator-logo.png
+        image: /assets/projects/card-bg-b.svg
+        linkText: See hackathon pack
+        linkHref: '#projects'

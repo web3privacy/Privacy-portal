@@ -1,0 +1,68 @@
+[
+  {
+    "id": "org-zk-stablecoin",
+    "name": "ZK stablecoin",
+    "description": "A stablecoin that allows you to wrap a stablecoin so it can be privately transferred.",
+    "categories": ["DeFi", "Privacy"],
+    "features": ["private balance (#stablecoins)", "private transfer (receive-send)"],
+    "organizationName": "Aztec",
+    "organizationLogo": "https://cdn.prod.website-files.com/65804cbd4c37d195e67717e9/65e1af471158ca9d1ae94eac_aztec-iso_dark.svg",
+    "github": "https://github.com/AztecProtocol",
+    "featured": true
+  },
+  {
+    "id": "voting",
+    "name": "Private voting",
+    "description": "Enable polling or voting off-chain, vote results could be aggregated and submitted on-chain in one transaction",
+    "categories": ["Voting", "Privacy"],
+    "features": ["private vote (#voting)", "private identity (vote author)"],
+    "organizationName": "Waku",
+    "organizationLogo": "https://waku.org/theme/image/logo.svg",
+    "github": "https://github.com/waku-org",
+    "featured": true
+  },
+  {
+    "id": "qr-keycard-app",
+    "name": "EIP-4527 Keycard signer",
+    "description": "Keycard Shell uses EIP-4527 (IIUC) to be able to communicate TX data and signature via QR codes. Build a mobile app that does just that and uses Keycard via NFC to actually sign.",
+    "categories": ["Wallet"],
+    "features": ["tx data decoding", "air-gapped wallet"],
+    "organizationName": "Keycard",
+    "organizationLogo": "https://keycard.tech/icon.png",
+    "github": "https://github.com/keycard-tech/keycard-shell/issues/109",
+    "featured": true
+  },
+  {
+    "id": "codex-filehog",
+    "name": "Codex FileHog",
+    "description": "A tool to store up entire folders of data on the Codex storage network. See the Github repo for the full description and requirements.",
+    "categories": ["Storage"],
+    "features": ["file sharing", "backup"],
+    "organizationName": "Codex",
+    "organizationLogo": "https://raw.githubusercontent.com/acid-info/design-assets/refs/heads/master/codex/codex-mark-primary-white.png",
+    "github": "https://github.com/benbierens/codex-filehog",
+    "featured": true
+  },
+  {
+    "id": "waku-fileverse",
+    "name": "Replace Filverse signaling server with Waku",
+    "description": "Fileverse uses a signaling server to establish WebRTC connections between peers. Replace this with Waku to enable (more) private collabiration.",
+    "categories": ["Privacy", "Collaboration"],
+    "features": ["ddocs", "signaling server"],
+    "organizationName": "Waku",
+    "organizationLogo": "https://raw.githubusercontent.com/acid-info/design-assets/refs/heads/master/waku/waku-mark-primary-white.png",
+    "github": "https://github.com/fileverse/fileverse-ddoc/blob/42ac3a4fab56d06e35fdcae488293cedc03d8fce/package/use-ddoc-editor.tsx#L176",
+    "featured": true
+  },
+  {
+    "name": "Open Community Notes",
+    "description": "Build an open community notes network to overlay facts to any article (press or social media), using zero-knowledge to keep history of contributors private, similar to X's algorithm. Waku and Codex can be used to distribute and store community notes, Noir for programmable zk.",
+    "categories": ["Social", "R&D", "Censorship-Resistance"],
+    "author": "@fryorcraken",
+    "organizationName": "Waku",
+    "organizationLogo": "https://raw.githubusercontent.com/acid-info/design-assets/refs/heads/master/waku/waku-mark-primary-white.png",
+    "github": "https://github.com/waku-org",
+    "website": "https://waku.org",
+    "featured": true
+  }
+]

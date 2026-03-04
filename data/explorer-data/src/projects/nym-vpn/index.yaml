@@ -1,0 +1,74 @@
+id: nym-vpn
+name: Nym VPN
+categories:
+  - applications
+usecases:
+  - vpn
+ecosystem:
+  - other
+description: Advanced privacy built for the age of AI. A decentralized network
+  protecting your data from AI-powered surveillance, utilizing advanced mixing,
+  anonymous credentials and cover-traffic (noise).
+sunset: false
+links:
+  web: https://nym.com
+  blog: https://nym.com/blog
+  github: https://github.com/nymtech/
+  forum: https://forum.nym.com
+  docs: https://nym.com/docs
+  whitepaper: https://nym.com/nym-whitepaper.pdf
+  block_explorer: https://nym.explorers.guru/
+  governance: https://governator.nym.com/
+  twitter: https://x.com/nymproject
+  discord: https://discord.com/invite/nym
+  telegram: https://t.me/nymchan/
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/nym-vpn/logo.png
+assets_used:
+  - other
+have_token: false
+tokens:
+  - symbol: Nym
+    name: NYM
+    contract_address: ""
+    token_link: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://nym.com/vpn-privacy-statement
+  data_usage: none
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: none
+  sign_in_type_requirments:
+    - seed
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Harry Halpin
+      link: https://x.com/harryhalpin
+funding: []
+history: []

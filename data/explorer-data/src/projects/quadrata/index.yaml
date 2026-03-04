@@ -1,0 +1,25 @@
+id: quadrata
+name: Quadrata
+categories:
+  - applications
+description: " Establish Trust and Identification via Sybil resistant DIDs and
+  KYC/AML natively on-chain"
+links:
+  web: https://quadrata.com
+  docs: https://docs.quadrata.com/integration
+  blog: https://medium.com/quadrata-network
+  twitter: https://x.com/QuadrataNetwork
+  discord: https://discord.com/invite/67QgzrymHW
+have_token: false
+usecases:
+  - did
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/quadrata/logo.png
+ecosystem:
+  - ethereum
+  - multichain
+  - other
+sunset: false

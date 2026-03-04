@@ -1,0 +1,1275 @@
+{
+  "defaultContent": {
+    "site": {
+      "title": "web3privacy now",
+      "headerLogo": "/assets/nav-logo.svg",
+      "adminPath": "/web3privacy-control-room-73f9a",
+      "ctaText": "ABOUT WEB3PRIVACY →",
+      "ctaLink": "/about"
+    },
+    "nav": {
+      "items": [
+        {
+          "label": "HOME",
+          "href": "/"
+        },
+        {
+          "label": "ABOUT US",
+          "href": "/about"
+        },
+        {
+          "label": "PROJECTS",
+          "href": "/projects"
+        },
+        {
+          "label": "EVENTS",
+          "href": "/events"
+        },
+        {
+          "label": "DOCS",
+          "href": "/docs",
+          "external": false
+        },
+        {
+          "label": "RESOURCES",
+          "href": "/resources"
+        },
+        {
+          "label": "FORUM",
+          "href": "https://forum.web3privacy.info/",
+          "external": true
+        },
+        {
+          "label": "DONATE",
+          "href": "/donate"
+        },
+        {
+          "label": "//",
+          "href": "#"
+        },
+        {
+          "label": "PRIVACY PORTAL",
+          "href": "https://explorer.web3privacy.com",
+          "external": true
+        }
+      ]
+    },
+    "hero": {
+      "backgroundImage": "/assets/hero-bg.png",
+      "overlayImage": null,
+      "title": "Uniting efforts and empowering society to defend freedom.",
+      "social": [
+        {
+          "label": "Discord",
+          "icon": "discord",
+          "href": "https://discord.gg/web3privacy"
+        },
+        {
+          "label": "X",
+          "icon": "x",
+          "href": "https://x.com/web3privacy"
+        },
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "href": "https://github.com/web3privacy"
+        },
+        {
+          "label": "Telegram",
+          "icon": "telegram",
+          "href": "https://t.me/web3privacy"
+        },
+        {
+          "label": "Lens",
+          "icon": "lens",
+          "href": "https://lenster.xyz/u/web3privacy"
+        }
+      ]
+    },
+    "partners": {
+      "marqueeImage": "/assets/header-logo.svg",
+      "logos": [
+        {
+          "name": "University of Oxford",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "Ethereum Foundation",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "Brave",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "Harvard University",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "Internet Archive",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "Bluesky",
+          "image": "/assets/header-logo.svg"
+        },
+        {
+          "name": "EUCI",
+          "image": "/assets/header-logo.svg"
+        }
+      ]
+    },
+    "intro": {
+      "heading": "An ecosystem of people, protocol and coordination protecting and advancing our digital rights.",
+      "videoThumbnail": "/assets/intro-video-thumb.png",
+      "videoTitle": "UNITED IN PRIVACY",
+      "videoSpeaker": "BRØNSTED · KAHLE",
+      "supporters": [
+        {
+          "name": "VITALIK BUTERIN",
+          "role": "ETHEREUM",
+          "image": "/assets/profile-vitalik.png"
+        },
+        {
+          "name": "KURT OPSAHL",
+          "role": "EFF",
+          "image": "/assets/profiles/kurt-opsahl.png"
+        },
+        {
+          "name": "DR. RICHARD STALLMAN",
+          "role": "FREEDOM",
+          "image": "/assets/profiles/richard-stallman.png"
+        },
+        {
+          "name": "JOHN BENNET",
+          "role": "ACTIVIST",
+          "image": "/assets/profile-vitalik.png"
+        },
+        {
+          "name": "AYA MIYAGUCHI",
+          "role": "ETHEREUM FOUNDATION",
+          "image": "/assets/profiles/aya-miyaguchi.png"
+        },
+        {
+          "name": "DIGITAL LIBRARIAN",
+          "role": "PUBLIC GOODS",
+          "image": "/assets/profile-vitalik.png"
+        },
+        {
+          "name": "THAT GOODGUY",
+          "role": "PRIVACY LEAD",
+          "image": "/assets/profile-vitalik.png"
+        },
+        {
+          "name": "TECH & CULTURE MAJOR LEADERS",
+          "role": "",
+          "type": "stat",
+          "statValue": "80+"
+        }
+      ]
+    },
+    "impact": {
+      "sectionImage": "/assets/worldwide-impact-bg.png",
+      "title": "Worldwide impact",
+      "description": "Open-source contributions from Audrey Tang to Vitalik Buterin, 50 partners from Ethereum Foundation to Nym. We build solidarity between activists and tech leaders.",
+      "stats": [
+        {
+          "label": "EVENTS VISITORS",
+          "value": "15.000"
+        },
+        {
+          "label": "CONTRIBUTORS",
+          "value": "800+"
+        },
+        {
+          "label": "PROJECTS",
+          "value": "24"
+        },
+        {
+          "label": "IMPRESSIONS",
+          "value": "5M"
+        }
+      ]
+    },
+    "activities": {
+      "categories": [
+        {
+          "title": "RESEARCH",
+          "titleImage": "/assets/research-section.png",
+          "cards": [
+            {
+              "title": "EXPLORER",
+              "text": "800+ Projects organized for comprehension of the privacy space.",
+              "logo": "/assets/projects/explorer-logo.svg",
+              "image": "/assets/projects/card-bg-a.svg",
+              "linkText": "Browse projects",
+              "linkHref": "#projects"
+            },
+            {
+              "title": "PRIVACY AWARDS",
+              "text": "Community and leaders voting about the solutions and active practices.",
+              "logo": "/assets/projects/privacy-awards-logo.svg",
+              "image": "/assets/projects/card-bg-b.svg",
+              "linkText": "See 2025 Winners",
+              "linkHref": "#projects"
+            }
+          ]
+        },
+        {
+          "title": "EDUCATE",
+          "titleImage": "/assets/educate-section.png",
+          "cards": [
+            {
+              "title": "ACADEMY",
+              "text": "30+ in Online Academy Lectures at Universities and high schools",
+              "logo": "/assets/projects/academy-logo.svg",
+              "image": "/assets/projects/card-bg-a.svg",
+              "linkText": "Choose course",
+              "linkHref": "#projects"
+            },
+            {
+              "title": "PERSONAL STACKS",
+              "text": "100+ experts app choices for a better web",
+              "logo": "/assets/projects/personal-stacks-logo.svg",
+              "image": "/assets/projects/card-bg-b.svg",
+              "linkText": "Browse Stacks",
+              "linkHref": "#projects"
+            }
+          ]
+        },
+        {
+          "title": "ACTIVATE",
+          "titleImage": "/assets/activate-section.png",
+          "cards": [
+            {
+              "title": "EVENTS",
+              "text": "30+ in Online Academy Lectures at Universities and high schools",
+              "logo": "/assets/projects/events-logo.svg",
+              "image": "/assets/projects/card-bg-a.svg",
+              "linkText": "See event list",
+              "linkHref": "/events"
+            },
+            {
+              "title": "HACKATHON PACK",
+              "text": "List of best practices to build privacy app, Used on largest events.",
+              "logo": "/assets/projects/hackathon-pack-logo.svg",
+              "image": "/assets/projects/card-bg-b.svg",
+              "linkText": "See hackathon pack",
+              "linkHref": "#projects"
+            }
+          ]
+        },
+        {
+          "title": "BUILD",
+          "titleImage": "/assets/build-section.png",
+          "cards": [
+            {
+              "title": "PORTAL",
+              "text": "30+ in Online Academy Lectures at Universities and high schools",
+              "logo": "/assets/projects/portal-logo.svg",
+              "image": "/assets/projects/card-bg-a.svg",
+              "linkText": "See event list",
+              "linkHref": "#projects"
+            },
+            {
+              "title": "ACCELERATOR",
+              "text": "List of best practices to build privacy app, Used on largest events.",
+              "logo": "/assets/projects/accelerator-logo.svg",
+              "image": "/assets/projects/card-bg-b.svg",
+              "linkText": "See hackathon pack",
+              "linkHref": "#projects"
+            }
+          ]
+        }
+      ],
+      "ctaText": "VIEW ALL PROJECTS",
+      "ctaLink": "#projects"
+    },
+    "academy": {
+      "title": "Welcome to the portal, where we educate by showcasing real-life human rights issues.",
+      "backgroundImage": "/assets/academy-landscape.svg",
+      "cards": [
+        {
+          "videoId": "FP_Z6i6YMLw",
+          "image": "https://i3.ytimg.com/vi/FP_Z6i6YMLw/hqdefault.jpg",
+          "title": "The Future internet: Everyone Cheers",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/FP_Z6i6YMLw"
+        },
+        {
+          "videoId": "RP4bxF0gmS4",
+          "image": "https://i3.ytimg.com/vi/RP4bxF0gmS4/hqdefault.jpg",
+          "title": "Community Power: Drafting Guidelines",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/RP4bxF0gmS4"
+        },
+        {
+          "videoId": "nB_0iybNxVU",
+          "image": "https://i3.ytimg.com/vi/nB_0iybNxVU/hqdefault.jpg",
+          "title": "Building Online Communities",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/nB_0iybNxVU"
+        },
+        {
+          "videoId": "WBUz18DXP4U",
+          "image": "https://i4.ytimg.com/vi/WBUz18DXP4U/hqdefault.jpg",
+          "title": "Build Trust via Open Source",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/WBUz18DXP4U"
+        },
+        {
+          "videoId": "nCEm0wpW7wA",
+          "image": "https://i3.ytimg.com/vi/nCEm0wpW7wA/hqdefault.jpg",
+          "title": "Crypto for All: Power & Risk",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/nCEm0wpW7wA"
+        },
+        {
+          "videoId": "RRgsnemy5OA",
+          "image": "https://i3.ytimg.com/vi/RRgsnemy5OA/hqdefault.jpg",
+          "title": "Coding My Life: C and Emacs",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/RRgsnemy5OA"
+        },
+        {
+          "videoId": "OU6j5dixm50",
+          "image": "https://i4.ytimg.com/vi/OU6j5dixm50/hqdefault.jpg",
+          "title": "Cypherpunks and Crypto Power",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/OU6j5dixm50"
+        },
+        {
+          "videoId": "Zar0C6yzt8Q",
+          "image": "https://i3.ytimg.com/vi/Zar0C6yzt8Q/hqdefault.jpg",
+          "title": "Privacy Comfort Trap Explained",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/Zar0C6yzt8Q"
+        },
+        {
+          "videoId": "WlGWFHpCC7o",
+          "image": "https://i4.ytimg.com/vi/WlGWFHpCC7o/hqdefault.jpg",
+          "title": "A Philosopher's Take on Privacy",
+          "meta": "W3PN Academy Shorts",
+          "link": "https://www.youtube.com/shorts/WlGWFHpCC7o"
+        }
+      ],
+      "ctaText": "EXPLORE ALL MEDIA",
+      "ctaLink": "#community"
+    },
+    "ecosystem": {
+      "snapshotMode": true,
+      "title": "Privacy as an Ecosystem",
+      "subtitle": "We bridge the gap between different perspectives, knowledge, and professions to create real socio political change to society.",
+      "topLabel": "SOCIETY",
+      "middleLabel": "MINDFULNESS, RELIABILITY PROTECTION",
+      "diagramImage": "/assets/privacy-ecosystem-diagram.png",
+      "groups": [
+        {
+          "title": "IMPROVING STATE OF PUBLIC POLICY",
+          "items": [
+            "Justice",
+            "Media Representation",
+            "Education",
+            "Non-profits"
+          ]
+        },
+        {
+          "title": "PRACTICAL PRIVACY PROTECT",
+          "items": [
+            "Tool Design",
+            "UX",
+            "Proof",
+            "Adoption"
+          ]
+        },
+        {
+          "title": "INFRA AND OPEN SOURCE FUNDATION",
+          "items": [
+            "Coordination",
+            "Mentorship",
+            "Network Effects",
+            "Operations"
+          ]
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What people say about us.",
+      "items": [
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "The balance between Transparency and Privacy, accountable and unaccountable, manifest and secret, convex and concave, 1 and 0 is one of the most fun puzzles blockchain tech has to solve for the world. W3P community approaches this with incredible humility and a unravel-the-knot open debate approach. Also I like how they dress."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/aya-miyaguchi.png",
+          "quote": "I appreciate Web3 Privacy Now for upholding Cypherpunk values, which are at the core of the Web3 movement. In a space increasingly influenced by hyper-financialization, having an organization dedicated to principles that distinguish Web3 from Wall Street serves as a crucial guiding light."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/kurt-opsahl.png",
+          "quote": "W3N reminds us daily of why we are here. Privacy, a basic human right, beats at the heart of the cypherpunk ethos and everything worth building. Their conferences gather dreamers, rebels, visionaries and long-term thinkers."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/richard-stallman.png",
+          "quote": "Over the last two years, I mostly stepped away from crypto events, feeling disconnected from the nihilistic short-term focus dominating much of the space. Then I found Web3PrivacyNow. They managed to amplify the cypherpunk voice within the cryptocurrency space, proving it is not just alive but growing stronger."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "The balance between Transparency and Privacy, accountable and unaccountable, manifest and secret, convex and concave, 1 and 0 is one of the most fun puzzles blockchain tech has to solve for the world. W3P community approaches this with incredible humility."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "The balance between Transparency and Privacy, accountable and unaccountable, manifest and secret, convex and concave, 1 and 0 is one of the most fun puzzles blockchain tech has to solve for the world."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/kurt-opsahl.png",
+          "quote": "W3N reminds us daily of why we are here. Privacy is a basic human right. Their conferences are a gathering place for the uncompromising builders and the long-term thinkers. These are my people, creating a future that remembers what matters."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "The balance between Transparency and Privacy is not abstract here. This community turns it into practical discussion, grounded tradeoffs, and real tools that people can use right now."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/aya-miyaguchi.png",
+          "quote": "I appreciate Web3 Privacy Now for keeping the cypherpunk mission clear while the ecosystem changes fast. It is one of the few spaces that consistently keeps principles first."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profiles/richard-stallman.png",
+          "quote": "W3PN bridges policy, tech and culture. It is one of the few spaces where those worlds consistently collaborate in concrete ways."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "Their workshops are clear, direct and effective. People leave with practical tools they can use immediately across projects and communities."
+        },
+        {
+          "name": "Vitalik Buterin",
+          "role": "Aztec foundation",
+          "image": "/assets/profile-vitalik.png",
+          "quote": "The ecosystem map and open archives are incredibly useful for onboarding contributors and helping newcomers understand where they can participate."
+        }
+      ]
+    },
+    "contribute": {
+      "eyeImage": "/assets/contribute-eye-now.png",
+      "roundLogoImage": null,
+      "title": "Contribute to Future of Privacy",
+      "text": "Privacy advocates worldwide are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices.",
+      "ctaText": "GET INVOLVED AND CONTRIBUTE",
+      "ctaLink": "#support",
+      "communityAvatars": [
+        "/assets/profile-vitalik.png",
+        "/assets/profiles/aya-miyaguchi.png",
+        "/assets/profiles/kurt-opsahl.png",
+        "/assets/profiles/richard-stallman.png",
+        "/assets/profile-vitalik.png",
+        "/assets/profile-vitalik.png"
+      ]
+    },
+    "donation": {
+      "title": "Empower Change With Your Donation",
+      "text": "To support our future activities, you can donate to our cause and be forever remembered.",
+      "ctaText": "DONATE NOW",
+      "ctaLink": "#support",
+      "backgroundImage": "/assets/donation-banner-bg.png"
+    },
+    "newsletter": {
+      "text": "Join our Newsletter and get information from our ecosystem",
+      "placeholder": "Your e-mail",
+      "buttonText": "SUBSCRIBE",
+      "actionUrl": ""
+    },
+    "members": {
+      "title": "Our members enable our mission and support our projects.",
+      "logos": [
+        {
+          "name": "DYNE",
+          "handle": "@GuyZys",
+          "image": "/assets/members/dyne.png"
+        },
+        {
+          "name": "LOGOS",
+          "handle": "@GuyZys",
+          "image": "/assets/members/logos.png"
+        },
+        {
+          "name": "NOMOS",
+          "handle": "@GuyZys",
+          "image": "/assets/members/nomos.png"
+        },
+        {
+          "name": "CODEX",
+          "handle": "@GuyZys",
+          "image": "/assets/members/codex.png"
+        },
+        {
+          "name": "LABYRINTH",
+          "handle": "@GuyZys",
+          "image": "/assets/members/labyrinth.png"
+        },
+        {
+          "name": "WAKU",
+          "handle": "@GuyZys",
+          "image": "/assets/members/waku.png"
+        }
+      ],
+      "ctaText": "BECOME A MEMBER",
+      "ctaLink": "#support"
+    },
+    "about": {
+      "hero": {
+        "title": "We cultivate an Ecosystem around digital freedom as a catalyst for change.",
+        "backgroundImage": "/assets/about-hero-bg.png",
+        "social": [
+          {
+            "label": "X",
+            "icon": "x",
+            "href": "https://x.com/web3privacy"
+          },
+          {
+            "label": "Forum",
+            "icon": "discord",
+            "href": "https://forum.web3privacy.info"
+          },
+          {
+            "label": "Telegram",
+            "icon": "telegram",
+            "href": "https://t.me/web3privacy"
+          },
+          {
+            "label": "YouTube",
+            "icon": "youtube",
+            "href": "https://www.youtube.com/@web3privacy"
+          },
+          {
+            "label": "Bluesky",
+            "icon": "bluesky",
+            "href": "https://bsky.app"
+          },
+          {
+            "label": "GitHub",
+            "icon": "github",
+            "href": "https://github.com/web3privacy"
+          }
+        ]
+      },
+      "mission": {
+        "title": "Our Mission",
+        "paragraphs": [
+          "Independent, non-profit and free as in freedom 3 years of uniting technical builders, civic voices and policy thinkers to defend individual rights.",
+          "Privacy is more than data it safeguards autonomy, free expression and participation without fear. Protecting it means protecting democracy."
+        ],
+        "imageUrl": "/assets/intro-video-thumb.png",
+        "videoUrl": "https://www.youtube.com/watch?v=MywIUSJAykI",
+        "mediaUrls": null,
+        "ctaLabel": "READ MANIFESTO",
+        "ctaHref": "#"
+      },
+      "story": {
+        "title": "Our History",
+        "subtitle": "Web3Privacy Now!",
+        "body": "We cultivate an Ecosystem around digital freedom as a catalyst for change.",
+        "icon": "/assets/contribute-eye.svg",
+        "timeline": [
+          {
+            "year": "2021",
+            "quarter": "Q2",
+            "title": "FOUNDED AT ETH BRNO",
+            "description": "Founding of W3PN on hackathon in Brno"
+          },
+          {
+            "year": "2022",
+            "quarter": "Q1",
+            "title": "PRIVACY SUMMIT I. PRAGUE",
+            "description": "First Privacy Summit"
+          },
+          {
+            "year": "2023",
+            "quarter": "Q2",
+            "title": "CYPHEPUNK RETREAT",
+            "description": "Technical retreat for builders"
+          },
+          {
+            "year": "2024",
+            "quarter": "Q4",
+            "title": "CONGRESS I. BANGKOK",
+            "description": "Congress in Bangkok"
+          },
+          {
+            "year": "2025",
+            "quarter": "Q2",
+            "title": "PRIVACY SUMMIT BERLIN",
+            "description": "Privacy Summit Berlin"
+          },
+          {
+            "year": "2025",
+            "quarter": "Q3",
+            "title": "WEB3PRIVACY HACKATHON",
+            "description": "Summer Hackathon"
+          },
+          {
+            "year": "2025",
+            "quarter": "Q4",
+            "title": "CONGRESS II. BUENOS AIRES",
+            "description": "Congress in Buenos Aires"
+          },
+          {
+            "year": "2026",
+            "quarter": "Q4",
+            "title": "CONGRESS III. MUMBAI",
+            "description": "Congress in Mumbai"
+          }
+        ],
+        "ctaLabel": "Read our whitepaper",
+        "ctaHref": "https://docs.web3privacy.info",
+        "ctaMoreLabel": "More",
+        "ctaMoreHref": "#story"
+      },
+      "founders": {
+        "title": "About Our Founders",
+        "body": "Web3Privacy was founded by a group of researchers and builders who believe in the right to privacy and self-sovereign identity. We work across communities and borders to advance digital freedom.",
+        "images": [
+          "/assets/academy-landscape.svg",
+          "/assets/academy-landscape.svg",
+          "/assets/academy-landscape.svg",
+          "/assets/academy-landscape.svg"
+        ],
+        "ctaReadLabel": "Read more",
+        "ctaReadHref": "https://docs.web3privacy.info",
+        "ctaJoinLabel": "Join Our Team",
+        "ctaJoinHref": "https://discord.gg/web3privacy"
+      },
+      "activism": {
+        "title": "Activism. Care. Solidarity.",
+        "body": "With unified efforts, we aim to create profound political and social change toward a more equitable, decentralized and freedom-respecting digital commons.",
+        "quote": "Our task is to secure self-determination where we can, to hold back the coming dystopia where we cannot, and if all else fails, to accelerate its self-destruction.",
+        "quoteAuthor": "Julian Assange, Cypherpunks",
+        "ctaButtons": [
+          {
+            "label": "GET INVOLVED",
+            "href": "https://t.me/web3privacy"
+          },
+          {
+            "label": "DONATE",
+            "href": "https://explorer.web3privacy.com/donate?theme=dark"
+          },
+          {
+            "label": "BECOME A MEMBER",
+            "href": "https://discord.gg/web3privacy"
+          }
+        ]
+      },
+      "work": {
+        "title": "Our Work",
+        "items": [
+          {
+            "title": "Our Team",
+            "subtitle": "Meetups & Summits",
+            "description": "A technical retreat for builders, researchers, and advocates developing the next generation of privacy and security infrastructure.",
+            "image": "/assets/academy-landscape.svg",
+            "ctaLabel": "Learn more",
+            "ctaHref": "https://web3privacy.info",
+            "bgVariant": 1
+          },
+          {
+            "title": "AI & Big Data",
+            "subtitle": "Community Events",
+            "description": "Privacy-focused hackathon bringing together developers and researchers.",
+            "image": "/assets/academy-landscape.svg",
+            "ctaLabel": "Learn more",
+            "ctaHref": "https://web3privacy.info",
+            "bgVariant": 2
+          },
+          {
+            "title": "Gaming & VR",
+            "subtitle": "Listen & Learn",
+            "description": "Conversations with privacy advocates and builders.",
+            "image": "/assets/academy-landscape.svg",
+            "ctaLabel": "Learn more",
+            "ctaHref": "https://web3privacy.info",
+            "bgVariant": 3
+          }
+        ]
+      },
+      "events": [
+        {
+          "title": "Cypherpunk Retreat",
+          "date": "September 2025",
+          "location": "TBA",
+          "image": "/assets/academy-landscape.svg",
+          "ctaLabel": "View Event",
+          "ctaHref": "#"
+        },
+        {
+          "title": "Privacy Summit Berlin",
+          "date": "Q2 2025",
+          "location": "Berlin",
+          "image": "/assets/academy-landscape.svg",
+          "ctaLabel": "View Event",
+          "ctaHref": "#"
+        },
+        {
+          "title": "Web3Privacy Hackathon",
+          "date": "Q3 2025",
+          "location": "Online",
+          "image": "/assets/academy-landscape.svg",
+          "ctaLabel": "View Event",
+          "ctaHref": "#"
+        }
+      ],
+      "gallery": {
+        "title": "Working Real Experience",
+        "images": [
+          "/assets/profile-vitalik.png",
+          "/assets/profiles/kurt-opsahl.png",
+          "/assets/profiles/aya-miyaguchi.png",
+          "/assets/profiles/richard-stallman.png",
+          "/assets/profile-vitalik.png",
+          "/assets/profiles/kurt-opsahl.png",
+          "/assets/profiles/aya-miyaguchi.png",
+          "/assets/profiles/richard-stallman.png",
+          "/assets/profile-vitalik.png",
+          "/assets/profiles/kurt-opsahl.png",
+          "/assets/profiles/aya-miyaguchi.png",
+          "/assets/profiles/richard-stallman.png"
+        ]
+      },
+      "team": {
+        "title": "Meet The Team",
+        "subtitle": "We're a diverse group of problem-solvers, researchers, and advocates dedicated to advancing privacy in the decentralized web.",
+        "mediaUrl": "/assets/impact-ecosystem-bg.png",
+        "members": [
+          {
+            "name": "Adam",
+            "role": "Founder & CEO",
+            "image": "/assets/profile-vitalik.png"
+          },
+          {
+            "name": "Jane",
+            "role": "Research Lead",
+            "image": "/assets/profiles/aya-miyaguchi.png"
+          },
+          {
+            "name": "Max",
+            "role": "Community",
+            "image": "/assets/profiles/kurt-opsahl.png"
+          },
+          {
+            "name": "Eva",
+            "role": "Operations",
+            "image": "/assets/profiles/richard-stallman.png"
+          },
+          {
+            "name": "Leo",
+            "role": "Developer",
+            "image": "/assets/profile-vitalik.png"
+          }
+        ],
+        "ctaLabel": "View all Team",
+        "ctaHref": "https://discord.gg/web3privacy"
+      },
+      "ambassadors": {
+        "title": "Advisors",
+        "members": [
+          {
+            "name": "Alex",
+            "role": "Privacy Advocate",
+            "image": "/assets/profiles/kurt-opsahl.png"
+          },
+          {
+            "name": "Maria",
+            "role": "Researcher",
+            "image": "/assets/profiles/aya-miyaguchi.png"
+          },
+          {
+            "name": "David",
+            "role": "Builder",
+            "image": "/assets/profiles/richard-stallman.png"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Partners",
+        "logos": [
+          "/assets/partners-marquee.svg",
+          "/assets/partners-marquee.svg",
+          "/assets/partners-marquee.svg",
+          "/assets/partners-marquee.svg",
+          "/assets/partners-marquee.svg"
+        ]
+      },
+      "faq": {
+        "title": "Frequently asked questions",
+        "items": [
+          {
+            "question": "What is Web3Privacy Now?",
+            "answer": "Web3Privacy Now is a community of decentralized identity researchers, privacy advocates, open-source developers, and designers united to defend digital rights."
+          },
+          {
+            "question": "How can I get involved?",
+            "answer": "Join our Discord, Telegram, or attend our events. We welcome contributors from all backgrounds."
+          },
+          {
+            "question": "Is W3PN a non-profit?",
+            "answer": "Yes. We act as a non-profit and embrace open-source culture."
+          }
+        ]
+      },
+      "community": {
+        "title": "Join the Web3Privacy community",
+        "subtitle": "Be a Part of the Movement",
+        "body": "Join our vibrant community of privacy advocates, developers, and researchers. Let's build the future of Web3 together.",
+        "ctaLabel": "Join Now",
+        "ctaHref": "https://discord.gg/web3privacy",
+        "logoUrl": "/assets/contribute-eye.svg",
+        "newsletterPlaceholder": "Your email address",
+        "newsletterButtonText": "Subscribe",
+        "social": [
+          {
+            "label": "Discord",
+            "icon": "discord",
+            "href": "https://discord.gg/web3privacy"
+          },
+          {
+            "label": "Telegram",
+            "icon": "telegram",
+            "href": "https://t.me/web3privacy"
+          },
+          {
+            "label": "X",
+            "icon": "x",
+            "href": "https://x.com/web3privacy"
+          },
+          {
+            "label": "GitHub",
+            "icon": "github",
+            "href": "https://github.com/web3privacy"
+          },
+          {
+            "label": "YouTube",
+            "icon": "youtube",
+            "href": "https://www.youtube.com/@web3privacy"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "logo": "/assets/nav-logo.svg",
+      "becomePartner": {
+        "title": "Become a Partner",
+        "ctaLabel": "Contact Us",
+        "ctaHref": "/about#contact",
+        "backgroundImage": "/assets/about/partner-bg.jpg"
+      },
+      "linksColumn1": [
+        {
+          "label": "Manifesto",
+          "href": "#manifesto"
+        },
+        {
+          "label": "How to get involved",
+          "href": "#support"
+        },
+        {
+          "label": "Grants / Support Us",
+          "href": "#support"
+        }
+      ],
+      "linksColumn2": [
+        {
+          "label": "Events",
+          "href": "/events"
+        },
+        {
+          "label": "Articles",
+          "href": "/resources"
+        },
+        {
+          "label": "Talks",
+          "href": "#"
+        }
+      ],
+      "linksColumn3": [
+        {
+          "label": "Privacy Explorer",
+          "href": "https://explorer.web3privacy.com",
+          "external": true
+        },
+        {
+          "label": "Privacy use-cases database",
+          "href": "#"
+        }
+      ],
+      "socialLabel": "Join our privacy movement on:",
+      "siteMap": {
+        "org": [
+          {
+            "label": "About",
+            "href": "/about"
+          },
+          {
+            "label": "Team",
+            "href": "/about#team"
+          },
+          {
+            "label": "News",
+            "href": "#manifesto"
+          },
+          {
+            "label": "Events",
+            "href": "/events"
+          },
+          {
+            "label": "Projects",
+            "href": "/projects"
+          },
+          {
+            "label": "DAO",
+            "href": "#support"
+          },
+          {
+            "label": "Grants",
+            "href": "#support"
+          },
+          {
+            "label": "Library",
+            "href": "#support"
+          }
+        ],
+        "portal": [
+          {
+            "label": "Privacy Portal",
+            "href": "https://explorer.web3privacy.com",
+            "external": true
+          }
+        ],
+        "legal": [
+          {
+            "label": "Privacy Policy",
+            "href": "https://web3privacy.info/privacy"
+          },
+          {
+            "label": "Docs",
+            "href": "/docs"
+          }
+        ]
+      },
+      "social": [
+        {
+          "label": "GitHub",
+          "icon": "github",
+          "href": "https://github.com/web3privacy"
+        },
+        {
+          "label": "X",
+          "icon": "x",
+          "href": "https://x.com/web3privacy"
+        },
+        {
+          "label": "YouTube",
+          "icon": "youtube",
+          "href": "https://www.youtube.com/@web3privacy"
+        },
+        {
+          "label": "Telegram",
+          "icon": "telegram",
+          "href": "https://t.me/web3privacy"
+        },
+        {
+          "label": "Discord",
+          "icon": "discord",
+          "href": "https://discord.gg/web3privacy"
+        },
+        {
+          "label": "RSS",
+          "icon": "rss",
+          "href": "https://news.web3privacy.info/feed.xml"
+        }
+      ],
+      "legal": "All rights not reserved, Creative commons 2024 - Web3Privacy"
+    },
+    "eventsPage": {
+      "hero": {
+        "title": "Our events are a testament to what sets us apart",
+        "description": "We regularly organize meetups, workshops, conferences, and hackathons focused on privacy-preserving technologies. Join us in person or online.",
+        "ctaLabel": "EXPLORE EVENTS",
+        "ctaHref": "#upcoming",
+        "galleryImages": [],
+        "eyeImageUrl": "/assets/contribute-eye.svg",
+        "backgroundImage": "/assets/hero-bg.png"
+      },
+      "featured": {
+        "title": "Value-centric gatherings",
+        "description": "Our events bring together researchers, developers, and advocates to advance privacy in the decentralized web. Join the conversation.",
+        "ctaLabel": "JOIN THE CONVERSATION",
+        "ctaHref": "https://discord.gg/web3privacy",
+        "videoThumbnailUrl": "/assets/intro-video-thumb.png"
+      },
+      "contributeCtaText": "APPLY FOR GRANT / PARTNERSHIP",
+      "contributeCtaLink": "https://forum.web3privacy.info/",
+      "donationSecondaryCtaText": "LEARN MORE",
+      "donationSecondaryCtaLink": "/donate",
+      "eventsFeaturedIds": [],
+      "eventsOverrides": {}
+    },
+    "projectsPage": {
+      "hero": {
+        "title": "We are building privacy data, social and education essentials for community",
+        "description": "Web3Privacy Now is a community of people dedicated to building privacy, data, social, and education essentials for web3 and decentralization. We are developing the infrastructure, tools, and research needed to achieve our mission.",
+        "ctaLabel": "JOIN US TODAY",
+        "ctaHref": "https://t.me/web3privacy"
+      },
+      "otherLinks": [
+        {
+          "label": "WEB3PRIVACY NOW TWITTER",
+          "href": "https://x.com/web3privacy"
+        },
+        {
+          "label": "WEB3PRIVACY NOW TELEGRAM",
+          "href": "https://t.me/web3privacy"
+        },
+        {
+          "label": "WEB3PRIVACY NOW GITHUB",
+          "href": "https://github.com/web3privacy"
+        },
+        {
+          "label": "WEB3PRIVACY NOW YOUTUBE",
+          "href": "https://www.youtube.com/@web3privacy"
+        },
+        {
+          "label": "WEB3PRIVACY NOW MEDIUM",
+          "href": "https://medium.com/@web3privacy"
+        }
+      ],
+      "contribute": {
+        "title": "Contribute to future of privacy",
+        "description": "Contribute to our mission by donating. Your support helps us fund research, development, and community initiatives. Together, we can build a more private and secure web3 ecosystem.",
+        "ctaLabel": "SUPPORT US NOW",
+        "ctaHref": "/donate",
+        "eyeImage": "/assets/contribute-eye.svg"
+      },
+      "donate": {
+        "title": "Empower Change With Your Donation",
+        "description": "Your donation helps us fund research, tools, and community programs.",
+        "ctaLabel": "DONATE",
+        "ctaHref": "/donate",
+        "backgroundImage": "/assets/donation-bg.png"
+      },
+      "members": {
+        "title": "Thanks to our members to make it happen",
+        "ctaLabel": "BECOME A MEMBER",
+        "ctaHref": "https://discord.gg/web3privacy"
+      },
+      "newsletter": {
+        "title": "Join our newsletter for more information",
+        "placeholder": "Email Address",
+        "buttonText": "SUBMIT"
+      },
+      "technologies": {
+        "title": "How We Make It Happen",
+        "ctaLabel": "VIEW OUR TECHNOLOGIES",
+        "ctaHref": "https://docs.web3privacy.info",
+        "items": [
+          {
+            "id": "army",
+            "title": "ARMY",
+            "subtitle": "AI & ML",
+            "icon": "/assets/projects/explorer-logo.svg"
+          },
+          {
+            "id": "codex",
+            "title": "CODEX",
+            "subtitle": "CYPHER",
+            "icon": "/assets/projects/explorer-logo.svg"
+          },
+          {
+            "id": "humanity",
+            "title": "HUMANITY",
+            "subtitle": "DATA & OSINT",
+            "icon": "/assets/projects/explorer-logo.svg"
+          },
+          {
+            "id": "anonymous",
+            "title": "ANONYMOUS",
+            "subtitle": "SOCIAL & INFOSEC",
+            "icon": "/assets/projects/explorer-logo.svg"
+          },
+          {
+            "id": "agents",
+            "title": "AGENTS",
+            "subtitle": "CYBER & OFFSEC",
+            "icon": "/assets/projects/explorer-logo.svg"
+          },
+          {
+            "id": "code",
+            "title": "CODE",
+            "subtitle": "AI & ML",
+            "icon": "/assets/projects/explorer-logo.svg"
+          }
+        ]
+      }
+    },
+    "resources": {
+      "hero": {
+        "title": "Community Resources",
+        "description": "Discover all of the educational content, articles, and guides created by our community and our researchers. Plus learn how you can contribute to our work and be forever recognized as a supporter of data privacy.",
+        "viewAllHref": "#categories",
+        "shareStoryHref": "/#contribute",
+        "backgroundImageUrl": ""
+      },
+      "expandAllLabel": "Expand All",
+      "filter": {
+        "defaultLabel": "WEB3",
+        "browseLabel": "BROWSE",
+        "browseHref": "#categories",
+        "forgotLabel": "I forgot"
+      },
+      "categoriesSummary": [
+        {
+          "id": "docs",
+          "name": "web3 privacy docs"
+        },
+        {
+          "id": "whitepaper",
+          "name": "web3 privacy whitepaper"
+        },
+        {
+          "id": "security",
+          "name": "blockchain security"
+        },
+        {
+          "id": "identity",
+          "name": "decentralized identity"
+        },
+        {
+          "id": "algorithms",
+          "name": "algorithms"
+        },
+        {
+          "id": "hardware",
+          "name": "hardware wallets"
+        }
+      ],
+      "categories": [
+        {
+          "id": "logos",
+          "name": "Logos",
+          "order": 0,
+          "assets": [
+            {
+              "id": "logo-white",
+              "name": "Web3Privacy White",
+              "thumbnailUrl": "",
+              "downloadUrl": "",
+              "description": ""
+            },
+            {
+              "id": "logo-black",
+              "name": "Web3Privacy Black",
+              "thumbnailUrl": "",
+              "downloadUrl": "",
+              "description": ""
+            },
+            {
+              "id": "logo-gradient",
+              "name": "Web3Privacy Gradient",
+              "thumbnailUrl": "",
+              "downloadUrl": "",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "banners",
+          "name": "Banners",
+          "order": 1,
+          "assets": [
+            {
+              "id": "banner-dark",
+              "name": "Dark banner",
+              "thumbnailUrl": "",
+              "downloadUrl": "",
+              "description": ""
+            },
+            {
+              "id": "banner-light",
+              "name": "Light banner",
+              "thumbnailUrl": "",
+              "downloadUrl": "",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "icons",
+          "name": "Icons",
+          "order": 2,
+          "assets": []
+        },
+        {
+          "id": "illustrations",
+          "name": "Illustrations",
+          "order": 3,
+          "assets": []
+        },
+        {
+          "id": "social-media",
+          "name": "Social Media Assets",
+          "order": 4,
+          "assets": []
+        },
+        {
+          "id": "brand-guidelines",
+          "name": "Brand Guidelines",
+          "order": 5,
+          "assets": []
+        },
+        {
+          "id": "presentations",
+          "name": "Presentations",
+          "order": 6,
+          "assets": []
+        }
+      ]
+    }
+  },
+  "sectionOrder": [
+    "site",
+    "nav",
+    "about",
+    "hero",
+    "partners",
+    "intro",
+    "impact",
+    "activities",
+    "academy",
+    "ecosystem",
+    "testimonials",
+    "contribute",
+    "donation",
+    "newsletter",
+    "members",
+    "footer",
+    "resources"
+  ]
+}

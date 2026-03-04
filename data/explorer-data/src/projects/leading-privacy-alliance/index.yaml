@@ -1,0 +1,54 @@
+id: leading-privacy-alliance
+name: Leading Privacy Alliance
+categories:
+  - social-and-communications
+description: The purpose of the LPA of Web3 is to speak up for everyone working
+  in the Web3 industry and make them aware of the need for privacy (by design)
+links:
+  web: https://www.leadingprivacy.com
+  blog: https://medium.com/hoprnet/hopr-co-founds-leading-privacy-alliance-of-web3-99e057722deb
+  github: ""
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/LeadingPrivacy
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+usecases:
+  - alliances
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/leading-privacy-alliance/logo.png
+ecosystem:
+  - ethereum
+sunset: true
+privacy_policy:
+  defined: false
+  link: ""
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+default_privacy: false
+project_phase: beta
+project_status:
+  live_status: true
+  version: beta
+  testnet: false
+  mainnet: false
+blockchain_features:
+  opensource: false
+  upgradability:
+    enabled: false
+  asset_custody_type: ""
+  encryption: ""
+storage: {}
+history: []

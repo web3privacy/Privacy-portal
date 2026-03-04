@@ -1,0 +1,61 @@
+- id: infrastructure
+  name: Infrastructure
+  usecases:
+    - node
+    - rpc-provider
+    - infrastructure
+    - eth-layer-2
+    - research-and-development
+    - computing
+    - storage
+    - data-management
+    - tee
+    - fhe
+    - other
+- id: social-and-communications
+  name: Social & Communications
+  usecases:
+    - dao
+    - nft-community
+    - alliances
+    - messaging
+    - events
+    - other
+- id: hardware
+  name: Hardware
+  usecases:
+    - wallets
+    - node
+    - tee
+    - fhe
+    - other
+- id: applications
+  name: Applications
+  usecases:
+    - browser
+    - vpn
+    - did
+    - operating-systems
+    - dapps
+    - wallets
+    - ai
+    - kyc-solution
+    - tee
+    - fhe
+    - other
+- id: defi
+  name: Defi
+  usecases:
+    - bridge
+    - defi
+    - mixing-service
+    - mixing-management
+    - tee
+    - fhe
+    - currency
+    - other
+- id: archived-projects
+  name: Archived projects
+  usecases:
+    - legacy-projects
+    - deprecated-systems

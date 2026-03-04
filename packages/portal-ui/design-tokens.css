@@ -1,0 +1,25 @@
+/**
+ * Design tokens – Portal jako zdroj pravdy.
+ * Sdílené mezi Portal a w3pn-org-web pro konzistenci.
+ * Viz STYLE-GUIDE.md pro dokumentaci.
+ */
+
+:root {
+  /* ─── Layout ─────────────────────────────────────────────────────────── */
+  --content-max: 1280px;
+
+  /* ─── Border radius scale ────────────────────────────────────────────── */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 999px;
+
+  /* ─── Font families ──────────────────────────────────────────────────── */
+  --font-sans: "Archivo", "Avenir Next", "Helvetica Neue", sans-serif;
+  --font-serif: "Domine", "Iowan Old Style", "Palatino Linotype", serif;
+
+  /* ─── Sjednocený akcent (#70ff88) ─────────────────────────────────────── */
+  --color-accent: #70ff88;
+  --color-accent-foreground: #172118;
+}

@@ -1,0 +1,31 @@
+id: fulldive
+name: Fulldive
+categories:
+  - applications
+description: Web3 browser that respects your privacy
+links:
+  web: https://www.fulldive.com
+  twitter: https://x.com/fulldive
+  discord: https://discord.com/invite/3f79ygxZ3y
+  facebook: https://www.facebook.com/fulldiveco
+usecases:
+  - browser
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/fulldive/logo.png
+ecosystem:
+  - other
+sunset: false
+privacy_policy:
+  defined: true
+  link: https://www.fulldive.com/privacy-policy
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false

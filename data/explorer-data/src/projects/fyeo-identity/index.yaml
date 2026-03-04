@@ -1,0 +1,22 @@
+id: fyeo-identity
+name: FYEO Identity
+categories:
+  - applications
+description: Decentralized password management. Real-time identity monitoring.
+links:
+  web: https://www.gofyeo.com/fyeo-identity
+  blog: https://www.fyeo.io/blog
+  twitter: https://x.com/gofyeo
+  discord: https://discord.com/invite/tBcAkFPb5r
+  telegram: https://t.me/fyeo_security
+usecases:
+  - dapps
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.jpg
+    ext: jpg
+    url: https://explorer-data.web3privacy.info/assets/projects/fyeo-identity/logo.jpg
+ecosystem:
+  - other
+sunset: false

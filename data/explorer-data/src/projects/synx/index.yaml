@@ -1,0 +1,26 @@
+id: synx
+name: Synx
+categories:
+  - applications
+description: The Web3 storage platform
+team:
+  anonymous: true
+links:
+  web: https://synx.xyz
+  twitter: https://x.com/synx_xyz
+project_status:
+  live_status: true
+  version: Alpha
+  testnet: false
+  mainnet: true
+usecases:
+  - storage
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/synx/logo.png
+ecosystem:
+  - other
+sunset: false

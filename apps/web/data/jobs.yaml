@@ -1,0 +1,425 @@
+# Jobs data - oddělená struktura pro snadnou editaci
+categories:
+  - Engineering
+  - Design
+  - Product
+  - Marketing
+  - Sales
+  - Operations
+  - Other
+
+jobs:
+  - id: job-1
+    title: "B2B Sales Rep (Intern / Entry Level)"
+    company: "Shuter"
+    companyLogo: "https://ui-avatars.com/api/?name=Sh&size=96&background=e8e8e8&color=616161"
+    description: "Join our sales team."
+    url: "https://example.com/job/1"
+    category: "Sales"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-01"
+
+  - id: job-2
+    title: "DevOps Engineer"
+    company: "Shuter"
+    companyLogo: "https://ui-avatars.com/api/?name=Sh&size=96&background=e8e8e8&color=616161"
+    description: "Build infrastructure for privacy tech."
+    url: "https://example.com/job/2"
+    category: "Engineering"
+    tags:
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-02"
+
+  - id: job-3
+    title: "Senior Crypto Intelligence Analyst"
+    company: "Shuter"
+    companyLogo: "https://ui-avatars.com/api/?name=Sh&size=96&background=e8e8e8&color=616161"
+    description: "Analyze crypto privacy landscape."
+    url: "https://example.com/job/3"
+    category: "Operations"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-03"
+
+  - id: job-4
+    title: "Privacy Engineer"
+    company: "ZkLabs"
+    companyLogo: "https://ui-avatars.com/api/?name=ZK&size=96&background=e8e8e8&color=616161"
+    description: "Design and implement zero-knowledge solutions."
+    url: "https://example.com/job/4"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-04"
+
+  - id: job-5
+    title: "UX Designer"
+    company: "Nym"
+    companyLogo: "https://ui-avatars.com/api/?name=Ny&size=96&background=e8e8e8&color=616161"
+    description: "Create privacy-focused user experiences."
+    url: "https://example.com/job/5"
+    category: "Design"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-05"
+
+  - id: job-6
+    title: "Product Manager"
+    company: "Orchid"
+    companyLogo: "https://ui-avatars.com/api/?name=Or&size=96&background=e8e8e8&color=616161"
+    description: "Lead privacy product strategy."
+    url: "https://example.com/job/6"
+    category: "Product"
+    tags:
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-06"
+
+  - id: job-7
+    title: "Content Marketing Lead"
+    company: "Secret"
+    companyLogo: "https://ui-avatars.com/api/?name=Se&size=96&background=e8e8e8&color=616161"
+    description: "Marketing for privacy tools."
+    url: "https://example.com/job/7"
+    category: "Marketing"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-07"
+
+  - id: job-8
+    title: "Backend Developer"
+    company: "Dusk"
+    companyLogo: "https://ui-avatars.com/api/?name=Du&size=96&background=e8e8e8&color=616161"
+    description: "Build scalable privacy infrastructure."
+    url: "https://example.com/job/8"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-08"
+
+  - id: job-9
+    title: "Community Manager"
+    company: "Threshold"
+    companyLogo: "https://ui-avatars.com/api/?name=Th&size=96&background=e8e8e8&color=616161"
+    description: "Grow privacy community."
+    url: "https://example.com/job/9"
+    category: "Marketing"
+    tags:
+      - Remote
+      - Part-time
+    explorerProjectId: null
+    createdAt: "2026-06-09"
+
+  - id: job-10
+    title: "Research Scientist"
+    company: "Aztec"
+    companyLogo: "https://ui-avatars.com/api/?name=Az&size=96&background=e8e8e8&color=616161"
+    description: "Privacy research and cryptography."
+    url: "https://example.com/job/10"
+    category: "Engineering"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-10"
+
+  - id: job-11
+    title: "Frontend Engineer"
+    company: "Railgun"
+    companyLogo: "https://ui-avatars.com/api/?name=Ra&size=96&background=e8e8e8&color=616161"
+    description: "Privacy-first web applications."
+    url: "https://example.com/job/11"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-11"
+
+  - id: job-12
+    title: "Business Development"
+    company: "Pocket"
+    companyLogo: "https://ui-avatars.com/api/?name=Po&size=96&background=e8e8e8&color=616161"
+    description: "Partnerships for privacy protocols."
+    url: "https://example.com/job/12"
+    category: "Sales"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-12"
+
+  - id: job-13
+    title: "DevOps / SRE"
+    company: "Subspace"
+    companyLogo: "https://ui-avatars.com/api/?name=Su&size=96&background=e8e8e8&color=616161"
+    description: "Infrastructure for decentralized networks."
+    url: "https://example.com/job/13"
+    category: "Engineering"
+    tags:
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-13"
+
+  - id: job-14
+    title: "Visual Designer"
+    company: "Phala"
+    companyLogo: "https://ui-avatars.com/api/?name=Ph&size=96&background=e8e8e8&color=616161"
+    description: "Brand and UI for privacy products."
+    url: "https://example.com/job/14"
+    category: "Design"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-14"
+
+  - id: job-15
+    title: "Technical Writer"
+    company: "Iron"
+    companyLogo: "https://ui-avatars.com/api/?name=Ir&size=96&background=e8e8e8&color=616161"
+    description: "Documentation for privacy tech."
+    url: "https://example.com/job/15"
+    category: "Other"
+    tags:
+      - Contract
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-15"
+
+  - id: job-16
+    title: "Smart Contract Engineer"
+    company: "Oasis"
+    companyLogo: "https://ui-avatars.com/api/?name=Oa&size=96&background=e8e8e8&color=616161"
+    description: "Privacy-preserving smart contracts."
+    url: "https://example.com/job/16"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-16"
+
+  - id: job-17
+    title: "Growth Lead"
+    company: "Manta"
+    companyLogo: "https://ui-avatars.com/api/?name=Ma&size=96&background=e8e8e8&color=616161"
+    description: "User growth for privacy products."
+    url: "https://example.com/job/17"
+    category: "Marketing"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-17"
+
+  - id: job-18
+    title: "Operations Analyst"
+    company: "Keep"
+    companyLogo: "https://ui-avatars.com/api/?name=Ke&size=96&background=e8e8e8&color=616161"
+    description: "Support privacy protocol operations."
+    url: "https://example.com/job/18"
+    category: "Operations"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-18"
+
+  - id: job-19
+    title: "Protocol Developer"
+    company: "Penumbra"
+    companyLogo: "https://ui-avatars.com/api/?name=Pe&size=96&background=e8e8e8&color=616161"
+    description: "Build privacy blockchain protocol."
+    url: "https://example.com/job/19"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-19"
+
+  - id: job-20
+    title: "Head of Product"
+    company: "Aleo"
+    companyLogo: "https://ui-avatars.com/api/?name=Al&size=96&background=e8e8e8&color=616161"
+    description: "Product strategy for privacy platform."
+    url: "https://example.com/job/20"
+    category: "Product"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-20"
+
+  - id: job-21
+    title: "Cryptographer"
+    company: "Espresso"
+    companyLogo: "https://ui-avatars.com/api/?name=Es&size=96&background=e8e8e8&color=616161"
+    description: "ZK proofs and cryptography research."
+    url: "https://example.com/job/21"
+    category: "Engineering"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-21"
+
+  - id: job-22
+    title: "Customer Success"
+    company: "Sienna"
+    companyLogo: "https://ui-avatars.com/api/?name=Si&size=96&background=e8e8e8&color=616161"
+    description: "Support privacy product users."
+    url: "https://example.com/job/22"
+    category: "Sales"
+    tags:
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-22"
+
+  - id: job-23
+    title: "Mobile Engineer"
+    company: "Incognito"
+    companyLogo: "https://ui-avatars.com/api/?name=In&size=96&background=e8e8e8&color=616161"
+    description: "Privacy-focused mobile apps."
+    url: "https://example.com/job/23"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-23"
+
+  - id: job-24
+    title: "Event Coordinator"
+    company: "Noir"
+    companyLogo: "https://ui-avatars.com/api/?name=No&size=96&background=e8e8e8&color=616161"
+    description: "Privacy conference and events."
+    url: "https://example.com/job/24"
+    category: "Marketing"
+    tags:
+      - Part-time
+    explorerProjectId: null
+    createdAt: "2026-06-24"
+
+  - id: job-25
+    title: "Data Analyst"
+    company: "Umbra"
+    companyLogo: "https://ui-avatars.com/api/?name=Um&size=96&background=e8e8e8&color=616161"
+    description: "Privacy metrics and analytics."
+    url: "https://example.com/job/25"
+    category: "Operations"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-25"
+
+  - id: job-26
+    title: "Security Engineer"
+    company: "Obscuro"
+    companyLogo: "https://ui-avatars.com/api/?name=Ob&size=96&background=e8e8e8&color=616161"
+    description: "Security for privacy infrastructure."
+    url: "https://example.com/job/26"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-26"
+
+  - id: job-27
+    title: "Brand Designer"
+    company: "Tornado"
+    companyLogo: "https://ui-avatars.com/api/?name=To&size=96&background=e8e8e8&color=616161"
+    description: "Brand identity for privacy projects."
+    url: "https://example.com/job/27"
+    category: "Design"
+    tags:
+      - Contract
+    explorerProjectId: null
+    createdAt: "2026-06-27"
+
+  - id: job-28
+    title: "Integration Engineer"
+    company: "Ren"
+    companyLogo: "https://ui-avatars.com/api/?name=Re&size=96&background=e8e8e8&color=616161"
+    description: "Privacy protocol integrations."
+    url: "https://example.com/job/28"
+    category: "Engineering"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-06-28"
+
+  - id: job-29
+    title: "Partnership Manager"
+    company: "Stark"
+    companyLogo: "https://ui-avatars.com/api/?name=St&size=96&background=e8e8e8&color=616161"
+    description: "Strategic partnerships in privacy."
+    url: "https://example.com/job/29"
+    category: "Sales"
+    tags:
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-29"
+
+  - id: job-30
+    title: "QA Engineer"
+    company: "Aztec"
+    companyLogo: "https://ui-avatars.com/api/?name=Az&size=96&background=e8e8e8&color=616161"
+    description: "Testing privacy applications."
+    url: "https://example.com/job/30"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Full-time
+    explorerProjectId: null
+    createdAt: "2026-06-30"
+
+  - id: job-31
+    title: "Support Engineer"
+    company: "Horizen"
+    companyLogo: "https://ui-avatars.com/api/?name=Ho&size=96&background=e8e8e8&color=616161"
+    description: "Technical support for privacy tools."
+    url: "https://example.com/job/31"
+    category: "Engineering"
+    tags:
+      - Remote
+      - Part-time
+    explorerProjectId: null
+    createdAt: "2026-07-01"
+
+  - id: job-32
+    title: "Legal Counsel"
+    company: "Zero"
+    companyLogo: "https://ui-avatars.com/api/?name=Ze&size=96&background=e8e8e8&color=616161"
+    description: "Privacy and regulatory compliance."
+    url: "https://example.com/job/32"
+    category: "Other"
+    tags:
+      - Contract
+    explorerProjectId: null
+    createdAt: "2026-07-02"
+
+  - id: job-33
+    title: "Researcher"
+    company: "Anoma"
+    companyLogo: "https://ui-avatars.com/api/?name=An&size=96&background=e8e8e8&color=616161"
+    description: "Privacy and consensus research."
+    url: "https://example.com/job/33"
+    category: "Engineering"
+    tags:
+      - Full-time
+      - Remote
+    explorerProjectId: null
+    createdAt: "2026-07-03"

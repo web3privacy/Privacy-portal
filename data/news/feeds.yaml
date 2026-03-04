@@ -1,0 +1,35 @@
+# Feed sources for aggregated news (RSS, scraped URLs)
+# User overrides in news-user.yaml (feedSources)
+#
+# Schema:
+#   sources:
+#     - id: unique-slug
+#       type: rss | url
+#       url: https://...
+#       enabled: true
+
+sources:
+  - id: mozilla-privacy-blog
+    type: rss
+    url: https://blog.mozilla.org/feed/
+    enabled: true
+  - id: eff-updates
+    type: rss
+    url: https://www.eff.org/rss/updates.xml
+    enabled: true
+  - id: tor-project-blog
+    type: rss
+    url: https://blog.torproject.org/feed
+    enabled: true
+  - id: privacy-international
+    type: rss
+    url: https://privacyinternational.org/feed
+    enabled: true
+  - id: schneier-security
+    type: rss
+    url: https://www.schneier.com/feed/
+    enabled: true
+  - id: epic-privacy
+    type: rss
+    url: https://epic.org/feed/
+    enabled: true

@@ -1,0 +1,24 @@
+id: shinobi
+name: Shinobi
+categories:
+  - defi
+links:
+  github: https://github.com/shinobi-protocol
+  docs: https://docs.sbtc.ninja/
+  whitepaper: https://www.sbtc.ninja/pdf/whitepaper.pdf
+  blog: https://medium.com/@ShinobiProtocol
+  twitter: https://twitter.com/ShinobiProtocol
+  discord: https://discord.com/invite/wm275b6m8d
+  telegram: https://t.me/shinobi_protocol
+usecases:
+  - bridge
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/shinobi/logo.png
+ecosystem:
+  - cosmos
+description: Secret Network bridge for BTC
+sunset: true

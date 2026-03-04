@@ -1,0 +1,35 @@
+{
+  "name": "w3pn-privacy-portal",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm -w @web3privacy/web run dev",
+    "dev:explorer": "npm -w @web3privacy/explorer run dev",
+    "dev:stacks": "npm -w @web3privacy/stacks run dev",
+    "build": "npm -w @web3privacy/web run build",
+    "build:explorer": "npm -w @web3privacy/explorer run build",
+    "build:stacks": "npm -w @web3privacy/stacks run build",
+    "start:explorer": "npm -w @web3privacy/explorer run start",
+    "start:stacks": "npm -w @web3privacy/stacks run start",
+    "lint": "npm -w @web3privacy/explorer run lint && npm -w @web3privacy/stacks run lint",
+    "data:build": "node scripts/build-explorer-data-json.mjs",
+    "crawl:news": "node scripts/crawl-news-feeds.mjs",
+    "docs:fetch": "node scripts/fetch-docs-from-github.mjs",
+    "dev:web": "npm -w @web3privacy/web run dev",
+    "build:web": "npm -w @web3privacy/web run build",
+    "start:web": "npm -w @web3privacy/web run start"
+  },
+  "packageManager": "npm@11.7.0",
+  "devDependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "js-yaml": "^4.1.0",
+    "jsdom": "^25.0.0",
+    "rss-parser": "^3.13.0"
+  },
+  "dependencies": {
+    "no": "^0.0.1"
+  }
+}

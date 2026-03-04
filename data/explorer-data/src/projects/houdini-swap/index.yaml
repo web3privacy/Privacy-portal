@@ -1,0 +1,28 @@
+id: houdini-swap
+name: Houdini Swap
+categories:
+  - applications
+usecases:
+  - mixing-service
+ecosystem:
+  - other
+description: Transact across any blockchain with optional privacy.
+sunset: false
+links:
+  web: https://houdiniswap.com
+  blog: https://blog.houdiniswap.com/
+  github: ""
+  forum: ""
+  docs: https://docs.houdiniswap.com/houdini-swap
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/houdiniswap
+  discord: ""
+  telegram: https://t.me/houdiniswap
+  lens: ""
+  farcaster: ""
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/houdini-swap/logo.jpeg

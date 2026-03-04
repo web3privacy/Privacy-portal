@@ -1,0 +1,24 @@
+id: universal-reputation
+name: Universal Reputation
+categories:
+  - applications
+description: a private and non-repudiable reputation system
+links:
+  web: https://developer.unirep.io
+  github: https://github.com/unirep
+  docs: https://developer.unirep.io/docs/welcome
+  block_explorer: https://explorer.unirep.io/
+  blog: https://developer.unirep.io/blog
+  twitter: https://x.com/UniRep_protocol
+  discord: https://discord.com/invite/VzMMDJmYc5
+have_token: false
+usecases:
+  - did
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/universal-reputation/logo.png
+ecosystem:
+  - ethereum
+sunset: false

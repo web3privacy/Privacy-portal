@@ -1,0 +1,15 @@
+type: object
+additionalProperties: false
+required:
+  - id
+  - name
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+  name:
+    type: string
+  usecases:
+    type: array
+    items:
+      type: string

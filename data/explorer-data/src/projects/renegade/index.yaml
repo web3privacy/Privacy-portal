@@ -1,0 +1,86 @@
+id: renegade
+name: Renegade
+categories:
+  - defi
+  - applications
+usecases:
+  - defi
+  - mpc
+ecosystem:
+  - ethereum
+  - multichain
+description: Onchain dark pool, live on Arbitrum and Base.
+product_launch_day: 2024-10-03T07:00:00.000Z
+sunset: false
+assets_used:
+  - eth
+have_token: false
+tokens: []
+links:
+  web: https://renegade.fi
+  blog: https://renegadefi.substack.com
+  github: https://github.com/renegade-fi
+  forum: ""
+  docs: https://docs.renegade.fi
+  whitepaper: https://whitepaper.renegade.fi
+  block_explorer: ""
+  governance: ""
+  twitter: https://twitter.com/renegade_fi
+  discord: https://discord.gg/renegade-fi
+  telegram: ""
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: zk-proofs, MPC
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://docs.renegade.fi/core-concepts/privacy
+  data_usage: ""
+compliance: Chainalysis KYT
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers: []
+funding:
+  - name: Dragonfly
+    link: https://renegade.fi/
+  - name: Balaji Srinivasan
+    link: https://renegade.fi/
+  - name: Robot Ventures
+    link: https://renegade.fi/
+  - name: Symbolic Capital Partners
+    link: https://renegade.fi/
+  - name: Anagram
+    link: https://renegade.fi/
+  - name: Marc Bhargava
+    link: https://renegade.fi/
+history:
+  - title: Mainnet Launch
+    description: Renegade launched their first deployment onto Arbitrum.
+    link: https://x.com/renegade_fi/status/1831384473524703311
+    time: 2024-09-04T07:00:00.000Z
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/renegade/logo.png

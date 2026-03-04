@@ -1,0 +1,378 @@
+type: object
+additionalProperties: false
+required:
+  - id
+  - name
+
+properties:
+  id:
+    type: string
+    title: ID
+    description: |
+      Unique project identifier
+  #PROJECT DESCRIPTION -------------------------------------------------------------
+  name:
+    type: string
+  categories:
+    type: array
+    items:
+      type: string
+  assets_used:
+    type: array
+    items:
+      type: string
+  ecosystem:
+    type: array
+    items:
+      type: string
+  project_type:
+    type: string
+  description:
+    type: string
+  product_readiness:
+    type: string
+  product_launch_day:
+    oneOf:
+      - type: object
+        format: custom-date-time
+      - type: string
+        format: custom-date-time
+  have_token:
+    type: boolean
+
+  token_link:
+    type: string
+    format: uri
+  tokens:
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        symbol:
+          type: string
+        network:
+          type: string
+        contract_address:
+          type: string
+        link:
+          type: string
+          format: uri
+      required:
+        - symbol
+  fee:
+    type: string
+  team:
+    type: object
+    required:
+      - anonymous
+
+    properties:
+      anonymous:
+        type: boolean
+      company:
+        type: object
+        properties:
+          link:
+            type: string
+            format: uri
+      teammembers:
+        type: array
+        items:
+          type: object
+          properties:
+            name:
+              type: string
+            role:
+              type: string
+            link:
+              type: string
+              # format: uri
+  funding:
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        type:
+          type: string
+        link:
+          type: string
+          # format: uri
+        value:
+          type: string
+        time:
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
+  history:
+    type: array
+    items:
+      type: object
+      properties:
+        title:
+          type: string
+        event_type:
+          type: string
+        description:
+          type: string
+        time:
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
+        link:
+          type: string
+          # format: uri
+
+  sunset:
+    type: boolean
+    required:
+      - sunset
+
+  # LINKS ---------------------------------------------------------------------
+  links:
+    type: object
+    properties:
+      web:
+        type: string
+        # format: uri
+      github:
+        type: string
+        # format: uri
+      block_explorer:
+        type: string
+        # format: uri
+      docs:
+        type: string
+        # format: uri
+      forum:
+        type: string
+        # format: uri
+      whitepaper:
+        type: string
+        # format: uri
+      changelog:
+        type: string
+        # format: uri
+      snapshot:
+        type: string
+        # format: uri
+      blog:
+        type: string
+        # format: uri
+      twitter:
+        type: string
+        # format: uri
+      discord:
+        type: string
+        # format: uri
+      facebook:
+        type: string
+        # format: uri
+      telegram:
+        type: string
+        # format: uri
+      lens:
+        type: string
+        # format: uri
+      farcaster:
+        type: string
+        # format: uri
+      rss_feed:
+        type: string
+        # format: uri
+      education:
+        type: string
+        # format: uri
+      governance:
+        type: string
+        # format: uri
+  logos:
+    type: array
+    items:
+      type: object
+      properties:
+        file:
+          type: string
+        ext:
+          type: string
+        url:
+          type: string
+          format: uri
+  screenshots:
+    type: array
+    items:
+      oneOf:
+        - type: string
+          format: uri
+        - type: object
+          additionalProperties: false
+          required:
+            - url
+          properties:
+            url:
+              type: string
+              format: uri
+            caption:
+              type: string
+  # TECHNOLOGY ---------------------------------------------------------------------
+  technology:
+    type: object
+    properties:
+      type:
+        type: string
+      name:
+        type: string
+      features:
+        type: array
+        items:
+          type: string
+  blockchain_features:
+    type: object
+    properties:
+      encryption:
+        type: string
+      opensource:
+        type: boolean
+      identity_integration:
+        type: string
+      wallets:
+        type: object
+        properties:
+          name:
+            type: string
+          link:
+            type: string
+            # format: uri
+      p2p:
+        type: boolean
+      data_masking:
+        type: string
+      network:
+        type: string
+      upgradability:
+        type: object
+        required:
+          - enabled
+        properties:
+          enabled:
+            type: boolean
+          type:
+            type: string
+          admin_keys:
+            type: string
+      viewing_key:
+        type: boolean
+      dissapearing_tx:
+        type: boolean
+      connected_tx:
+        type: boolean
+      frontend_anonymity:
+        type: string
+      asset_custody_type:
+        type: string
+  client_diversability:
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        link:
+          type: string
+          format: uri
+  # PRIVACY ---------------------------------------------------------------------
+  licences:
+    type: string
+  privacy_policy:
+    type: object
+    required:
+      - defined
+    properties:
+      defined:
+        type: boolean
+      link:
+        type: string
+        # format: uri
+      data_usage:
+        type: string
+  tracebility:
+    type: object
+    properties:
+      tracked_data:
+        type: string
+      kyc:
+        type: boolean
+      sign_in_type_requirments:
+        type: array
+        items:
+          type: string
+    required:
+      - kyc
+  compliance:
+    type: string
+  storage:
+    type: object
+    properties:
+      decentralized:
+        type: boolean
+
+  # SECURITY ---------------------------------------------------------------------
+  third_party_dependency:
+    type: string
+  social_trust:
+    type: string
+  technical_spof:
+    type: string
+  audits:
+    type: array
+    items:
+      type: object
+      properties:
+        name:
+          type: string
+        url:
+          type: string
+          # format: uri
+        time:
+          oneOf:
+            - type: object
+              format: custom-date-time
+            - type: string
+              format: custom-date-time
+  default_privacy:
+    type: boolean
+  project_phase:
+    type: string
+  project_status:
+    type: object
+    required:
+      - live_status
+      - testnet
+      - mainnet
+    properties:
+      live_status:
+        type: boolean
+      version:
+        type: string
+      testnet:
+        type: boolean
+      mainnet:
+        type: boolean
+  usecases:
+    type: array
+    items:
+      type: string
+
+
+#Gamefication
+  nickname:
+    type: string
+    description: |
+      A short identifier or alias for the project, used for tracking and rewards.

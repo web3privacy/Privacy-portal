@@ -1,0 +1,38 @@
+# People database
+# User-editable data goes to people-user.yaml
+
+people: []
+# Example structure:
+# people:
+#   - id: "vitalik-buterin"
+#     name: "Vitalik Buterin"
+#     displayName: "Vitalik"
+#     title: "Founder of Ethereum, Developer, Thinker"
+#     description: "Co-founder of Ethereum blockchain platform"
+#     avatar: "/images/people/vitalik.png"
+#     links:
+#       - type: "twitter"
+#         url: "https://twitter.com/VitalikButerin"
+#       - type: "web"
+#         url: "https://vitalik.ca"
+#     stacks:
+#       - stackId: "vitalik-stack"
+#         role: "Founder"
+#     projects:
+#       - projectId: "ethereum"
+#         role: "Co-founder"
+#     articles:
+#       - articleId: "article-1"
+#         role: "author"
+#     ratings:
+#       - source: "explorer"
+#         rating: 95
+#         description: "High privacy rating"
+#     tags:
+#       - "privacy"
+#       - "developer"
+#       - "blockchain"
+#     organizations:
+#       - "Ethereum Foundation"
+#     createdAt: "2024-01-01T00:00:00Z"
+#     updatedAt: "2024-01-01T00:00:00Z"

@@ -1,0 +1,28 @@
+id: auth3
+name: Auth3
+categories:
+  - infrastructure
+description: a privacy-preserved computing network into Web 3.0 that aims to
+  unlock the value of data.
+team:
+  anonymous: true
+links:
+  web: https://auth3.network
+  whitepaper: https://auth3.network/Auth3-Whitepaper_v1.0.pdf
+  twitter: https://twitter.com/auth3_network
+project_status:
+  live_status: false
+  version: TBD
+  testnet: false
+  mainnet: false
+usecases:
+  - infrastructure
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/auth3/logo.png
+ecosystem:
+  - multichain
+sunset: false

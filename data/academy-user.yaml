@@ -1,0 +1,98 @@
+# User-editable Academy data
+# This file can be edited through the admin interface
+# Placeholder data based on academy.web3privacy.info
+
+talks: []
+  # Talks are now loaded from YouTube channel via API
+  # You can add custom talks here if needed
+
+courses:
+  - id: "course-privacy-fundamentals"
+    title: "Privacy Fundamentals"
+    description: "Master the basics of digital privacy, learn about data protection, and understand how to safeguard your personal information online."
+    icon: "/images/courses/course-1.png"
+    url: "https://academy.web3privacy.info/l/products/privacy-fundamentals"
+    createdAt: "2024-01-20"
+  - id: "course-encryption-basics"
+    title: "Encryption Basics for Everyone"
+    description: "Learn how encryption works and how to use it to protect your communications and data from unauthorized access."
+    icon: "/images/courses/course-2.png"
+    url: "https://academy.web3privacy.info/l/products/encryption-basics"
+    createdAt: "2024-01-19"
+  - id: "course-secure-messaging"
+    title: "Secure Messaging Apps Guide"
+    description: "Compare and learn about secure messaging applications that protect your conversations from surveillance."
+    icon: "/images/courses/course-3.png"
+    url: "https://academy.web3privacy.info/l/products/secure-messaging"
+    createdAt: "2024-01-18"
+
+guides:
+  - id: "guide-password-managers"
+    title: "Complete Guide to Password Managers"
+    description: "Everything you need to know about password managers: how they work, which one to choose, and how to migrate your passwords safely."
+    url: "https://web3privacy.info/guides/password-managers"
+    duration: "8 min"
+    isNew: true
+    createdAt: "2024-01-20T00:00:00Z"
+  - id: "guide-two-factor-auth"
+    title: "Two-Factor Authentication Setup Guide"
+    description: "Step-by-step instructions for setting up 2FA on your most important accounts to add an extra layer of security."
+    url: "https://web3privacy.info/guides/two-factor-auth"
+    duration: "6 min"
+    isNew: false
+    createdAt: "2024-01-19T00:00:00Z"
+  - id: "guide-browser-privacy"
+    title: "Browser Privacy Settings Explained"
+    description: "Learn how to configure your browser for maximum privacy, including extensions, settings, and best practices."
+    url: "https://web3privacy.info/guides/browser-privacy"
+    duration: "10 min"
+    isNew: false
+    createdAt: "2024-01-18T00:00:00Z"
+
+radioTracks: []
+  # Radio tracks are now loaded from YouTube channel via API
+  # You can add custom tracks here if needed
+
+featuredDocuments:
+  - id: "doc-privacy-manifesto"
+    title: "The Privacy Manifesto"
+    description: "A comprehensive document outlining the principles and values of digital privacy in the modern age."
+    thumbnailUrl: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    url: "https://web3privacy.info/documents/privacy-manifesto"
+    duration: "15 min read"
+    createdAt: "2024-01-20T00:00:00Z"
+  - id: "doc-gdpr-guide"
+    title: "GDPR Compliance Guide"
+    description: "Understanding the General Data Protection Regulation and how it affects your rights and privacy."
+    thumbnailUrl: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    url: "https://web3privacy.info/documents/gdpr-guide"
+    duration: "12 min read"
+    createdAt: "2024-01-19T00:00:00Z"
+  - id: "doc-encryption-whitepaper"
+    title: "End-to-End Encryption Explained"
+    description: "A technical deep dive into end-to-end encryption, how it works, and why it matters for privacy."
+    thumbnailUrl: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    url: "https://web3privacy.info/documents/encryption-whitepaper"
+    duration: "20 min read"
+    createdAt: "2024-01-18T00:00:00Z"
+
+acceleratorItems:
+  - id: "accelerator-grants"
+    title: "Privacy Project Grants"
+    description: "We provide grants for hackathon winners and innovative privacy-focused projects."
+    icon: "workspace_premium"
+    url: "https://github.com/web3privacy"
+  - id: "accelerator-team"
+    title: "Find Teammates"
+    description: "Looking for teammates for your privacy project? Connect with like-minded developers."
+    icon: "groups"
+    url: "https://github.com/web3privacy"
+  - id: "accelerator-boost"
+    title: "Boost Your Crypto Project"
+    description: "Learn how to boost your crypto project with privacy-first principles and best practices."
+    icon: "rocket_launch"
+    url: "https://github.com/web3privacy"
+
+quizes: []
+podcasts: []
+radioPlaylists: []

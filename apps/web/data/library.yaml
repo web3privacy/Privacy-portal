@@ -1,0 +1,430 @@
+# Library - Key Documents, Important Articles, Books
+# Data from https://academy.web3privacy.info/p/library
+
+keyDocuments:
+  - title: "The Crypto Anarchist Manifesto"
+    author: "Timothy May"
+    year: 1988
+    description: "The Manifesto envisions a future where individuals can communicate and conduct transactions anonymously, outside the control of governments and centralized institutions."
+    url: "https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/"
+
+  - title: "The Cypherpunk Manifesto"
+    author: "Eric Hughes"
+    year: 1993
+    description: "The Manifesto advocates for privacy in the digital age, distinguishing it from secrecy. It emphasizes using cryptography and anonymous systems to protect privacy."
+    url: "https://www.activism.net/cypherpunk/manifesto.html"
+
+  - title: "Crypto Anarchy and Virtual Communities"
+    author: "Timothy C. May"
+    year: 1994
+    description: "The essay argues that strong cryptography and virtual networks will transform economic and social systems, enabling untraceable communications and decentralized finance."
+    url: "https://nakamotoinstitute.org/library/virtual-communities/"
+
+  - title: "The Cyphernomicon"
+    author: "Timothy C. May"
+    year: 1994
+    description: "An extensive FAQ and philosophical document by Tim May that outlines the principles, goals, and technological foundations of the Cypherpunk movement."
+    url: "https://hackmd.io/@jmsjsph/TheCyphernomicon"
+
+  - title: "Declaration of independence of cyberspace"
+    author: "John Perry Barlow"
+    year: 1996
+    description: "The co-founder of the Electronic Frontier Foundation argues that governments have no authority in the digital realm."
+    url: "https://www.eff.org/it/cyberspace-independence"
+
+importantArticles:
+  - title: "A Political History of DAOs"
+    author: "Kelsie Nabben"
+    year: 2022
+    description: "The article explores the Cypherpunks Mailing List, a 1990s forum that influenced the development of cryptocurrencies and decentralized technologies."
+    url: "https://www.fwb.help/editorial/cypherpunks-to-social-daos"
+
+  - title: "The Core of Crypto is Punks and Principles"
+    author: "Piergiorgio Catti De Gasperi"
+    year: 2023
+    description: "Examines how privacy-focused intellectuals, the Cypherpunks, pioneered the foundation for Web3."
+    url: "https://mirror.xyz/yarak.eth/Mj6cCdR74K96AIrz3RTgANCB1L3W9jGvCwJYVO1wCfE"
+
+  - title: "Make Ethereum Cypherpunk Again"
+    author: "Vitalik Buterin"
+    year: 2023
+    description: "Ethereum co-founder calls for a return to the cypherpunk ideals of a decentralized and open crypto ecosystem."
+    url: "https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html"
+
+  - title: "Make Public Policy Cypherpunk Again"
+    author: "Peter Van Valkenburgh"
+    year: 2024
+    description: "Director of Research at Coin Center reflects on the state of the crypto and Cypherpunk movements."
+    url: "https://www.youtube.com/watch?v=Q2KfNDqj9Vo"
+
+books:
+  "Cryptography, Privacy and Technology":
+    - title: "Everybody Lies"
+      author: "Seth Stephens-Davidowitz"
+      recommendedBy: "Ben West"
+      isbn: "9781408894736"
+
+    - title: "Surveillance Capitalism"
+      author: "Shoshana Zuboff"
+      recommendedBy: "Paul Dylan-Ennis, Daniel Thomas, Marko, Michel Bauwens"
+      isbn: "9781610395694"
+
+    - title: "Hypnocracy: Trump, Musk, and the Architecture of Reality"
+      author: "Jianwei Xun"
+      recommendedBy: "PG"
+
+    - title: "Platform Capitalism"
+      author: "Nick Srnicek"
+      recommendedBy: "PG"
+      isbn: "9781509504879"
+
+    - title: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+      author: "Cal Newport"
+      recommendedBy: "PG"
+      isbn: "9780525536512"
+
+    - title: "Black Code"
+      author: "Ronald J. Deibert"
+      recommendedBy: "Mikerah"
+      isbn: "9780771025358"
+
+    - title: "Cypherpunks"
+      author: "Julian Assange"
+      recommendedBy: "Juan, PG, Amit Chaudhary"
+      isbn: "9781939293008"
+
+    - title: "Privacy Is Power"
+      author: "Carissa Véliz"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Unwired"
+      author: "Gaia Bernstein"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Crypto"
+      author: "Steven Levy"
+      recommendedBy: "Ben West"
+      isbn: "9780140244328"
+
+    - title: "The Code Book"
+      author: "Simon Singh"
+      recommendedBy: "Ben West"
+      isbn: "9780385495325"
+
+    - title: "Rest is Resistance"
+      author: "Tricia Hersey"
+      recommendedBy: "Ben West"
+
+    - title: "Zero Days"
+      author: "Ruth Ware"
+      recommendedBy: "Ben West"
+
+    - title: "Future Histories"
+      author: "Lizzie O'Shea"
+      recommendedBy: "Ben West"
+
+    - title: "Coding Democracy"
+      author: "Maureen Webb"
+      recommendedBy: "Ben West"
+
+    - title: "The Woman Who Smashed Codes"
+      author: "Jason Fagone"
+      recommendedBy: "Ben West"
+
+    - title: "Fancy Bear Goes Fishing"
+      author: "Scott Shapiro"
+      recommendedBy: "Ben West"
+
+    - title: "Pegasus"
+      author: "Laurent Richard"
+      recommendedBy: "Ben West"
+
+    - title: "Your Face Belongs to Us"
+      author: "Kashmir Hill"
+      recommendedBy: "Ben West"
+
+    - title: "The Internet Con"
+      author: "Cory Doctorow"
+      recommendedBy: "Ben West"
+
+    - title: "This Machine Kills Secrets"
+      author: "Andy Greenberg"
+      recommendedBy: "Ben West"
+
+    - title: "Sandworm"
+      author: "Andy Greenberg"
+      recommendedBy: "Ben West"
+
+    - title: "Means of Control"
+      author: "Byron Tau"
+      recommendedBy: "Ben West"
+
+    - title: "Industry Unbound"
+      author: "Ari Ezra Waldman"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Data Driven"
+      author: "Karen Levy"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Between Truth & Power"
+      author: "Julie Cohen"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "The Fight for Privacy"
+      author: "Danielle Citron"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Breached!"
+      author: "Daniel Solove & Hartzog"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Why Privacy Matters"
+      author: "Neil Richards"
+      recommendedBy: "Ignacio Cofone"
+
+    - title: "Inhuman Power"
+      author: "Nick Dyer-Witheford, Atle Mikkola Kjøsen, James Steinhoff"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Metric We"
+      author: "Steffen Mau"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Art of Invisibility"
+      author: "Kevin Mitnick"
+      recommendedBy: "Tim"
+
+    - title: "Recursivity and Contingency"
+      author: "Yuk Hui"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Extreme Privacy"
+      author: "Michael Bazzell"
+      recommendedBy: "Ben West"
+
+    - title: "The Bleeding Edge"
+      author: "Bob Hughes"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Eye of the Master"
+      author: "Matteo Pasquinelli"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Black Box Society"
+      author: "Frank Pasquale"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Algorithms of Resistance"
+      author: "Tiziano Bonini, Emiliano Treré"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Stuck on the Platform"
+      author: "Geert Lovink"
+      recommendedBy: "PG, Mykola"
+
+    - title: "After the Internet"
+      author: "Tiziana Terranova"
+      recommendedBy: "PG"
+
+    - title: "Tracers in the Dark"
+      author: "Andy Greenberg"
+      recommendedBy: "Ben West, Gavin Birch"
+
+    - title: "Cypherpunk Ethics"
+      author: "Patrick D Anderson"
+      recommendedBy: "Navio"
+
+    - title: "Hacker, Hoaxer, Whistleblower, Spy"
+      author: "Gabriella Coleman"
+      recommendedBy: "Ann Brody, Mykola"
+
+    - title: "Ways of Being"
+      author: "James Brindle"
+      recommendedBy: "Mykola"
+
+    - title: "Extreme Privacy: What It Takes to Disappear"
+      author: "Michael Bazzell"
+      recommendedBy: "Jarrad Hope"
+
+    - title: "Intercept"
+      author: "Gordon Corera"
+      recommendedBy: "Nick Almond"
+
+    - title: "Plurality"
+      author: "Glen Weyl, Audrey Tang"
+      recommendedBy: "orion"
+
+    - title: "Anti-Tech Revolution"
+      author: "Theodore John Kaczynski"
+      recommendedBy: "Amir Taaki"
+
+  "Decentralization, Economics and other important ideas":
+    - title: "Reinventing the Bazaar"
+      author: "John McMillan"
+      recommendedBy: "Ben West"
+      isbn: "9780393323719"
+
+    - title: "Small is Beautiful"
+      author: "E.F. Schumacher"
+      recommendedBy: "Ben West"
+      isbn: "9780061997761"
+
+    - title: "The Life and Times of Liberal Democracy"
+      author: "CB MacPherson"
+      recommendedBy: "Ben West"
+
+    - title: "No Logo"
+      author: "Naomi Klein"
+      recommendedBy: "Ben West"
+      isbn: "9780312429270"
+
+    - title: "Bioregionalism and Civil Society"
+      author: "Mike Carr"
+      recommendedBy: "Ben West"
+
+    - title: "7 Rules for Sustainable Communities"
+      author: "Patrick Condon"
+      recommendedBy: "Ben West"
+
+    - title: "Ecological Literacy"
+      author: "Bioneers"
+      recommendedBy: "Ben West"
+
+    - title: "Ecological Economics"
+      author: "Herman Daly"
+      recommendedBy: "Ben West"
+
+    - title: "How Sex Changed the Internet"
+      author: "Sam Cole"
+      recommendedBy: "Ben West"
+
+    - title: "Blood in the Machine"
+      author: "Brian Merchant"
+      recommendedBy: "Ben West"
+
+    - title: "Bandits"
+      author: "Eric Hobsbawm"
+      recommendedBy: "Paul Dylan-Ennis"
+
+    - title: "The Country and the City"
+      author: "Raymond Williams"
+      recommendedBy: "Paul Dylan-Ennis"
+
+    - title: "Walkaway"
+      author: "Cory Doctorow"
+      recommendedBy: "KP"
+      isbn: "9780765392770"
+
+    - title: "Anarchy, State, and Utopia"
+      author: "Robert Nozick"
+      recommendedBy: "Shave the Whale"
+
+    - title: "Political Theology"
+      author: "Carl Schmitt"
+      recommendedBy: "Shave the Whale"
+
+    - title: "A Theory of Justice"
+      author: "John Rawls"
+      recommendedBy: "Shave the Whale"
+
+    - title: "After Virtue"
+      author: "Alasdair MacIntyre"
+      recommendedBy: "Shave the Whale"
+
+    - title: "Propaganda"
+      author: "Jacques Ellul"
+      recommendedBy: "Shave the Whale"
+
+    - title: "The Psychology of Totalitarianism"
+      author: "Mattias Desmet"
+      recommendedBy: "Daniel Thomas"
+
+    - title: "Dark Matters"
+      author: "Simone Browne"
+      recommendedBy: "Ann Brody"
+
+    - title: "The Power of the Powerless"
+      author: "Vaclav Havel"
+      recommendedBy: "PG"
+
+    - title: "Investigative Aesthetics"
+      author: "Fuller, Weizman"
+      recommendedBy: "Mykola"
+
+    - title: "The Open Society and Its Enemies"
+      author: "Karl Popper"
+      recommendedBy: "Nick Almond"
+
+    - title: "Nonzero"
+      author: "Robert Wright"
+      recommendedBy: "Nick Almond"
+
+    - title: "The Agony of Power"
+      author: "Jean Baudrillard"
+      recommendedBy: "Amir Taaki"
+
+    - title: "The Sociology of Freedom"
+      author: "Abdullah Ocalan"
+      recommendedBy: "Amir Taaki"
+
+    - title: "Discipline and Punish"
+      author: "Michel Foucault"
+      recommendedBy: "Jaromil"
+
+    - title: "Security, Territory, Population"
+      author: "Michel Foucault"
+      recommendedBy: "Jaromil"
+
+    - title: "On The Government of the Living"
+      author: "Michel Foucault"
+      recommendedBy: "Jaromil"
+
+    - title: "Automatic Society"
+      author: "Bernard Stiegler"
+      recommendedBy: "Harry Halpin"
+
+    - title: "Power and Progress"
+      author: "Daron Acemoglu and Simon Johnson"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Technology, Modernity, and Democracy"
+      author: "Andrew Feenberg"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Question Concerning Technology in China"
+      author: "Yuk Hui"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Technological Society"
+      author: "Jacques Ellul"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Man and Technics"
+      author: "Oswald Spengler"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Technics and Civilization"
+      author: "Lewis Mumford"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Mechanization Takes Command"
+      author: "Sigfried Giedion"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "Tools for Conviviality"
+      author: "Ivan Illich"
+      recommendedBy: "Michel Bauwens"
+      isbn: "9780714509730"
+
+    - title: "The Alphabet vs. the Goddess"
+      author: "Leonard Schlain"
+      recommendedBy: "Michel Bauwens"
+
+    - title: "The Utopia of Rules"
+      author: "David Graeber"
+      recommendedBy: "Scott Moore"
+
+    - title: "Deschooling Society"
+      author: "Ivan Illich"
+      recommendedBy: "Scott Moore"

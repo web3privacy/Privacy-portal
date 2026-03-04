@@ -1,0 +1,107 @@
+id: ethberlin
+name: ETHBerlin
+description: a hackathon, a cultural festival, an educational event, a platform
+  for hacktivism, and a community initiative to push the decentralized ecosystem
+  forward.
+categories:
+  - social-and-communications
+ecosystem:
+  - ethereum
+links:
+  web: https://ethberlin.ooo/contributors/
+  blog: https://blog.dod.ngo/
+  github: https://github.com/ethb3rlin/
+  forum: ""
+  docs: ""
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/ETHBerlin
+  discord: ""
+  telegram: ""
+  lens: ""
+  farcaster: ""
+usecases:
+  - events
+have_token: false
+third_party_dependency: ""
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/ethberlin/logo.png
+sunset: false
+assets_used:
+  - other
+tokens: []
+project_phase: mainnet
+project_status:
+  live_status: true
+  version: mainnet
+  testnet: false
+  mainnet: true
+
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: ""
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://ethberlin.org/privacy-policy/
+  data_usage: Organising of the event
+compliance: NaN
+tracebility:
+  kyc: false
+  tracked_data: ""
+default_privacy: true
+audits: []
+social_trust: "The project is being managed by the DoD (Department of Decentralisation) "
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: All of them
+      link: https://ethberlin.org/contributors/
+    - name: Stina
+      link: https://x.com/stinalinneag
+    - name: Helena
+      link: https://x.com/helsfoftroy
+    - name: Maria
+      link: https://x.com/MPtherealmvp
+    - name: Jacob
+      link: https://x.com/_czepluch
+    - name: Lea
+      link: https://x.com/_schmitted
+    - name: Afri
+      link: https://github.com/q9f
+    - name: Martin
+      link: https://x.com/MartinBreiten
+    - name: Kaan
+      link: https://x.com/kaanuzdogan
+    - name: Ligi
+      link: https://x.com/mr_ligi
+    - name: Franzi
+      link: https://x.com/_franzihei
+funding:
+  - name: "General Sponsership through eventspartners "
+    link: ""
+history:
+  - title: EthBerlin
+    description: First hackathon
+    link: ethberlin.ooo
+    time: 2018-09-06T22:00:00.000Z
+  - title: Ethberlin Zwei
+    description: Second Hackathon
+    link: https://ethberlinzwei.com/
+    time: 2019-08-22T22:00:00.000Z
+  - title: ETHB3RLIN
+    description: Third hackathon
+    link: https://ethberlin.ooo/
+    time: 2022-09-15T22:00:00.000Z
+  - title: ETHBerlin04
+    description: "4rd Hackathon. Theme: Identity Crisis"
+    link: ethberlin.org
+    time: 2024-05-23T22:00:00.000Z

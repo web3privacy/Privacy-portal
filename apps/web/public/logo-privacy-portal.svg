@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" fill="none" font-family="Georgia, Domine, serif">
+  <text x="0" y="28" font-size="24" font-weight="600" fill="currentColor">privacy</text>
+  <rect x="72" y="12" width="12" height="16" rx="2" fill="currentColor"/>
+  <line x1="77" y1="14" x2="79" y2="26" stroke="white" stroke-width="2"/>
+  <text x="90" y="28" font-size="24" font-weight="600" fill="currentColor" opacity="0.9">portal</text>
+</svg>

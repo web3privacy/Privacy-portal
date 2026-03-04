@@ -1,0 +1,75 @@
+id: blanksquare
+name: Blanksquare
+categories:
+  - infrastructure
+  - applications
+usecases:
+  - wallets
+  - dapps
+ecosystem:
+  - ethereum
+description: "The plug-and-play privacy infrastructure for wallets and apps:
+  composable, auditable, and battle-tested."
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://blanksquare.io/
+  blog: ""
+  github: https://github.com/Cardinal-Cryptography/blanksquare-monorepo
+  forum: ""
+  docs: https://docs.blanksquare.io/
+  whitepaper: ""
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/Blanksquare_io
+  discord: ""
+  telegram: https://t.me/blanksquare_io
+  lens: ""
+  farcaster: ""
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: true
+  asset_custody_type: non-custody
+  encryption: ZK
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://docs.blanksquare.io/other/privacy-policy-apps
+  data_usage: ""
+compliance: Shielder Guard
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: true
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+funding: []
+history: []
+team:
+  anonymous: false
+  teammembers:
+    - name: Adam Gagol
+      link: https://x.com/GagolAdam
+    - name: Jakub Kocikowski
+      link: https://x.com/kocikowski
+    - name: Damian Straszak
+      link: https://x.com/damian_straszak
+    - name: Dominika Kusak
+      link: https://x.com/dominika_kusak
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/blanksquare/logo.png
+project_phase: mainnet

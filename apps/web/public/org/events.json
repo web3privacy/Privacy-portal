@@ -1,0 +1,657 @@
+{
+  "events": [
+    {
+      "id": "c26mum",
+      "type": "congress",
+      "date": "2026-11-02",
+      "city": "Mumbai",
+      "country": "in",
+      "title": "Ethereum CypherPunk Congress #3",
+      "description": "The Cypherpunk Congress is an important intervention in cryptographic culture, and one of the last havens in an increasingly foreclosed world.",
+      "place": "[TBA](https://congress.web3privacy.info)",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "Devcon",
+      "lead": "Mykola",
+      "links": {
+        "rsvp": "https://luma.com/spsnos9t",
+        "web": "https://congress.web3privacy.info/"
+      },
+      "speakers": [
+        "mykola-siusko",
+        "robert"
+      ],
+      "premium": true
+    },
+    {
+      "id": "s26ber",
+      "type": "summit",
+      "date": "2026-06-14",
+      "city": "Berlin",
+      "country": "de",
+      "place": "[Funkhaus](https://summit.web3privacy.info)",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "Berlin Blockchain Week",
+      "lead": "beth",
+      "links": {
+        "rsvp": "https://luma.com/f47k4xnd",
+        "web": "https://summit.web3privacy.info/"
+      },
+      "speakers": [
+        "mykola-siusko",
+        "robert"
+      ]
+    },
+    {
+      "id": "c25bue",
+      "type": "congress",
+      "date": "2025-11-16",
+      "city": "Buenos Aires",
+      "country": "ar",
+      "place": "[TBA](https://congress.web3privacy.info)",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "Devconnect",
+      "lead": "robert",
+      "links": {
+        "rsvp": "https://lu.ma/u2sw5kpv",
+        "web": "https://congress.web3privacy.info/"
+      },
+      "speakers": [
+        "mykola-siusko",
+        "robert",
+        "mf"
+      ]
+    },
+    {
+      "id": "m25rom",
+      "type": "meetup",
+      "date": "2025-10-09",
+      "city": "Rome",
+      "country": "it",
+      "place": "[TBA](https://web3privacy.info)",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "ETHRome",
+      "lead": "pg",
+      "links": {
+        "rsvp": "https://lu.ma/8jv4odjn"
+      },
+      "speakers": [
+        "mykola-siusko",
+        "pg",
+        "coinmandeer",
+        "mf"
+      ]
+    },
+    {
+      "id": "co25ber",
+      "type": "collab",
+      "date": "2025-06-16",
+      "city": "Berlin",
+      "country": "de",
+      "place": "[Radialsystem](https://maps.app.goo.gl/cMi3ccPzUvKYnpVp7)",
+      "place-address": "Holzmarktstraße 33, 10243 Berlin",
+      "confirmed": true,
+      "coincidence": "Dappcon",
+      "lead": "Mykola",
+      "links": {
+        "rsvp": "https://lu.ma/sq2vtmdg",
+        "web": "https://dappcon.io"
+      },
+      "speakers": [
+        "pg",
+        "robert",
+        "cat"
+      ]
+    },
+    {
+      "id": "r25ber",
+      "type": "rave",
+      "date": "2025-06-15",
+      "city": "Berlin",
+      "country": "de",
+      "place": "TBA",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "W3PN Hackathon",
+      "lead": "mf",
+      "links": {
+        "rsvp": "https://lu.ma/h3ithkl3"
+      },
+      "speakers": [
+        "mf",
+        "cat"
+      ]
+    },
+    {
+      "id": "h25ber",
+      "type": "hackathon",
+      "date": "2025-06-13",
+      "city": "Berlin",
+      "country": "de",
+      "place": "[Engelnest](https://engelnest.de)",
+      "place-address": "Wilhelm-Kabus-Str. 24, 10829 Berlin",
+      "confirmed": true,
+      "coincidence": "Berlin Blockchain Week",
+      "lead": "mf",
+      "links": {
+        "rsvp": "https://hackathon.web3privacy.info",
+        "web": "https://hackathon.web3privacy.info"
+      },
+      "speakers": [
+        "mf",
+        "robert",
+        "cat"
+      ]
+    },
+    {
+      "id": "co25ftc",
+      "type": "collab",
+      "date": "2025-06-10",
+      "city": "Berlin",
+      "country": "de",
+      "place": "[Engelnest](https://engelnest.de)",
+      "place-address": "Wilhelm-Kabus-Str. 24, 10829 Berlin",
+      "confirmed": true,
+      "coincidence": "Funding the Commons",
+      "lead": "pg",
+      "links": {
+        "rsvp": "https://lu.ma/ftc-berlin-2025",
+        "web": "https://www.fundingthecommons.io/berlin-2025"
+      },
+      "speakers": [
+        "pg"
+      ]
+    },
+    {
+      "id": "m25prg",
+      "type": "meetup",
+      "date": "2025-05-29",
+      "city": "Prague",
+      "country": "cz",
+      "place": "Klub Centrála",
+      "place-address": "Hlavní město Praha",
+      "confirmed": true,
+      "coincidence": "ETHPrague",
+      "lead": "alina",
+      "links": {
+        "rsvp": "https://lu.ma/jhp1iapn"
+      },
+      "speakers": [
+        "cat",
+        "coinmandeer",
+        "alina"
+      ]
+    },
+    {
+      "id": "m25dam",
+      "type": "meetup",
+      "date": "2025-05-08",
+      "city": "Amsterdam",
+      "country": "nl",
+      "place": "TBA",
+      "place-address": "TBA",
+      "confirmed": true,
+      "coincidence": "ETHDam",
+      "lead": "pg",
+      "links": {
+        "rsvp": "https://lu.ma/73go30ij"
+      },
+      "speakers": [
+        "robert",
+        "pg",
+        "mf"
+      ]
+    },
+    {
+      "id": "m25buc",
+      "type": "meetup",
+      "date": "2025-04-01",
+      "city": "Bucharest",
+      "country": "ro",
+      "place": "[TBA](https://lu.ma/web3privacy)",
+      "place-address": "Please register to see exact location",
+      "confirmed": true,
+      "lead": "andreea",
+      "links": {
+        "rsvp": "https://lu.ma/9ni8jbzx"
+      },
+      "speakers": [
+        "andreea",
+        "pg",
+        "mf"
+      ]
+    },
+    {
+      "id": "c24bkk",
+      "type": "congress",
+      "date": "2024-11-11",
+      "city": "Bangkok",
+      "country": "th",
+      "place": "[Lido Connect](https://lidoconnect.com)",
+      "place-address": "256, RAMA I Road, Pathum Wan Bangkok",
+      "confirmed": true,
+      "coincidence": "DevCon",
+      "lead": "Mykola",
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-devcon7",
+        "web": "https://c24bkk.web3privacy.info"
+      },
+      "speakers": [
+        "ameen-soleimani",
+        "scott-moore",
+        "silke-noa",
+        "kurt-opsahl",
+        "nick-almond",
+        "jarrad-hope",
+        "adrian-brink",
+        "alan-scott",
+        "andreas-miroyato",
+        "ahmed-ghappour",
+        "alex-gluchowski",
+        "amit-chaudhary",
+        "ann-brody",
+        "claire-kart",
+        "costanza-gallo",
+        "daniel-luca",
+        "lefteris-karapetsas",
+        "lasha-antatze",
+        "dapplion",
+        "kris",
+        "hsinju-chuang",
+        "michelle-lai",
+        "ying-tong"
+      ]
+    },
+    {
+      "id": "m24rom",
+      "type": "meetup",
+      "date": "2024-10-03",
+      "city": "Rome",
+      "country": "it",
+      "coincidence": "ETHRome",
+      "lead": "PG",
+      "design": {
+        "image": "rome02"
+      },
+      "helpers": [
+        "Mykola",
+        "Alina"
+      ],
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-rome1"
+      },
+      "speakers": [
+        "jaromil",
+        "arturo-filasto",
+        "luca-lezzerini",
+        "andrea-togni",
+        "emanuele-russo",
+        "marco-castignoli"
+      ]
+    },
+    {
+      "id": "m24bru",
+      "type": "meetup",
+      "date": "2024-07-12",
+      "city": "Brussels",
+      "country": "be",
+      "coincidence": "EthCC",
+      "design": {
+        "image": "brussels01"
+      },
+      "lead": "Mykola",
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-bru1"
+      },
+      "speakers": [
+        "edward-fricker",
+        "joshua-davila",
+        "mykola-siusko"
+      ]
+    },
+    {
+      "id": "s24prg",
+      "type": "summit",
+      "date": "2024-05-30",
+      "city": "Prague",
+      "country": "cz",
+      "coincidence": "ETHPrague",
+      "lead": "PG",
+      "helpers": [
+        "PG",
+        "Mykola",
+        "Coinmandeer"
+      ],
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-summit-prague2",
+        "web": "https://s24prg.web3privacy.info"
+      },
+      "speakers": [
+        "pavol-luptak",
+        "jaromil",
+        "gabari",
+        "vaclav-pavlin",
+        "radek-svarz",
+        "mykola-siusko",
+        "andreas-tsamados",
+        "serinko",
+        "sebastian-burgel",
+        "mykola-siusko",
+        "ameen-soleimani",
+        "steffen-kux",
+        "althea",
+        "nick-almond",
+        "juraj-bednar",
+        "max-hampshire",
+        "mario-havel",
+        "alex-kampa",
+        "sterlin-lujan"
+      ],
+      "design": {
+        "image": "prague01"
+      }
+    },
+    {
+      "id": "pc24ber",
+      "type": "privacycorner",
+      "date": "2024-05-24",
+      "days": 3,
+      "city": "Berlin",
+      "country": "de",
+      "coincidence": "ETHBerlin",
+      "lead": "Tree",
+      "helpers": [
+        "Mykola",
+        "Coinmandeer",
+        "Robert"
+      ],
+      "links": {
+        "web": "https://c24ber.web3privacy.info"
+      },
+      "design": {
+        "image": "berlin02"
+      }
+    },
+    {
+      "id": "m24ber",
+      "type": "meetup",
+      "date": "2024-05-22",
+      "city": "Berlin",
+      "country": "de",
+      "place": "[c-base](https://c-base.org)",
+      "place-address": "Rungestraße 20, 10179 Berlin",
+      "coincidence": "ETHBerlin",
+      "lead": "Mykola",
+      "helpers": [
+        "ligi"
+      ],
+      "speakers": [
+        "afri-schoedon",
+        "joshua-davila",
+        "vaclav-pavlin",
+        "jaya-klara-brekke",
+        "mykola-siusko"
+      ],
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-berlin1"
+      },
+      "design": {
+        "image": "berlin03"
+      }
+    },
+    {
+      "id": "m24ams",
+      "type": "meetup",
+      "date": "2024-04-11",
+      "city": "Amsterdam",
+      "country": "nl",
+      "place": "[Vrij Paleis](https://www.vrijpaleis.nl)",
+      "place-address": "Paleisstraat 107, 1012 ZL Amsterdam",
+      "lead": "PG",
+      "helpers": [
+        "Mykola",
+        "Alina"
+      ],
+      "coincidence": "[ETHDam](https://www.ethdam.com)",
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-ams1"
+      },
+      "speakers": [
+        "kieran-mesquita",
+        "moritz-boullenger",
+        "sterlin-lujan",
+        "pg",
+        "serinko"
+      ],
+      "design": {
+        "image": "amsterdam01"
+      }
+    },
+    {
+      "id": "m24buc",
+      "type": "meetup",
+      "date": "2024-03-28",
+      "city": "Bucharest",
+      "country": "ro",
+      "coincidence": "ETHBucharest",
+      "optional": true,
+      "lead": "Mykola",
+      "design": {
+        "image": "bucharest01"
+      },
+      "helpers": [
+        "Alina"
+      ],
+      "links": {
+        "rsvp": "https://lu.ma/w3pn-meetup-bucharest1"
+      },
+      "speakers": [
+        "tim-bansemer",
+        "mykola-siusko",
+        "gabari",
+        "kieran-mesquita"
+      ]
+    },
+    {
+      "id": "m23prg",
+      "type": "meetup",
+      "date": "2023-11-14",
+      "city": "Prague",
+      "country": "cz",
+      "place": "[Dílna](https://kafevdilne.cz)",
+      "place-address": "Smíchovská náplavka - Kobka č. 10, Hořejší nábřeží, Praha 5",
+      "confirmed": true,
+      "coincidence": "DCxPrague",
+      "lead": "Tree",
+      "links": {
+        "web": "https://lu.ma/w3pm-prg1"
+      },
+      "speakers": [
+        "vaclav-pavlin",
+        "radek-svarz",
+        "marcel-kolaja"
+      ]
+    },
+    {
+      "id": "s23rom",
+      "type": "summit",
+      "date": "2023-10-05",
+      "city": "Rome",
+      "country": "it",
+      "place": "[Villaggio Globale](https://maps.app.goo.gl/S7kUruNvbpjgHuSh9)",
+      "place-address": "Largo Dino Frisullo, 00153 Roma RM",
+      "confirmed": true,
+      "coincidence": "ETHRome",
+      "lead": "PG",
+      "links": {
+        "web": "https://lu.ma/web3privacynow_rome"
+      },
+      "speakers": [
+        "eleanore-blanc",
+        "rik-krieger",
+        "vincenzo-iovino",
+        "alan-scott",
+        "kieran-mesquita",
+        "andrea-togni",
+        "jaromil",
+        "serinko",
+        "vaclav-pavlin",
+        "alex-zaidelson",
+        "r-prokh",
+        "carlo-chialastri",
+        "limone-eth",
+        "costanza-gallo",
+        "catsnaks"
+      ]
+    },
+    {
+      "id": "s23prg",
+      "type": "summit",
+      "date": "2023-06-05",
+      "city": "Prague",
+      "country": "cz",
+      "place": "[X10](https://www.divadlox10.cz)",
+      "place-address": "Charvátova 39/10, 11000 Prague 1",
+      "confirmed": true,
+      "coincidence": "ETHPrague",
+      "lead": "Tree",
+      "links": {
+        "web": "https://prague22.web3privacy.info/"
+      },
+      "speakers": [
+        "ameen-soleimani",
+        "guy-zyskind",
+        "max-hampshire",
+        "antoni-zolciak",
+        "rachel-rose-oleary",
+        "alex-kampa",
+        "oliver-gale",
+        "mario-havel",
+        "costanza-gallo",
+        "manu-alzuru",
+        "nick-almond",
+        "juraj-bednar",
+        "dcbuilder",
+        "alona-shevchenko",
+        "tibor-csoka",
+        "merula",
+        "serinko",
+        "steffen-kux",
+        "althea"
+      ]
+    },
+    {
+      "id": "placeholder",
+      "type": "congress",
+      "date": "2026-04-24",
+      "city": "Brno",
+      "country": "cz",
+      "title": "Future of the City – Brno",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "place": "Brno Exhibition Centre",
+      "place-address": "Výstaviště 405/1, 603 00 Brno-střed, Czech Republic",
+      "confirmed": true,
+      "lead": "Organizer",
+      "links": {
+        "rsvp": "https://example.com/tickets",
+        "web": "https://example.com/event"
+      },
+      "speakers": []
+    }
+  ],
+  "details": {
+    "placeholder": {
+      "eventId": "placeholder",
+      "headerImageUrl": "https://picsum.photos/1200/600?random=event-hero",
+      "timeRange": "09:00 - 20:00",
+      "addToCalendarUrl": "https://calendar.example.com/add",
+      "agendaUrl": "#schedule",
+      "topics": {
+        "enabled": true,
+        "content": "Web3, Blockchain & Decentralized Future\n\nData Science & AI\n\nCloud Native & DevOps\n\nDesign & UX\n\nCyber Security"
+      },
+      "links": {
+        "custom": [
+          { "label": "Conference Website", "url": "https://example.com" },
+          { "label": "Twitter", "url": "https://twitter.com/event" },
+          { "label": "GitHub", "url": "https://github.com/event" }
+        ]
+      },
+      "speakers": [
+        { "id": "1", "name": "Filip H.", "role": "Lead Developer", "avatar": "https://i.pravatar.cc/120?img=1", "bio": "Privacy & Web3 advocate.", "twitter": "https://twitter.com/filip" },
+        { "id": "2", "name": "Anna M.", "role": "UX Designer", "avatar": "https://i.pravatar.cc/120?img=2", "bio": "Design systems and accessibility.", "twitter": "https://twitter.com/anna" },
+        { "id": "3", "name": "Jakub K.", "role": "Researcher", "avatar": "https://i.pravatar.cc/120?img=3", "bio": "ZK and cryptography.", "twitter": "https://twitter.com/jakub" }
+      ],
+      "experience": {
+        "enabled": true,
+        "title": "Experience",
+        "content": "Join us for two days of keynotes, workshops, and networking.",
+        "cards": [
+          { "icon": "users", "title": "25+ Experts", "description": "Explore the latest trends with leading practitioners from Web3, AI, and DevOps." },
+          { "icon": "calendar", "title": "2 Days", "description": "Meet the best speakers and community members in a single venue." },
+          { "icon": "party", "title": "Afterparty", "description": "Networking opportunities and informal discussions after the main program." }
+        ]
+      },
+      "location": {
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brno+Exhibition+Centre",
+        "directions": "Výstaviště 405/1, 603 00 Brno-střed. Public transport: tram 1, 2, 3 to Výstaviště. Parking available on site."
+      },
+      "schedule": {
+        "enabled": true,
+        "items": [
+          { "time": "09:00 - 10:00", "title": "Registrace & Welcome Coffee", "speaker": "Organizing team" },
+          { "time": "10:00 - 10:30", "title": "Opening Ceremony", "speaker": "Jan Novák" },
+          { "time": "10:30 - 11:30", "title": "Keynote: The Future of Web3", "speaker": "Filip H." },
+          { "time": "12:00 - 13:30", "title": "Lunch & Networking", "speaker": null }
+        ]
+      },
+      "eventMap": { "enabled": true, "imageUrl": "https://picsum.photos/800/400?random=map" },
+      "gallery": {
+        "enabled": true,
+        "images": [
+          { "url": "https://picsum.photos/400/300?random=g1", "caption": "Main stage" },
+          { "url": "https://picsum.photos/400/300?random=g2", "caption": "Workshop" }
+        ]
+      },
+      "tickets": { "enabled": true, "buyUrl": "https://example.com/tickets", "tiers": [{ "name": "Early Bird", "price": "4 490 CZK", "soldOut": false }, { "name": "Standard", "price": "5 990 CZK", "soldOut": false }] },
+      "faq": {
+        "enabled": true,
+        "items": [
+          { "question": "Jak se dostanu na akci?", "answer": "Místo konání je Brno Exhibition Centre, Výstaviště 405/1. Doprava: tramvaj 1, 2, 3 do stanice Výstaviště." },
+          { "question": "Kde se můžu ubytovat?", "answer": "Doporučujeme hotely v okolí výstaviště. Seznam partnerů se slevou bude zveřejněn po registraci." }
+        ]
+      },
+      "sponsors": {
+        "enabled": true,
+        "items": [
+          { "name": "Partner A", "logo": "https://picsum.photos/120/60?random=logo1", "url": "https://example.com/a", "tier": "gold" },
+          { "name": "Partner B", "logo": "https://picsum.photos/120/60?random=logo2", "url": "https://example.com/b", "tier": "silver" }
+        ]
+      },
+      "contributors": {
+        "enabled": true,
+        "items": [
+          { "name": "Alex", "role": "Organizer", "avatar": "https://i.pravatar.cc/80?img=11" },
+          { "name": "Blanka", "role": "Program", "avatar": "https://i.pravatar.cc/80?img=12" }
+        ]
+      }
+    },
+    "m25rom": {
+      "timeRange": "18:00 - 21:00",
+      "agendaUrl": "#schedule",
+      "topics": {
+        "enabled": true,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nWe bring together privacy advocates, developers, and researchers\nto explore the latest in Web3 privacy technology.\n"
+      },
+      "experience": {
+        "enabled": true,
+        "title": "About the event",
+        "content": "Join us for a privacy-focused meetup during ETHRome 2025.\nWe'll discuss latest developments in Web3 privacy.\n"
+      },
+      "eventId": "m25rom"
+    }
+  }
+}

@@ -1,0 +1,284 @@
+# Awards base data
+# User-editable data goes to awards-user.yaml
+
+years:
+  - year: 2024
+    title: "Privacy Awards 2024"
+    description: "Annual community driven awards given to the best and the worst within the privacy ecosystem"
+    heroBackgroundImage: "/images/bg-awards.png"
+    dates:
+      nominationsOpen: "2024-12-03"
+      nominationsClose: "2024-12-26"
+      announcement: "2025-01-19"
+    categories:
+      - id: favourite-privacy-project
+        name: "Favourite Privacy Project"
+        description: "The best privacy-focused projects of the year"
+        maxNominations: 3
+      - id: exciting-innovation
+        name: "Exciting Innovation"
+        description: "Most exciting innovations supporting privacy"
+        maxNominations: 2
+      - id: major-news-event
+        name: "Major News / Event"
+        description: "Key events and news regarding privacy"
+        maxNominations: 1
+      - id: doxxer-of-year
+        name: "Doxxer of the Year"
+        description: "For encouraging to use non-private channels"
+        maxNominations: 1
+    winners:
+      - category: favourite-privacy-project
+        winner: "Brave"
+        description: "Privacy-focused browser"
+        icon: "/images/awards/brave.png"
+        url: "https://brave.com"
+      - category: exciting-innovation
+        winner: "Full-Chain Membership Proofs++ for Monero"
+        description: "Advanced privacy technology"
+        icon: "/images/awards/monero.png"
+      - category: exciting-innovation
+        winner: "Privacy Pools"
+        description: "Privacy-preserving pools"
+        icon: "/images/awards/privacy-pools.png"
+      - category: exciting-innovation
+        winner: "Railway"
+        description: "Privacy infrastructure"
+        icon: "/images/awards/railway.png"
+      - category: major-news-event
+        winner: "Tornado Cash positive ruling"
+        description: "Important legal development"
+        icon: "/images/awards/tornado-cash.png"
+      - category: doxxer-of-year
+        winner: "Tornado Cash positive ruling"
+        description: "For encouraging to use non private channels"
+        icon: "/images/awards/doxxer.png"
+    nominations: []
+    rules: |
+      Any person can Nominate a candidate for any of the 4 categories of Awards this year, by answering the following questions:
+      
+      1. Favourite PRO-PRIVACY project/product of 2024? (3 names / each)
+      2. Major news regarding privacy in 2024? (2 names / each)
+      3. Key event regarding privacy in 2024? (1 each)
+      4. Most exciting innovation supporting privacy? (2 names / each)
+      5. Doxxer of the year (1 each)
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+    howToNominate: |
+      It is very easy to submit your nominations and your choices matter to the Awards - any person can submit a nomination (no vetting) Write out your nominations by answering each of the 4 questions:
+      
+      + Send a DM via X / Twitter to the web3privacy profile
+      + Join our Telegram community and share it there with our community
+      + Email us web3privacynow@protonmail.com
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+
+  - year: 2025
+    title: "Privacy Awards 2025"
+    description: "Annual community driven awards given to the best and the worst within the privacy ecosystem"
+    heroBackgroundImage: "/images/bg-awards.png"
+    dates:
+      nominationsOpen: "2025-12-03"
+      nominationsClose: "2025-12-26"
+      announcement: "2026-01-19"
+    categories:
+      - id: favourite-privacy-project
+        name: "Favourite Privacy Project"
+        description: "The best privacy-focused projects of the year"
+        maxNominations: 3
+      - id: exciting-innovation
+        name: "Exciting Innovation"
+        description: "Most exciting innovations supporting privacy"
+        maxNominations: 2
+      - id: major-news-event
+        name: "Major News / Event"
+        description: "Key events and news regarding privacy"
+        maxNominations: 1
+      - id: doxxer-of-year
+        name: "Doxxer of the Year"
+        description: "For encouraging to use non-private channels"
+        maxNominations: 1
+    winners: [] # No winners yet for 2025
+    nominations:
+      - id: "nom-vitalik"
+        name: "Vitalik Buterin"
+        title: "Founder of Ethereum, Developer, Thinker"
+        avatar: "/images/nominators/vitalik.png"
+        nominations:
+          - id: "nom-vitalik-1"
+            category: favourite-privacy-project
+            nominee: "Anytype"
+            description: "Privacy-focused platform"
+            icon: "/images/nominations/anytype.png"
+          - id: "nom-vitalik-2"
+            category: major-news-event
+            nominee: "FBI tells people to use encrypted apps instead of SMS"
+            description: "Important privacy development"
+          - id: "nom-vitalik-3"
+            category: exciting-innovation
+            nominee: "TEE Research"
+            description: "Trusted Execution Environment research"
+          - id: "nom-vitalik-4"
+            category: doxxer-of-year
+            nominee: "Coinbase telling people not to use VPSs"
+            description: "Privacy concern"
+      - id: "nom-wesley"
+        name: "Wesley"
+        title: "Founder of Ethereum, Developer, Thinker"
+        avatar: "/images/nominators/wesley.png"
+        nominations:
+          - id: "nom-wesley-1"
+            category: favourite-privacy-project
+            nominee: "Anytype"
+            description: "Privacy-focused platform"
+            icon: "/images/nominations/anytype.png"
+          - id: "nom-wesley-2"
+            category: major-news-event
+            nominee: "FBI tells people to use encrypted apps instead of SMS"
+          - id: "nom-wesley-3"
+            category: exciting-innovation
+            nominee: "TEE Research"
+          - id: "nom-wesley-4"
+            category: doxxer-of-year
+            nominee: "Coinbase telling people not to use VPSs"
+      - id: "nom-audrey"
+        name: "Audrey Tang"
+        title: "Founder of Ethereum, Developer, Thinker"
+        avatar: "/images/nominators/audrey.png"
+        nominations:
+          - id: "nom-audrey-1"
+            category: favourite-privacy-project
+            nominee: "Anytype"
+            description: "Privacy-focused platform"
+            icon: "/images/nominations/anytype.png"
+          - id: "nom-audrey-2"
+            category: major-news-event
+            nominee: "FBI tells people to use encrypted apps instead of SMS"
+          - id: "nom-audrey-3"
+            category: exciting-innovation
+            nominee: "TEE Research"
+          - id: "nom-audrey-4"
+            category: doxxer-of-year
+            nominee: "Coinbase telling people not to use VPSs"
+      - id: "nom-ben"
+        name: "Ben West"
+        title: "Founder of Ethereum, Developer, Thinker"
+        avatar: "/images/nominators/ben.png"
+        nominations:
+          - id: "nom-ben-1"
+            category: favourite-privacy-project
+            nominee: "Railway"
+            description: "Privacy infrastructure"
+            icon: "/images/nominations/railway.png"
+          - id: "nom-ben-2"
+            category: major-news-event
+            nominee: "FBI tells people to use encrypted apps instead of SMS"
+          - id: "nom-ben-3"
+            category: exciting-innovation
+            nominee: "TEE Research"
+          - id: "nom-ben-4"
+            category: doxxer-of-year
+            nominee: "Coinbase telling people not to use VPSs"
+    rules: |
+      Any person can Nominate a candidate for any of the 4 categories of Awards this year, by answering the following questions:
+      
+      1. Favourite PRO-PRIVACY project/product of 2025? (3 names / each)
+      2. Major news regarding privacy in 2025? (2 names / each)
+      3. Key event regarding privacy in 2025? (1 each)
+      4. Most exciting innovation supporting privacy? (2 names / each)
+      5. Doxxer of the year (1 each)
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+    howToNominate: |
+      It is very easy to submit your nominations and your choices matter to the Awards - any person can submit a nomination (no vetting) Write out your nominations by answering each of the 4 questions:
+      
+      + Send a DM via X / Twitter to the web3privacy profile
+      + Join our Telegram community and share it there with our community
+      + Email us web3privacynow@protonmail.com
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+    articles:
+      - id: "article-1"
+        title: "How Much Privacy Do We Really Have? A 2025 Perspective"
+        description: "We already organized 30 events focused on Privacy worldwide. We are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices."
+        thumbnailUrl: "/images/articles/article-1.png"
+        url: "https://web3privacy.info/articles/privacy-2025"
+        publishedAt: "2025-08-13T13:53:00Z"
+        createdAt: "2025-08-13T13:53:00Z"
+      - id: "article-2"
+        title: "Privacy by Design: Why It Matters More Than Ever"
+        description: "Understanding the importance of privacy by design principles in modern web development and how they shape the future of digital interactions."
+        url: "https://web3privacy.info/articles/privacy-by-design"
+        publishedAt: "2025-08-13T13:53:00Z"
+        createdAt: "2025-08-13T13:53:00Z"
+      - id: "article-3"
+        title: "How Much Privacy Do We Really Have? A 2025 Perspective"
+        description: "We already organized 30 events focused on Privacy worldwide. We are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices."
+        thumbnailUrl: "/images/articles/article-3.png"
+        url: "https://web3privacy.info/articles/privacy-2025-2"
+        publishedAt: "2025-08-13T13:53:00Z"
+        createdAt: "2025-08-13T13:53:00Z"
+      - id: "article-4"
+        title: "Digital Minimalism: Taking Back Control of Your Data"
+        description: "We already organized 30 events focused on Privacy worldwide. We are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices."
+        url: "https://web3privacy.info/articles/digital-minimalism"
+        publishedAt: "2025-08-13T13:53:00Z"
+        createdAt: "2025-08-13T13:53:00Z"
+    bannerAds:
+      - id: "banner-1"
+        title: "JOIN OUR CAMPAIGNS"
+        description: "We aim manifest profound political and social change by advocating Privacy in the Web3 Era. We aim manifest profound political and social change by advocating Privacy in the Web3 Era."
+        url: "https://gitcoin.co/profile"
+      - id: "banner-2"
+        title: "SUPPORT OR DONATE"
+        description: "We aim to manifest profound political and social change by advocating Privacy in the Web3 Era."
+        url: "https://web3privacy.info/donate"
+
+  - year: 2026
+    title: "Privacy Awards 2026"
+    description: "Annual community driven awards given to the best and the worst within the privacy ecosystem"
+    heroBackgroundImage: "/images/bg-awards.png"
+    dates:
+      nominationsOpen: "2026-01-15"
+      nominationsClose: "2026-12-26"
+      announcement: "2027-01-15"
+    categories:
+      - id: favourite-privacy-project
+        name: "Favourite Privacy Project"
+        description: "The best privacy-focused projects of the year"
+        maxNominations: 3
+      - id: exciting-innovation
+        name: "Exciting Innovation"
+        description: "Most exciting innovations supporting privacy"
+        maxNominations: 2
+      - id: major-news-event
+        name: "Major News / Event"
+        description: "Key events and news regarding privacy"
+        maxNominations: 1
+      - id: doxxer-of-year
+        name: "Doxxer of the Year"
+        description: "For encouraging to use non-private channels"
+        maxNominations: 1
+    winners: [] # No winners yet
+    nominations: []
+    rules: |
+      Any person can Nominate a candidate for any of the 4 categories of Awards this year, by answering the following questions:
+      
+      1. Favourite PRO-PRIVACY project/product of 2026? (3 names / each)
+      2. Major news regarding privacy in 2026? (2 names / each)
+      3. Key event regarding privacy in 2026? (1 each)
+      4. Most exciting innovation supporting privacy? (2 names / each)
+      5. Doxxer of the year (1 each)
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+    howToNominate: |
+      It is very easy to submit your nominations and your choices matter to the Awards - any person can submit a nomination (no vetting) Write out your nominations by answering each of the 4 questions:
+      
+      + Send a DM via X / Twitter to the web3privacy profile
+      + Join our Telegram community and share it there with our community
+      + Email us web3privacynow@protonmail.com
+      
+      Note: if you are affiliated with a privacy project (work or invest in them) please name a different one, this will reduce the bias in our nominations and make the Awards better overall. We respect anonymity and privacy, we welcome submissions from all users including from anon/pseudonymous ones.
+
+# Global articles (can be used across years)
+articles: []

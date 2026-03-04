@@ -1,0 +1,3 @@
+# User recommendations for library items - wallet addresses per item
+# itemKey format: doc:Title | article:Title | book:Title|Author
+recommendations: {}

@@ -1,0 +1,94 @@
+# Academy base data
+# User-editable data goes to academy-user.yaml
+
+talks: []
+  # Talks are now loaded from YouTube channel via API
+  # Local talks can be added in academy-user.yaml
+courses:
+  - id: "course-privacy-101"
+    title: "Privacy 101"
+    description: "Lets try to learn something about privacy, this course will teach you everything you need"
+    icon: "/images/courses/course-1.png"
+    url: "https://academy.web3privacy.info/l/products/privacy-101"
+    createdAt: "2024-01-15"
+  - id: "course-glitch-system"
+    title: "Glitch the System: A Crash Cours in AI Distruption"
+    description: "Learn how to jam AI surveillance in public spaces using makeup, clothing, and physical countermeasures."
+    icon: "/images/courses/course-2.png"
+    url: "https://academy.web3privacy.info/l/products/glitch-the-system"
+    createdAt: "2024-01-14"
+  - id: "course-gdpr"
+    title: "WTF is GDPR and Why Should I Care"
+    description: "Understand what is GDPR and how to benefit from it under 30 min"
+    icon: "/images/courses/course-3.png"
+    url: "https://academy.web3privacy.info/l/products/gdpr-guide"
+    createdAt: "2024-01-13"
+  - id: "course-neo-cypherpunk"
+    title: "Neo-Cypherpunk 101"
+    description: "Lets try to learn something about privacy, this course will teach you everything you need"
+    icon: "/images/courses/course-4.png"
+    url: "https://academy.web3privacy.info/l/products/neo-cypherpunk-101"
+    createdAt: "2024-01-12"
+quizes: []
+guides:
+  - id: "guide-private-messenger"
+    title: "How to select private messenger"
+    description: "Are you struggling with choosing the right platform to send your private messages? This comprehensive guide will help you understand the key features, security considerations, and privacy implications of different messaging platforms."
+    url: "https://web3privacy.info/guides/select-private-messenger"
+    duration: "6 min"
+    isNew: true
+    createdAt: "2024-01-15T00:00:00Z"
+  - id: "guide-vpn-market"
+    title: "Overview of VPN Market"
+    description: "In need of data privacy? We created a comprehensive overview of the VPN market, comparing features, security, and privacy policies of major VPN providers to help you make an informed decision."
+    url: "https://web3privacy.info/guides/vpn-market-overview"
+    duration: "7 min"
+    isNew: false
+    createdAt: "2024-01-14T00:00:00Z"
+  - id: "guide-tor-browser"
+    title: "Using Tor Browser for Enhanced Privacy"
+    description: "Learn how to use Tor Browser effectively to protect your online privacy and anonymity. This guide covers installation, configuration, and best practices for safe browsing."
+    url: "https://web3privacy.info/guides/tor-browser-guide"
+    duration: "5 min"
+    isNew: false
+    createdAt: "2024-01-13T00:00:00Z"
+  - id: "guide-password-manager"
+    title: "Choosing the Right Password Manager"
+    description: "A detailed guide to selecting and using password managers. Learn about different types, security features, and how to migrate your passwords safely."
+    url: "https://web3privacy.info/guides/password-manager-guide"
+    duration: "7 min"
+    isNew: false
+    createdAt: "2024-01-12T00:00:00Z"
+podcasts: []
+radioTracks: []
+  # Radio tracks are now loaded from YouTube channel via API
+  # Local tracks can be added in academy-user.yaml
+radioPlaylists:
+  - id: "playlist-1"
+    title: "Music mixed by Mykola"
+    tracksCount: 27
+    duration: "4hod 32 min"
+    url: "https://www.youtube.com/playlist?list=PLSsVHWrO8Yh1WwICFUsZnB__ThC9bhgqM"
+    createdAt: "2024-01-15"
+  - id: "playlist-2"
+    title: "Congress #2"
+    tracksCount: 27
+    duration: "4hod 32 min"
+    url: "https://www.youtube.com/playlist?list=PLSsVHWrO8Yh1WwICFUsZnB__ThC9bhgqM"
+    createdAt: "2024-01-14"
+  - id: "playlist-3"
+    title: "Prague Summit 2025"
+    tracksCount: 27
+    duration: "4hod 32 min"
+    url: "https://www.youtube.com/playlist?list=PLSsVHWrO8Yh1WwICFUsZnB__ThC9bhgqM"
+    createdAt: "2024-01-13"
+  - id: "playlist-4"
+    title: "Privacy ASMR"
+    tracksCount: 27
+    duration: "4hod 32 min"
+    url: "https://www.youtube.com/playlist?list=PLSsVHWrO8Yh1WwICFUsZnB__ThC9bhgqM"
+    createdAt: "2024-01-12"
+featuredDocuments: []
+  # Featured documents can be added in academy-user.yaml
+  # They will be populated with random videos from YouTube channel
+acceleratorItems: []

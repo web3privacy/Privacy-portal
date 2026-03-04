@@ -1,0 +1,52 @@
+# Glossary terms - base set from https://academy.web3privacy.info/p/glossary
+terms:
+  - term: "Privacy"
+    definition: "The ability to control access to one's personal information, activities, and communications. Privacy ensures that individuals can interact and transact without undue surveillance or interference."
+
+  - term: "Decentralization"
+    definition: "The distribution of power and control across a network rather than concentrating it in a single authority. In Web3, decentralization enhances privacy by eliminating central points of failure and reducing the potential for data breaches."
+
+  - term: "Cryptography"
+    definition: "The practice of securing communications and data through mathematical algorithms. Cryptography enables privacy by encrypting information, making it accessible only to authorized parties."
+
+  - term: "Self-Sovereign Identity (SSI)"
+    definition: "A digital identity framework where individuals own, manage, and control their personal data. SSI allows users to selectively share information without relying on third-party intermediaries."
+
+  - term: "Cypherpunk"
+    definition: "A movement advocating for the use of cryptographic tools to ensure privacy, free speech, and autonomy in the digital age. Cypherpunks developed key technologies that underpin Web3 privacy initiatives."
+
+  - term: "Privacy-Enhancing Technologies (PETs)"
+    definition: "Tools and technologies designed to protect users' privacy. These include encryption, zero-knowledge proofs, and other methods that minimize the exposure of personal data."
+
+  - term: "Zero-Knowledge Proofs (ZKPs)"
+    definition: "A cryptographic technique that allows one party to prove to another that a statement is true without revealing the underlying information. ZKPs are crucial for enabling private transactions in Web3."
+
+  - term: "Transparency vs. Privacy"
+    definition: "A balance often debated in Web3. Transparency refers to making certain data accessible for accountability, while privacy focuses on protecting sensitive user information."
+
+  - term: "Anonymity"
+    definition: "The ability to interact or transact without revealing one's identity. Anonymity in Web3 is often enabled by pseudonyms, encrypted wallets, and decentralized systems."
+
+  - term: "Pseudonymity"
+    definition: "The use of pseudonyms (alternate identifiers) instead of real names to maintain a level of privacy. Web3 users often operate under pseudonyms tied to their blockchain addresses."
+
+  - term: "Surveillance"
+    definition: "The act of monitoring individuals' activities and communications. In Web3, privacy advocates aim to reduce surveillance by promoting decentralized and encrypted systems."
+
+  - term: "Privacy Coin"
+    definition: "A cryptocurrency that prioritizes user privacy by obscuring transaction details such as sender, receiver, and amount. Examples include Monero and Zcash."
+
+  - term: "Privacy by Design"
+    definition: "An approach to system design that integrates privacy as a fundamental principle from the start. Web3 projects often adopt this philosophy to ensure robust privacy protections."
+
+  - term: "Data Sovereignty"
+    definition: "The concept that individuals, not corporations or governments, should control their data. Web3 aims to enable data sovereignty through decentralized systems and self-sovereign identity solutions."
+
+  - term: "Threat Actor"
+    definition: "Any entity that poses a risk to users' privacy, such as hackers, governments, or corporations engaged in mass surveillance or data exploitation."
+
+  - term: "Metadata"
+    definition: "Data that provides information about other data, such as timestamps or IP addresses. Even when content is encrypted, metadata can reveal patterns and compromise privacy."
+
+  - term: "Privacy-First Protocol"
+    definition: "A blockchain or platform built with privacy as its primary focus. These protocols often use advanced cryptography to protect user data and interactions."

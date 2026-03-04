@@ -1,0 +1,84 @@
+id: zkp2p
+name: ZKP2P
+categories:
+  - defi
+  - applications
+  - infrastructure
+usecases:
+  - other
+  - defi
+  - infrastructure
+  - currency
+ecosystem:
+  - ethereum
+  - solana
+  - other
+  - multichain
+description: ZKP2P is a peer-to-peer, non-custodial on/offramp protocol built on
+  privacy-preserving zero knowledge proofs. Using cryptographic proofs of
+  transfer, ZKP2P allows buyers to authenticate that they have transferred the
+  correct value to sellers.  This enables a new buying and selling crypto
+  experience that is fast, cheap and composable with DeFi.
+sunset: false
+assets_used: []
+have_token: false
+tokens: []
+links:
+  web: https://www.zkp2p.xyz/
+  blog: ""
+  github: https://github.com/zkp2p
+  forum: ""
+  docs: https://docs.zkp2p.xyz/
+  whitepaper: ""
+  block_explorer: https://dune.com/zkp2p/zkp2p
+  governance: ""
+  twitter: https://x.com/zkp2p
+  discord: https://discord.gg/wHjR3g6FPZ
+  telegram: https://t.me/+XDj9FNnW-xs5ODNl
+  lens: ""
+  farcaster: ""
+project_phase: mainnet
+project_status:
+  live_status: true
+  mainnet: true
+  testnet: false
+  version: mainnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: Zero-Knowledge
+  p2p: true
+storage: {}
+privacy_policy:
+  defined: true
+  link: https://www.zkp2p.xyz/pp
+  data_usage: ""
+compliance: ""
+tracebility:
+  kyc: false
+  tracked_data: ""
+  sign_in_type_requirments: []
+default_privacy: false
+audits: []
+third_party_dependency: ""
+social_trust: ""
+technical_spof: ""
+team:
+  anonymous: false
+  teammembers:
+    - name: Richard
+      link: https://x.com/richardz0x
+    - name: Sachin
+      link: https://x.com/0xSachinK
+    - name: Ben
+      link: https://x.com/unhappyben
+    - name: Davy Jones
+      link: https://x.com/davyjones0x
+funding: []
+history: []
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/zkp2p/logo.png

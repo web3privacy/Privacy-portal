@@ -1,0 +1,100 @@
+id: sunscreen
+name: Sunscreen
+categories:
+  - applications
+  - infrastructure
+description: "Sunscreen is a cryptography R&D lab turning frontier privacy
+  technology research into production-ready tooling and infrastructure. Their
+  foundational technology is Fully Homomorphic Encryption (FHE), a post-quantum
+  secure cryptography technique which allows them to perform arbitrary
+  computations directly on encrypted data. "
+links:
+  web: https://sunscreen.tech/
+  blog: https://blog.sunscreen.tech/
+  github: https://github.com/Sunscreen-tech
+  forum: ""
+  docs: https://docs.sunscreen.tech/
+  whitepaper: https://eprint.iacr.org/2025/1144.pdf
+  block_explorer: ""
+  governance: ""
+  twitter: https://x.com/sunscreentech
+  discord: https://discord.gg/U2VCy7kuq2
+  telegram: ""
+  lens: ""
+  farcaster: ""
+have_token: false
+third_party_dependency: None
+logos:
+  - file: logo.jpeg
+    ext: jpeg
+    url: https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.jpeg
+  - file: logo.svg
+    ext: svg
+    url: https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.svg
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/sunscreen/logo.png
+usecases:
+  - infrastructure
+  - fhe
+  - computing
+  - mpc
+  - data-management
+  - defi
+ecosystem:
+  - multichain
+  - ethereum
+  - solana
+sunset: false
+assets_used:
+  - eth
+tokens: []
+privacy_policy:
+  defined: true
+  link: N/A
+  data_usage: "We do not use user info. "
+compliance: N/A
+tracebility:
+  kyc: false
+  tracked_data: None
+  sign_in_type_requirments:
+    - wallet
+default_privacy: true
+project_status:
+  live_status: true
+  mainnet: false
+  testnet: true
+  version: testnet
+blockchain_features:
+  opensource: true
+  upgradability:
+    enabled: false
+  asset_custody_type: non-custody
+  encryption: FHE, TFHE, MPC, ZK
+storage: {}
+history: []
+product_launch_day: 2022-05-01T04:00:00.000Z
+project_phase: testnet
+audits: []
+social_trust: Currently development team, on the path to progressive decentralization.
+technical_spof: None
+team:
+  anonymous: false
+  teammembers:
+    - name: Ravital Solomon
+      link: x.com/ravitals
+    - name: Abhi Raheja
+      link: x.com/abhihereandnow
+funding:
+  - name: Polychain Capital
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64
+  - name: Naval Ravikant
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64
+  - name: Coinbase Ventures
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64
+  - name: Dao5
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64
+  - name: CyberFund
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64
+  - name: Lattice
+    link: https://www.crunchbase.com/funding_round/sunscreen-seed--c8268f64

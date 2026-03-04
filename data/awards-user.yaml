@@ -1,0 +1,20 @@
+# User-editable awards data
+# This file is merged with awards.yaml
+# User data takes precedence over base data
+
+years: []
+# Add or override years here
+# Example:
+# years:
+#   - year: 2025
+#     nominations:
+#       - id: "nom-custom"
+#         name: "Custom Nominator"
+#         title: "Title"
+#         nominations:
+#           - id: "nom-custom-1"
+#             category: favourite-privacy-project
+#             nominee: "Project Name"
+
+articles: []
+# Add global articles here

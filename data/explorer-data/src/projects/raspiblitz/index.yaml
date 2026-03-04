@@ -1,0 +1,27 @@
+id: raspiblitz
+name: RaspiBlitz
+categories:
+  - infrastructure
+description: DIY Bitcoin & Lightning Node on a RaspberryPi.
+team:
+  anonymous: true
+links:
+  web: https://raspiblitz.org
+  docs: https://docs.raspiblitz.org/docs/setup/intro
+  github: https://github.com/raspiblitz
+project_status:
+  live_status: true
+  version: v1.11.0
+  testnet: false
+  mainnet: true
+usecases:
+  - node
+have_token: false
+third_party_dependency: none
+logos:
+  - file: logo.png
+    ext: png
+    url: https://explorer-data.web3privacy.info/assets/projects/raspiblitz/logo.png
+ecosystem:
+  - bitcoin
+sunset: false

@@ -1,0 +1,739 @@
+{
+  "academy": {
+    "hero": {
+      "logo": "/projects/academy.png",
+      "title": "Academy",
+      "tagline": "Privacy education essentials: talks, courses, guides, and radio. Build your knowledge in Web3 privacy.",
+      "ctaLabel": "GO TO ACADEMY",
+      "ctaHref": "https://academy.web3privacy.info",
+      "metrics": [
+        {
+          "value": "50+",
+          "label": "TALKS"
+        },
+        {
+          "value": "10+",
+          "label": "COURSES"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Academy provides curated privacy education: video talks, courses, guides, and radio.\nLearn from experts and build privacy-preserving applications.\n",
+      "readMoreHref": "https://academy.web3privacy.info"
+    },
+    "links": {
+      "url": "https://academy.web3privacy.info"
+    },
+    "features": [
+      {
+        "title": "Talks & Videos",
+        "description": "Watch privacy-focused talks and presentations.",
+        "link": "https://academy.web3privacy.info",
+        "linkLabel": "Watch"
+      },
+      {
+        "title": "Courses & Guides",
+        "description": "Structured learning paths and guides.",
+        "link": "https://academy.web3privacy.info",
+        "linkLabel": "Explore"
+      },
+      {
+        "title": "Radio & Podcasts",
+        "description": "Listen to privacy discussions and interviews.",
+        "link": "https://radio.web3privacy.info",
+        "linkLabel": "Listen"
+      }
+    ]
+  },
+  "annual-report": {
+    "hero": {
+      "logo": "/projects/annual-report.png",
+      "title": "Privacy Annual Report",
+      "tagline": "Annual research report on the state of privacy in Web3. Key findings, trends, and recommendations.",
+      "ctaLabel": "READ REPORT",
+      "ctaHref": "https://docs.web3privacy.info/research/annual-report",
+      "metrics": [
+        {
+          "value": "Annual",
+          "label": "RELEASE"
+        },
+        {
+          "value": "Research",
+          "label": "FOCUS"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Privacy Annual Report summarizes the year in Web3 privacy: projects, research, events,\nand emerging trends. A must-read for the community.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/annual-report"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/annual-report"
+    }
+  },
+  "blur-tool": {
+    "hero": {
+      "logo": "/projects/blur-tool.png",
+      "title": "Photo Anonymity Blur Tool",
+      "tagline": "Tool for anonymizing faces and sensitive content in images. Open source.",
+      "ctaLabel": "VIEW ON GITHUB",
+      "ctaHref": "https://github.com/web3privacy/blur-tool",
+      "metrics": [
+        {
+          "value": "Open",
+          "label": "SOURCE"
+        },
+        {
+          "value": "Images",
+          "label": "SUPPORTED"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Blur Tool helps anonymize faces and sensitive content in photos. Useful for\nprivacy-preserving documentation and reporting.\n",
+      "readMoreHref": "https://github.com/web3privacy/blur-tool"
+    },
+    "links": {
+      "github": "https://github.com/web3privacy/blur-tool"
+    }
+  },
+  "hackathon-pack": {
+    "hero": {
+      "logo": "/projects/hackathon-pack.png",
+      "title": "Hackathon Curation Pack",
+      "tagline": "Curated pack of resources for privacy-focused hackathons. Tools, docs, inspiration.",
+      "ctaLabel": "GET PACK",
+      "ctaHref": "https://docs.web3privacy.info/research/hackathon-pack",
+      "metrics": [
+        {
+          "value": "Curated",
+          "label": "RESOURCES"
+        },
+        {
+          "value": "Hackathons",
+          "label": "READY"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Hackathon Pack bundles resources—use cases, tools, guides—for organizers and participants\nof privacy hackathons.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/hackathon-pack"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/hackathon-pack",
+      "url": "https://hackathonpack.web3privacy.info"
+    }
+  },
+  "hiring": {
+    "hero": {
+      "logo": "/projects/hiring.png",
+      "title": "Privacy Projects Hiring",
+      "tagline": "Research on hiring trends and opportunities in privacy projects. Find talent, find roles.",
+      "ctaLabel": "READ RESEARCH",
+      "ctaHref": "https://docs.web3privacy.info/research/hiring",
+      "metrics": [
+        {
+          "value": "Research",
+          "label": "FOCUS"
+        },
+        {
+          "value": "Trends",
+          "label": "INSIGHTS"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Projects Hiring research explores hiring trends, open positions, and talent needs\nacross the privacy ecosystem.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/hiring"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/hiring"
+    }
+  },
+  "ideas": {
+    "hero": {
+      "logo": "/projects/idea-generator.png",
+      "title": "Privacy Use-Case Generator",
+      "tagline": "Generate privacy use-case ideas. Ideation tool for builders and researchers exploring privacy-focused applications.",
+      "ctaLabel": "TRY GENERATOR",
+      "ctaHref": "https://idea-generator.web3privacy.info",
+      "metrics": [
+        {
+          "value": "100+",
+          "label": "USE CASES"
+        },
+        {
+          "value": "AI",
+          "label": "POWERED"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Idea Generator helps you brainstorm privacy use-cases for your next project.\nGet inspired by structured prompts and examples.\n",
+      "readMoreHref": "https://idea-generator.web3privacy.info"
+    },
+    "links": {
+      "url": "https://idea-generator.web3privacy.info"
+    },
+    "features": [
+      {
+        "title": "Use-Case Ideation",
+        "description": "Generate ideas for privacy-preserving applications.",
+        "link": "https://idea-generator.web3privacy.info",
+        "linkLabel": "Try it"
+      },
+      {
+        "title": "Research & Development",
+        "description": "Explore use cases for research and hackathons.",
+        "link": "https://docs.web3privacy.info/research/usecase-db",
+        "linkLabel": "Use-case DB"
+      }
+    ]
+  },
+  "jobs": {
+    "hero": {
+      "logo": "/projects/jobs.png",
+      "title": "Jobs in Privacy",
+      "tagline": "Find and share privacy-focused job opportunities across the Web3 ecosystem.",
+      "ctaLabel": "BROWSE JOBS",
+      "ctaHref": "https://jobs.web3privacy.info",
+      "metrics": [
+        {
+          "value": "100+",
+          "label": "LISTINGS"
+        },
+        {
+          "value": "Remote",
+          "label": "FRIENDLY"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Jobs in Privacy connects talent with privacy-focused roles. Post openings,\nbrowse listings, and grow the privacy workforce.\n",
+      "readMoreHref": "https://jobs.web3privacy.info"
+    },
+    "links": {
+      "url": "https://jobs.web3privacy.info"
+    },
+    "features": [
+      {
+        "title": "Job Board",
+        "description": "Browse and search privacy jobs.",
+        "link": "https://jobs.web3privacy.info",
+        "linkLabel": "Browse"
+      },
+      {
+        "title": "Post a Job",
+        "description": "List your privacy-focused opening.",
+        "link": "/jobs/add",
+        "linkLabel": "Add listing"
+      }
+    ]
+  },
+  "newsletter": {
+    "hero": {
+      "logo": "/projects/newsletter.png",
+      "title": "Newsletter",
+      "tagline": "Stay updated with privacy news, research, and ecosystem updates from the Web3Privacy community.",
+      "ctaLabel": "SUBSCRIBE",
+      "ctaHref": "https://newsletter.web3privacy.info",
+      "metrics": [
+        {
+          "value": "10k+",
+          "label": "SUBSCRIBERS"
+        },
+        {
+          "value": "Weekly",
+          "label": "UPDATES"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Our newsletter brings curated privacy news, research highlights, and ecosystem updates\nto your inbox. No spam, only signal.\n",
+      "readMoreHref": "https://newsletter.web3privacy.info"
+    },
+    "links": {
+      "url": "https://newsletter.web3privacy.info"
+    }
+  },
+  "pagency": {
+    "hero": {
+      "logo": "/projects/pagency.png",
+      "title": "Pagency Framework",
+      "tagline": "Framework for private use-case ideation and design. Build privacy-first applications.",
+      "ctaLabel": "VIEW FRAMEWORK",
+      "ctaHref": "https://docs.web3privacy.info/research/pagency",
+      "metrics": [
+        {
+          "value": "Open",
+          "label": "SOURCE"
+        },
+        {
+          "value": "Docs",
+          "label": "AVAILABLE"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Pagency provides a structured approach to ideating and designing privacy-preserving use cases.\nUse it for hackathons, research, or product development.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/pagency"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/pagency",
+      "github": "https://github.com/web3privacy/pagency-framework"
+    },
+    "features": [
+      {
+        "title": "Use-Case Framework",
+        "description": "Structured methodology for privacy use cases.",
+        "link": "https://docs.web3privacy.info/research/pagency",
+        "linkLabel": "Read docs"
+      },
+      {
+        "title": "GitHub",
+        "description": "Open source framework and examples.",
+        "link": "https://github.com/web3privacy/pagency-framework",
+        "linkLabel": "View code"
+      }
+    ]
+  },
+  "personal-stacks": {
+    "hero": {
+      "logo": "/projects/stacks.png",
+      "title": "Personal Stacks",
+      "tagline": "Create and share your personal privacy stack. Show which tools and projects you use for privacy.",
+      "ctaLabel": "GO TO STACKS",
+      "ctaHref": "https://privacyportal.xyz/stacks",
+      "metrics": [
+        {
+          "value": "1000+",
+          "label": "STACKS"
+        },
+        {
+          "value": "50+",
+          "label": "CATEGORIES"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Personal Stacks let you curate and share your privacy toolset. Discover what others use\nand showcase your own stack by category.\n",
+      "readMoreHref": "https://privacyportal.xyz/stacks"
+    },
+    "links": {
+      "url": "https://privacyportal.xyz/stacks"
+    },
+    "features": [
+      {
+        "title": "Build Your Stack",
+        "description": "Add privacy tools and projects to your personal stack.",
+        "link": "https://privacyportal.xyz/stacks",
+        "linkLabel": "Get started"
+      },
+      {
+        "title": "Share & Discover",
+        "description": "Share your stack and explore others.",
+        "link": "https://privacyportal.xyz/stacks",
+        "linkLabel": "Explore"
+      }
+    ]
+  },
+  "privacy-audits": {
+    "hero": {
+      "logo": "/projects/audits.png",
+      "title": "Privacy Audits",
+      "tagline": "Privacy audit framework and resources. Evaluate and improve privacy posture.",
+      "ctaLabel": "VIEW ON GITHUB",
+      "ctaHref": "https://github.com/web3privacy/privacy-audits",
+      "metrics": [
+        {
+          "value": "Framework",
+          "label": "AVAILABLE"
+        },
+        {
+          "value": "Open",
+          "label": "SOURCE"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Audits provide a framework and tools for auditing privacy in projects\nand products.\n",
+      "readMoreHref": "https://github.com/web3privacy/privacy-audits"
+    },
+    "links": {
+      "github": "https://github.com/web3privacy/privacy-audits"
+    }
+  },
+  "privacy-ecosystem-report": {
+    "hero": {
+      "logo": "/projects/eth-ecosystem.png",
+      "title": "Ethereum Privacy Ecosystem",
+      "tagline": "Report on the Ethereum privacy ecosystem: projects, tools, and trends.",
+      "ctaLabel": "READ REPORT",
+      "ctaHref": "https://docs.web3privacy.info/research/Ethereum%20Privacy%20Ecosystem",
+      "metrics": [
+        {
+          "value": "Ethereum",
+          "label": "FOCUS"
+        },
+        {
+          "value": "Ecosystem",
+          "label": "MAPPED"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Ethereum Privacy Ecosystem report maps privacy projects, tools, and trends on Ethereum.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/Ethereum%20Privacy%20Ecosystem"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/Ethereum%20Privacy%20Ecosystem",
+      "url": "https://eth-ecosystem.web3privacy.info"
+    }
+  },
+  "privacy-explorer": {
+    "hero": {
+      "logo": "/projects/explorer.png",
+      "title": "Privacy Explorer",
+      "tagline": "Privacy Explorer helps you research and find information about privacy-preserving technologies and projects, categorized by domain and use case.",
+      "ctaLabel": "GO TO PROJECT",
+      "ctaHref": "https://explorer.web3privacy.info",
+      "metrics": [
+        {
+          "value": "800+",
+          "label": "PROJECTS",
+          "sublabel": "NEW"
+        },
+        {
+          "value": "L1/L2",
+          "label": "NETWORKS",
+          "sublabel": "NEW"
+        },
+        {
+          "value": "10",
+          "label": ""
+        },
+        {
+          "value": "11",
+          "label": ""
+        }
+      ]
+    },
+    "mission": {
+      "text": "Our mission is to empower individuals and organizations to make informed decisions about privacy-preserving technologies. We do this by providing a comprehensive, up-to-date, and easy-to-use resource for exploring the privacy ecosystem.\n",
+      "readMoreHref": "https://docs.web3privacy.info/projects/privacy-explorer"
+    },
+    "links": {
+      "website": "https://explorer.web3privacy.info",
+      "docs": "https://docs.web3privacy.info/projects/privacy-explorer",
+      "github": "https://github.com/web3privacy",
+      "telegram": "https://t.me/web3privacy",
+      "twitter": "https://twitter.com/web3privacy",
+      "discord": "https://discord.gg/web3privacy"
+    },
+    "features": [
+      {
+        "title": "DATA & METRICS",
+        "subtitle": "Dashboard & Explorer",
+        "description": "Explore privacy projects with scoring, categories, and use cases.",
+        "link": "https://explorer.web3privacy.info",
+        "linkLabel": "Learn more"
+      },
+      {
+        "title": "SDK & API",
+        "subtitle": "Integration",
+        "description": "Integrate explorer data into your apps and research.",
+        "link": "https://docs.web3privacy.info/projects/privacy-explorer",
+        "linkLabel": "Explore code"
+      },
+      {
+        "title": "Open source & transparent",
+        "link": "https://github.com/web3privacy",
+        "linkLabel": "View on GitHub"
+      },
+      {
+        "title": "Community-driven & decentralized",
+        "link": "https://web3privacy.info",
+        "linkLabel": "Join community"
+      }
+    ],
+    "roadmap": [
+      {
+        "quarter": "Q1 2026",
+        "title": "Launch of Privacy Explorer alpha version",
+        "description": "Initial release with core project database and scoring.",
+        "readMoreHref": "https://docs.web3privacy.info/projects/privacy-explorer"
+      },
+      {
+        "quarter": "Q2 2026",
+        "title": "New features and integrations",
+        "description": "Extended use cases, API, and community tools."
+      },
+      {
+        "quarter": "Q3 2026",
+        "title": "Ecosystem expansion",
+        "description": "More networks and collaboration with privacy projects."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Tadeas K.",
+        "role": "Web3Privacy Contributor",
+        "quote": "Privacy Explorer is the go-to resource for anyone building or evaluating privacy tech in Web3.",
+        "avatar": "/projects/explorer.png"
+      },
+      {
+        "name": "Yurii Ravin",
+        "role": "Founder of Web3 Privacy Now",
+        "quote": "We built this to give the community a neutral, comprehensive view of the privacy landscape.",
+        "avatar": "/projects/explorer.png"
+      }
+    ],
+    "team": [
+      {
+        "name": "Mykhailo Lubo",
+        "role": "Co-Founder",
+        "avatar": "/projects/explorer.png"
+      },
+      {
+        "name": "Fe",
+        "role": "Designer",
+        "avatar": "/projects/explorer.png"
+      },
+      {
+        "name": "Danylo Zhydko",
+        "role": "COO",
+        "avatar": "/projects/explorer.png"
+      },
+      {
+        "name": "Jan C.",
+        "role": "Developer",
+        "avatar": "/projects/explorer.png"
+      }
+    ],
+    "partners": [
+      {
+        "name": "Web3 Privacy Now",
+        "description": "Grant Partner",
+        "logo": "/projects/portal.png"
+      },
+      {
+        "name": "dyor.io",
+        "logo": "/projects/portal.png"
+      },
+      {
+        "name": "Axiom",
+        "logo": "/projects/portal.png"
+      },
+      {
+        "name": "Polygon",
+        "logo": "/projects/portal.png"
+      },
+      {
+        "name": "Ethereum",
+        "logo": "/projects/portal.png"
+      },
+      {
+        "name": "ZK",
+        "logo": "/projects/portal.png"
+      }
+    ]
+  },
+  "privacy-guides": {
+    "hero": {
+      "logo": "/projects/guides.png",
+      "title": "Privacy Guides",
+      "tagline": "Curated guides for building and evaluating privacy. Learn best practices.",
+      "ctaLabel": "READ GUIDES",
+      "ctaHref": "https://docs.web3privacy.info/research/privacy-guides",
+      "metrics": [
+        {
+          "value": "Guides",
+          "label": "CURATED"
+        },
+        {
+          "value": "GitHub",
+          "label": "SOURCE"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Guides offer curated documentation for building and evaluating privacy-preserving\ntechnologies. Contribute on GitHub.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/privacy-guides"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/privacy-guides",
+      "github": "https://github.com/web3privacy/guides"
+    }
+  },
+  "privacy-portal": {
+    "hero": {
+      "logo": "/projects/portal.png",
+      "title": "Privacy Portal",
+      "tagline": "Unified hub for privacy resources, news, and community. The main entry point to the Web3Privacy ecosystem.",
+      "ctaLabel": "EXPLORE PORTAL",
+      "ctaHref": "https://privacyportal.xyz",
+      "metrics": [
+        {
+          "value": "10+",
+          "label": "PRODUCTS"
+        },
+        {
+          "value": "1",
+          "label": "HUB"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Portal unifies Web3Privacy products: Explorer, Stacks, News, Jobs, Academy, and more.\nOne place to discover, learn, and contribute to privacy.\n",
+      "readMoreHref": "https://privacyportal.xyz"
+    },
+    "links": {
+      "url": "https://privacyportal.xyz"
+    }
+  },
+  "privacy-tech-awards": {
+    "hero": {
+      "logo": "/projects/awards.png",
+      "title": "Privacy Tech Awards",
+      "tagline": "Celebrate and recognize the best privacy-focused projects and contributions in the Web3 ecosystem.",
+      "ctaLabel": "GO TO AWARDS",
+      "ctaHref": "https://awards.web3privacy.info",
+      "metrics": [
+        {
+          "value": "20+",
+          "label": "CATEGORIES"
+        },
+        {
+          "value": "100+",
+          "label": "NOMINATIONS"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Tech Awards highlight exceptional privacy projects, research, and contributions.\nCommunity voting and expert jury select winners each year.\n",
+      "readMoreHref": "https://docs.web3privacy.info/projects/privacy-tech-awards"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/projects/privacy-tech-awards",
+      "url": "https://awards.web3privacy.info"
+    },
+    "features": [
+      {
+        "title": "Nominations & Voting",
+        "description": "Nominate projects and vote for your favorites.",
+        "link": "https://awards.web3privacy.info",
+        "linkLabel": "Learn more"
+      },
+      {
+        "title": "Annual Winners",
+        "description": "Discover past and current award winners.",
+        "link": "https://awards.web3privacy.info",
+        "linkLabel": "View winners"
+      }
+    ]
+  },
+  "radio": {
+    "hero": {
+      "logo": "/projects/radio.png",
+      "title": "Privacy Radio & Podcast",
+      "tagline": "Privacy-focused radio and podcast content. Listen to discussions and interviews.",
+      "ctaLabel": "LISTEN",
+      "ctaHref": "https://radio.web3privacy.info",
+      "metrics": [
+        {
+          "value": "Episodes",
+          "label": "AVAILABLE"
+        },
+        {
+          "value": "Audio",
+          "label": "FORMAT"
+        }
+      ]
+    },
+    "mission": {
+      "text": "Privacy Radio brings audio content: discussions, interviews, and podcasts\nfocused on Web3 privacy.\n",
+      "readMoreHref": "https://radio.web3privacy.info"
+    },
+    "links": {
+      "url": "https://radio.web3privacy.info"
+    }
+  },
+  "scoring": {
+    "hero": {
+      "logo": "/projects/scoring.png",
+      "title": "Scoring of Privacy Projects",
+      "tagline": "Methodology and tooling for scoring privacy projects. Transparent, open source.",
+      "ctaLabel": "VIEW ON GITHUB",
+      "ctaHref": "https://github.com/web3privacy/scoring",
+      "metrics": [
+        {
+          "value": "Open",
+          "label": "SOURCE"
+        },
+        {
+          "value": "Methodology",
+          "label": "DOCUMENTED"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Scoring project defines how we evaluate privacy projects. Methodology, tools,\nand data are open source on GitHub.\n",
+      "readMoreHref": "https://github.com/web3privacy/scoring"
+    },
+    "links": {
+      "github": "https://github.com/web3privacy/scoring"
+    }
+  },
+  "usecase-db": {
+    "hero": {
+      "logo": "/projects/usecase-db.png",
+      "title": "Privacy Use-Cases DB",
+      "tagline": "Database of privacy use-cases for research and development. Structured, searchable.",
+      "ctaLabel": "EXPLORE DB",
+      "ctaHref": "https://docs.web3privacy.info/research/usecase-db",
+      "metrics": [
+        {
+          "value": "100+",
+          "label": "USE CASES"
+        },
+        {
+          "value": "Research",
+          "label": "READY"
+        }
+      ]
+    },
+    "mission": {
+      "text": "The Use-Cases DB is a structured collection of privacy use cases for research,\nhackathons, and product ideation.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/usecase-db"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/usecase-db"
+    }
+  },
+  "zk-solutions": {
+    "hero": {
+      "logo": "/projects/zk-solutions.png",
+      "title": "ZK Solutions DB",
+      "tagline": "Database of zero-knowledge solutions and applications. Explore the ZK landscape.",
+      "ctaLabel": "VIEW DB",
+      "ctaHref": "https://docs.web3privacy.info/research/zk-solutions",
+      "metrics": [
+        {
+          "value": "ZK",
+          "label": "FOCUS"
+        },
+        {
+          "value": "Solutions",
+          "label": "MAPPED"
+        }
+      ]
+    },
+    "mission": {
+      "text": "ZK Solutions DB maps zero-knowledge projects, tools, and applications in the privacy ecosystem.\n",
+      "readMoreHref": "https://docs.web3privacy.info/research/zk-solutions"
+    },
+    "links": {
+      "docs": "https://docs.web3privacy.info/research/zk-solutions"
+    }
+  }
+}

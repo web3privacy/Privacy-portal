@@ -1,0 +1,15 @@
+services:
+  privacy-stacks:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: privacy-stacks
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      HOSTNAME: 0.0.0.0
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import "@web3privacy/portal-ui/global-footer.css";
-import { NuqsAdapter } from "nuqs/adapters/next/app";
+import { NuqsProvider } from "@/components/providers/nuqs-provider";
 import { WalletProvider } from "@/components/wallet/wallet-provider";
 import { PortalOrOrgShell } from "@/components/layout/portal-or-org-shell";
 import "./globals.css";
@@ -33,11 +33,11 @@ export default function RootLayout({
         />
       </head>
       <body className="antialiased min-h-screen flex flex-col">
-        <NuqsAdapter>
+        <NuqsProvider>
           <WalletProvider>
             <PortalOrOrgShell>{children}</PortalOrOrgShell>
           </WalletProvider>
-        </NuqsAdapter>
+        </NuqsProvider>
       </body>
     </html>
   );

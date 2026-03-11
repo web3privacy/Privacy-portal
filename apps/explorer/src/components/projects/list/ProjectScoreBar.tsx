@@ -67,7 +67,7 @@ export function ProjectScoreBar({
       <div className="grid grid-cols-3">
         {sorted.map((r, idx) => (
           <div
-            key={r.type}
+            key={`${project.id}-rating-${idx}-${r.type}`}
             className={cn(
               "h-3",
               idx < sorted.length - 1

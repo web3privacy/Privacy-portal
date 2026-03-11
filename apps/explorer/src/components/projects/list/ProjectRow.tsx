@@ -73,18 +73,18 @@ export function ProjectRow({
               <h3 className="min-w-0 truncate font-serif text-[18px] leading-none text-black group-hover:underline dark:text-[#f2f4f6]">
                 {project.name}
               </h3>
-              {project.usecases?.slice(0, 1).map((uc) => (
+              {project.usecases?.slice(0, 1).map((uc, idx) => (
                 <Badge
-                  key={uc}
+                  key={`${project.id}-uc-${idx}-${uc}`}
                   variant="secondary"
                   className="rounded-full bg-black/5 text-black/70 dark:bg-white/10 dark:text-white/70"
                 >
                   {uc}
                 </Badge>
               ))}
-              {project.categories?.slice(0, 1).map((cat) => (
+              {project.categories?.slice(0, 1).map((cat, idx) => (
                 <Badge
-                  key={cat}
+                  key={`${project.id}-cat-${idx}-${cat}`}
                   variant="secondary"
                   className="rounded-full bg-black/5 text-black/70 dark:bg-white/10 dark:text-white/70"
                 >
@@ -108,11 +108,11 @@ export function ProjectRow({
 
       <div className="hidden md:flex items-center justify-start">
         <div className="flex -space-x-2">
-          {(project.ecosystem ?? []).slice(0, 3).map((eco) => {
+          {(project.ecosystem ?? []).slice(0, 3).map((eco, index) => {
             const icon = ecosystemIconsById[eco];
             return (
               <Avatar
-                key={eco}
+                key={`${project.id}-eco-${index}-${eco}`}
                 className="size-7 border-2 border-white bg-white dark:border-[#151a21] dark:bg-[#0f1318]"
                 title={eco}
               >

@@ -22,7 +22,6 @@
     "build:web": "npm -w @web3privacy/web run build",
     "start:web": "npm -w @web3privacy/web run start"
   },
-  "packageManager": "npm@11.7.0",
   "devDependencies": {
     "@mozilla/readability": "^0.6.0",
     "js-yaml": "^4.1.0",
@@ -30,6 +29,8 @@
     "rss-parser": "^3.13.0"
   },
   "dependencies": {
-    "no": "^0.0.1"
+    "no": "^0.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }

@@ -18,11 +18,23 @@ type SubNavigationProps = {
 };
 
 function getNavUrls() {
-  return {
-    webUrl: process.env.NEXT_PUBLIC_WEB_URL ?? undefined,
-    explorerUrl: process.env.NEXT_PUBLIC_EXPLORER_URL ?? undefined,
-    stacksUrl: process.env.NEXT_PUBLIC_STACKS_URL ?? undefined,
-  };
+  const urls: {
+    webUrl?: string;
+    explorerUrl?: string;
+    stacksUrl?: string;
+  } = {};
+  
+  if (process.env.NEXT_PUBLIC_WEB_URL) {
+    urls.webUrl = process.env.NEXT_PUBLIC_WEB_URL;
+  }
+  if (process.env.NEXT_PUBLIC_EXPLORER_URL) {
+    urls.explorerUrl = process.env.NEXT_PUBLIC_EXPLORER_URL;
+  }
+  if (process.env.NEXT_PUBLIC_STACKS_URL) {
+    urls.stacksUrl = process.env.NEXT_PUBLIC_STACKS_URL;
+  }
+  
+  return urls;
 }
 
 export function TopNavigation({ active, rightSlot }: TopNavigationProps) {

@@ -79,11 +79,11 @@ export function ProjectCard({ project, ecosystemIconsById }: ProjectCardProps) {
 
           {(ecosystem ?? []).slice(0, 2).length ? (
             <div className="flex items-center gap-1">
-              {(ecosystem ?? []).slice(0, 2).map((eco) => {
+              {(ecosystem ?? []).slice(0, 2).map((eco, index) => {
                 const icon = ecosystemIconsById[eco];
                 return (
                   <Avatar
-                    key={eco}
+                    key={`${id}-eco-${index}-${eco}`}
                     className="size-5 bg-white dark:bg-[#0f1318]"
                     title={eco}
                   >

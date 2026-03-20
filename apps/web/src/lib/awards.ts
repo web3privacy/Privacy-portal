@@ -35,17 +35,11 @@ const EMPTY_AWARDS: AwardsData = {
 
 function loadYaml<T>(filePath: string, fallback: T): T {
   if (!fs.existsSync(filePath)) {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] File not found: ${filePath}`);
-    }
     return fallback;
   }
   try {
     const content = fs.readFileSync(filePath, "utf8");
     const parsed = yaml.load(content) as T | null;
-    if (!parsed && process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] Parsed data is null for: ${filePath}`);
-    }
     return parsed ?? fallback;
   } catch (error) {
     console.error(`[loadYaml] Error loading YAML file ${filePath}:`, error);
@@ -54,17 +48,6 @@ function loadYaml<T>(filePath: string, fallback: T): T {
 }
 
 export function loadAwardsData(): AwardsData {
-  // Debug: log file paths
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadAwardsData] File paths:', {
-      ROOT_DIR,
-      AWARDS_FILE,
-      USER_AWARDS_FILE,
-      awardsExists: fs.existsSync(AWARDS_FILE),
-      userAwardsExists: fs.existsSync(USER_AWARDS_FILE),
-    });
-  }
-
   const base = loadYaml<AwardsData>(AWARDS_FILE, EMPTY_AWARDS);
   const user = loadYaml<AwardsData>(USER_AWARDS_FILE, EMPTY_AWARDS);
 
@@ -82,20 +65,10 @@ export function loadAwardsData(): AwardsData {
     yearMap.set(year.year, year);
   });
 
-  const merged: AwardsData = {
-    years: Array.from(yearMap.values()).sort((a, b) => b.year - a.year), // Sort descending (newest first)
+  return {
+    years: Array.from(yearMap.values()).sort((a, b) => b.year - a.year),
     articles: [...(base.articles ?? []), ...(user.articles ?? [])],
   };
-
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadAwardsData] Loaded:', {
-      years: merged.years.length,
-      yearsList: merged.years.map(y => y.year),
-      articles: merged.articles?.length || 0,
-    });
-  }
-
-  return merged;
 }
 
 export function getAwardYear(data: AwardsData, year: number): AwardYear | undefined {

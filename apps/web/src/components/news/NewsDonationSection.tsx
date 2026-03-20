@@ -14,7 +14,7 @@ export function NewsDonationSection({ tiers }: Props) {
   if (tiers.length === 0) return null;
 
   return (
-    <section className="rounded-xl border border-black/10 bg-white p-8 dark:border-white/10 dark:bg-[#151a21] md:p-12">
+    <section className="rounded-xl border border-black/10 bg-white p-5 dark:border-white/10 dark:bg-[#151a21] sm:p-8 md:p-12">
       <h2 className="text-center text-xl font-bold text-black dark:text-white md:text-2xl">
         Consider a donation to support our future work
       </h2>

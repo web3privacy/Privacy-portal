@@ -57,8 +57,8 @@ export function EventsFilters({
     <>
       {/* Submenu: Type pills left, Search + Add Event right; mobile: search icon opens sheet */}
       <div className="sticky top-0 z-40 rounded-[12px] bg-[#f0f0f0] p-3 dark:bg-[#1a1f27]">
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <div className="flex flex-wrap items-center gap-2">
+        <div className="flex items-center justify-between gap-2">
+          <div className="flex min-w-0 flex-1 items-center gap-2 overflow-x-auto pb-0.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
           {TYPE_KEYS.map((key) => (
             <button
               key={key}
@@ -66,15 +66,15 @@ export function EventsFilters({
               onClick={() => onTypeFilterChange(key)}
               className={
                 typeFilter === key
-                  ? "rounded-full bg-black px-4 py-2 text-xs font-bold uppercase tracking-wider text-white dark:bg-white dark:text-black"
-                  : "rounded-full bg-white px-4 py-2 text-xs font-bold uppercase tracking-wider text-black transition-colors hover:bg-black/10 dark:bg-[#252b35] dark:text-[#f2f4f6] dark:hover:bg-white/10"
+                  ? "shrink-0 rounded-full bg-black px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white dark:bg-white dark:text-black"
+                  : "shrink-0 rounded-full bg-white px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-black transition-colors hover:bg-black/10 dark:bg-[#252b35] dark:text-[#f2f4f6] dark:hover:bg-white/10"
               }
             >
               {EVENT_TYPE_LABELS[key]}
             </button>
           ))}
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex shrink-0 items-center gap-2">
           <label className="relative hidden md:block">
             <input
               type="text"

@@ -68,9 +68,17 @@ export async function ProjectsList({
     ecosystems.map((e) => [e.id, e.icon])
   );
 
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  function buildPageUrl(currentParams: Record<string, any>, newPage: number) {
-    const params = new URLSearchParams(currentParams as Record<string, string>);
+  function buildPageUrl(currentParams: Record<string, string | string[] | undefined>, newPage: number) {
+    const params = new URLSearchParams();
+    for (const [key, value] of Object.entries(currentParams)) {
+      if (value !== undefined) {
+        if (Array.isArray(value)) {
+          value.forEach((v) => params.append(key, v));
+        } else {
+          params.set(key, value);
+        }
+      }
+    }
     params.set("page", newPage.toString());
     return `?${params.toString()}`;
   }

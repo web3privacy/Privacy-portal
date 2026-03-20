@@ -98,7 +98,7 @@ export async function GET() {
           const xmlText = await response.text();
           
           // Parse XML
-          const talks: any[] = [];
+          const talks: { id: string; title: string; description?: string; youtubeId: string; thumbnailUrl: string; speaker?: string; publishedAt: string; viewCount: number; createdAt: string }[] = [];
           const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
           let match;
           
@@ -150,7 +150,6 @@ export async function GET() {
           }
           
           if (talks.length > 0) {
-            console.log(`[YouTube API] Successfully fetched ${talks.length} videos from channel`);
             return NextResponse.json({ talks });
           }
         }

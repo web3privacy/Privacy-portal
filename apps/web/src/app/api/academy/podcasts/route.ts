@@ -26,7 +26,7 @@ export async function GET() {
     const xmlText = await response.text();
     
     // Parse XML
-    const podcasts: any[] = [];
+    const podcasts: { id: string; title: string; description?: string; url: string; thumbnailUrl: string; publishedAt: string; createdAt: string }[] = [];
     const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
     let match;
     

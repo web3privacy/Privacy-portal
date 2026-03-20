@@ -56,8 +56,8 @@ export function PeoplePageContent({ people }: PeoplePageContentProps) {
       {/* Submenu with filters */}
       <div className="viewport-range-shell mx-auto w-full px-4 py-6 md:px-6 lg:max-w-[75vw]">
         <div className="sticky top-0 z-40 rounded-[12px] bg-[#f0f0f0] p-3 dark:bg-[#1a1f27]">
-          <div className="flex flex-wrap items-center justify-between gap-3">
-            <div className="flex flex-wrap items-center gap-3">
+          <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between">
+            <div className="flex flex-wrap items-center gap-2">
             {FILTER_TAGS.map((filter) => {
               const countForFilter = filter === "ALL PEOPLE" 
                 ? people.length 
@@ -71,7 +71,7 @@ export function PeoplePageContent({ people }: PeoplePageContentProps) {
                     setSelectedFilter(filter);
                     setVisibleCount(INITIAL_VISIBLE);
                   }}
-                  className={`rounded-[8px] px-4 py-2 text-[14px] font-bold transition-all ${
+                  className={`rounded-[8px] px-3 py-1.5 text-[12px] font-bold transition-all sm:px-4 sm:py-2 sm:text-[14px] ${
                     selectedFilter === filter
                       ? "bg-black text-white dark:bg-white dark:text-black"
                       : "bg-white text-black hover:bg-[#e0e0e0] dark:bg-[#12161d] dark:text-[#f2f4f6] dark:hover:bg-[#2a3039]"
@@ -84,7 +84,7 @@ export function PeoplePageContent({ people }: PeoplePageContentProps) {
             </div>
             <Link
               href="/people/add"
-              className="ml-auto shrink-0 inline-flex h-10 items-center justify-center gap-2 rounded-full border border-[#70ff88] bg-[#70ff88] px-5 text-[13px] font-bold uppercase tracking-[0.08em] text-black transition-all hover:-translate-y-0.5 hover:bg-[#5eef70] dark:border-[#70ff88] dark:bg-[#70ff88] dark:text-black dark:hover:bg-[#5eef70]"
+              className="w-full shrink-0 inline-flex h-10 items-center justify-center gap-2 rounded-full border border-[#70ff88] bg-[#70ff88] px-5 text-[13px] font-bold uppercase tracking-[0.08em] text-black transition-all hover:-translate-y-0.5 hover:bg-[#5eef70] sm:w-auto dark:border-[#70ff88] dark:bg-[#70ff88] dark:text-black dark:hover:bg-[#5eef70]"
             >
               ADD PERSON
             </Link>

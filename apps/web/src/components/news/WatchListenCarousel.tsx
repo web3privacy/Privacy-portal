@@ -29,7 +29,7 @@ export function WatchListenCarousel({ items }: Props) {
 
   return (
     <section>
-      <div className="rounded-[12px] bg-[#f0f0f0] p-6 dark:bg-[#1a1f27]">
+      <div className="overflow-hidden rounded-[12px] bg-[#f0f0f0] p-4 dark:bg-[#1a1f27] sm:p-6">
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-lg font-bold text-black dark:text-white">
             Watch & Listen
@@ -56,7 +56,7 @@ export function WatchListenCarousel({ items }: Props) {
 
         <div
           ref={scrollRef}
-          className="flex gap-4 overflow-x-auto py-2 scroll-smooth [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          className="flex gap-3 overflow-x-auto py-2 scroll-smooth [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:gap-4"
           style={{ scrollSnapType: "x mandatory" }}
         >
         {items.map((item) => (
@@ -65,7 +65,7 @@ export function WatchListenCarousel({ items }: Props) {
             href={item.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="group flex w-[calc((100%-2rem)/3)] min-w-[160px] shrink-0 flex-col overflow-hidden rounded-xl border border-black/10 bg-white transition-shadow hover:shadow-lg dark:border-white/10 dark:bg-[#151a21] dark:hover:shadow-xl md:min-w-[200px]"
+            className="group flex w-[calc(50%-6px)] shrink-0 flex-col overflow-hidden rounded-xl border border-black/10 bg-white transition-shadow hover:shadow-lg dark:border-white/10 dark:bg-[#151a21] dark:hover:shadow-xl sm:w-[calc(33.333%-10px)] md:w-[calc(25%-12px)]"
             style={{ scrollSnapAlign: "start" }}
           >
             <div className="relative aspect-video w-full overflow-hidden bg-black/5 dark:bg-black/30">

@@ -1,8 +1,8 @@
 "use client";
 
-import { useMemo, useState, useEffect } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
-import type { AcademyContentType, Talk, Course, Guide, FeaturedDocument, Podcast } from "@/types/academy";
+import type { AcademyContentType, Talk, Course, Guide, FeaturedDocument, Podcast, RadioTrack } from "@/types/academy";
 import { AcademyHero } from "./academy-hero";
 import { AcademyTabs } from "./academy-tabs";
 import { LatestTalks } from "./latest-talks";
@@ -24,7 +24,7 @@ type Props = {
   guides: Guide[];
   featuredDocuments: FeaturedDocument[];
   popularTalks: Talk[];
-  radioTracks: any[];
+  radioTracks: RadioTrack[];
   radioPlaylists?: RadioPlaylist[];
   acceleratorItems?: AcceleratorItem[];
   podcasts?: Podcast[];
@@ -43,19 +43,6 @@ export function AcademyPageContent({
 }: Props) {
   const [activeTab, setActiveTab] = useState<AcademyContentType>("all");
   const [search, setSearch] = useState("");
-
-  // Debug logging
-  useEffect(() => {
-    console.log('[AcademyPageContent] Props received:', {
-      talks: talks.length,
-      courses: courses.length,
-      guides: guides.length,
-      featuredDocuments: featuredDocuments.length,
-      popularTalks: popularTalks.length,
-      radioTracks: radioTracks.length,
-      acceleratorItems: acceleratorItems.length,
-    });
-  }, [talks, courses, guides, featuredDocuments, popularTalks, radioTracks, acceleratorItems]);
 
   // Filter function for search
   const filterBySearch = <T extends { title: string; speaker?: string; description?: string }>(

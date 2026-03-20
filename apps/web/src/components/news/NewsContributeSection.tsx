@@ -15,7 +15,7 @@ type Props = {
 
 export function NewsContributeSection({ featuredProjects }: Props) {
   return (
-    <section className="rounded-xl border border-black/10 bg-white p-8 dark:border-white/10 dark:bg-[#151a21] md:p-12">
+    <section className="rounded-xl border border-black/10 bg-white p-5 dark:border-white/10 dark:bg-[#151a21] sm:p-8 md:p-12">
       <div className="flex flex-col items-center text-center">
         <div className="mb-6 flex h-32 w-32 items-center justify-center rounded-full bg-black/5 dark:bg-black/30">
           <span className="material-symbols-rounded text-[64px] text-black/20 dark:text-white/20">

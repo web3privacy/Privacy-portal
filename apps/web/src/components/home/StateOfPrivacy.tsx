@@ -104,7 +104,7 @@ export async function StateOfPrivacy({
 
   return (
     <section>
-      <h2 className="font-serif text-[44px] leading-[1] tracking-[-0.02em] text-black md:text-[58px] dark:text-[#f2f4f6]">
+      <h2 className="font-serif text-[32px] leading-[1] tracking-[-0.02em] text-black sm:text-[40px] md:text-[58px] dark:text-[#f2f4f6]">
         State of Privacy
       </h2>
 

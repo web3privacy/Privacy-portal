@@ -198,6 +198,12 @@
   gap: 8px;
 }
 
+/* Wrapper for ThemeToggle inside mobileQuickActions - hidden at tablet+ when desktopActions is shown */
+.mobileToggleInQuickActions {
+  display: inline-flex;
+  align-items: center;
+}
+
 .mobileTrigger {
   display: inline-flex;
   height: 40px;
@@ -296,6 +302,13 @@
   color: #000000;
 }
 
+@media (min-width: 540px) {
+  .shell {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
 @media (min-width: 768px) {
   .shell {
     height: 88px;
@@ -308,14 +321,17 @@
   }
 
   .brandWord {
-    font-size: 34px;
+    font-size: 30px;
   }
 
   .brandBlock {
     height: 16px;
     width: 40px;
   }
+}
 
+/* Tablet (768px–1179px): show theme toggle in desktopActions, hide it from mobileQuickActions */
+@media (min-width: 768px) and (max-width: 1179px) {
   .desktopActions {
     display: flex;
     margin-left: auto;
@@ -324,11 +340,29 @@
   .rightSlot {
     display: flex;
   }
+
+  /* Hide the ThemeToggle inside mobileQuickActions at tablet - it's already in desktopActions */
+  .mobileToggleInQuickActions {
+    display: none;
+  }
 }
 
-@media (min-width: 1024px) {
+/* Desktop: full nav, hide hamburger */
+@media (min-width: 1180px) {
   .shell {
     max-width: 1280px;
+    height: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .brandWord {
+    font-size: 34px;
+  }
+
+  .brandBlock {
+    height: 16px;
+    width: 40px;
   }
 
   .desktopNavWrap {
@@ -336,7 +370,12 @@
   }
 
   .desktopActions {
+    display: flex;
     margin-left: 16px;
+  }
+
+  .rightSlot {
+    display: flex;
   }
 
   .mobileQuickActions {

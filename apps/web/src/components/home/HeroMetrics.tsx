@@ -250,9 +250,9 @@ export function HeroMetrics({
   const activeSeries = mode === "tvl" ? tvlSeries : priceSeries;
 
   return (
-    <div className="w-full">
+    <div className="w-full overflow-hidden">
       <div className="flex flex-wrap items-center justify-between gap-4 border-b border-black/10 px-4 py-3 dark:border-white/10 md:px-5">
-        <div className="flex max-w-full flex-1 items-center gap-2 overflow-x-auto pb-1">
+        <div className="flex max-w-full flex-1 items-center gap-2 overflow-x-auto pb-1 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
           {projects.map((p) => (
             <button
               key={p.id}

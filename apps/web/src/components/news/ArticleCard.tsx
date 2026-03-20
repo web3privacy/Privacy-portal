@@ -132,17 +132,17 @@ export function ArticleCard({
     return (
       <CardWrapper href={href} isExternal={isExternal} variant={variant} titleOnlyClickable>
         <div className="flex flex-col sm:flex-row">
-          <div className="relative aspect-square min-h-[110px] w-full shrink-0 overflow-hidden rounded-[12px] sm:w-[28%] sm:min-h-[140px]">
+          <div className="relative aspect-video min-h-[140px] w-full shrink-0 overflow-hidden rounded-[12px] sm:aspect-square sm:w-[28%] sm:min-h-[140px]">
             <ArticleImage
               src={article.imageUrl}
               alt=""
               fill
               className="object-cover"
-              sizes="(min-width: 640px) 45vw, 100vw"
+              sizes="(min-width: 640px) 28vw, 100vw"
             />
           </div>
-          <div className="flex flex-1 flex-col justify-center p-6 sm:p-8">
-            <h3 className="text-xl font-bold leading-tight text-black dark:text-white md:text-2xl">
+          <div className="flex flex-1 flex-col justify-center p-4 sm:p-6 md:p-8">
+            <h3 className="text-lg font-bold leading-tight text-black dark:text-white sm:text-xl md:text-2xl">
               <TitleLink />
             </h3>
             {article.perex && (
@@ -182,14 +182,14 @@ export function ArticleCard({
   if (variant === "list") {
     return (
       <CardWrapper href={href} isExternal={isExternal} variant={variant} titleOnlyClickable>
-        <div className="flex gap-4 py-4">
-          <div className="relative h-[120px] w-[120px] shrink-0 overflow-hidden rounded-lg bg-black/5 dark:bg-black/30">
+        <div className="flex gap-3 py-3 sm:gap-4 sm:py-4">
+          <div className="relative h-[90px] w-[90px] shrink-0 overflow-hidden rounded-lg bg-black/5 dark:bg-black/30 sm:h-[120px] sm:w-[120px]">
             <ArticleImage
               src={article.imageUrl}
               alt=""
               fill
               className="object-cover"
-              sizes="120px"
+              sizes="(max-width: 640px) 90px, 120px"
             />
           </div>
           <div className="min-w-0 flex-1">

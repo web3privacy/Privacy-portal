@@ -34,17 +34,11 @@ const EMPTY_PEOPLE: PeopleData = {
 
 function loadYaml<T>(filePath: string, fallback: T): T {
   if (!fs.existsSync(filePath)) {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] File not found: ${filePath}`);
-    }
     return fallback;
   }
   try {
     const content = fs.readFileSync(filePath, "utf8");
     const parsed = yaml.load(content) as T | null;
-    if (!parsed && process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] Parsed data is null for: ${filePath}`);
-    }
     return parsed ?? fallback;
   } catch (error) {
     console.error(`[loadYaml] Error loading YAML file ${filePath}:`, error);
@@ -70,17 +64,9 @@ export function loadPeopleData(): PeopleData {
     peopleMap.set(person.id, person);
   });
 
-  const merged: PeopleData = {
+  return {
     people: Array.from(peopleMap.values()),
   };
-
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadPeopleData] Loaded:', {
-      people: merged.people.length,
-    });
-  }
-
-  return merged;
 }
 
 export function getPersonById(data: PeopleData, id: string): Person | undefined {

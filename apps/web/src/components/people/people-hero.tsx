@@ -30,27 +30,23 @@ export function PeopleHero() {
   }, []);
 
   return (
-    <section className="relative border-b border-[#d8d8d8] bg-[#000000] px-4 py-16 dark:border-[#2c3139] dark:bg-[#000000] md:px-6 md:py-20 lg:py-24">
-      <div className="absolute inset-0 overflow-hidden">
-        {/* Background image - aligned to bottom, 1440px wide */}
+    <section className="relative overflow-hidden border-b border-[#d8d8d8] bg-[#000000] px-4 py-16 dark:border-[#2c3139] dark:bg-[#000000] md:px-6 md:py-20 lg:py-24">
+      <div className="absolute inset-0">
+        {/* Background image - full cover, clipped by section overflow-hidden */}
         <div 
           ref={backgroundRef}
-          className="absolute left-1/2 bottom-0 w-[1440px] -translate-x-1/2 bg-cover bg-no-repeat"
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: "url('/images/bg-people.png')",
             backgroundSize: "cover",
             backgroundPosition: "center bottom",
-            height: "100%",
             willChange: "background-position",
           }}
         />
-        {/* Gradient overlays - 128px transitions on both sides */}
-        <div className="absolute left-0 top-0 h-full w-full">
-          <div className="absolute left-0 top-0 h-full w-[calc((100%-1440px)/2+128px)] bg-[#000000]" />
-          <div className="absolute left-[calc((100%-1440px)/2+128px)] top-0 h-full w-[128px] bg-gradient-to-r from-[#000000] to-transparent" />
-          <div className="absolute right-[calc((100%-1440px)/2+128px)] top-0 h-full w-[128px] bg-gradient-to-l from-[#000000] to-transparent" />
-          <div className="absolute right-0 top-0 h-full w-[calc((100%-1440px)/2+128px)] bg-[#000000]" />
-        </div>
+        {/* Side fade overlays */}
+        <div className="absolute inset-0 bg-gradient-to-r from-black via-transparent to-black opacity-80" />
+        {/* Bottom fade */}
+        <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black to-transparent" />
       </div>
       <div className="viewport-range-shell relative mx-auto max-w-[1140px] lg:max-w-[75vw]">
         {/* Title and Description */}

@@ -41,7 +41,7 @@ export function PortalOrOrgShell({ children }: { children: React.ReactNode }) {
       <ConditionalHeaderBorder>
         <PortalNav />
       </ConditionalHeaderBorder>
-      <main className="flex-1">{children}</main>
+      <main className="flex-1 min-w-0 w-full overflow-x-hidden">{children}</main>
       <GlobalFooterWrapper config={portalGlobalFooterConfig} />
     </>
   );

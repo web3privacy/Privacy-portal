@@ -25,7 +25,7 @@ export async function GET() {
     const html = await response.text();
     
     // Parse HTML to extract course data
-    const courses: any[] = [];
+    const courses: { id: string; title: string; description?: string; url: string; icon?: string; author?: string }[] = [];
     
     // Try to find product cards - the structure may vary, so we'll try multiple patterns
     // Look for product images, titles, descriptions, and links
@@ -125,7 +125,6 @@ export async function GET() {
       }
     }
     
-    console.log(`[Courses Scrape] Found ${courses.length} courses`);
     return NextResponse.json({ courses });
   } catch (error) {
     console.error("Error scraping courses:", error);

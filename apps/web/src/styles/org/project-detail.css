@@ -43,10 +43,28 @@
   .project-detail-metrics {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
+    gap: 16px;
   }
   .project-detail-metrics-desktop-only {
     display: none;
+  }
+}
+
+@media (max-width: 540px) {
+  .project-detail-hero-inner {
+    gap: 16px;
+  }
+  .project-detail-hero-graphic {
+    width: 80px;
+    height: 80px;
+  }
+  .project-detail-metrics {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .project-detail-article-card {
+    grid-template-columns: 80px 1fr;
+    gap: 12px;
   }
 }
 @media (min-width: 769px) {

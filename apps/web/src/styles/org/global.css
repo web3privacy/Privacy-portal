@@ -36,6 +36,16 @@ body,
   color: var(--text);
 }
 
+html {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -51,11 +61,14 @@ img {
 }
 
 .org-web-root {
-  width: fit-content;
+  width: 100%;
+  min-width: 0;
 }
 
 html:has(.org-web-root) body {
-  width: fit-content;
+  width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
 }
 
 /*
@@ -587,8 +600,7 @@ html:has(.org-web-root) body {
 .full-width-border-top::before {
   content: '';
   display: block;
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
+  width: 100%;
   border-top: 1px solid var(--line);
   box-sizing: border-box;
 }
@@ -978,8 +990,7 @@ html:has(.org-web-root) body {
 }
 
 .academy {
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
+  width: 100%;
   padding-top: 0;
   padding-bottom: 58px;
   border-bottom: none;
@@ -1002,8 +1013,7 @@ html:has(.org-web-root) body {
 .academy::after {
   content: '';
   display: block;
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
+  width: 100%;
   border-bottom: 1px solid var(--line);
   box-sizing: border-box;
   position: absolute;
@@ -1225,8 +1235,7 @@ html:has(.org-web-root) body {
 .testimonials::before {
   content: '';
   display: block;
-  width: 100vw;
-  margin-left: calc(-50vw + 50%);
+  width: 100%;
   border-top: 1px solid var(--line);
   box-sizing: border-box;
   margin-bottom: 48px;
@@ -1336,6 +1345,7 @@ html:has(.org-web-root) body {
   background: #ececec;
   color: #0b0b0b;
   padding: 72px 20px 44px;
+  overflow: hidden;
 }
 
 .contribute-block,
@@ -1408,22 +1418,22 @@ html:has(.org-web-root) body {
   margin-right: auto;
   padding: 24px 20px;
   display: grid;
-  grid-template-rows: repeat(3, 48px);
-  grid-template-columns: repeat(20, 1fr);
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(20, minmax(0, 1fr));
   gap: 10px 12px;
   justify-content: stretch;
   box-sizing: border-box;
 }
 
 .community-grid-avatar {
-  width: 48px;
-  height: 48px;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1;
   border-radius: 50%;
   overflow: hidden;
   display: block;
   border: 2px solid rgba(0, 0, 0, 0.12);
   transition: border-color 0.2s ease, transform 0.1s ease;
-  flex-shrink: 0;
   background: rgba(0, 0, 0, 0.08);
 }
 
@@ -1607,6 +1617,7 @@ html:has(.org-web-root) body {
 .members-section {
   padding: 64px 0 58px;
   border-top: 1px solid var(--line);
+  overflow: hidden;
 }
 
 .members-section .content-shell {
@@ -1632,8 +1643,9 @@ html:has(.org-web-root) body {
 }
 
 .member-card .logo-wrap {
-  width: 146px;
-  height: 146px;
+  width: min(146px, 100%);
+  height: auto;
+  aspect-ratio: 1;
   margin: 0 auto 10px;
   border-radius: 12px;
   background: transparent;
@@ -1746,14 +1758,14 @@ html:has(.org-web-root) body {
 }
 
 .footer-sitemap-three-cols {
-  grid-template-columns: repeat(3, minmax(200px, auto));
-  gap: 24px 48px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px 32px;
   justify-self: start;
 }
 
 .footer-sitemap-four-cols {
-  grid-template-columns: repeat(4, minmax(200px, auto));
-  gap: 24px 48px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px 32px;
   justify-self: start;
 }
 
@@ -2183,15 +2195,22 @@ html:has(.org-web-root) body {
 
 @media (max-width: 1120px) {
   .top-nav {
-    padding: 0 26px;
+    padding: 0 20px;
   }
 
   .top-nav nav {
-    gap: 14px;
+    gap: 10px;
+    margin-left: 20px;
   }
 
-  .top-nav nav a {
+  .top-nav nav .nav-links {
+    gap: 10px;
+  }
+
+  .top-nav nav a,
+  .top-nav nav .nav-links a {
     font-size: 10px;
+    letter-spacing: 0.05em;
   }
 
   .top-nav .brand {
@@ -2199,7 +2218,7 @@ html:has(.org-web-root) body {
   }
 
   .top-nav .brand img {
-    height: 24px;
+    height: 22px;
     width: auto;
   }
 
@@ -2291,8 +2310,8 @@ html:has(.org-web-root) body {
 
 @media (max-width: 768px) {
   .top-nav {
-    height: 62px;
-    padding: 0 14px;
+    height: 58px;
+    padding: 0 16px;
   }
 
   .nav-toggle {
@@ -2310,12 +2329,14 @@ html:has(.org-web-root) body {
     align-items: stretch;
     gap: 0;
     margin: 0;
-    padding: 70px 24px 24px;
+    padding: 66px 20px 24px;
     background: #0a0a0a;
     transform: translateX(100%);
     transition: transform 0.25s ease;
     z-index: 50;
     border-left: 1px solid rgba(255, 255, 255, 0.1);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .top-nav nav.nav-open {
@@ -2335,9 +2356,10 @@ html:has(.org-web-root) body {
 
   .top-nav nav a,
   .top-nav nav .nav-links a {
-    padding: 14px 0;
+    padding: 13px 0;
     font-size: 14px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    white-space: normal;
   }
 
   .top-nav nav .nav-links a.nav-item-active {
@@ -2359,22 +2381,22 @@ html:has(.org-web-root) body {
   .hero {
     height: 70vh;
     min-height: 70vh;
-    padding-top: 62px;
+    padding-top: 58px;
   }
 
   .hero-content {
     width: calc(100% - 32px);
-    padding-bottom: 126px;
+    padding-bottom: 100px;
   }
 
   .hero h1 {
-    font-size: clamp(26px, 8vw, 48px);
+    font-size: clamp(24px, 8vw, 48px);
     font-weight: 300;
     line-height: 1.25;
   }
 
   .top-nav .brand img {
-    height: 15px;
+    height: 16px;
   }
 
   .hero-sponsor-marquee {
@@ -2560,8 +2582,8 @@ html:has(.org-web-root) body {
 
   .community-grid-fullwidth {
     padding: 20px 16px;
-    grid-template-rows: repeat(3, 44px);
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(10, minmax(0, 1fr));
     gap: 10px 12px;
   }
 
@@ -2570,8 +2592,9 @@ html:has(.org-web-root) body {
   }
 
   .community-grid-avatar {
-    width: 44px;
-    height: 44px;
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1;
   }
 
   .donation-copy {
@@ -2868,13 +2891,11 @@ html:has(.org-web-root) body {
 
 /* Full-width history timeline (breakout, scrollable) */
 .about-story-section--fullwidth {
-  width: 100vw;
+  width: 100%;
   max-width: 100%;
-  margin-left: calc(-50vw + 50%);
-  margin-right: calc(-50vw + 50%);
   padding: 0;
   box-sizing: border-box;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .about-story-section--fullwidth .about-story-header {
@@ -2897,13 +2918,10 @@ html:has(.org-web-root) body {
 
 .about-story-timeline-outer {
   position: relative;
-  width: 100vw;
-  left: 50%;
-  right: auto;
-  margin-left: -50vw;
+  width: 100%;
   background: #000;
   padding: 24px 0 48px;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .about-story-timeline-scroll {
@@ -3524,6 +3542,7 @@ html:has(.org-web-root) body {
   background: #f0f0f0;
   padding: 40px 56px;
   position: relative;
+  overflow: hidden;
 }
 
 .about-gallery-title {
@@ -6083,6 +6102,15 @@ html:has(.org-web-root) body {
     padding-top: 24px;
     border-top: 1px solid rgba(255, 255, 255, 0.12);
   }
+
+  .docs-root {
+    padding-top: 62px;
+  }
+
+  .docs-container {
+    padding: 24px 16px 40px;
+    gap: 32px;
+  }
 }
 
 /* ---------- Footer typography (org-web): fixed weight 400 ---------- */
@@ -6090,4 +6118,302 @@ html:has(.org-web-root) body {
 .w3pn-global-footer .donation-copy h4,
 .w3pn-global-footer .members-section .section-title h2 {
   font-weight: 400 !important;
+}
+
+/* ========== Extra small phones: 344px–540px ========== */
+@media (max-width: 540px) {
+  .top-nav {
+    height: 54px;
+    padding: 0 12px;
+  }
+
+  .top-nav .brand img {
+    height: 14px;
+  }
+
+  .hero {
+    padding-top: 54px;
+    min-height: 60vh;
+  }
+
+  .hero-content {
+    width: calc(100% - 24px);
+    padding-bottom: 80px;
+  }
+
+  .hero h1 {
+    font-size: clamp(20px, 7.5vw, 36px);
+  }
+
+  .hero-sponsor-marquee {
+    height: 88px;
+    padding: 0 12px;
+  }
+
+  .page-content-wrap--with-padding,
+  .content-shell--with-padding {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .section-title h2 {
+    font-size: clamp(20px, 6vw, 28px);
+  }
+
+  .section-title p {
+    font-size: 14px;
+  }
+
+  .about-page {
+    padding-top: 54px;
+  }
+
+  .about-hero {
+    padding: 32px 12px 48px;
+  }
+
+  .about-section {
+    width: calc(100% - 24px);
+    padding: 40px 0;
+  }
+
+  .about-team-grid,
+  .about-ambassadors-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .about-gallery-wrap {
+    padding: 16px 12px;
+  }
+
+  .about-gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .events-page-inner {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .events-hero {
+    padding-top: 54px;
+    min-height: 320px;
+  }
+
+  .events-hero-gallery-wrap {
+    padding: 0 36px;
+  }
+
+  .events-hero-gallery-item {
+    flex: 0 0 calc(100% - 4px);
+    width: calc(100% - 4px);
+    min-height: 120px;
+  }
+
+  .events-hero-gallery-arrow {
+    width: 32px;
+    height: 32px;
+  }
+
+  .resources-hero {
+    padding-top: 54px;
+    min-height: 240px;
+  }
+
+  .docs-root {
+    padding-top: 54px;
+  }
+
+  .docs-container {
+    padding: 16px 12px 32px;
+    gap: 24px;
+  }
+
+  .stat-row {
+    grid-template-columns: 1fr;
+  }
+
+  .avatar-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px 8px;
+  }
+
+  .avatar-item img,
+  .avatar-item-stat .avatar-stat-circle {
+    width: 80px;
+    height: 80px;
+  }
+
+  .intro-main {
+    gap: 24px;
+  }
+
+  .testimonial-card {
+    padding: 12px;
+  }
+
+  .testimonial-card h5 {
+    font-size: 16px;
+  }
+
+  .testimonial-card > p {
+    font-size: 11px;
+  }
+
+  .contribute-wrap {
+    padding: 28px 8px 16px;
+  }
+
+  .contribute-block,
+  .donation-card {
+    width: calc(100% - 12px);
+  }
+
+  .contribute-block p {
+    font-size: 15px;
+  }
+
+  .community-grid-fullwidth {
+    grid-template-rows: none;
+    grid-template-columns: repeat(auto-fill, minmax(34px, 1fr));
+    gap: 8px;
+  }
+
+  .community-grid-avatar {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1;
+  }
+
+  .newsletter-controls {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 8px;
+    gap: 6px;
+  }
+
+  .newsletter-controls input {
+    width: 100%;
+    min-height: 40px;
+    padding: 0 10px;
+  }
+
+  .newsletter-btn {
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .member-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .member-card .logo-wrap {
+    width: min(88px, 100%);
+    height: auto;
+    aspect-ratio: 1;
+  }
+
+  .site-footer-inner {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .footer-sitemap,
+  .footer-sitemap-three-cols,
+  .footer-sitemap-four-cols {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .footer-columns {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+}
+
+/* ========== Tablet widths: 769px–912px ========== */
+@media (min-width: 769px) and (max-width: 912px) {
+  .top-nav {
+    height: 66px;
+    padding: 0 16px;
+  }
+
+  .top-nav .brand img {
+    height: 18px;
+  }
+
+  .hero {
+    padding-top: 66px;
+  }
+
+  .about-page {
+    padding-top: 66px;
+  }
+
+  .events-hero {
+    padding-top: 66px;
+  }
+
+  .resources-hero {
+    padding-top: 66px;
+  }
+
+  .docs-root {
+    padding-top: 66px;
+  }
+
+  .avatar-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .member-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .about-team-grid,
+  .about-ambassadors-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ========== Tablet widths: 913px–1024px ========== */
+@media (min-width: 913px) and (max-width: 1024px) {
+  .top-nav {
+    height: 70px;
+    padding: 0 20px;
+  }
+
+  .hero {
+    padding-top: 70px;
+  }
+
+  .about-page {
+    padding-top: 70px;
+  }
+
+  .events-hero {
+    padding-top: 70px;
+  }
+
+  .resources-hero {
+    padding-top: 70px;
+  }
+
+  .docs-root {
+    padding-top: 70px;
+  }
+
+  .avatar-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .member-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }

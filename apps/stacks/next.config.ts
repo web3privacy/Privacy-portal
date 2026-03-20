@@ -10,7 +10,6 @@ const nextConfig: NextConfig = {
   basePath: "",
   outputFileTracingRoot: process.cwd(),
   images: {
-    // TODO add appropriate setup
     unoptimized: true,
     remotePatterns: [
       {

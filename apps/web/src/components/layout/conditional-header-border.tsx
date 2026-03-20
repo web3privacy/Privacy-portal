@@ -8,7 +8,7 @@ export function ConditionalHeaderBorder({ children }: { children: React.ReactNod
   const showBorder = pathname.startsWith("/project");
   
   return (
-    <header className={`relative z-50 bg-white dark:bg-[#151a21] ${showBorder ? "border-b border-[#d8d8d8] dark:border-[#2c3139]" : ""}`}>
+    <header className={`relative z-50 w-full overflow-x-hidden bg-white dark:bg-[#151a21] ${showBorder ? "border-b border-[#d8d8d8] dark:border-[#2c3139]" : ""}`}>
       {children}
     </header>
   );

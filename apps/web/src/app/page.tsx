@@ -137,7 +137,7 @@ export default async function NewsPage() {
           </a>
         </div>
 
-        <div className="flex flex-col gap-12 lg:flex-row lg:gap-12">
+        <div className="flex flex-col gap-8 xl:flex-row xl:gap-12">
         <div className="min-w-0 flex-1">
           <Suspense
             fallback={
@@ -152,7 +152,7 @@ export default async function NewsPage() {
           </Suspense>
         </div>
 
-        <div className="w-full shrink-0 lg:w-[340px]">
+        <div className="w-full shrink-0 xl:w-[340px]">
           <NewsSidebar
             radioTracks={allRadioTracks}
             radioPlaylists={academyData.radioPlaylists}

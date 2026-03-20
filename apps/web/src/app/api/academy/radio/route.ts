@@ -23,7 +23,7 @@ export async function GET() {
     const xmlText = await response.text();
     
     // Parse XML
-    const tracks: any[] = [];
+    const tracks: { id: string; title: string; youtubeId: string; thumbnailUrl: string; speaker?: string; createdAt: string }[] = [];
     const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
     let match;
     

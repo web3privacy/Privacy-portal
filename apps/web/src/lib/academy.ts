@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
-import type { AcademyData, Talk, Course, Guide, FeaturedDocument } from "@/types/academy";
+import type { AcademyData, Talk, Course, Guide, FeaturedDocument, RadioTrack, AcceleratorItem } from "@/types/academy";
 
 // Get root directory - handle both monorepo and standalone cases
 const ROOT_DIR = (() => {
@@ -42,17 +42,11 @@ const EMPTY_ACADEMY: AcademyData = {
 
 function loadYaml<T>(filePath: string, fallback: T): T {
   if (!fs.existsSync(filePath)) {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] File not found: ${filePath}`);
-    }
     return fallback;
   }
   try {
     const content = fs.readFileSync(filePath, "utf8");
     const parsed = yaml.load(content) as T | null;
-    if (!parsed && process.env.NODE_ENV === 'development') {
-      console.warn(`[loadYaml] Parsed data is null for: ${filePath}`);
-    }
     return parsed ?? fallback;
   } catch (error) {
     console.error(`[loadYaml] Error loading YAML file ${filePath}:`, error);
@@ -61,38 +55,10 @@ function loadYaml<T>(filePath: string, fallback: T): T {
 }
 
 export function loadAcademyData(): AcademyData {
-  // Debug: log file paths
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadAcademyData] File paths:', {
-      ROOT_DIR,
-      ACADEMY_FILE,
-      USER_ACADEMY_FILE,
-      academyExists: fs.existsSync(ACADEMY_FILE),
-      userAcademyExists: fs.existsSync(USER_ACADEMY_FILE),
-    });
-  }
-
   const base = loadYaml<AcademyData>(ACADEMY_FILE, EMPTY_ACADEMY);
   const user = loadYaml<AcademyData>(USER_ACADEMY_FILE, EMPTY_ACADEMY);
 
-  // Debug logging
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadAcademyData] Base:', {
-      talks: base.talks?.length || 0,
-      courses: base.courses?.length || 0,
-      guides: base.guides?.length || 0,
-      featuredDocuments: base.featuredDocuments?.length || 0,
-    });
-    console.log('[loadAcademyData] User:', {
-      talks: user.talks?.length || 0,
-      courses: user.courses?.length || 0,
-      guides: user.guides?.length || 0,
-      featuredDocuments: user.featuredDocuments?.length || 0,
-    });
-  }
-
-  // Merge base and user data
-  const merged = {
+  return {
     talks: [...(base.talks ?? []), ...(user.talks ?? [])],
     courses: [...(base.courses ?? []), ...(user.courses ?? [])],
     quizes: [...(base.quizes ?? []), ...(user.quizes ?? [])],
@@ -104,19 +70,6 @@ export function loadAcademyData(): AcademyData {
     featuredDocuments: [...(base.featuredDocuments ?? []), ...(user.featuredDocuments ?? [])],
     acceleratorItems: [...(base.acceleratorItems ?? []), ...(user.acceleratorItems ?? [])],
   };
-
-  if (process.env.NODE_ENV === 'development') {
-    console.log('[loadAcademyData] Merged:', {
-      talks: merged.talks.length,
-      courses: merged.courses.length,
-      guides: merged.guides.length,
-      radioTracks: merged.radioTracks.length,
-      featuredDocuments: merged.featuredDocuments.length,
-      acceleratorItems: merged.acceleratorItems.length,
-    });
-  }
-
-  return merged;
 }
 
 // Get most popular talks (sorted by viewCount, fallback to publishedAt, then by displayOrder)
@@ -238,10 +191,11 @@ export async function fetchRadioTracks(): Promise<any[]> {
   }
 }
 
-// Get academy item by ID and type
-export function getAcademyItemById(id: string, type: string): any {
+type AcademyItem = Talk | Course | Guide | RadioTrack | FeaturedDocument | AcceleratorItem;
+
+export function getAcademyItemById(id: string, type: string): AcademyItem | undefined {
   const data = loadAcademyData();
-  
+
   switch (type) {
     case "talk":
       return data.talks.find((t) => t.id === id);

@@ -11,17 +11,7 @@ export const revalidate = 0;
 
 export default async function AcademyPage() {
   const data = loadAcademyData();
-  
-  // Debug: log data counts
-  console.log('[Academy] Loaded data:', {
-    talks: data.talks.length,
-    courses: data.courses.length,
-    guides: data.guides.length,
-    radioTracks: data.radioTracks.length,
-    featuredDocuments: data.featuredDocuments.length,
-    acceleratorItems: data.acceleratorItems.length,
-  });
-  
+
   // Fetch external data in parallel
   const [youtubeTalks, externalCourses, radioTracks, podcasts] = await Promise.all([
     fetchYouTubeVideos("@Web3PrivacyNow"),
@@ -43,24 +33,6 @@ export default async function AcademyPage() {
   
   // Merge external courses with local data
   const allCourses = [...externalCourses, ...data.courses];
-  
-  // Debug: log merged counts
-  console.log('[Academy] Merged data:', {
-    allTalks: allTalks.length,
-    popularTalks: popularTalks.length,
-    allCourses: allCourses.length,
-    allRadioTracks: [...radioTracks, ...data.radioTracks].length,
-    guides: data.guides.length,
-    featuredDocuments: data.featuredDocuments.length,
-    acceleratorItems: data.acceleratorItems.length,
-  });
-  
-  // Debug: log sample IDs
-  console.log('[Academy] Sample IDs:', {
-    courses: allCourses.slice(0, 3).map(c => c.id),
-    guides: data.guides.slice(0, 3).map(g => g.id),
-    featuredDocs: data.featuredDocuments.slice(0, 3).map(d => d.id),
-  });
 
   // Merge radio tracks with local data
   const allRadioTracks = [...radioTracks, ...data.radioTracks].sort((a, b) => {

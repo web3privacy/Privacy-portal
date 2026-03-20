@@ -21,9 +21,9 @@ export function DismissableBanner() {
   if (!visible) return null;
 
   return (
-    <div className="mb-8 rounded-[16px] bg-black px-5 py-5 text-white shadow-sm">
-      <div className="flex items-start justify-between gap-4">
-        <div className="flex items-start gap-4">
+    <div className="mb-8 rounded-[16px] bg-black px-4 py-4 text-white shadow-sm sm:px-5 sm:py-5">
+      <div className="flex items-start justify-between gap-3">
+        <div className="flex items-start gap-3 sm:gap-4">
           <div className="mt-0.5 h-10 w-10 shrink-0 overflow-hidden rounded-full bg-white/10">
             <Image
               src="/web3privacy_eye.webp"

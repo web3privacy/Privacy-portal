@@ -90,7 +90,7 @@ export function OrgEventsContent() {
   return (
     <main className="landing-root events-page">
       <div className="events-page-inner">
-        <EventsHero hero={eventsPageConfig.hero as any} />
+        <EventsHero hero={eventsPageConfig.hero as Record<string, string | string[] | undefined>} />
 
         <div className="events-content-wrap">
           {error && (

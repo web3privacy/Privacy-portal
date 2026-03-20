@@ -257,7 +257,11 @@ export function PortalHeader({
         </div>
 
         <div className={styles.mobileQuickActions}>
-          {showThemeToggle ? <ThemeToggle className="px-2" /> : null}
+          {showThemeToggle ? (
+            <span className={styles.mobileToggleInQuickActions}>
+              <ThemeToggle className="px-2" />
+            </span>
+          ) : null}
           <button
             type="button"
             onClick={() => setMobileMenuOpen(true)}

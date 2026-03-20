@@ -113,7 +113,7 @@ export function ProjectHeader({ project, ecosystems }: ProjectHeaderProps) {
         )}
 
         {/* Ecosystems and Use Cases */}
-        <div className="flex items-center gap-6 border-y border-[#d8d8d8] py-4 dark:border-[#2c3139]">
+        <div className="flex flex-wrap items-center gap-4 border-y border-[#d8d8d8] py-4 dark:border-[#2c3139]">
           {/* Ecosystems */}
           {project.ecosystem && project.ecosystem.length > 0 && (
             <div className="flex flex-col sm:flex-row sm:items-center gap-3">

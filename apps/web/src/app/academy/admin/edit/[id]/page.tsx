@@ -1,4 +1,5 @@
 import { getAcademyItemById } from "@/lib/academy";
+import type { Talk, Course, Guide, RadioTrack, FeaturedDocument, AcceleratorItem } from "@/types/academy";
 import { EditTalkForm } from "@/components/academy/edit-talk-form";
 import { EditCourseForm } from "@/components/academy/edit-course-form";
 import { EditGuideForm } from "@/components/academy/edit-guide-form";
@@ -28,17 +29,17 @@ export default async function EditAcademyItemPage({
   const renderForm = () => {
     switch (type) {
       case "talk":
-        return <EditTalkForm talk={item as any} />;
+        return <EditTalkForm talk={item as Talk} />;
       case "course":
-        return <EditCourseForm course={item as any} />;
+        return <EditCourseForm course={item as Course} />;
       case "guide":
-        return <EditGuideForm guide={item as any} />;
+        return <EditGuideForm guide={item as Guide} />;
       case "radioTrack":
-        return <EditRadioTrackForm track={item as any} />;
+        return <EditRadioTrackForm track={item as RadioTrack} />;
       case "featuredDocument":
-        return <EditFeaturedDocumentForm document={item as any} />;
+        return <EditFeaturedDocumentForm document={item as FeaturedDocument} />;
       case "acceleratorItem":
-        return <EditAcceleratorItemForm item={item as any} />;
+        return <EditAcceleratorItemForm item={item as AcceleratorItem} />;
       default:
         return null;
     }

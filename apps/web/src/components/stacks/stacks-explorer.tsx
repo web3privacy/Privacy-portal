@@ -196,11 +196,11 @@ export function StacksExplorer({
   }
 
   return (
-    <section className="space-y-8 pt-6 md:pt-6">
+    <section className="space-y-8 pt-6">
       <div className="sticky top-0 z-40 rounded-[12px] bg-[#f0f0f0] p-3 dark:bg-[#1a1f27] -mt-6">
-        <div className="flex flex-col gap-3 md:flex-row md:items-center">
-          <div className="grid w-full grid-cols-2 gap-2 md:flex md:items-center md:gap-3">
-            <label className="relative w-full md:max-w-[320px]">
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-center">
+          <div className="grid w-full grid-cols-2 gap-2 lg:flex lg:items-center lg:gap-3">
+            <label className="relative col-span-2 w-full sm:col-span-1 lg:max-w-[320px]">
               <input
                 value={query}
                 onChange={(event) => {
@@ -215,11 +215,11 @@ export function StacksExplorer({
               </span>
             </label>
 
-            <div ref={categoryRef} className="relative w-full md:w-auto">
+            <div ref={categoryRef} className="relative w-full lg:w-auto">
               <button
                 type="button"
                 onClick={() => setCategoryOpen((current) => !current)}
-                className="inline-flex h-10 w-full items-center justify-between rounded-[8px] bg-[#70FF88] px-3 text-[14px] font-semibold tracking-[0.03em] text-black transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#5bee72] md:min-w-[210px]"
+                className="inline-flex h-10 w-full items-center justify-between rounded-[8px] bg-[#70FF88] px-3 text-[14px] font-semibold tracking-[0.03em] text-black transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#5bee72] lg:min-w-[210px]"
               >
                 <span>
                   {selectedCategories.length > 0
@@ -236,7 +236,7 @@ export function StacksExplorer({
               </button>
 
               {categoryOpen && (
-                <div className="absolute left-0 right-0 top-full z-[220] mt-1 rounded-[10px] border border-[#d9d9d9] bg-white p-2 shadow-[0_12px_24px_rgba(0,0,0,0.14)] md:right-auto md:w-[290px] dark:border-[#3a3f47] dark:bg-[#11161e] dark:shadow-[0_12px_24px_rgba(0,0,0,0.45)]">
+                <div className="absolute left-0 right-0 top-full z-[220] mt-1 rounded-[10px] border border-[#d9d9d9] bg-white p-2 shadow-[0_12px_24px_rgba(0,0,0,0.14)] lg:right-auto lg:w-[290px] dark:border-[#3a3f47] dark:bg-[#11161e] dark:shadow-[0_12px_24px_rgba(0,0,0,0.45)]">
                   <div className="mb-2 flex items-center justify-between px-1">
                     <span className="text-[11px] font-bold uppercase tracking-[0.05em] text-[#5c5c5c] dark:text-[#aab3c1]">
                       Filter categories
@@ -276,7 +276,7 @@ export function StacksExplorer({
             </div>
           </div>
 
-          <div className="hidden justify-center md:ml-auto md:flex md:justify-end">
+          <div className="hidden justify-center lg:ml-auto lg:flex lg:justify-end">
             <AddOwnStackForm
               tools={tools}
               onAddStack={async (payload) => {
@@ -292,13 +292,13 @@ export function StacksExplorer({
       </div>
 
       <div className="animate-fade-up mt-2 text-center" style={{ animationDelay: "50ms" }}>
-        <h1 className="text-[28px] italic leading-[1.15] text-black dark:text-[#f2f4f6] sm:text-[32px] md:text-[48px]">
+        <h1 className="text-[24px] italic leading-[1.15] text-black dark:text-[#f2f4f6] sm:text-[30px] lg:text-[48px]">
           Personal FOSS stack by experts & users
         </h1>
-        <p className="mt-2 pb-2 text-[15px] text-black/50 dark:text-[#a7afbb] sm:text-[17px] md:pb-1 md:text-[24px]">
+        <p className="mt-2 pb-2 text-[14px] text-black/50 dark:text-[#a7afbb] sm:text-[16px] lg:pb-1 lg:text-[24px]">
           Explore what personal tool are people using
         </p>
-        <div className="mt-2 flex justify-center md:hidden">
+        <div className="mt-2 flex justify-center lg:hidden">
           <AddOwnStackForm
             tools={tools}
             onAddStack={async (payload) => {
@@ -312,7 +312,7 @@ export function StacksExplorer({
         </div>
       </div>
 
-      <div className="space-y-4 md:space-y-6">
+      <div className="space-y-4 lg:space-y-6">
         <div
           className="animate-fade-up relative z-40 flex items-center justify-between gap-3"
           style={{ animationDelay: "90ms" }}
@@ -362,7 +362,7 @@ export function StacksExplorer({
           </div>
         </div>
 
-        <div className="grid grid-cols-2 gap-3 md:gap-4 lg:grid-cols-4">
+        <div className="grid grid-cols-2 gap-3 lg:gap-4 lg:grid-cols-4">
           {shownStacks.map((stack, index) => (
             <div
               key={stack.id}

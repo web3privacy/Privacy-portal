@@ -11,6 +11,12 @@ export const metadata: Metadata = {
   description: "Explore privacy-related projects and personal FOSS stacks.",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -32,7 +38,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="antialiased min-h-screen flex flex-col">
+      <body className="antialiased min-h-screen flex flex-col overflow-x-hidden">
         <NuqsProvider>
           <WalletProvider>
             <PortalOrOrgShell>{children}</PortalOrOrgShell>

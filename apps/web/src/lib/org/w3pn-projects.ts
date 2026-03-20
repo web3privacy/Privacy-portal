@@ -62,7 +62,7 @@ const PROJECT_ICONS: Record<string, string> = {
 type Project = { id: string; icon?: string; category?: string; order?: number; [k: string]: unknown };
 
 function mapCategory(p: Project): string {
-  return ID_TO_CATEGORY[p.id] ?? (CATEGORY_ORDER.includes(p.category as any) ? (p.category as string) : "research");
+  return ID_TO_CATEGORY[p.id] ?? (CATEGORY_ORDER.includes(p.category as typeof CATEGORY_ORDER[number]) ? (p.category as string) : "research");
 }
 
 function withResolvedIcon(p: Project): Project {

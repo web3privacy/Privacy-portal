@@ -92,10 +92,10 @@ export default async function ProjectDetailPage({ params }: PageProps) {
         </Link>
       </div>
 
-      <div className="mt-6 rounded-[18px] border border-black/10 bg-white p-6 dark:border-white/10 dark:bg-[#151a21]">
+      <div className="mt-6 rounded-[18px] border border-black/10 bg-white p-4 md:p-6 dark:border-white/10 dark:bg-[#151a21]">
         <div className="grid gap-6 md:grid-cols-[1fr_260px] md:items-start">
-          <div className="flex items-start gap-5">
-            <div className="flex h-[92px] w-[92px] items-center justify-center overflow-hidden rounded-full border border-black/10 bg-white dark:border-white/10 dark:bg-[#0f1318]">
+          <div className="flex items-start gap-4">
+            <div className="flex h-[72px] w-[72px] shrink-0 items-center justify-center overflow-hidden rounded-full border border-black/10 bg-white md:h-[92px] md:w-[92px] dark:border-white/10 dark:bg-[#0f1318]">
               {logoSrc ? (
                 <Image
                   src={logoSrc}

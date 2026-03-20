@@ -11,9 +11,37 @@ type Props = {
   minimal?: boolean;
 };
 
+interface YTPlayer {
+  playVideo(): void;
+  pauseVideo(): void;
+  seekTo(seconds: number, allowSeekAhead: boolean): void;
+  getCurrentTime(): number;
+  getDuration(): number;
+  destroy(): void;
+}
+
+interface YTPlayerEvent {
+  target: YTPlayer;
+  data?: number;
+}
+
 declare global {
   interface Window {
-    YT: any;
+    YT: {
+      Player: new (
+        elementId: string,
+        options: {
+          videoId: string;
+          playerVars?: Record<string, unknown>;
+          events?: {
+            onReady?: (event: YTPlayerEvent) => void;
+            onStateChange?: (event: YTPlayerEvent) => void;
+            onError?: (event: YTPlayerEvent) => void;
+          };
+        }
+      ) => YTPlayer;
+      PlayerState: { PLAYING: number; PAUSED: number; ENDED: number };
+    };
     onYouTubeIframeAPIReady: () => void;
   }
 }
@@ -26,7 +54,7 @@ export function RadioPlayer({ tracks, playlists = [], compact = false, minimal =
   const [showMorePlaylists, setShowMorePlaylists] = useState(false);
   const [showMoreTracks, setShowMoreTracks] = useState(false);
   const [isPlayerReady, setIsPlayerReady] = useState(false);
-  const playerRef = useRef<any>(null);
+  const playerRef = useRef<YTPlayer | null>(null);
   const playerDivRef = useRef<HTMLDivElement>(null);
   const intervalRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -97,7 +125,7 @@ export function RadioPlayer({ tracks, playlists = [], compact = false, minimal =
         mute: 1, // Start muted to prevent any sound
       },
       events: {
-        onReady: (event: any) => {
+        onReady: (event: YTPlayerEvent) => {
           try {
             const dur = event.target.getDuration();
             setDuration(dur);
@@ -106,7 +134,7 @@ export function RadioPlayer({ tracks, playlists = [], compact = false, minimal =
             console.error("Error getting duration:", e);
           }
         },
-        onStateChange: (event: any) => {
+        onStateChange: (event: YTPlayerEvent) => {
           // 0 = ended, 1 = playing, 2 = paused, 3 = buffering, 5 = cued
           if (event.data === 1) {
             setIsPlaying(true);
